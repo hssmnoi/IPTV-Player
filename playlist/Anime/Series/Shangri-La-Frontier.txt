@@ -1,0 +1,646 @@
+{
+    "name": "Shangri-La Frontier [เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ]",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ",
+                    "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/201638",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 2",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/201743",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 3",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/202070",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 4",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/202377",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 5",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/202498",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 6",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/202627",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 7",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/202719",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 8",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/202868",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 9",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/203164",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 10",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/203322",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 11",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/203481",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 12",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/203670",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 13",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/203873",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 14",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/204094",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 15",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/204274",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 16",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/204473",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 17",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/204648",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 18",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/204885",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 19",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/205080",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 20",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/205245",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 21",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/205455",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 22",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/205653",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 23",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/205855",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 24",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/206026",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 25",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/206717",
+                            "referer": "https://www.anime-seven.com/"
+                        }
+                    ]
+                },
+                {
+                    "name": "ซับไทย",
+                    "info": "เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ",
+                    "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "stations": [
+                        {
+                            "name": "Ep. 1",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/200052",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 2",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/200208",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 3",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/200481",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 4",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/200658",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 5",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/200834",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 6",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/201069",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 7",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/201244",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 8",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/201435",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 9",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/201635",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 10",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/201956",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 11",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/202179",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 12",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/202370",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 13",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/202562",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 14",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/202778",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 15",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/203155",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 16",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/203316",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 17",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/203472",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 18",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/203673",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 19",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/203867",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 20",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/204088",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 21",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/204271",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 22",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/204470",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 23",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/204651",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 24",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/204873",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 25",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/205068",
+                            "referer": "https://www.anime-seven.com/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Season 2",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ",
+                    "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/213617",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 2",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/213786",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 3",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/213969",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 4",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/214149",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 5",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/214337",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 6",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/214474",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 7",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/214591",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 8",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/214763",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 9",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/214961",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 10",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/215135",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 11",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/215318",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 12",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/215541",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 13",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/215732",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 14",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/215932",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 15",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/216100",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 16",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/216298",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 17",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/216457",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 18",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/216640",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 19",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/216788",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 20",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/216920",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 21",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/217086",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 22",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/217271",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 23",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/217475",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 24",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/217654",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 25",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/217867",
+                            "referer": "https://www.anime-seven.com/"
+                        }
+                    ]
+                },
+                {
+                    "name": "ซับไทย",
+                    "info": "เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ",
+                    "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "stations": [
+                        {
+                            "name": "Ep. 1",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/212344",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 2",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/212573",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 3",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/212802",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 4",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/212968",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 5",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/213205",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 6",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/213388",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 7",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/213596",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 8",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/213777",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 9",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/213972",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 10",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/214131",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 11",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/214340",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 12",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/214483",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 13",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/214582",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 14",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/214766",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 15",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/214955",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 16",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/215132",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 17",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/215334",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 18",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/215529",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 19",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/215726",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 20",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/215925",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 21",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/216094",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 22",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/216283",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 23",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/216451",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 24",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/216628",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 25",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/216773",
+                            "referer": "https://www.anime-seven.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
