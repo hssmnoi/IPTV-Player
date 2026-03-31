@@ -1,0 +1,324 @@
+{
+    "name": "A Certain Scientific Railgun [เรลกัน แฟ้มลับคดีวิทยาศาสตร์]",
+    "image": "https://image.tmdb.org/t/p/original/dZt1dqw0K4JGhwcqTh8yExHYK9w.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/oCkEJ0cSE6YuxUgecajBMQAc2h4.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/oCkEJ0cSE6YuxUgecajBMQAc2h4.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - Electromaster",
+                            "image": "https://image.tmdb.org/t/p/original/sQhU1Qw991RwBPX1USWYOEdO8lf.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fccbdd03528936de4a78f80e5a2880784%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - When Working Under a Hot Sun, Rehydration Is Essential",
+                            "image": "https://image.tmdb.org/t/p/original/lI8Adi0mmCmz7sCIJdJR4XcOa6L.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fdc7c5f665749e5627e2f9374075726f7%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - Tokiwadai Is Targeted",
+                            "image": "https://image.tmdb.org/t/p/original/eVPrf0L3yVL0WmArGxyeWRZ4AHv.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc2307fc9992dd09ca6af45f3e24fd2c9%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - Urban Legends",
+                            "image": "https://image.tmdb.org/t/p/original/kh6zqRBKgXhmyvzTEJnWOCb1oPH.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1d09f7f1e2d5dc83412c33cdf91a6fdc%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - A Certain Pair of New Trainees",
+                            "image": "https://image.tmdb.org/t/p/original/ay3DddmNq5t73RCg56hfKSqijuX.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffda3cc5025f854c823f12b30d3b8d5ef%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - Everyone is Proactive When it Comes to This",
+                            "image": "https://image.tmdb.org/t/p/original/2yawu4PnJGswxX0aHNR8zqmyzzl.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1110aefb20e8871afcaea3bcda2acf1e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - Abilities and Powers",
+                            "image": "https://image.tmdb.org/t/p/original/lHzQBZI7E4eHnZqITxwzDYpl9MJ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F35cd9ee768a0821262fa8286a05f3693%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - Level Upper",
+                            "image": "https://image.tmdb.org/t/p/original/bNYU8nRsf8U9M8nggj9HX23OroC.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F5f7b5dc5bcd90c5722dcdaa9dfcf6863%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - Majority Report",
+                            "image": "https://image.tmdb.org/t/p/original/8op5Y340tMs3ohR4qwK585hH2kR.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb0fa59e2398180c36ad31ffe4763a53d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Silent Majority",
+                            "image": "https://image.tmdb.org/t/p/original/oCOxiJhnvKiAN5oaBD5WAc0sGHT.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff5861b7be9c5e2a0c4ae73e89d28ecf7%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Dr. Kiyama",
+                            "image": "https://image.tmdb.org/t/p/original/mP0rgcql3gLdptgry6wMJfhHbWk.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd62ae5de7ef25ce11f6869b844ca9953%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - AIM Burst",
+                            "image": "https://image.tmdb.org/t/p/original/oDwLc9Scg7DxS1ldMz99gnceLQU.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb147a67e26ed944c83881443cc67732b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 13 - A Bikini Divides the Eyeline Between Top and Bottom, But a One-piece Shows Off the Figure, So They Only Flatter the Slender",
+                            "image": "https://image.tmdb.org/t/p/original/kY2WESFVQ7DVpf1cQmQ3ILlW3tU.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F58b7c5d70effb62efd68fb9c20d34067%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 14 - Special Workshop",
+                            "image": "https://image.tmdb.org/t/p/original/2mhNcIPoyQnMtrsMiiMxukR63Ce.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F2ab394890a85911601c0a93573368ff2%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 15 - Skill Out",
+                            "image": "https://image.tmdb.org/t/p/original/exf1CM0WW1PjN9P3XglZcieXoS5.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F810f687a6f26e0723fdc593059e321f7%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 16 - Academy City",
+                            "image": "https://image.tmdb.org/t/p/original/oEbxndfnK9ckUtjslgCEGN0tHsa.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff637ea2c0d75223673b78124cc4c3860%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 17 - Tsuzuri's Summer Vacation",
+                            "image": "https://image.tmdb.org/t/p/original/sXEXmQvMbSuW5h9hnBdrZ3idPaW.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F22fe6986a8719ad655f2c227287d0221%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 18 - Asunaro Park",
+                            "image": "https://image.tmdb.org/t/p/original/4GRRizgw8ce3ROTwnTnEm8RoaFB.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F4a5a0b95734b82fe42f9e71496092a57%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 19 - Midsummer Festival",
+                            "image": "https://image.tmdb.org/t/p/original/xddolC0B0zGzdswLGMTCKMzu2s8.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe8507f625a14c62ab4b56c0b918fe9e6%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 20 - Poltergeist",
+                            "image": "https://image.tmdb.org/t/p/original/qaf8l8YzOQppPoVqWnuYLEur8An.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc453e5498eb9128fa6c4ffc3096eeba6%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 21 - Voices",
+                            "image": "https://image.tmdb.org/t/p/original/6EFZSugqhZfm6mWbPb0Uz5pnyb3.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff33b4a2175f76e0741515c1783dbf855%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 22 - Level 6",
+                            "image": "https://image.tmdb.org/t/p/original/zAxwMO4Ft6kQUpf8N3iwcOPLMIs.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc7c7f1be6779aef2c45c3929a7fb728e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 23 - What Is It You See in Your Eyes Right Now?",
+                            "image": "https://image.tmdb.org/t/p/original/yn0ANhn5X4Oq7tPqS7rUHIEfRug.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F3d7f62e090fce47a6e1b20cfeebd6abc%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 24 - Dear My Friends",
+                            "image": "https://image.tmdb.org/t/p/original/1OHZBRxmtwRRhUMW20cySsTuYy4.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0a52e24a1b5dd2065bd37c8ffd301527%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 25",
+                            "image": "https://www.anime-kimi.com/wp-content/uploads/2026/01/To-Aru-Kagaku-no-Railgun-เรลกัน-แฟ้มลับคดีวิทยาศาสตร์-พากย์ไทย-300x170.webp",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fa3b7427883bf3d81d5783d13e9436c51%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Season 2",
+            "image": "https://image.tmdb.org/t/p/original/ynkT3BfoYgwalKEFfDrgApqcFhl.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/ynkT3BfoYgwalKEFfDrgApqcFhl.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - Railgun",
+                            "image": "https://image.tmdb.org/t/p/original/nonGkxM0Lk2hcEWSu190onovrMz.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fde7d60c69862dfd01215cc5ecb262c7e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - Critical",
+                            "image": "https://image.tmdb.org/t/p/original/aNeKaFwFitxIz3r1EFA4Lplxa72.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F28747fcb5fdca35207ed85c493a49aa6%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - Project Radio Noise",
+                            "image": "https://image.tmdb.org/t/p/original/hfqkbWCgiYE48JZBGqJ9AJF8wzq.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F7f744ba8418caaa07528b9ef0415c40b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - Sisters",
+                            "image": "https://image.tmdb.org/t/p/original/iqRdjG7lcOIpSMwOAwaLS1rQKIr.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8b68b3e796b47f76fee1977819e36452%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - Project Level 6 Shift",
+                            "image": "https://image.tmdb.org/t/p/original/o3MBG1WVVKUlRyNkVDDkShtokCC.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe59e0704c0ed74bf78ea6083648ecc47%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - I... Can See All of You",
+                            "image": "https://image.tmdb.org/t/p/original/p0po1GhLGVWHXKNHypvB5Yw9pkm.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F54110ce86dc7f5c6aebe6eec1d301064%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - I... I Want to Be of Help To You, Sissy",
+                            "image": "https://image.tmdb.org/t/p/original/cpKPp7PYaNJOmiyrXw3QAxjxsEB.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F00417b2899cc31439ee08ee4c4fcb816%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - ITEM",
+                            "image": "https://image.tmdb.org/t/p/original/q10TUI8ahpWkpAOqyrtCmhrP8SS.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F5706f304e72a8221d430965fcaa0fe8f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - AIM Stalker",
+                            "image": "https://image.tmdb.org/t/p/original/aUyQwQLjtbNALxzBavGBuvBf3GW.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8a5e07c3f4454edb50986ba781688ce6%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Meltdowner",
+                            "image": "https://image.tmdb.org/t/p/original/tYBwjQlUGqb9FRfKpFqXJOiuz9z.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff614f2a75ebb312a574bd4d0e125dfe9%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - The Vending Machine",
+                            "image": "https://image.tmdb.org/t/p/original/bc5dPtf9tu5q8R6eHSsy7pHRJv9.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F2a6049f91688a21d7c9c1384ec8fe5ae%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - Tree Diagram",
+                            "image": "https://image.tmdb.org/t/p/original/cktumWtZPl0SZf4cFJsbXzByx8y.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F67dc9bff814f6502fc6ddaf77b982ae7%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 13 - Accelerator",
+                            "image": "https://image.tmdb.org/t/p/original/gPybFveZ4D96JqrFQokMtzfDlCu.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9217a1bca95610bcfd91c19bab8e3c3b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 14 - The Promise",
+                            "image": "https://image.tmdb.org/t/p/original/iVeKYC1IpGrcmeMXSuiYENGwpY7.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F2e39e6d70e43414b132dea773215fc5b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 15 - Kamijo Toma",
+                            "image": "https://image.tmdb.org/t/p/original/aMVo6EvEZ0DCDy0LowbAIfNbN0G.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fda787541603f67bfe81e591db26cd6c8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 16 - Sisterhood",
+                            "image": "https://image.tmdb.org/t/p/original/lJayfnT3Gs0wjtfCcBWuUkObUeU.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F839c16a07d8ca45b519727313ce6c4fe%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 17 - Study Group",
+                            "image": "https://image.tmdb.org/t/p/original/8MGU1vIJzeOdZD73GbM8JTyyc0C.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F17f39da4b3a0f5785ccec96536e4b929%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 18 - Moving",
+                            "image": "https://image.tmdb.org/t/p/original/m9GAovU3wRw1WEdqGjeXCE69cJx.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F861791ea6a7de575a2aeecbdd53e47d4%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 19 - Academic Reach Assembly",
+                            "image": "https://image.tmdb.org/t/p/original/7M0x4ZfB9S3X6SuMfYKUyCbi31l.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F2850965f55f259104452b835305b7e39%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 20 - Febri",
+                            "image": "https://image.tmdb.org/t/p/original/fXHLdSyEFX1PR6COzkhjvibKZaQ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd8ddee222e015f712b43eee79885d4b6%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 21 - Darkness",
+                            "image": "https://image.tmdb.org/t/p/original/yQM7jPEZkBguxUhYVJOWkuFnizt.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F31dc26bd1df5016679837eeb7351e9b3%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 22 - STUDY",
+                            "image": "https://image.tmdb.org/t/p/original/dFYq9pjVB1umohiGsFzVED3CdG0.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F2debea808b48cc598d9b111a339f1e37%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 23 - Silent Party",
+                            "image": "https://image.tmdb.org/t/p/original/wf43QpHQsLVJ0VCv4eE3EtqZX2j.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0b3c1054c820923a87a3b2ee22be1546%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 24 - Eternal Party",
+                            "image": "https://image.tmdb.org/t/p/original/nmXDTTrP64UTwqPOWtkwLxHvFdc.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F98ac955ba99482f167fb301f1ddd34f2%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

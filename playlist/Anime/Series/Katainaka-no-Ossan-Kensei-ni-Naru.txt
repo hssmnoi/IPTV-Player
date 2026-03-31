@@ -1,166 +1,164 @@
 {
-    "name": "Katainaka no Ossan, Kensei ni Naru [ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง]",
-    "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+    "name": "From Old Country Bumpkin to Master Swordsman [ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง]",
+    "image": "https://image.tmdb.org/t/p/original/ujQp5egkJOkDHx4TehlgHePFcRv.jpg",
     "groups": [
         {
             "name": "Season 1",
-            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+            "image": "https://image.tmdb.org/t/p/original/sKnFJYvr4Qdyi56ULyHWLzR53UM.jpg",
             "groups": [
                 {
                     "name": "พากย์ไทย",
-                    "info": "ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง",
-                    "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "image": "https://image.tmdb.org/t/p/original/sKnFJYvr4Qdyi56ULyHWLzR53UM.jpg",
                     "stations": [
                         {
-                            "name": "ตอน 1 - The Old Country Bumpkin Goes to the Capital",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/216911",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "ตอน 1 - ลุงบ้านนอกเข้ากรุง",
+                            "image": "https://image.tmdb.org/t/p/original/fN2oP5mwqQrieHWuJwZ9AjU7Z2k.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffd7e77bf8ae2c0f8dad2b19a4d981cf5%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
-                            "name": "ตอน 2 - The Old Country Bumpkin is Astounded by a Wizard",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/217062",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "ตอน 2 - ลุงบ้านนอกโดนจอมเวทจู่โจมไม่ทันตั้งตัว",
+                            "image": "https://image.tmdb.org/t/p/original/hQD0eOu9tVdeozQ9TBgB8XicOD7.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd783ac427e2b05616b3ebe6970a34b13%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
-                            "name": "ตอน 3 - The Old Country Bumpkin Weathers a Fierce Attack",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/217247",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "ตอน 3 - ลุงบ้านนอกรอดจากการโจมตีสุดระห่ำ",
+                            "image": "https://image.tmdb.org/t/p/original/iEtfZyiY9Q2cmWsukUCPqutmtJE.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F6eca8660ed04f7b5eb6ffe28d7a82b41%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
-                            "name": "ตอน 4 - The Old Country Bumpkin Takes Flight With a Monster",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/217448",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "ตอน 4 - ลุงบ้านนอกโผทะยานไปกับอสุรกาย",
+                            "image": "https://image.tmdb.org/t/p/original/ivChYvdHv1HHbd1IoDOb8suDbeQ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe0adcc1da7028c65a4ba645036b3a8fa%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
                             "name": "ตอน 5 - The Old Country Bumpkin Gets Enraged by the Bad Guys",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/217636",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/eco8LR3aqjMUe56ok1BOW2eKv4r.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F7a100d6ddf749868b8e430dbdf775a76%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
                             "name": "ตอน 6 - The Old Country Bumpkin Faces the Dead",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/217815",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/wUZzO0uWxbUqwypk0dzmaaTxaTc.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe19fdc2c8a37648444ca845d73b8013f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
                             "name": "ตอน 7 - The Old Country Bumpkin Learns the Challenges of Parenting",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/218012",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/vrd8UwqZkMkExE1Hom4825HTNr.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F05b4437cd6216187d90bb2c63cf616ef%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
                             "name": "ตอน 8 - The Old Country Bumpkin Gets Struck by a Lightning-Fast Sword",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/218178",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/nDta186D8z2EuPSYLcQVYOtkxvU.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1c4959ff66d9d39bc7c52a792e321f60%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
                             "name": "ตอน 9 - The Old Country Bumpkin Goes on His First Hunt in Ages",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/218357",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/eiCBW8evSk7qHSsaEBTBbGvnbPz.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F335713a1f83940bc2ea643695d01d33b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
-                            "name": "ตอน 10 - Episode #1.10",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/218540",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "ตอน 10 - The Old Country Bumpkin Guards a Princess",
+                            "image": "https://image.tmdb.org/t/p/original/ipJuDHr6ltEW8xIyQXXeyP6Y1OH.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F43ca8422e1dcf45394d6496826c95696%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
                             "name": "ตอน 11 - The Old Country Bumpkin Throws Himself into a Deadly Fight",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/218715",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/lBLyb8Pg780toRJouX6uO5xfXmV.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F7c461d7fe79b1cb8982ab5da6927683d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
                             "name": "ตอน 12 - The Old Country Bumpkin Gets Praised as a Master Swordsman",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/218913",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/bViPaj52dtLGQFnvA6l4a8a5eXb.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F82e28257564d6f424c7352c4220e624a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         }
                     ]
                 },
                 {
                     "name": "ซับไทย",
-                    "info": "ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง",
-                    "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "image": "https://image.tmdb.org/t/p/original/sKnFJYvr4Qdyi56ULyHWLzR53UM.jpg",
                     "stations": [
                         {
                             "name": "Ep. 1 - The Old Country Bumpkin Goes to the Capital",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/216908",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/fN2oP5mwqQrieHWuJwZ9AjU7Z2k.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F496dd333161cece25a7a5bd34c7a5e3f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
-                            "name": "Ep. 2 - The Old Country Bumpkin is Astounded by a Wizard",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/217059",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "Ep. 2 - The Old Country Bumpkin Is Astounded by a Wizard",
+                            "image": "https://image.tmdb.org/t/p/original/hQD0eOu9tVdeozQ9TBgB8XicOD7.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F757d36ee087ec42cc6739e2a5c18ccf6%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
                             "name": "Ep. 3 - The Old Country Bumpkin Weathers a Fierce Attack",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/217559",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/iEtfZyiY9Q2cmWsukUCPqutmtJE.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd8ddbe7b02edb0a5d7fb4c3e9e478972%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
                             "name": "Ep. 4 - The Old Country Bumpkin Takes Flight With a Monster",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/217442",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/ivChYvdHv1HHbd1IoDOb8suDbeQ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9d69b70aa7c380c43b96b38caf67bd3f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
                             "name": "Ep. 5 - The Old Country Bumpkin Gets Enraged by the Bad Guys",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/217633",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/eco8LR3aqjMUe56ok1BOW2eKv4r.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F89b1b29253d9a14bd81237149350a77e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
                             "name": "Ep. 6 - The Old Country Bumpkin Faces the Dead",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/217818",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/wUZzO0uWxbUqwypk0dzmaaTxaTc.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbc1bb188f97ca732d7d94859bdb0a426%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
                             "name": "Ep. 7 - The Old Country Bumpkin Learns the Challenges of Parenting",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/218006",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/vrd8UwqZkMkExE1Hom4825HTNr.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F3caab625dbdd9e8ce42cf81e8a5cb521%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
                             "name": "Ep. 8 - The Old Country Bumpkin Gets Struck by a Lightning-Fast Sword",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/218174",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/nDta186D8z2EuPSYLcQVYOtkxvU.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F78730d6410697e4af1cda501a6cf389e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
                             "name": "Ep. 9 - The Old Country Bumpkin Goes on His First Hunt in Ages",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/218507",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/eiCBW8evSk7qHSsaEBTBbGvnbPz.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0a33343bd17cd72f4e27205d3fb282bc%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
-                            "name": "Ep. 10 - Episode #1.10",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/218537",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "Ep. 10 - The Old Country Bumpkin Guards a Princess",
+                            "image": "https://image.tmdb.org/t/p/original/ipJuDHr6ltEW8xIyQXXeyP6Y1OH.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9e6e173890345991a84df53efd783a1c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
                             "name": "Ep. 11 - The Old Country Bumpkin Throws Himself into a Deadly Fight",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/218712",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/lBLyb8Pg780toRJouX6uO5xfXmV.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc889650f25e111ae961a07b3331f6cc6%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         },
                         {
                             "name": "Ep. 12 - The Old Country Bumpkin Gets Praised as a Master Swordsman",
-                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/218910",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/bViPaj52dtLGQFnvA6l4a8a5eXb.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9fc0720ad7dc2255cc83e5bec2cff980%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
                         }
                     ]
                 }

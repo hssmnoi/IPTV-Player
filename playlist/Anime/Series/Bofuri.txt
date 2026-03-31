@@ -1,335 +1,335 @@
 {
-  "referer": "https://indy-anime.net/",
-  "groups": [
-    {
-      "name": "Season 1",
-      "image": "https://cdn.myanimelist.net/images/anime/1579/113812l.jpg",
-      "groups": [
+    "referer": "https://indy-anime.net/",
+    "groups": [
         {
-          "name": "พากย์ไทย",
-          "info": "น้องโล่สายแทงก์ แกร่งเกินร้อย",
-          "image": "https://cdn.myanimelist.net/images/anime/1579/113812l.jpg",
-          "stations": [
-            {
-              "name": "ตอน 1 - Defense and First Battle",
-              "image": "https://m.media-amazon.com/images/M/MV5BZjAzMzAwMTctYzE1MC00Y2Y2LTg3YmYtYjQwZmEzMDBjNDA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/ONisuFWj/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 2 - Defense and Friends",
-              "image": "https://m.media-amazon.com/images/M/MV5BNDFkN2ZhMjAtYTQzOS00YmVmLTk3ZTQtMTEwMmFiZDAwMzYyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/D0C581hU/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 3 - Defense and Reaching Second Level",
-              "image": "https://m.media-amazon.com/images/M/MV5BY2E3MGFiZTQtZmM2Zi00NWFmLWJhMTItNzJlOWFhY2UzOWU1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/z8ffkyhj/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 4 - Defense and Second Event",
-              "image": "https://m.media-amazon.com/images/M/MV5BOWVlZGEzNWItNDZjYS00MmRmLWEyMGQtMTQ1NWEzOGIyMjRmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/1Obv4Sjx/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 5 - Defense and Spoils of War",
-              "image": "https://m.media-amazon.com/images/M/MV5BNmViYjk2MzctY2MzZC00NTFmLTlmMjktZTc0OTc3NTk2Njg2XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/h4U0pwWB/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 6 - Defense and Reinforcements",
-              "image": "https://m.media-amazon.com/images/M/MV5BMzJjY2IyZjQtNTVmYi00YzkxLTg4OTktOGIxYjA3MTJmZGEyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/bx73dws7/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 7 - Defense and Upgrades",
-              "image": "https://m.media-amazon.com/images/M/MV5BMzYxZjMzNTItMTUyNS00MTllLWFmYTktYWUwZDcyNDQxZmVmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/dKgMStsG/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 8 - Defense and Third Event",
-              "image": "https://m.media-amazon.com/images/M/MV5BYzhkYmIxZWQtMTg2Ni00OGFjLWFhM2EtZWJlMjkxYzc1YzVlXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/tKxIk1Hm/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 9 - Defense and Fourth Event",
-              "image": "https://m.media-amazon.com/images/M/MV5BOWQzZGZmMGQtYmEzYi00YTQ1LWJhZjYtNTdhZWI5OTE4YjE4XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/91G7X80/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 10 - Defense and Attack",
-              "image": "https://m.media-amazon.com/images/M/MV5BY2RjYTI3MzMtMDUzNi00ODA3LWJkMzUtMjFiZjhjOWY3ZGZkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/4VVf9AC/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 11 - Defense and Mighty Foe",
-              "image": "https://m.media-amazon.com/images/M/MV5BZmZiYjZhNjAtOWM1OS00NWE3LTlmMmMtZWU4NDE4NWYxZmMxXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/c5MSTYs/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 12 - Defense and Bonds",
-              "image": "https://m.media-amazon.com/images/M/MV5BMjA3MzdhNDgtMWQxMi00MzI1LTg0ZDMtNzU3MWI2Y2QzYzc2XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/WnqDR9zy/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            }
-          ]
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/yN3NNZWo3r1ilxWJtMKNV8UAvv0.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "น้องโล่สายแทงก์ แกร่งเกินร้อย",
+                    "image": "https://image.tmdb.org/t/p/original/yN3NNZWo3r1ilxWJtMKNV8UAvv0.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - ความเชี่ยวชาญในการป้องกันและการต่อสู้ครั้งแรก",
+                            "image": "https://image.tmdb.org/t/p/original/DB94GtK6xp7zicyjoYiu0JODSD.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ONisuFWj/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - ความเชี่ยวชาญด้านการป้องกันและเพื่อน ๆ",
+                            "image": "https://image.tmdb.org/t/p/original/kYN1K9d5Hy4xQgtFVkMS8KQr59t.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/D0C581hU/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - ความเชี่ยวชาญด้านการป้องกันและกลยุทธ์ระดับสอง",
+                            "image": "https://image.tmdb.org/t/p/original/9yBonr7S4tMRhjRH5Q8cpM4Zo9d.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/z8ffkyhj/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - ความเชี่ยวชาญด้านการป้องกันและเหตุการณ์ที่สอง",
+                            "image": "https://image.tmdb.org/t/p/original/z76A4yW79GF1z5YrH2W3k173jMk.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/1Obv4Sjx/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - ความเชี่ยวชาญด้านการป้องกันและการปล้นสะดม",
+                            "image": "https://image.tmdb.org/t/p/original/9rVlBLJPGgNoY0PTYXG6rrDcXXz.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/h4U0pwWB/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - ความเชี่ยวชาญในการป้องกันและพลังการต่อสู้ใหม่",
+                            "image": "https://image.tmdb.org/t/p/original/tEjZNsOuVyovwEzdVeoLMHZfxOA.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/bx73dws7/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - ความเชี่ยวชาญด้านการป้องกันและการเสริมสร้าง",
+                            "image": "https://image.tmdb.org/t/p/original/qAs4Bu0jYdcc45m8D1oSqoQTrJ7.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/dKgMStsG/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - ความเชี่ยวชาญด้านการป้องกันและเหตุการณ์ที่สาม",
+                            "image": "https://image.tmdb.org/t/p/original/weFue0EZ9Ih6Ty5s2o9uoKWpbgV.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/tKxIk1Hm/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - ความเชี่ยวชาญด้านการป้องกันและเหตุการณ์ที่สี่",
+                            "image": "https://image.tmdb.org/t/p/original/yr5wUqpjoDopcVFkzlB3c0otyWi.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/91G7X80/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - ความเชี่ยวชาญในการป้องกันและการโจมตี",
+                            "image": "https://image.tmdb.org/t/p/original/6taDPMMcG08nhtGGAA56cJB4zPm.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/4VVf9AC/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - ความเชี่ยวชาญในการป้องกันและศัตรูที่ทรงพลัง",
+                            "image": "https://image.tmdb.org/t/p/original/dYTsxWXzEz0E6qTg95Ze5HEDLZc.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/c5MSTYs/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - ความเชี่ยวชาญในการป้องกันและศัตรูที่ทรงพลัง",
+                            "image": "https://image.tmdb.org/t/p/original/zAGZG0qX7TL2dySQFnSYRzg56jy.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/WnqDR9zy/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                },
+                {
+                    "name": "ซับไทย",
+                    "info": "น้องโล่สายแทงก์ แกร่งเกินร้อย",
+                    "image": "https://image.tmdb.org/t/p/original/yN3NNZWo3r1ilxWJtMKNV8UAvv0.jpg",
+                    "stations": [
+                        {
+                            "name": "Ep. 1 - Defense and First Battle",
+                            "image": "https://image.tmdb.org/t/p/original/DB94GtK6xp7zicyjoYiu0JODSD.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Dh7AclSF/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 2 - Defense and Friends",
+                            "image": "https://image.tmdb.org/t/p/original/kYN1K9d5Hy4xQgtFVkMS8KQr59t.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/92fTwPpS/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 3 - Defense and Reaching Second Level",
+                            "image": "https://image.tmdb.org/t/p/original/9yBonr7S4tMRhjRH5Q8cpM4Zo9d.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/A0AEHUkr/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 4 - Defense and Second Event",
+                            "image": "https://image.tmdb.org/t/p/original/z76A4yW79GF1z5YrH2W3k173jMk.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Es69H4UF/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 5 - Defense and Spoils of War",
+                            "image": "https://image.tmdb.org/t/p/original/9rVlBLJPGgNoY0PTYXG6rrDcXXz.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/A7A78L4F/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 6 - Defense and Reinforcements",
+                            "image": "https://image.tmdb.org/t/p/original/tEjZNsOuVyovwEzdVeoLMHZfxOA.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/yQULqA71/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 7 - Defense and Upgrades",
+                            "image": "https://image.tmdb.org/t/p/original/qAs4Bu0jYdcc45m8D1oSqoQTrJ7.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/1TurHFEL/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 8 - Defense and Third Event",
+                            "image": "https://image.tmdb.org/t/p/original/weFue0EZ9Ih6Ty5s2o9uoKWpbgV.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/wJdX21O/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 9 - Defense and Fourth Event",
+                            "image": "https://image.tmdb.org/t/p/original/yr5wUqpjoDopcVFkzlB3c0otyWi.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/WjlzKrvA/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 10 - Defense and Attack",
+                            "image": "https://image.tmdb.org/t/p/original/6taDPMMcG08nhtGGAA56cJB4zPm.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/WVsAlrb1/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 11 - Defense and Mighty Foe",
+                            "image": "https://image.tmdb.org/t/p/original/dYTsxWXzEz0E6qTg95Ze5HEDLZc.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/hoz78WfC/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 12 - Defense and Bonds",
+                            "image": "https://image.tmdb.org/t/p/original/zAGZG0qX7TL2dySQFnSYRzg56jy.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/90i3GkXx/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
         },
         {
-          "name": "ซับไทย",
-          "info": "น้องโล่สายแทงก์ แกร่งเกินร้อย",
-          "image": "https://cdn.myanimelist.net/images/anime/1579/113812l.jpg",
-          "stations": [
-            {
-              "name": "Ep. 1 - Defense and First Battle",
-              "image": "https://m.media-amazon.com/images/M/MV5BZjAzMzAwMTctYzE1MC00Y2Y2LTg3YmYtYjQwZmEzMDBjNDA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/Dh7AclSF/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 2 - Defense and Friends",
-              "image": "https://m.media-amazon.com/images/M/MV5BNDFkN2ZhMjAtYTQzOS00YmVmLTk3ZTQtMTEwMmFiZDAwMzYyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/92fTwPpS/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 3 - Defense and Reaching Second Level",
-              "image": "https://m.media-amazon.com/images/M/MV5BY2E3MGFiZTQtZmM2Zi00NWFmLWJhMTItNzJlOWFhY2UzOWU1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/A0AEHUkr/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 4 - Defense and Second Event",
-              "image": "https://m.media-amazon.com/images/M/MV5BOWVlZGEzNWItNDZjYS00MmRmLWEyMGQtMTQ1NWEzOGIyMjRmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/Es69H4UF/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 5 - Defense and Spoils of War",
-              "image": "https://m.media-amazon.com/images/M/MV5BNmViYjk2MzctY2MzZC00NTFmLTlmMjktZTc0OTc3NTk2Njg2XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/A7A78L4F/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 6 - Defense and Reinforcements",
-              "image": "https://m.media-amazon.com/images/M/MV5BMzJjY2IyZjQtNTVmYi00YzkxLTg4OTktOGIxYjA3MTJmZGEyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/yQULqA71/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 7 - Defense and Upgrades",
-              "image": "https://m.media-amazon.com/images/M/MV5BMzYxZjMzNTItMTUyNS00MTllLWFmYTktYWUwZDcyNDQxZmVmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/1TurHFEL/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 8 - Defense and Third Event",
-              "image": "https://m.media-amazon.com/images/M/MV5BYzhkYmIxZWQtMTg2Ni00OGFjLWFhM2EtZWJlMjkxYzc1YzVlXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/wJdX21O/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 9 - Defense and Fourth Event",
-              "image": "https://m.media-amazon.com/images/M/MV5BOWQzZGZmMGQtYmEzYi00YTQ1LWJhZjYtNTdhZWI5OTE4YjE4XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/WjlzKrvA/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 10 - Defense and Attack",
-              "image": "https://m.media-amazon.com/images/M/MV5BY2RjYTI3MzMtMDUzNi00ODA3LWJkMzUtMjFiZjhjOWY3ZGZkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/WVsAlrb1/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 11 - Defense and Mighty Foe",
-              "image": "https://m.media-amazon.com/images/M/MV5BZmZiYjZhNjAtOWM1OS00NWE3LTlmMmMtZWU4NDE4NWYxZmMxXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/hoz78WfC/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 12 - Defense and Bonds",
-              "image": "https://m.media-amazon.com/images/M/MV5BMjA3MzdhNDgtMWQxMi00MzI1LTg0ZDMtNzU3MWI2Y2QzYzc2XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/90i3GkXx/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            }
-          ]
+            "name": "Season 2",
+            "image": "https://image.tmdb.org/t/p/original/3w7AGT6XAkrhyvTRqvIAdAwQwD1.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "น้องโล่สายแทงก์แกร่งเกินร้อย ภาค 2",
+                    "image": "https://image.tmdb.org/t/p/original/3w7AGT6XAkrhyvTRqvIAdAwQwD1.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - เสริมพลังป้องกัน กับ คริสต์มาส",
+                            "image": "https://image.tmdb.org/t/p/original/dr8AtU8Z7kTOUUhY3qhzPgpAnVA.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/5IDjeLHhmZ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - เสริมพลังป้องกัน กับ ชั้นห้า กับ ชั้นหก",
+                            "image": "https://image.tmdb.org/t/p/original/YUO0Vy0mwy4CWScgHZFEfZh6P8.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/59fPNxOUX1/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - เสริมพลังป้องกัน กับ กิจกรรมครั้งที่เจ็ด",
+                            "image": "https://image.tmdb.org/t/p/original/apZDKZjEzgwnmWh9vRhPNi397Yc.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/TN5a6xlWr/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - เสริมพลังป้องกัน กับ พิชิตหอคอย",
+                            "image": "https://image.tmdb.org/t/p/original/63eZniakSHk6JaHebnnlzVjtbp3.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/dxLHemkxc2/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - เสริมพลังป้องกัน กับ หนวดรยางค์",
+                            "image": "https://image.tmdb.org/t/p/original/cFKRvBStKylGqnvzMUpkkEbSykr.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/TLbWkCxpEr/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - เสริมพลังป้องกัน กับ เทมมอนสเตอร์",
+                            "image": "https://image.tmdb.org/t/p/original/6gm13e94MvqvkPhNwRNfEi58x8i.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/TAtgrLCKhG/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - เสริงแกร่งพลังป้องกัน กับ ตามหาอัญมณี",
+                            "image": "https://image.tmdb.org/t/p/original/5pWX8IF6ubt7Ot6JIsdPmnHZc93.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/el9OqIqWSd/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - เสริมพลังป้องกัน กับ กิจกรรมครั้งที่แปด",
+                            "image": "https://image.tmdb.org/t/p/original/jlyLQyVKia0TRtHCIMPsYBlNNWZ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/btqqolWAb/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - เสริมพลังป้องกัน กับ สร้างฐานที่มั่น",
+                            "image": "https://image.tmdb.org/t/p/original/j22XBZAhOrBgKWPKGDHFRgYgjkJ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Bm2ZyPtuJC/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - เสริมพลังป้องกัน กับ แท็กทีมแบบใหม่",
+                            "image": "https://image.tmdb.org/t/p/original/gpl3gdlWIIFFOHEKBmJuUeG6R3C.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/2aiCrjF3xs/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - เสริมพลังป้องกัน กับ ปาร์ตี้ใหม่",
+                            "image": "https://image.tmdb.org/t/p/original/ooj0ghrpBrMpRHt8sPIcw7AIWkd.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/u0IiiBdzR/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - เสริมพลังป้องกัน กับ ศึกตัดสินใหญ่",
+                            "image": "https://image.tmdb.org/t/p/original/vCDkgSXbz58vfTGhJHZUxg2zzJa.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/u9snNxGQkW/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                },
+                {
+                    "name": "ซับไทย",
+                    "info": "น้องโล่สายแทงก์แกร่งเกินร้อย ภาค 2",
+                    "image": "https://image.tmdb.org/t/p/original/3w7AGT6XAkrhyvTRqvIAdAwQwD1.jpg",
+                    "stations": [
+                        {
+                            "name": "Ep. 1 - Maxing Defense and Christmas",
+                            "image": "https://image.tmdb.org/t/p/original/dr8AtU8Z7kTOUUhY3qhzPgpAnVA.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/BkCtel4es/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 2 - Maxing Defense, Level 5, and Level 6",
+                            "image": "https://image.tmdb.org/t/p/original/YUO0Vy0mwy4CWScgHZFEfZh6P8.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/58oPFIXWgq/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 3 - Maxing Defense and the Seventh Event",
+                            "image": "https://image.tmdb.org/t/p/original/apZDKZjEzgwnmWh9vRhPNi397Yc.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/6VKR2AjrZ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 4 - Maxing Defense and Tower Conquest",
+                            "image": "https://image.tmdb.org/t/p/original/63eZniakSHk6JaHebnnlzVjtbp3.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/YA3QoxZYXU/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 5 - Maxing Defense and Tentacles",
+                            "image": "https://image.tmdb.org/t/p/original/cFKRvBStKylGqnvzMUpkkEbSykr.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/40nT3ZJ87/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 6 - Maxing Defense and Tame Monsters",
+                            "image": "https://image.tmdb.org/t/p/original/6gm13e94MvqvkPhNwRNfEi58x8i.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/zYNjGiqyj/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 7 - Maxing Defense and Hunting for Crystals",
+                            "image": "https://image.tmdb.org/t/p/original/5pWX8IF6ubt7Ot6JIsdPmnHZc93.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/8TTi9fkDMH/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 8 - Maxing Defense and the Eighth Event",
+                            "image": "https://image.tmdb.org/t/p/original/jlyLQyVKia0TRtHCIMPsYBlNNWZ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ACta2aRZcb/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 9 - Maxing Defense and Setting Up a Base",
+                            "image": "https://image.tmdb.org/t/p/original/j22XBZAhOrBgKWPKGDHFRgYgjkJ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/8sZNeVLWIs/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 10 - Maxing Defense and New Teams",
+                            "image": "https://image.tmdb.org/t/p/original/gpl3gdlWIIFFOHEKBmJuUeG6R3C.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/yOLy2bKI91/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 11 - Maxing Defense and New Parties",
+                            "image": "https://image.tmdb.org/t/p/original/ooj0ghrpBrMpRHt8sPIcw7AIWkd.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/kQdNl5tMoE/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 12 - Maxing Defense and the Big Final Battle",
+                            "image": "https://image.tmdb.org/t/p/original/vCDkgSXbz58vfTGhJHZUxg2zzJa.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Oar3LDLqC/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    },
-    {
-      "name": "Season 2",
-      "image": "https://cdn.myanimelist.net/images/anime/1782/128859l.jpg",
-      "groups": [
-        {
-          "name": "พากย์ไทย",
-          "info": "น้องโล่สายแทงก์แกร่งเกินร้อย ภาค 2",
-          "image": "https://cdn.myanimelist.net/images/anime/1782/128859l.jpg",
-          "stations": [
-            {
-              "name": "ตอน 1 - Maxing Defense and Christmas",
-              "image": "https://m.media-amazon.com/images/M/MV5BZTI4OWUwNDUtMjc0OC00NGFiLWFhZGMtMmQ0M2Q0NmE4Yjk3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/5IDjeLHhmZ/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 2 - Maxing Defense, Level 5, and Level 6",
-              "image": "https://m.media-amazon.com/images/M/MV5BZDE4YTExMjEtMDZmYS00NjAzLTgyMTctYzIzN2IwYjI5MjA5XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/59fPNxOUX1/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 3 - Maxing Defense and the Seventh Event",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTNjNTVhMjAtZGM3NS00YmFiLTlmNGEtYzcwZTU2Mzk5MmJhXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/TN5a6xlWr/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 4 - Maxing Defense and Tower Conquest",
-              "image": "https://m.media-amazon.com/images/M/MV5BN2Q3MmI2NjItNTI0My00YTAxLWFhMmYtMmY2YjcyYjNmYmFlXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/dxLHemkxc2/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 5 - Maxing Defense and Tentacles",
-              "image": "https://m.media-amazon.com/images/M/MV5BNGZjYzM2NDYtZjA5Yy00MzRkLWI2ZmUtNDk2OTM2MjM5NWEzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/TLbWkCxpEr/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 6 - Maxing Defense and Tame Monsters",
-              "image": "https://m.media-amazon.com/images/M/MV5BMjNkNjE1YjAtZDk2Ny00ZmEwLWFjNWMtZGIwNTE1MGU4OGZkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/TAtgrLCKhG/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 7 - Maxing Defense and Training",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTZjOTYxMjEtMzEzMC00MDdiLWI4NjAtZjNmNzJmMjM2NDQ0XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/el9OqIqWSd/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 8 - Maxing Defense and the Eighth Event",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTg4NDEzYTctYTU2ZS00N2M1LTllMmEtZmUwM2MxYTYyZGFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/btqqolWAb/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 9 - Maxing Defense and Preparations for the Ninth Event",
-              "image": "https://m.media-amazon.com/images/M/MV5BNzU0NzI2MDUtZTI3YS00ZmU5LThmYTEtZGI4ZjVmNmJkMGJmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/Bm2ZyPtuJC/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 10 - Maxing Defense and New Teams",
-              "image": "https://m.media-amazon.com/images/M/MV5BOGFlMzQ0NjctYmIyNC00YjcwLWIxNjktMmJlYjVhNTc4NDVmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/2aiCrjF3xs/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 11 - Maxing Defense and New Parties",
-              "image": "https://m.media-amazon.com/images/M/MV5BYmM0MGY1MzMtZjcyNS00NWE3LWFhYjMtMDcwZjIzOWZjZTg3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/u0IiiBdzR/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "ตอน 12 - Maxing Defense and the Big Final Battle",
-              "image": "https://m.media-amazon.com/images/M/MV5BMzcwOGY0NDUtNDM3Yy00N2RlLTg0ZWMtMjBmNjY2ZjFkYWYyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/u9snNxGQkW/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            }
-          ]
-        },
-        {
-          "name": "ซับไทย",
-          "info": "น้องโล่สายแทงก์แกร่งเกินร้อย ภาค 2",
-          "image": "https://cdn.myanimelist.net/images/anime/1782/128859l.jpg",
-          "stations": [
-            {
-              "name": "Ep. 1 - Maxing Defense and Christmas",
-              "image": "https://m.media-amazon.com/images/M/MV5BZTI4OWUwNDUtMjc0OC00NGFiLWFhZGMtMmQ0M2Q0NmE4Yjk3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/BkCtel4es/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 2 - Maxing Defense, Level 5, and Level 6",
-              "image": "https://m.media-amazon.com/images/M/MV5BZDE4YTExMjEtMDZmYS00NjAzLTgyMTctYzIzN2IwYjI5MjA5XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/58oPFIXWgq/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 3 - Maxing Defense and the Seventh Event",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTNjNTVhMjAtZGM3NS00YmFiLTlmNGEtYzcwZTU2Mzk5MmJhXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/6VKR2AjrZ/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 4 - Maxing Defense and Tower Conquest",
-              "image": "https://m.media-amazon.com/images/M/MV5BN2Q3MmI2NjItNTI0My00YTAxLWFhMmYtMmY2YjcyYjNmYmFlXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/YA3QoxZYXU/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 5 - Maxing Defense and Tentacles",
-              "image": "https://m.media-amazon.com/images/M/MV5BNGZjYzM2NDYtZjA5Yy00MzRkLWI2ZmUtNDk2OTM2MjM5NWEzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/40nT3ZJ87/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 6 - Maxing Defense and Tame Monsters",
-              "image": "https://m.media-amazon.com/images/M/MV5BMjNkNjE1YjAtZDk2Ny00ZmEwLWFjNWMtZGIwNTE1MGU4OGZkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/zYNjGiqyj/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 7 - Maxing Defense and Training",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTZjOTYxMjEtMzEzMC00MDdiLWI4NjAtZjNmNzJmMjM2NDQ0XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/8TTi9fkDMH/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 8 - Maxing Defense and the Eighth Event",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTg4NDEzYTctYTU2ZS00N2M1LTllMmEtZmUwM2MxYTYyZGFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/ACta2aRZcb/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 9 - Maxing Defense and Preparations for the Ninth Event",
-              "image": "https://m.media-amazon.com/images/M/MV5BNzU0NzI2MDUtZTI3YS00ZmU5LThmYTEtZGI4ZjVmNmJkMGJmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/8sZNeVLWIs/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 10 - Maxing Defense and New Teams",
-              "image": "https://m.media-amazon.com/images/M/MV5BOGFlMzQ0NjctYmIyNC00YjcwLWIxNjktMmJlYjVhNTc4NDVmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/yOLy2bKI91/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 11 - Maxing Defense and New Parties",
-              "image": "https://m.media-amazon.com/images/M/MV5BYmM0MGY1MzMtZjcyNS00NWE3LWFhYjMtMDcwZjIzOWZjZTg3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/kQdNl5tMoE/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            },
-            {
-              "name": "Ep. 12 - Maxing Defense and the Big Final Battle",
-              "image": "https://m.media-amazon.com/images/M/MV5BMzcwOGY0NDUtNDM3Yy00N2RlLTg0ZWMtMjBmNjY2ZjFkYWYyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/Oar3LDLqC/video.mp4/playlist.m3u8",
-              "referer": "https://indy-anime.net/"
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "name": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu น้องโล่สายแทงก์ แกร่งเกินร้อย",
-  "image": "https://cdn.myanimelist.net/images/anime/1579/113812l.jpg"
+    ],
+    "name": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. [น้องโล่สายแทงก์ แกร่งเกินร้อย]",
+    "image": "https://image.tmdb.org/t/p/original/fdcMiknnRcmVgWb9wGS9TxE06cG.jpg"
 }

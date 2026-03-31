@@ -1,0 +1,96 @@
+{
+    "name": "Dusk Maiden of Amnesia [คนสืบผี]",
+    "image": "https://image.tmdb.org/t/p/original/v2xEALi1U4foXfLUXB2FkAqo4qC.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/oW1tQfJZQcahZeYRU2Y2M88POqM.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/oW1tQfJZQcahZeYRU2Y2M88POqM.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - Ghost Maiden",
+                            "image": "https://image.tmdb.org/t/p/original/4IUsXBlespCsxWhabGSlGIUQoIG.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd7c0ba37e9312b87d174891159a9d917%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - Maiden of a Chance Meeting",
+                            "image": "https://image.tmdb.org/t/p/original/twxWyVfYtraAU2ls68K7Glh6gUa.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F44e526610f35bffaf16e17ec8b01647f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - Maiden of Dusk",
+                            "image": "https://image.tmdb.org/t/p/original/jI4XS5Rt2ooeGekHv5snQri2nBb.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9c3ff7abd19a27801dd94fcb2a15e3a8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - Maiden of Dawn",
+                            "image": "https://image.tmdb.org/t/p/original/qQCfszwLFVq6hygDTE6B6xvWv0p.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F932722d5e39fe06101f70159a0469d5c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - Maiden of Longing",
+                            "image": "https://image.tmdb.org/t/p/original/kewbgFlGOpGR7dx184B5Lnotfif.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F4168cbd066b83600ddfe7a6dcbeafe55%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - Maiden of Vengeance",
+                            "image": "https://image.tmdb.org/t/p/original/jhtnrzH9OsiMtEdPL2UWcWaB2Nf.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F39d69e8425045f39d0cc352e5a68b22b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - Maiden of Oblivion",
+                            "image": "https://image.tmdb.org/t/p/original/acE4iM1V2hpSieSnG0oIK7Icexq.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F30d64f4cbaa6fa3025666efa8dea8731%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - The Maiden of Recollection",
+                            "image": "https://image.tmdb.org/t/p/original/esRodLk129L2TDbVtCjDFh88rOE.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8269881a7b8fc4915b2ffb65ca51e655%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - Maiden of Hatred",
+                            "image": "https://image.tmdb.org/t/p/original/75mkA04ErG9bByygVuLIh1YaPAV.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fedc769ac42d0abb14f0e923305aa08f6%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Maiden of Loss",
+                            "image": "https://image.tmdb.org/t/p/original/3Y7PITYibxtldvCyasUGoGuZNd.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbf8d23fa0c61e9cff70589d3f45dace8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Maiden of Bitter Tears",
+                            "image": "https://image.tmdb.org/t/p/original/agNGdGin8n4euFnemaho5jnAxxi.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F7f41dbf485fc18694158b5ffed30cc10%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - The Dusk Maiden",
+                            "image": "https://image.tmdb.org/t/p/original/ntMpPE9ZIxmg3sCNwl41eshy8q7.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F5ce2c29f97ec2cd8a10b7fc55012c65a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 13",
+                            "image": "https://www.anime-kimi.com/wp-content/uploads/2026/01/yC0Ia6TukxzsEe0dtwjbn24a2Jp-300x170.webp",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F3a80d08b6f7c3dab1e89c038e9a4e432%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "name": "Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀ [ราชาวีรชน เกิดใหม่เพื่อขัดเกลาวิถีต่อสู้ และกลายเป็นอัศวินฝึกหัดที่แกร่งสุดในโลก]",
+    "image": "https://image.tmdb.org/t/p/original/zrnUnV0PFWnJ1G6wDvzkQL2HL9d.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/bpZcHo50wySoWWyfx1o86z3fxgS.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/bpZcHo50wySoWWyfx1o86z3fxgS.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - Return of the Hero-King, Inglis",
+                            "image": "https://image.tmdb.org/t/p/original/nT82qNBuJ0HDCPan0ItjkAbX3hz.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fae2b08606fe1eb36377b704e7dfa10f7%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - Encounter With the Hyral Menas",
+                            "image": "https://image.tmdb.org/t/p/original/1JKXj52XByktT62xLoelA1k3hGd.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fff86e84330e47769ca5b7a4dfd004ae9%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - Setting Out for the Capital",
+                            "image": "https://image.tmdb.org/t/p/original/cq79aypZZAkCiHJ2VWg5Y145Dle.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Faf3f07ed70e9661f95ad50b67e0067d2%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - The Town Ruled by the Highlander",
+                            "image": "https://image.tmdb.org/t/p/original/lCW0mwoR1PBkLkid0CGxdaxea5o.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F66e5328b0c3641b48745e6757b800151%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - Royal Knights' Academy",
+                            "image": "https://image.tmdb.org/t/p/original/chlthsMnVF1LqwPSvEV06mkFqLw.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1bddbdb850091f612e7204fb0f6cc8a8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - Labyrinth of Trials",
+                            "image": "https://image.tmdb.org/t/p/original/3Qx7Dvnub7yqxDepvMZvBjn3ZP1.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F60ae2595602150bf5ea0c442879ef3d0%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - The Hyral Menas's Disease",
+                            "image": "https://image.tmdb.org/t/p/original/jurdwTdH5HohocP9NsaMkxnd92A.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9ea7bdf17faf85644f185b889e8d248f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - The Order to Protect Ripple",
+                            "image": "https://image.tmdb.org/t/p/original/jAzhcRqW3aXP20D7DOLIVLW9cu5.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F6f58e5289d8c0c5270afff6bad288678%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - A New Artifact",
+                            "image": "https://image.tmdb.org/t/p/original/hnGfnYKjRhpOBOIDl7Angqs4Ve2.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F12e9b56488736e533a948acb2af26dc9%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - The Plan to Attack a Highlander",
+                            "image": "https://image.tmdb.org/t/p/original/oKoBPyu3LTrrlFb2vxzwH7bq4KU.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F68d503e746fff7899d21804191832cd8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Butt-Kicking Squire",
+                            "image": "https://image.tmdb.org/t/p/original/iv3UYD8B9wilp8R02J9SR5WYH6z.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff07b664a5b5f23cec4e056d59539eb00%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - Clash! Hero-King vs. King of Rainbows",
+                            "image": "https://image.tmdb.org/t/p/original/yiM0d0T21sSfqTFBQeU7f6tqdvX.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9ae4ef544264760780c26465a374246e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

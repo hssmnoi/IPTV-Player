@@ -4,124 +4,334 @@
   "imageScale": "centerCrop",
   "groups": [
     {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/toaru-majutsu-no-index.txt",
+      "name": "A Certain Magical Index [อินเด็กซ์ คัมภีร์คาถาต้องห้าม]",
+      "image": "https://image.tmdb.org/t/p/original/v3Ka0J3iMte50oiH4cmXPISM3rm.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/to-aru-kagaku-no-railgun.txt",
+      "name": "A Certain Scientific Railgun [เรลกัน แฟ้มลับคดีวิทยาศาสตร์]",
+      "image": "https://image.tmdb.org/t/p/original/dZt1dqw0K4JGhwcqTh8yExHYK9w.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Isekai-Yururi-Kikou.txt",
+      "name": "A Journey Through Another World: Raising Kids While Adventuring [บันทึกการเดินทางแสนเอื่อยในต่างโลก (เลี้ยงลูกพร้อมกับเป็นนักผจญภัย)]",
+      "image": "https://image.tmdb.org/t/p/original/xvFV6ADOmUZfK28aLrPAXmxrEZO.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Yasei-no-Last-Boss-ga-Arawareta.txt",
+      "name": "A Wild Last Boss Appeared! [อุบัติการณ์ลาสบอสสุดแกร่ง]",
+      "image": "https://image.tmdb.org/t/p/original/xh9lu8gDgzwMBiByTRtTsclluZf.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Jitsu-Wa-Ore-Saikyou-Deshita.txt",
+      "name": "Am I Actually the Strongest? [ผมเทพสุดจริงเหรอ?]",
+      "image": "https://image.tmdb.org/t/p/original/og42meOPOiq37wUSfQV0lqb1U0Q.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/angel-beats.txt",
+      "name": "Angel Beats! [แองเจิลบีทส์! แผนพิชิตนางฟ้า]",
+      "image": "https://image.tmdb.org/t/p/original/wz1PuXrg5ERQvyXKex3cGDie2hj.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/arifureta-shokugyou-de-sekai-saikyou.txt",
+      "name": "Arifureta: From Commonplace to World's Strongest [อาชีพกระจอกแล้วทำไม ยังไงข้าก็เทพ]",
+      "image": "https://image.tmdb.org/t/p/original/3Te6pYJNdh4YyWY1G7ANxNHpedi.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node.txt",
+      "name": "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside [ผมโดนกลุ่มผู้กล้าขับไสเลยต้องไปสโลว์ไลฟ์ที่ชายแดน]",
+      "image": "https://image.tmdb.org/t/p/original/hk5qqvJLRBDaPYBc8lKkSYQrR1c.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/black-clover.txt",
+      "name": "Black Clover [แบล็คโคลเวอร์]",
+      "image": "https://image.tmdb.org/t/p/original/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/kuro-no-shoukanshi.txt",
+      "name": "Black Summoner [นักอัญเชิญทมิฬ]",
+      "image": "https://image.tmdb.org/t/p/original/otO9fEZRVa5GRGswglYXXmcSnWF.jpg"
+    },
+    {
       "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Bofuri.txt",
-      "name": "Bofuri [น้องโล่สายแทงก์ แกร่งเกินร้อย]",
-      "image": "https://cdn.myanimelist.net/images/anime/1579/113812l.jpg"
+      "name": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. [น้องโล่สายแทงก์ แกร่งเกินร้อย]",
+      "image": "https://image.tmdb.org/t/p/original/fdcMiknnRcmVgWb9wGS9TxE06cG.jpg"
     },
     {
-      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Gaikotsu-Kishi-sama-Tadaima-Isekai-e-Odekakechuu.txt",
-      "name": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu [บันทึกการเดินทางต่างโลกของท่านอัศวินกระดูก]",
-      "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Kami-tachi-ni-Hirowareta-Otoko.txt",
+      "name": "By the Grace of the Gods [เพราะพระเจ้าเลือกเลยได้เกิดใหม่มาเลี้ยงสไลม์ในต่างโลก]",
+      "image": "https://image.tmdb.org/t/p/original/bfYje9AgtWzYCeCQbMU3nHdE4k1.jpg"
     },
     {
-      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Genjitsu-Shugi-Yuusha-no-Oukoku-Saikenki.txt",
-      "name": "Genjitsu Shugi Yuusha no Oukoku Saikenki [ยุทธศาสตร์กู้ชาติของราชามือใหม่]",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/tondemo-skill-de-isekai-hourou-meshi.txt",
+      "name": "Campfire Cooking in Another World with My Absurd Skill [สกิลสุดพิสดารกับมื้ออาหารในต่างโลก]",
+      "image": "https://image.tmdb.org/t/p/original/cXc3yiQ5RrimzfucovjO83RTrnq.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/chainsaw-man.txt",
+      "name": "Chainsaw Man [เชนซอว์แมน]",
+      "image": "https://image.tmdb.org/t/p/original/yVtx7Xn9UxNJqvG2BkvhCcmed9S.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/dusk-maiden-of-amnesia.txt",
+      "name": "Dusk Maiden of Amnesia [คนสืบผี]",
+      "image": "https://image.tmdb.org/t/p/original/v2xEALi1U4foXfLUXB2FkAqo4qC.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/eden-of-the-east.txt",
+      "name": "Eden of the East [อีเดน ออฟ ดิ อีสท์]",
+      "image": "https://image.tmdb.org/t/p/original/z7fWrBzCwd5DRPvNh1tr7yaQQP8.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/fire-force.txt",
+      "name": "Fire Force [หน่วยผจญคนไฟลุก]",
+      "image": "https://image.tmdb.org/t/p/original/sC4sTJnI0rLakinXMgBHv3Ynl9D.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Sousou-no-Frieren.txt",
+      "name": "Frieren: Beyond Journey's End [คำอธิษฐานในวันที่จากลา]",
+      "image": "https://image.tmdb.org/t/p/original/dqZENchTd7lp5zht7BdlqM7RBhD.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Kimi-ni-Todoke.txt",
+      "name": "From Me to You: Kimi ni Todoke [From Me to You: ฝากใจไปถึงเธอ]",
+      "image": "https://image.tmdb.org/t/p/original/lLUAZzJc6vfyE2TeY56AGGb3E5K.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/katainaka-no-ossan-kensei-ni-naru.txt",
+      "name": "From Old Country Bumpkin to Master Swordsman [ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง]",
+      "image": "https://image.tmdb.org/t/p/original/ujQp5egkJOkDHx4TehlgHePFcRv.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/girl-und-panzer.txt",
+      "name": "Girls und Panzer [สาวปิ๊ง! ซิ่งแทงค์]",
+      "image": "https://image.tmdb.org/t/p/original/hKEgErh0c9ljzHyODohZWzapI9U.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/godzilla-singular-point.txt",
+      "name": "Godzilla Singular Point [ก็อดซิลล่า ปฐมบทวิบัติโลก]",
+      "image": "https://image.tmdb.org/t/p/original/thWc7mYiEFFdLyG2fqkeqmL9nrB.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/gundam-build-fighters.txt",
+      "name": "Gundam Build Fighters [ガンダムビルドファイターズ]",
+      "image": "https://image.tmdb.org/t/p/original/k8EBZ63k2fOfQNRJWpyqFxcQTZI.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/highschool-of-the-dead.txt",
+      "name": "High School of the Dead [ฝ่าดงนรกเดินดิน]",
+      "image": "https://image.tmdb.org/t/p/original/jaGpsfRddhzkZIlqxDnDqT3XBhr.jpg"
     },
     {
       "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Horimiya.txt",
       "name": "Horimiya [โฮริมิยะ สาวมั่นกับนายมืดมน]",
-      "image": "https://m.media-amazon.com/images/M/MV5BOGUzYmZkZjItNjI5Yi00NjllLThiMjUtYTY0MDI4M2Y0MmZlXkEyXkFqcGc@._V1_FMjpg_UY3507_.jpg"
+      "image": "https://image.tmdb.org/t/p/original/iSOKGl5KIeOCAtigUDCfFZe2cOi.jpg"
     },
     {
-      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Isekai-Shokudou.txt",
-      "name": "Isekai Shokudou [ร้านอาหารต่างโลก]",
-      "image": "https://m.media-amazon.com/images/M/MV5BNGE4ODFiYzgtMGE0Yy00N2Q3LWFlM2QtMmMyODQ5MWUxZjk2XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/genjitsu-shugi-yuusha-no-oukoku-saikenki.txt",
+      "name": "How a Realist Hero Rebuilt the Kingdom [ยุทธศาสตร์กู้ชาติของราชามือใหม่]",
+      "image": "https://image.tmdb.org/t/p/original/ymbGZbNjHK4uAy3l29jUBvqeXIX.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu.txt",
+      "name": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability [พอได้เกิดใหม่เป็นองค์ชายลำดับที่เจ็ด ก็เพื่อเรียนเวทให้สนุก]",
+      "image": "https://image.tmdb.org/t/p/original/ruLkQB8i1yazHgO0QCWpyJRRTs9.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/noumin-kanren-no-skill-bakka-agetetara-nazeka-tsuyoku-natta.txt",
+      "name": "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills. [ผมเอาแต่อัปสกิลทำฟาร์ม แต่ไม่รู้ทำไมผมถึงได้แข็งแกร่งขึ้นซะงั้น]",
+      "image": "https://image.tmdb.org/t/p/original/8TTveKSNr23SRib4Q4C3yy9dszz.jpg"
     },
     {
       "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Isekai-wa-Smartphone-to-Tomo-ni.txt",
-      "name": "Isekai wa Smartphone to Tomo ni [ไปต่างโลกก็ต้องไปกับสมาร์ทโฟนสิ]",
-      "image": "https://m.media-amazon.com/images/M/MV5BYTMxNDIzYzEtNjA2My00ZGM3LWI3NGEtNmVhODg0YmU3NDBmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
+      "name": "In Another World with My Smartphone [ไปต่างโลกกับสมาร์ทโฟน]",
+      "image": "https://image.tmdb.org/t/p/original/k3DboKiicC4ZbJe50sjG1fGdMGX.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/jujutsu-kaisen.txt",
+      "name": "JUJUTSU KAISEN [มหาเวทย์ผนึกมาร]",
+      "image": "https://image.tmdb.org/t/p/original/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/k-on.txt",
+      "name": "K-ON! [เค-อง! ก๊วนดนตรีแป๋วแหวว]",
+      "image": "https://image.tmdb.org/t/p/original/70hf2538UAf7mzzNgvqTlWq6PDf.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/log-horizon.txt",
+      "name": "Log Horizon [รวมพลคนติดอยู่ในเกมส์]",
+      "image": "https://image.tmdb.org/t/p/original/xLGdRuWCn2AlByL5Y9OLB3ZwItg.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/maoyuu-maou-yuusha.txt",
+      "name": "Maoyu: Archenemy & Hero [มาโอยุ จอมมารผู้กล้าจับคู่กู้โลก]",
+      "image": "https://image.tmdb.org/t/p/original/nrYpyvYhfOD4DT58BvYGIhP4Ezv.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Sono-Bisque-Doll-wa-Koi-wo-suru.txt",
+      "name": "My Dress-Up Darling [หนุ่มเย็บผ้ากับสาวนักคอสเพลย์]",
+      "image": "https://image.tmdb.org/t/p/original/A6mxBwvvv63JXZm3xXKv4SugE0L.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/shinjiteita-nakama-tachi-ni-dungeon-okuchi-de-korosarekaketa-ga-gift.txt",
+      "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! [ผมถูกเพื่อนที่เชื่อใจหลอกไปฆ่า เลยใช้กิฟต์สุ่มกาชาพาพวกพ้องเลเวล 9999 กลับมาล้างแค้น]",
+      "image": "https://image.tmdb.org/t/p/original/pGNBYEae87H8iLRF3AoztonnZkp.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/sokushi-cheat-ga-saikyou-sugite.txt",
+      "name": "My Instant Death Ability Is Overpowered [ความสามารถสั่งตายสุดโกง ที่พวกต่างโลกเทียบไม่ติด]",
+      "image": "https://image.tmdb.org/t/p/original/rqklWX3bDMrFx5bmV1kuGuMuo27.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/tensei-kenja-no-isekai-life.txt",
+      "name": "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World! [เกิดใหม่ในต่างโลกเป็นปราชญ์แกร่งสุดโดยไม่รู้ตัว]",
+      "image": "https://image.tmdb.org/t/p/original/2frM5EXhvwPLnD0eY7RaGCktPTv.jpg"
     },
     {
       "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Isekai-Yakkyoku.txt",
-      "name": "Isekai Yakkyoku [เภสัชกรเทพสองโลก]",
-      "image": "https://m.media-amazon.com/images/M/MV5BNWM1ZjVkZmQtOTYzOC00Yzg3LTlmZjgtNDc5ZWZmYTU2ZjVkXkEyXkFqcGc@._V1_FMjpg_UX387_.jpg"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Isekai-Yururi-Kikou.txt",
-      "name": "Isekai Yururi Kikou [บันทึกการเดินทางแสนเอื่อยในต่างโลก]",
-      "image": "https://m.media-amazon.com/images/M/MV5BNDJlYzAwNTYtNzhiNC00ZTcxLThjYWYtMzVkOGY5ZWJhODYwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
+      "name": "Parallel World Pharmacy [เภสัชกรเทพสองโลก]",
+      "image": "https://image.tmdb.org/t/p/original/52PZhMEggFTd4YBsnpDZZLW44xQ.jpg"
     },
     {
       "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Izure-Saikyou-no-Renkinjutsushi.txt",
-      "name": "Izure Saikyou no Renkinjutsushi? [นักเล่นแร่แปรธาตุที่ยิ่งใหญ่ที่สุดตลอดกาล]",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
+      "name": "Possibly the Greatest Alchemist of All Time [อาจเป็นนักเล่นแร่แปรธาตุที่ยิ่งใหญ่ที่สุดตลอดกาล]",
+      "image": "https://image.tmdb.org/t/p/original/4TyTS9O7ECH3mXpazQ6GpJXCqNm.jpg"
     },
     {
-      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Jitsu-Wa-Ore-Saikyou-Deshita.txt",
-      "name": "Jitsu Wa Ore Saikyou Deshita? [ผมเทพสุดจริงเหรอ?]",
-      "image": "https://m.media-amazon.com/images/M/MV5BY2MyY2I2YjItY2Q1Ny00ODUwLWExM2ItNjg2MzVhNGE1MmY5XkEyXkFqcGc@._V1_FMjpg_UX1064_.jpg"
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/psycho-pass.txt",
+      "name": "Psycho-Pass [ไซโคพาส ถอดรหัสล่า]",
+      "image": "https://image.tmdb.org/t/p/original/uWnP6qTcc4imPJ9ZHaXlPQlcYnB.jpg"
     },
     {
-      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Kage-no-Jitsuryokusha-ni-Naritakute.txt",
-      "name": "Kage no Jitsuryokusha ni Naritakute! [ชีวิตไม่ต้องเด่น ขอแค่เป็นเทพในเงา]",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDFmMWJlMWYtMDFkNi00OWViLTkzOGEtNDI0YWNmM2M5MzI5XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/eiyuuou-bu-wo-kiwameru-tame-tenseisu-soshite-sekai-saikyou-no-minarai-kishi.txt",
+      "name": "Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀ [ราชาวีรชน เกิดใหม่เพื่อขัดเกลาวิถีต่อสู้ และกลายเป็นอัศวินฝึกหัดที่แกร่งสุดในโลก]",
+      "image": "https://image.tmdb.org/t/p/original/zrnUnV0PFWnJ1G6wDvzkQL2HL9d.jpg"
     },
     {
-      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Kami-tachi-ni-Hirowareta-Otoko.txt",
-      "name": "Kami-tachi ni Hirowareta Otoko [เพราะพระเจ้าเลือกเลยได้เกิดใหม่มาเลี้ยงสไลม์ในต่างโลก]",
-      "image": "https://m.media-amazon.com/images/M/MV5BNDJlYzAwNTYtNzhiNC00ZTcxLThjYWYtMzVkOGY5ZWJhODYwXkEyXkFqcGc@._V1_.jpg"
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Isekai-Shokudou.txt",
+      "name": "Restaurant to Another World [ร้านอาหารต่างโลก]",
+      "image": "https://image.tmdb.org/t/p/original/g3Um55vfwHDPxvo6jmOr1zDLbDz.jpg"
     },
     {
-      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Katainaka-no-Ossan-Kensei-ni-Naru.txt",
-      "name": "Katainaka no Ossan, Kensei ni Naru [ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง]",
-      "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/sankarea.txt",
+      "name": "Sankarea: Undying Love [ซังกะเรอา ซอมบี้โมเอะ]",
+      "image": "https://image.tmdb.org/t/p/original/onnBtLYwC1snOARDGhGoJ4x3ZX6.jpg"
     },
     {
-      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Kimi-ni-Todoke.txt",
-      "name": "Kimi ni Todoke [ฝากใจไปถึงเธอ]",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Mizu-Zokusei-no-Mahoutsukai.txt",
-      "name": "Mizu Zokusei no Mahoutsukai [จอมเวทวารี]",
-      "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Saikyou-Tank-no-Meikyuu-Kouryaku.txt",
-      "name": "Saikyou Tank no Meikyuu Kouryaku [แทงก์สุดแกร่ง แห่งวงกต]",
-      "image": "https://m.media-amazon.com/images/M/MV5BNjc1MTljZGYtODQzMy00MGVjLTg5ZDQtYjNlYzdkOGZmYmU3XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/sasaki-to-pii-chan.txt",
+      "name": "Sasaki and Peeps [ซาซากิกับพีจัง]",
+      "image": "https://image.tmdb.org/t/p/original/kVp4PsyB8V839mGQjkn6kevBwKV.jpg"
     },
     {
       "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Shangri-La-Frontier.txt",
       "name": "Shangri-La Frontier [เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ]",
-      "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
+      "image": "https://image.tmdb.org/t/p/original/aCGdpgNkgz66R1winFkTFsMAhlC.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/kenja-no-deshi-wo-nanoru-kenja.txt",
+      "name": "She Professed Herself Pupil of the Wise Man [ฉันเป็นศิษย์จอมปราชญ์จริงๆ นะ]",
+      "image": "https://image.tmdb.org/t/p/original/j8QFzP0Jh80hYZtwI6UF8R81Ahw.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Gaikotsu-Kishi-sama-Tadaima-Isekai-e-Odekakechuu.txt",
+      "name": "Skeleton Knight in Another World [บันทึกการเดินทางต่างโลกของท่านอัศวินกระดูก]",
+      "image": "https://image.tmdb.org/t/p/original/jMhzjbRI1iL2ENtMnS3Zm3DBAJw.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/kumo-desu-ga-nani-ka.txt",
+      "name": "So I'm a Spider, So What? [แมงมุมแล้วไงข้องใจเหรอคะ]",
+      "image": "https://image.tmdb.org/t/p/original/oTbqSiJx2nxFJ8zSM8JLdkTUFKZ.jpg"
     },
     {
       "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Solo-Leveling.txt",
-      "name": "Solo Leveling [โซโลเลเวลลิง]",
-      "image": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
+      "name": "Solo Leveling",
+      "image": "https://image.tmdb.org/t/p/original/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg"
     },
     {
-      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Sono-Bisque-Doll-wa-Koi-wo-suru.txt",
-      "name": "Sono Bisque Doll wa Koi wo suru [หนุ่มเย็บผ้ากับสาวนักคอสเพลย์]",
-      "image": "https://m.media-amazon.com/images/M/MV5BYTlkODJlOWItZmQyMC00MWExLThkYWUtYTM0YWJjMzg2MDc4XkEyXkFqcGc@._V1_FMjpg_UY576_.jpg"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Sousou-no-Frieren.txt",
-      "name": "Sousou no Frieren [คำอธิษฐานในวันที่จากลาฟรีเรน]",
-      "image": "https://m.media-amazon.com/images/M/MV5BZTI4ZGMxN2UtODlkYS00MTBjLWE1YzctYzc3NDViMGI0ZmJmXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Tensei-shitara-Dainana-Ouji.txt",
-      "name": "Tensei shitara Dainana Ouji [พอได้เกิดใหม่เป็นองค์ชายลำดับที่เจ็ด ก็เพื่อเรียนเวทให้สนุก]",
-      "image": "https://m.media-amazon.com/images/M/MV5BMzUzMWUyZmItNjFhZC00NzlmLWJjYjktZjM1ZWNmODA3ZmEyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/sword-art-online.txt",
+      "name": "Sword Art Online [ซอร์ด อาร์ต ออนไลน์]",
+      "image": "https://image.tmdb.org/t/p/original/9m8bFIXPg26taNrFSXGwEORVACD.jpg"
     },
     {
       "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Tensei-Shitara-Slime-Datta-Ken.txt",
-      "name": "Tensei Shitara Slime Datta Ken [เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว]",
-      "image": "https://m.media-amazon.com/images/M/MV5BOTczMjM3MDUtYmZjMC00YzZhLWE4ODQtNjg5YWU4NTJjNzY2XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
+      "name": "That Time I Got Reincarnated as a Slime [เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว]",
+      "image": "https://image.tmdb.org/t/p/original/pzujcdPAoH361NObVrtbA7zACE7.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/kusuriya-no-hitorigoto.txt",
+      "name": "The Apothecary Diaries [สืบคดีปริศนา หมอยาตำรับโคมแดง]",
+      "image": "https://image.tmdb.org/t/p/original/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/seiken-gakuin-no-makentsukai.txt",
+      "name": "The Demon Sword Master of Excalibur Academy [จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์]",
+      "image": "https://image.tmdb.org/t/p/original/rvUIWcUg23JwWDVF7oTqLFmUe9g.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/hataraku-maou-sama.txt",
+      "name": "The Devil Is a Part-Timer! [ผู้กล้าซึนซ่าส์กับจอมมารสู้ชีวิต]",
+      "image": "https://image.tmdb.org/t/p/original/55jYHFT8iJuASF8Mzg0V8Dh3N3M.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Kage-no-Jitsuryokusha-ni-Naritakute.txt",
+      "name": "The Eminence in Shadow [ชีวิตไม่ต้องเด่น ขอแค่เป็นเทพในเงา]",
+      "image": "https://image.tmdb.org/t/p/original/7JKYmtLydAwo9ZsEmAknZiO4U8g.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/kaoru-hana-wa-rin-to-saku.txt",
+      "name": "The Fragrant Flower Blooms with Dignity [ดอกรักผลิบานที่กลางใจ]",
+      "image": "https://image.tmdb.org/t/p/original/g1sYAQt0OeCxzyfagSEqxUlsLnt.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/mahouka-koukou-no-rettousei.txt",
+      "name": "The Irregular at Magic High School [พี่น้องปริศนาโรงเรียนมหาเวท]",
+      "image": "https://image.tmdb.org/t/p/original/4mJpMjdghHo4LfvmP1q1mubkEvl.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/the-new-gate.txt",
+      "name": "THE NEW GATE [เดอะนิวเกท]",
+      "image": "https://image.tmdb.org/t/p/original/neTGdBl851se6Vk9xGVIZ7N2jzJ.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Maougun-Saikyou-no-Majutsushi-wa-Ningen-datta.txt",
+      "name": "The Strongest Magician in the Demon Lord's Army Was a Human [จอมเวทมนุษย์ในกองทัพจอมมาร]",
+      "image": "https://image.tmdb.org/t/p/original/1ANATsXdWWJzsSI5GKp1cot6jRe.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Saikyou-Tank-no-Meikyuu-Kouryaku.txt",
+      "name": "The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party- [แทงก์สุดแกร่ง แห่งวงกต -ตัวแทงก์สุดโหด ค่าทนทาน 9999 แบบแรร์ ถูกเตะออกจากตี้]",
+      "image": "https://image.tmdb.org/t/p/original/3Uf8L7wl4dokMukJ855cBLVxQj5.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Mizu-Zokusei-no-Mahoutsukai.txt",
+      "name": "The Water Magician [จอมเวทแห่งสายน้ำ]",
+      "image": "https://image.tmdb.org/t/p/original/9GWz3D9aBgtn6pMiu3DTZL3h5ua.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita.txt",
+      "name": "The Weakest Tamer Began a Journey to Pick Up Trash [การผจญภัยของเทมเมอร์มือใหม่กับสไลม์สุดด๋อย]",
+      "image": "https://image.tmdb.org/t/p/original/za2EAhBtO08JJw9Q25zKyrY5Jkd.jpg"
     },
     {
       "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Tsuki-ga-Michibiku-Isekai-Douchuu.txt",
-      "name": "Tsuki ga Michibiku Isekai Douchuu [จันทรานำพาสู่ต่างโลก]",
-      "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_FMjpg_UX800_.jpg"
+      "name": "TSUKIMICHI -Moonlit Fantasy- [จันทรานำพาสู่ต่างโลก]",
+      "image": "https://image.tmdb.org/t/p/original/7XQ2dMEARAdUZQscnIJFPI54q3r.jpg"
     },
     {
-      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Yasei-no-Last-Boss-ga-Arawareta.txt",
-      "name": "Yasei no Last Boss ga Arawareta! [อุบัติการณ์ลาสบอสสุดแกร่ง]",
-      "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/unbreakable-machine-doll.txt",
+      "name": "Unbreakable Machine-Doll [สงครามจักรกล มนตราราตรี]",
+      "image": "https://image.tmdb.org/t/p/original/hVZEHhtunEvFHUZGyIZChdci6Ul.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/unnamed-memory.txt",
+      "name": "Unnamed Memory [อันเนมด์ เมโมรี]",
+      "image": "https://image.tmdb.org/t/p/original/tvrc6PfamASdvp334FYUrViR3Hp.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/tsue-to-tsurugi-no-wistoria.txt",
+      "name": "Wistoria: Wand and Sword [ตำนานดาบและคทาแห่งวิสตอเรีย]",
+      "image": "https://image.tmdb.org/t/p/original/gxYKhO0GuPAeCb3llknWu53bYYS.jpg"
     }
   ]
 }

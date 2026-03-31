@@ -1,0 +1,90 @@
+{
+    "name": "The Weakest Tamer Began a Journey to Pick Up Trash [การผจญภัยของเทมเมอร์มือใหม่กับสไลม์สุดด๋อย]",
+    "image": "https://image.tmdb.org/t/p/original/za2EAhBtO08JJw9Q25zKyrY5Jkd.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/tkHjkieGqnSwx38KHKTpvLppYr8.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/tkHjkieGqnSwx38KHKTpvLppYr8.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - On a Journey Alone",
+                            "image": "https://image.tmdb.org/t/p/original/jFAQcd7JFQJ6Oif0jCoWSHeSMr3.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc2e6331bd4b0b84e153e64b64e59f88c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - To Latoto Village",
+                            "image": "https://image.tmdb.org/t/p/original/yWj4kPKRQJ0f3QfBc09FvGL6Yw1.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe736f8d1ac2948ec4fb066ff2eb37d31%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - Toward Those Remembered Days",
+                            "image": "https://image.tmdb.org/t/p/original/830WMp6257OFhsVqQLjBY85Sf4C.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd93d6a46dfb173ab1997113a803b3c7c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - Toward an Unexpected Situation",
+                            "image": "https://image.tmdb.org/t/p/original/6kMGUtmtGyOOJV50JGtZigFiIRF.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F3647a5bd3ff0b3015e1e9ab4faf67d84%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - To Latome Village",
+                            "image": "https://image.tmdb.org/t/p/original/6lk8WIkQOM4ERKsPLvJXGGUZbTR.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F16e4c1c816c509cb5511b478fd04e056%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - Beyond My Thoughts",
+                            "image": "https://image.tmdb.org/t/p/original/mbIwF8lpanG24Hto8YeyQmtFONk.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F13817f01df3c4dfc1c9ab3f5d4333bf2%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - On the Road to Adventure",
+                            "image": "https://image.tmdb.org/t/p/original/rgOzR2QVlUYqN3M5lAqcfdldzdH.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1a8b41700f6f59b4ec67afd8df4c4645%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - To a Dangerous Town",
+                            "image": "https://image.tmdb.org/t/p/original/lUWRS4pJwclug86baMzsKiHLPhG.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F7183761d7d45c5fbe2963df4d0b11d7b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - Toward a Confrontation with the Organization",
+                            "image": "https://image.tmdb.org/t/p/original/8z5XAAX4Gh0PnToWAwBiUCRjG9I.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbe045d4e6229a1f6a6b62a326548cf64%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Into the Vortex of Incidents",
+                            "image": "https://image.tmdb.org/t/p/original/9bLH3f5cJGNs8ZqkLn1rSxpXbs7.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fcd28501b4e552286d8ad59cb3f0e6d41%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Into Battle",
+                            "image": "https://image.tmdb.org/t/p/original/z5gvExTlc5MJKNC0vf6ULk8gGhy.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F4d63db471ca924459232be406a49f2b8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - On a Journey, the Three of Us",
+                            "image": "https://image.tmdb.org/t/p/original/vVamK06DFYob4ez1i5PNZNkvZM6.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb092077c7cd79d6fd7c725fb1fd5ffab%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

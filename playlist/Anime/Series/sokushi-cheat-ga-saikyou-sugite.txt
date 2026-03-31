@@ -1,0 +1,90 @@
+{
+    "name": "My Instant Death Ability Is Overpowered [ความสามารถสั่งตายสุดโกง ที่พวกต่างโลกเทียบไม่ติด]",
+    "image": "https://image.tmdb.org/t/p/original/rqklWX3bDMrFx5bmV1kuGuMuo27.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/rqklWX3bDMrFx5bmV1kuGuMuo27.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/rqklWX3bDMrFx5bmV1kuGuMuo27.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - ความสามารถสั่งตาย",
+                            "image": "https://image.tmdb.org/t/p/original/78TJZn1WgrkiK2yPYss6WeJJ4TV.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffc83a8415ec03facfafb105e10b4865d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - ผู้พิทักษ์ของฉันโคตรเก่ง โลกแฟนตาซีนี่เลยกลายเป็นเรื่องหมู ๆ!",
+                            "image": "https://image.tmdb.org/t/p/original/wtLmHPgPZGmb0nV3Q1XyU01rAn4.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fedcdca17b38844eaf326e25d3584b9a9%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - โลกนี้ไม่ได้ใจดีขนาดที่จะให้โจมตีอยู่ฝ่ายเดียวได้หรอก!",
+                            "image": "https://image.tmdb.org/t/p/original/853IV1dIAe1VAG7CS6Un9qWWKA1.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbffa01424901c1824443ed7d318ac049%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - ความจริงที่ว่าคุณกำลังดูวิดีโอนี้อยู่...",
+                            "image": "https://image.tmdb.org/t/p/original/lNHYsAIQkfn5zfaJUAEsPb4yyDD.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbdde82022209ada16c05fedd718b0952%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - อัลฟ่า โอเมก้า AΩ จุดเริ่มต้นและจุดสิ้นสุด",
+                            "image": "https://image.tmdb.org/t/p/original/pc9mKhjwwzKuEqKSu178bsqRbgi.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F09e0229dc75d7efcd5cc15e3b511127d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - ฉันไม่หยาบคายพอที่จะบ่นหลังจากได้รับการช่วยเหลือหรอก!",
+                            "image": "https://image.tmdb.org/t/p/original/vMcCH6oirK5BktQnwuyS1ZQVaqx.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9cec462ccacbff2cad799d61d8dd062b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - Standard Opening of Gate Number One Confirmed",
+                            "image": "https://image.tmdb.org/t/p/original/gHLTwDOVcAvrDYcTmTK1AXVZ6Sm.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F253515675d9af5a784084d2a156d2f6f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - The Agency",
+                            "image": "https://image.tmdb.org/t/p/original/4UhP8mxuFTShV4UP7D1PWNGZz20.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc5a0ee8f12df91f79a35a15ce0c8ed99%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - It's Like a Class Full of People Who Only Want to Save Themselves",
+                            "image": "https://image.tmdb.org/t/p/original/xRIpKCJRxa1gJXsmlQzXq5CMZpp.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F552d8ada3533229a4b634f7d51971331%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - A Girl From the Past Appears. Tomochika is Bewildered...",
+                            "image": "https://image.tmdb.org/t/p/original/fVFxeCnMGl2See4so2vgm3GobW1.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fa24981ebf7d9215d061ce110fa823904%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Phase 2",
+                            "image": "https://image.tmdb.org/t/p/original/aIRuzj9W4FuwPbee1eXunaLUJJj.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F557a467740103a9a568bc5bea6f30ace%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - You Can Use Your Power Any Way You Want",
+                            "image": "https://image.tmdb.org/t/p/original/zIh5OoeLwB1mc6MQ82AnCrt5feM.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8c1ae5c5534835d1056c9464c5e1b6ed%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

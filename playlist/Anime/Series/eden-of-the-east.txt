@@ -1,0 +1,84 @@
+{
+    "name": "Eden of the East [อีเดน ออฟ ดิ อีสท์]",
+    "image": "https://image.tmdb.org/t/p/original/z7fWrBzCwd5DRPvNh1tr7yaQQP8.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/z7fWrBzCwd5DRPvNh1tr7yaQQP8.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/z7fWrBzCwd5DRPvNh1tr7yaQQP8.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - I Picked Up a Prince",
+                            "image": "https://image.tmdb.org/t/p/original/orEiX31DHJ6Q3AiapxsNQ6yiArP.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F97911040eff2d1c5bf29f72fd28303f3%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - Melancholy Monday",
+                            "image": "https://image.tmdb.org/t/p/original/7Yi9r4kzhNjJyC2xIJB3YWYaYDq.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc2450cb922f2fdd3c97c35398d42cb43%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - On the Night of the Late Show",
+                            "image": "https://image.tmdb.org/t/p/original/eUpV76GhVIEOvHhSNfH3xUBH3ge.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F7d50f6eb774a375f71cc12200df656de%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - Real Reality, Fabricated Reality",
+                            "image": "https://image.tmdb.org/t/p/original/mLs84MBHt2nuJXniegLmX4Q6FdT.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F6aa5ee92259daef85b57dde759c588c9%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - This is No Time to Be Thinking About That...",
+                            "image": "https://image.tmdb.org/t/p/original/3EVRbY45cY8qBufOETwG3TwlWS3.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F2babf18a3e44fc9fbd14151d2caa8c91%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - Eden of the East",
+                            "image": "https://image.tmdb.org/t/p/original/6lWxOtfFGIqxLYdf6rGtYXv5CCe.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb210215075f68e712aa3d04c9269aea8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - Flight of the Black Swan",
+                            "image": "https://image.tmdb.org/t/p/original/udNNfkLbVsEqMXUuzrSmS44su0G.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F863a76ba2c63cb56d4e4c40508ac3de0%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - Searching for the Path Already Lost",
+                            "image": "https://image.tmdb.org/t/p/original/vqGdmSvikvD99cfFBIoZkvHuR53.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F6f1110b10375fc596c6cea03fd3e1d24%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - A Man Too Ephemeral",
+                            "image": "https://image.tmdb.org/t/p/original/e9D1dmP9L2gurI7bKtKhxPg0OVr.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffe1d70022deceff0807dfc52193d6a00%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Who Killed Akira Takizawa?",
+                            "image": "https://image.tmdb.org/t/p/original/kXKDNRGkC46SpLf2GO0venuLNsW.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc39790e785da95c5fb012948e94c78e0%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - The East That Continues On",
+                            "image": "https://image.tmdb.org/t/p/original/pJQYlzsnMrGxnMdttKqduxBvtBq.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd599ed66ab33360e7cea7ad5797ba101%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

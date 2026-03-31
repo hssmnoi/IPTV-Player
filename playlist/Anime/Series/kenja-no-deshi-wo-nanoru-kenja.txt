@@ -1,0 +1,90 @@
+{
+    "name": "She Professed Herself Pupil of the Wise Man [ฉันเป็นศิษย์จอมปราชญ์จริงๆ นะ]",
+    "image": "https://image.tmdb.org/t/p/original/j8QFzP0Jh80hYZtwI6UF8R81Ahw.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/huoRd6pDcgNzqtQAN8Q4SnetLD3.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/huoRd6pDcgNzqtQAN8Q4SnetLD3.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - I Am Cute...",
+                            "image": "https://image.tmdb.org/t/p/original/fY5xN6cOkvQhFzYmuzWlxcsGecO.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fefc94140562a5a1b553c38d06a7f0cf5%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - I Lied",
+                            "image": "https://image.tmdb.org/t/p/original/tZ5fulepe2YznKLA0bD72Ul34bu.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb62fb40bffe1fb92b7e1a2ca6d137eb1%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - I'm... a Big Softie When It Comes to These Things",
+                            "image": "https://image.tmdb.org/t/p/original/io0bAz0hTjVHE1vOlKmoUPvWq2x.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff1def8a57cd13c11fdae0fd2fc7ac55c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - I'm At My Limit!",
+                            "image": "https://image.tmdb.org/t/p/original/6SzqAFaQJvJalHttF4jGARb5qAv.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9328b062f445a5f3c5d8430c434eeb69%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - I'm Reborn!",
+                            "image": "https://image.tmdb.org/t/p/original/e2wCtecowzXATSuNUtswdYFTNGo.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff75dbd7d9aec7ebb5eb827f761277056%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - I'm a Dress-Up Doll!",
+                            "image": "https://image.tmdb.org/t/p/original/AqyGKD6WBkU9dUNSj5bT0109YUz.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F000d61e058be5e51efa3a8b70eb63f27%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - I Am the Strongest!",
+                            "image": "https://image.tmdb.org/t/p/original/nrmHSuqrrvlm1VIvFfFDOhM3XtO.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F21a7a5ebb37aee0a26cb3f9b027d8bb3%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - I Am Danblf",
+                            "image": "https://image.tmdb.org/t/p/original/e4ZpdAOyk5XK2TKXJ8NXvEsQNxn.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8a9aaf14d32e8e67c065d574d0308a9d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - I Don't Hate This Kind of Development",
+                            "image": "https://image.tmdb.org/t/p/original/o9yzCDtM9aCK9SweC2fGNYkXqIK.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffd350801e0312920c4a7aa08e1a55d23%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - I Get Naked!",
+                            "image": "https://image.tmdb.org/t/p/original/rOP1N7WmRtG3SHrYWU2dbse9TPc.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F326dfe6abede35e088e012cf1e4d21e1%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Did... None of the Praise Come My Way?",
+                            "image": "https://image.tmdb.org/t/p/original/vsZkBA0cOZCK6FyKR8vLU38ScJ9.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fac142f3d1668f92b11a35583a5479307%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - I Have Arrived!",
+                            "image": "https://image.tmdb.org/t/p/original/jYpthJMwvrFFakOeiCJ43N7jBzF.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd6a1f4382b36dfbed5328edcbc249772%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

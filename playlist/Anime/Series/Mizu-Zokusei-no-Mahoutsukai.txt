@@ -1,166 +1,166 @@
 {
-    "name": "Mizu Zokusei no Mahoutsukai [จอมเวทวารี]",
-    "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+    "name": "The Water Magician [จอมเวทแห่งสายน้ำ]",
+    "image": "https://image.tmdb.org/t/p/original/9GWz3D9aBgtn6pMiu3DTZL3h5ua.jpg",
     "groups": [
         {
             "name": "Season 1",
-            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+            "image": "https://image.tmdb.org/t/p/original/nXZIczrT1gf0dToyYSHAG3jk5eu.jpg",
             "groups": [
                 {
                     "name": "พากย์ไทย",
                     "info": "จอมเวทวารี",
-                    "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "image": "https://image.tmdb.org/t/p/original/nXZIczrT1gf0dToyYSHAG3jk5eu.jpg",
                     "stations": [
                         {
-                            "name": "ตอน 1 - The Slow, but Dangerous, Life",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/221835",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "ตอน 1 - The Slow, But Dangerous, Life",
+                            "image": "https://image.tmdb.org/t/p/original/8N9HtEikNrWEdO0aFuZ5AgBE7fp.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/BA6wTT9cOe/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 2 - Abel the Castaway",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/221837",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/tNGnyYSTdyLTFVJdfyv4mUVeSXK.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ntePwlsh4/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 3 - The Town of Lune",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/222078",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/kF1XufNalE3gL8nLBYByMfDXWWK.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/YNGyRQkLy5/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 4 - Eclipses & Akuma",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/222080",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/otMfty0EDBhxLg8a9gV7LtGooPa.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Na0fDrSyS1/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 5 - The Great Tidal Bore",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/222082",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/kav679ruIMxXTQJkCB5DGI23J1J.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/sOYi5lrH09/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 6 - The Sealed Dungeon",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/222084",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/g06jMjUhKttZxTmvH8PND2BY5cI.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/j7sKJwNvGb/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 7 - Beyond the Gate",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/222291",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/4wUy0SJfPV1SwMbCEwHdysGx5C9.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/V2Z49BVh35/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 8 - Unprecedented",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/222293",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/jDKRpzTME5XPaPSz0Gxko251Kta.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/GgclexkRLg/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 9 - Nils and the Mysterious Town",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/222675",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/wF0TwKycbHMTppX7XyAGh2hgOCA.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/l0pWuAnefZ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 10 - The Open Port Festival",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/222677",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/m4m6tVguzXTCtcRc4KCgfVdRqwQ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/fMXBqt6Nfh/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 11 - The Inferno Magician",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/222910",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/7Cm65I2gRFcGlKYTZnGxkE7vwxv.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/DM9WvvQoT/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 12 - Ryo Returns Home",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/222912",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/aGe7E340JbZ3BnEnzMDeLZZMAg8.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/5h7pUMu16W/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         }
                     ]
                 },
                 {
                     "name": "ซับไทย",
                     "info": "จอมเวทวารี",
-                    "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "image": "https://image.tmdb.org/t/p/original/nXZIczrT1gf0dToyYSHAG3jk5eu.jpg",
                     "stations": [
                         {
-                            "name": "Ep. 1 - The Slow, but Dangerous, Life",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/219160",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "Ep. 1 - The Slow, But Dangerous, Life",
+                            "image": "https://image.tmdb.org/t/p/original/8N9HtEikNrWEdO0aFuZ5AgBE7fp.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/5lrApCASlW/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 2 - Abel the Castaway",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/219345",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/tNGnyYSTdyLTFVJdfyv4mUVeSXK.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/oI9PkkcLRM/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 3 - The Town of Lune",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/219552",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/kF1XufNalE3gL8nLBYByMfDXWWK.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/gvjgsL4CeI/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 4 - Eclipses & Akuma",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/219747",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/otMfty0EDBhxLg8a9gV7LtGooPa.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/xwPkCh08J5/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 5 - The Great Tidal Bore",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/219964",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/kav679ruIMxXTQJkCB5DGI23J1J.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/spxE3zxRUU/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 6 - The Sealed Dungeon",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/220379",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/g06jMjUhKttZxTmvH8PND2BY5cI.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/9VEWiszQKd/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 7 - Beyond the Gate",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/220822",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/4wUy0SJfPV1SwMbCEwHdysGx5C9.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/hAnLttb9F0/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 8 - Unprecedented",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/221035",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/jDKRpzTME5XPaPSz0Gxko251Kta.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/0hq8GKToQr/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 9 - Nils and the Mysterious Town",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/221233",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/wF0TwKycbHMTppX7XyAGh2hgOCA.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/3TjwQYG8kB/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 10 - The Open Port Festival",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/221463",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/m4m6tVguzXTCtcRc4KCgfVdRqwQ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/WKKmv4qUr/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 11 - The Inferno Magician",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/221681",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/7Cm65I2gRFcGlKYTZnGxkE7vwxv.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/aVGTVoTAFK/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 12 - Ryo Returns Home",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/221893",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/aGe7E340JbZ3BnEnzMDeLZZMAg8.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ImPlZGLR5/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         }
                     ]
                 }

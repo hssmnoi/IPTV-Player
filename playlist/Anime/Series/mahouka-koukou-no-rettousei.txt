@@ -1,0 +1,174 @@
+{
+    "name": "The Irregular at Magic High School [พี่น้องปริศนาโรงเรียนมหาเวท]",
+    "image": "https://image.tmdb.org/t/p/original/4mJpMjdghHo4LfvmP1q1mubkEvl.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/oOQJdaiucqveYCjJMb2NvbAGu1w.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/oOQJdaiucqveYCjJMb2NvbAGu1w.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - การเข้าศึกษา ตอน 1",
+                            "image": "https://image.tmdb.org/t/p/original/tR1TuQnj9P5sdQQMWs4dW2eBl8u.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff55f677ac1d17c969de1eb6639bcbc7e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - การเข้าศึกษา ตอน 2",
+                            "image": "https://image.tmdb.org/t/p/original/7nP7G9xx5L9nbpEU0DnVBISf2bT.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F17c2d9e021cadc5be129525c46910f09%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - การเข้าศึกษา ตอน 3",
+                            "image": "https://image.tmdb.org/t/p/original/ySPx56sbxqjQJXcFgcKXXDXVRXW.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1a8cf0af7b33a7d589e950805e3ec7ea%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - การเข้าศึกษา ตอน 4",
+                            "image": "https://image.tmdb.org/t/p/original/t0YR6wMWSytSGFzpwnhI1gOw7s3.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F6eca53ca180faf6b069127b3938d1647%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - การเข้าศึกษา ตอน 5",
+                            "image": "https://image.tmdb.org/t/p/original/wAeDEMSckgT2VLbWuIgzHMGe8zV.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F920197cf52bf1b73bea0a820361482b8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - การเข้าศึกษา ตอน 6",
+                            "image": "https://image.tmdb.org/t/p/original/qW1X0aCbrfqaN4QgxK4IXNEwrEl.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9dda60bda45329b563eed3d32469065a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - การเข้าศึกษา ตอน 7",
+                            "image": "https://image.tmdb.org/t/p/original/h1HjKk91tZhs8NbqHdTE96ZIlRq.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb808c299936e355459f42762f7da01b4%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - การแข่งขันเก้าโรงเรียน ตอน 1",
+                            "image": "https://image.tmdb.org/t/p/original/aYaWa9WEFHvOqi8KGU4Wsw8GDV5.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8309068442b11f4c33ac1e8467a6309c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - การแข่งขันเก้าโรงเรียน ตอน 2",
+                            "image": "https://image.tmdb.org/t/p/original/eCDZOYQN7OAmSsZkMmum8y355Jw.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F09d5b5dce5fe20e441b604acd33c7583%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - การแข่งขันเก้าโรงเรียน ตอน 3",
+                            "image": "https://image.tmdb.org/t/p/original/r2N3AuDhXu1Bmm5OqTSwJjJshkF.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe16a203a8a4110aa5edd3a4d9eb906ee%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - การแข่งขันเก้าโรงเรียน ตอน 4",
+                            "image": "https://image.tmdb.org/t/p/original/zaBMTNy6oJGCNVSbSh3gb5AyW9n.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F6014db8aed0c682d41db783dbb1e9d26%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - การแข่งขันเก้าโรงเรียน ตอน 5",
+                            "image": "https://image.tmdb.org/t/p/original/sZk5EQIJWAM6SpclrJZmpcZPbcX.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc7fd77732c9fe6b27d6f6e9e1ee235b8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 13 - การแข่งขันเก้าโรงเรียน ตอน 6",
+                            "image": "https://image.tmdb.org/t/p/original/vkXtfmwuXKzwgXexeSJzB3CzQ15.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0ecc992f08e89e71757f61d28581eab2%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 14 - การแข่งขันเก้าโรงเรียน ตอน 7",
+                            "image": "https://image.tmdb.org/t/p/original/9xLIeDRg2Bc8vyU1QRTcxsEDfUv.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbbfc5962459179420b12f546364d7c5f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 15 - การแข่งขันเก้าโรงเรียน ตอน 8",
+                            "image": "https://image.tmdb.org/t/p/original/2wU08fdqXs9EhUv5qxrH39ZDBn4.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd9cdad4b4836e13fd1ecfe8a5b45c4e5%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 16 - การแข่งขันเก้าโรงเรียน ตอน 9",
+                            "image": "https://image.tmdb.org/t/p/original/EcvkPK6P69UcNkU9UrWzRrBnid.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0bba934cea7f59c66edcb6b8647364e1%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 17 - การแข่งขันเก้าโรงเรียน ตอน 10",
+                            "image": "https://image.tmdb.org/t/p/original/cddRzeYjrJR0CgnSg3lbrjzdhvv.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fae76dc7e4b57cbd5025a106c4f68d191%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 18 - การแข่งขันเก้าโรงเรียน ตอน 11",
+                            "image": "https://image.tmdb.org/t/p/original/gE5I9iANtB9XfBBpubNsb1giB2G.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb91edddb2a91953c053a1f25b1bec181%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 19 - จลาจลในโยโกฮาม่า ตอน 1",
+                            "image": "https://image.tmdb.org/t/p/original/rZGYp1DeZftSisqrUO8g5HuxNkY.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbd2a5b642ee2686a5958239fe600e303%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 20 - จลาจลในโยโกฮาม่า ตอน 2",
+                            "image": "https://image.tmdb.org/t/p/original/pC2rX3zXYOP4C37MhsYixsC8sEs.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F3e28d1f60a6e64d2f401fc343c57b05d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 21 - จลาจลในโยโกฮาม่า ตอน 3",
+                            "image": "https://image.tmdb.org/t/p/original/wtG634YscKOofRwFtioj8MifuMR.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F400e3d873c946932448c30b26103a094%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 22 - จลาจลในโยโกฮาม่า ตอน 4",
+                            "image": "https://image.tmdb.org/t/p/original/7Rpeo3X5gdrv1Y3Z5iXyVE8CoF5.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F927039d5523ac0835dc17e94c1e65d71%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 23 - จลาจลในโยโกฮาม่า ตอน 5",
+                            "image": "https://image.tmdb.org/t/p/original/kIkv4eGWGOz6qOBtxCFStWrIpZi.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbece09dc96a38151dec6405908046067%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 24 - จลาจลในโยโกฮาม่า ตอน 6",
+                            "image": "https://image.tmdb.org/t/p/original/l3gZJSvWlRa0zfylMdbWHxXmxqi.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1d89157c08ff6159a872d9d1a357ad67%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 25 - จลาจลในโยโกฮาม่า ตอน 7",
+                            "image": "https://image.tmdb.org/t/p/original/dqgGCSWVFTxmENdBTO3xbCgGNrK.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb49defa35a98337b040ba0522765a11f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 26 - จลาจลในโยโกฮาม่า ตอน 8",
+                            "image": "https://image.tmdb.org/t/p/original/eWeKxOWwzilKOdSlL9e5weqFcsk.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F70d7e93789760cfaf6d6402f962b4f73%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "name": "THE NEW GATE [เดอะนิวเกท]",
+    "image": "https://image.tmdb.org/t/p/original/neTGdBl851se6Vk9xGVIZ7N2jzJ.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/iCMIwUVEd91zBdAmnrKj2f3K9i3.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/iCMIwUVEd91zBdAmnrKj2f3K9i3.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - THE NEW GATE",
+                            "image": "https://image.tmdb.org/t/p/original/8ULWI934J1h3ixx1Wt5Md6W0gA5.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc13dc5645871c8f01d09b27aac539e53%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - คู่หูตัวจิ๋ว",
+                            "image": "https://image.tmdb.org/t/p/original/yJbRREsyfdQpxsHsZoVkoQHg56f.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fec709f902a9142533fd94d00afe5e874%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - ภารกิจสุดพิลึก",
+                            "image": "https://image.tmdb.org/t/p/original/ifEhjZjeclGEzBnQmu9rZWBiAEI.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F4bb7453639e5d542ff1b4c556bb49639%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - ผ่านพ้นราตรีที่แสนยาวนาน",
+                            "image": "https://image.tmdb.org/t/p/original/2d5RltufJkN98RnrbZyTFiicINf.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1c031549b1c8b10e3fb403013255b734%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - พักผ่อนชั่วครู่",
+                            "image": "https://image.tmdb.org/t/p/original/mg9TQ7oa2UgWXM0Ex8PxDWjwbAp.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb2e9a04af207e6c46d0a96410f84a286%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - ภารกิจคุ้มกัน",
+                            "image": "https://image.tmdb.org/t/p/original/ryx9ml9Oj8iYmOJwa7HHPzNPT5G.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0c207a87046a84f499c91634d224a1e1%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - เบย์รูน",
+                            "image": "https://image.tmdb.org/t/p/original/kx04EEaAkcRJytRWAv0OZJR5Yjh.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fcc92382b516effe9ff53f6041434c59a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - ผู้ที่ถูกฝากฝังและผู้ที่ฝากฝัง",
+                            "image": "https://image.tmdb.org/t/p/original/bOSEcYAzKF8gx0QIpdmz0iLn91q.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe1c977922ed90256fca5429e62b97c18%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - องค์หญิงแห่งเบลลิชท์",
+                            "image": "https://image.tmdb.org/t/p/original/xmfmOdprdCXubelzetX7SiVXDKa.jpg",
+                            "url": "https://www.anime-kimi.com/episode/the-new-gate-th-ep-9/",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - ไอปีศาจ",
+                            "image": "https://image.tmdb.org/t/p/original/pJqMRKTBPZ8eEDEgGD4vcqEQgKD.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Faffa982fbf8781d201006262f8e1e064%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - ดินแดนศักดิ์สิทธิ์ที่ถูกปิด",
+                            "image": "https://image.tmdb.org/t/p/original/yKeC8YuPSF8XhHmki7mBqqVuytg.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1288857cf7d059d0480835ce8b68ec75%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - การท่วมท้นใหญ่",
+                            "image": "https://image.tmdb.org/t/p/original/dUV2UQYq9cKEkZepS1zlwm63mQK.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff1a6a8f4c7d1cbdbd5a37634824b7215%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

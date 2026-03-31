@@ -1,147 +1,147 @@
 {
-  "referer": "https://indy.team-indy.net/",
-  "groups": [
-    {
-      "name": "Season 1",
-      "image": "https://m.media-amazon.com/images/M/MV5BY2MyY2I2YjItY2Q1Ny00ODUwLWExM2ItNjg2MzVhNGE1MmY5XkEyXkFqcGc@._V1_FMjpg_UX1064_.jpg",
-      "groups": [
+    "referer": "https://indy.team-indy.net/",
+    "groups": [
         {
-          "name": "พากย์ไทย",
-          "info": "ผมเทพสุดจริงเหรอ?",
-          "image": "https://m.media-amazon.com/images/M/MV5BY2MyY2I2YjItY2Q1Ny00ODUwLWExM2ItNjg2MzVhNGE1MmY5XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-          "stations": [
-            {
-              "name": "ตอน 1 - พอเกิดใหม่แล้วก็มาเริ่มที่จุดตกต่ำ",
-              "image": "https://m.media-amazon.com/images/M/MV5BZGQyYWYzZGQtMDExYS00ZGQwLWI4OTAtODgwN2Y2YmEwODI0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/oFeTfdWPUQ/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 2 - ถูกชาร์ลเกลียด",
-              "image": "https://m.media-amazon.com/images/M/MV5BNDRiYzUyNzgtNDExNS00OWZhLWE4MDItZDM5OTc5ZDlmMzQ1XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/dbOeS7FMjx/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 3 - ชาร์ลว่าง่ายแล้ว",
-              "image": "https://m.media-amazon.com/images/M/MV5BZjAwZGQ5NDEtZWM1Yy00NWFkLTg3NTktODUyYzlmN2E3M2UwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/U4cVzLdAaN/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 4 - เราฟิวส์ขาด",
-              "image": "https://m.media-amazon.com/images/M/MV5BODgzYzc5MmMtY2JlZS00YTQ1LWJlZDItMzA4ODhiODViOThhXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/UL7UP62P0r/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 5 - แข็งแกร่งที่สุดในโลก",
-              "image": "https://m.media-amazon.com/images/M/MV5BNDU5MzJmODQtYjg2ZS00OWRlLWI4ZWUtYTRjZjEzN2Q0Y2Y4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/J2aiLPJWgi/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 6 - ต้องตามหาผู้ติดตาม!",
-              "image": "https://m.media-amazon.com/images/M/MV5BYWRhNDM0YmMtNDM3MS00YWYxLWE2ODktMThlN2JlMThkNzZmXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/1gKvHdRKAE/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 7 - ประชุมโต๊ะกลม",
-              "image": "https://m.media-amazon.com/images/M/MV5BZjdkMjkxNDAtNTBkMC00NGU3LTk5ZWMtMzk4MmQwYzgyOTM4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/2z516QYVo/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 8 - การพานพบครั้งใหม่",
-              "image": "https://m.media-amazon.com/images/M/MV5BNjZmMjdlMDYtZWFjNi00MzM2LWE4MjYtMDAyM2QxYWQ2N2UxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/oRSzGx3zz1/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 9 - เรื่องวุ่นวายในพิธีปฐมนิเทศ",
-              "image": "https://m.media-amazon.com/images/M/MV5BMjg2M2M4M2ItZGY3NC00YjY1LTliMmYtYTk5NjE1MjkzODZlXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/MgshhQzWhU/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 10 - นามของจอมมารคือ",
-              "image": "https://m.media-amazon.com/images/M/MV5BYzc5Nzg4ZWItNTc4Ny00OTdiLTllY2YtNzY3OTdmNDg3OWY1XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/80JBEh2cCK/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 11 - ถูกหลายคนเข้ามาวุ่นวาย",
-              "image": "https://m.media-amazon.com/images/M/MV5BZGM5ZmY5MzUtYmZiZS00ZTg3LWExZDUtMzQyNDEwNDBkZTk3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/HNSG8bZiI8/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 12 - เป็นคืนที่ไม่เลวเลย",
-              "image": "https://m.media-amazon.com/images/M/MV5BNjY3M2RhZWUtNzJhZC00ZDI4LWFlODktMDY0MWY4YmMwYzQxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/a4sVSxxzak/video.mp4/playlist.m3u8"
-            }
-          ]
-        },
-        {
-          "name": "Sub Thai",
-          "info": "Jitsu Wa Ore Saikyou Deshita?",
-          "image": "https://m.media-amazon.com/images/M/MV5BNjdmZTA5M2MtZjgxMS00OTdhLWJjNzItMWNiMzhmNmNjNDBkXkEyXkFqcGc@._V1_FMjpg_UX714_.jpg",
-          "stations": [
-            {
-              "name": "Ep. 1 - Starting at Rock Bottom After Reincarnation",
-              "image": "https://m.media-amazon.com/images/M/MV5BZGQyYWYzZGQtMDExYS00ZGQwLWI4OTAtODgwN2Y2YmEwODI0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/RsObAVXLZj/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 2 - Char Hates Me",
-              "image": "https://m.media-amazon.com/images/M/MV5BNDRiYzUyNzgtNDExNS00OWZhLWE4MDItZDM5OTc5ZDlmMzQ1XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/zuTvMN6ftw/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 3 - Char Adores Me Now",
-              "image": "https://m.media-amazon.com/images/M/MV5BZjAwZGQ5NDEtZWM1Yy00NWFkLTg3NTktODUyYzlmN2E3M2UwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/F0qH2CQ0I/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 4 - I Flip My Lid",
-              "image": "https://m.media-amazon.com/images/M/MV5BODgzYzc5MmMtY2JlZS00YTQ1LWJlZDItMzA4ODhiODViOThhXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/cMYeNgjqG0/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 5 - Strongest in the World",
-              "image": "https://m.media-amazon.com/images/M/MV5BNDU5MzJmODQtYjg2ZS00OWRlLWI4ZWUtYTRjZjEzN2Q0Y2Y4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/JLrPB50B0/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 6 - I Need to Find an Attendant...!",
-              "image": "https://m.media-amazon.com/images/M/MV5BYWRhNDM0YmMtNDM3MS00YWYxLWE2ODktMThlN2JlMThkNzZmXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/8KwZrTZdjw/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 7 - Meeting of the Round Table",
-              "image": "https://m.media-amazon.com/images/M/MV5BZjdkMjkxNDAtNTBkMC00NGU3LTk5ZWMtMzk4MmQwYzgyOTM4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/lXe6F4r1wt/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 8 - A New Encounter",
-              "image": "https://m.media-amazon.com/images/M/MV5BNjZmMjdlMDYtZWFjNi00MzM2LWE4MjYtMDAyM2QxYWQ2N2UxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/nTEQ0iSCX/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 9 - The Entrance Ceremony Hullabaloo",
-              "image": "https://m.media-amazon.com/images/M/MV5BMjg2M2M4M2ItZGY3NC00YjY1LTliMmYtYTk5NjE1MjkzODZlXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/WsiEr9iOY2/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 10 - The Demon King's Name",
-              "image": "https://m.media-amazon.com/images/M/MV5BYzc5Nzg4ZWItNTc4Ny00OTdiLTllY2YtNzY3OTdmNDg3OWY1XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/X5ApGahOj/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 11 - I Got Myself Mixed Up with So Many People...",
-              "image": "https://m.media-amazon.com/images/M/MV5BZGM5ZmY5MzUtYmZiZS00ZTg3LWExZDUtMzQyNDEwNDBkZTk3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/7f5uhsRb88/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 12 - Not a Bad Night",
-              "image": "https://m.media-amazon.com/images/M/MV5BNjY3M2RhZWUtNzJhZC00ZDI4LWFlODktMDY0MWY4YmMwYzQxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/EuaVL2Ha91/video.mp4/playlist.m3u8"
-            }
-          ]
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/iGQ0GFK5S97YDbziufdcLWHproQ.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "ผมเทพสุดจริงเหรอ?",
+                    "image": "https://image.tmdb.org/t/p/original/iGQ0GFK5S97YDbziufdcLWHproQ.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - Starting at Rock Bottom After Reincarnation",
+                            "image": "https://image.tmdb.org/t/p/original/6eOEBIKkG4Axp8rRraQDOODafHq.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/oFeTfdWPUQ/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 2 - Char Hates Me",
+                            "image": "https://image.tmdb.org/t/p/original/eiPLt9EdEmjA7PkA5D8S6gBqr2x.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/dbOeS7FMjx/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 3 - Char Adores Me Now",
+                            "image": "https://image.tmdb.org/t/p/original/vSnHCdtbJVkyfajr6z1S1ZWpTyL.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/U4cVzLdAaN/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 4 - I Flip My Lid",
+                            "image": "https://image.tmdb.org/t/p/original/rngRmUJIDBz5Wae3jxseudKpFAa.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/UL7UP62P0r/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 5 - Strongest in the World",
+                            "image": "https://image.tmdb.org/t/p/original/y2waAcub7h4fHkYU4GwqkevlD1D.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/J2aiLPJWgi/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 6 - I Need to Find an Attendant...!",
+                            "image": "https://image.tmdb.org/t/p/original/xvyq6Yxb7maZsqCtyHNyIKEcdmm.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/1gKvHdRKAE/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 7 - Meeting of the Round Table",
+                            "image": "https://image.tmdb.org/t/p/original/cQZsnvGeCisJ4Z1eSZkFp7TOj6t.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/2z516QYVo/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 8 - A New Encounter",
+                            "image": "https://image.tmdb.org/t/p/original/rPnhu3SFJJ2l6QnueWYNPXaJb7y.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/oRSzGx3zz1/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 9 - The Entrance Ceremony Hullabaloo",
+                            "image": "https://image.tmdb.org/t/p/original/gjBieRcHPuxluikvrJF0HkdWNEe.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/MgshhQzWhU/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 10 - The Demon King's Name",
+                            "image": "https://image.tmdb.org/t/p/original/xp9mFw2cijTR9KSN7UxO66uErKd.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/80JBEh2cCK/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 11 - I Got Myself Mixed Up with so Many People...",
+                            "image": "https://image.tmdb.org/t/p/original/qU7Y5S9K1mk3Og6hgi9JTZHEF9A.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/HNSG8bZiI8/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 12 - Not a Bad Night",
+                            "image": "https://image.tmdb.org/t/p/original/fuj5MwZ5MyDWvv1u1JzKBqI0Q5j.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/a4sVSxxzak/video.mp4/playlist.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "ซับไทย",
+                    "info": "Jitsu Wa Ore Saikyou Deshita?",
+                    "image": "https://image.tmdb.org/t/p/original/iGQ0GFK5S97YDbziufdcLWHproQ.jpg",
+                    "stations": [
+                        {
+                            "name": "Ep. 1 - Starting at Rock Bottom After Reincarnation",
+                            "image": "https://image.tmdb.org/t/p/original/6eOEBIKkG4Axp8rRraQDOODafHq.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/RsObAVXLZj/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 2 - Char Hates Me",
+                            "image": "https://image.tmdb.org/t/p/original/eiPLt9EdEmjA7PkA5D8S6gBqr2x.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/zuTvMN6ftw/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 3 - Char Adores Me Now",
+                            "image": "https://image.tmdb.org/t/p/original/vSnHCdtbJVkyfajr6z1S1ZWpTyL.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/F0qH2CQ0I/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 4 - I Flip My Lid",
+                            "image": "https://image.tmdb.org/t/p/original/rngRmUJIDBz5Wae3jxseudKpFAa.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/cMYeNgjqG0/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 5 - Strongest in the World",
+                            "image": "https://image.tmdb.org/t/p/original/y2waAcub7h4fHkYU4GwqkevlD1D.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/JLrPB50B0/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 6 - I Need to Find an Attendant...!",
+                            "image": "https://image.tmdb.org/t/p/original/xvyq6Yxb7maZsqCtyHNyIKEcdmm.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/8KwZrTZdjw/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 7 - Meeting of the Round Table",
+                            "image": "https://image.tmdb.org/t/p/original/cQZsnvGeCisJ4Z1eSZkFp7TOj6t.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/lXe6F4r1wt/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 8 - A New Encounter",
+                            "image": "https://image.tmdb.org/t/p/original/rPnhu3SFJJ2l6QnueWYNPXaJb7y.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/nTEQ0iSCX/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 9 - The Entrance Ceremony Hullabaloo",
+                            "image": "https://image.tmdb.org/t/p/original/gjBieRcHPuxluikvrJF0HkdWNEe.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/WsiEr9iOY2/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 10 - The Demon King's Name",
+                            "image": "https://image.tmdb.org/t/p/original/xp9mFw2cijTR9KSN7UxO66uErKd.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/X5ApGahOj/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 11 - I Got Myself Mixed Up with so Many People...",
+                            "image": "https://image.tmdb.org/t/p/original/qU7Y5S9K1mk3Og6hgi9JTZHEF9A.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/7f5uhsRb88/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 12 - Not a Bad Night",
+                            "image": "https://image.tmdb.org/t/p/original/fuj5MwZ5MyDWvv1u1JzKBqI0Q5j.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/EuaVL2Ha91/video.mp4/playlist.m3u8"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    }
-  ],
-  "name": "Jitsu Wa Ore Saikyou Deshita? [ผมเทพสุดจริงเหรอ?]",
-  "image": "https://m.media-amazon.com/images/M/MV5BY2MyY2I2YjItY2Q1Ny00ODUwLWExM2ItNjg2MzVhNGE1MmY5XkEyXkFqcGc@._V1_FMjpg_UX1064_.jpg"
+    ],
+    "name": "Am I Actually the Strongest? [ผมเทพสุดจริงเหรอ?]",
+    "image": "https://image.tmdb.org/t/p/original/og42meOPOiq37wUSfQV0lqb1U0Q.jpg"
 }

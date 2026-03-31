@@ -1,147 +1,147 @@
 {
-  "referer": "https://indy.team-indy.net/",
-  "groups": [
-    {
-      "name": "Season 1",
-      "image": "https://m.media-amazon.com/images/M/MV5BNWM1ZjVkZmQtOTYzOC00Yzg3LTlmZjgtNDc5ZWZmYTU2ZjVkXkEyXkFqcGc@._V1_FMjpg_UX387_.jpg",
-      "groups": [
+    "referer": "https://indy.team-indy.net/",
+    "groups": [
         {
-          "name": "พากย์ไทย",
-          "info": "เภสัชกรเทพสองโลก",
-          "image": "https://m.media-amazon.com/images/M/MV5BNjc0NTg1ZTYtODViMi00NzI4LThkZjctMTEyOGJiMjhkYWY1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-          "stations": [
-            {
-              "name": "ตอน 1 - A Reincarnated Pharmacologist and a Parallel World",
-              "image": "https://m.media-amazon.com/images/M/MV5BYjI3OTIyMmItMzhkYi00NjRjLWFiMjEtYjMzZDNhMTM3Y2FiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/896mlUnVSB/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 2 - Master and Apprentice",
-              "image": "https://m.media-amazon.com/images/M/MV5BNGYxMTQ5ZmQtZTUwMS00OTEyLTk4NTUtYjU3M2U4N2JkNTkzXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/DdwEVfjE/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 3 - The Chief Royal Pharmacian and the Reincarnated Pharmacologist",
-              "image": "https://m.media-amazon.com/images/M/MV5BNjdjMDUzZDAtMGRmYy00YmMwLTg0NWUtNThjNTBmYmFlYWM5XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/AtEJxYVnKG/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 4 - The Empress and an Imperial Charter",
-              "image": "https://m.media-amazon.com/images/M/MV5BZGIzYmFiMzYtMjdhZS00YTg5LWE0NzAtMWNkOTAzMmJiY2VmXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/oI16ryTHP1/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 5 - Daily Life at Parallel World Pharmacy and Cosmetics",
-              "image": "https://m.media-amazon.com/images/M/MV5BOTdhNzMyNGQtYWRjYi00MzdjLThjZGQtMGI4ZDFmNjIxYTBkXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/9ad80DBTlg/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 6 - Siblings and the Sea",
-              "image": "https://m.media-amazon.com/images/M/MV5BZjIwYTYwNWItYmI3NC00MjlkLWFiYmQtNjMwYWVkMGIxZGRiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/hzJKUQfkrr/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 7 - The Boy with No Shadow and the Inquisitors",
-              "image": "https://m.media-amazon.com/images/M/MV5BN2FlNDY3YjQtMmYzNy00NjkwLWEzY2UtZmFhNzQyZTQwODQ2XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/JGoN1VrDJe/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 8 - Influenza and the Dawn of a Pharmacy",
-              "image": "https://m.media-amazon.com/images/M/MV5BYzcxNWI4MDAtNjNhMC00OTUzLWFhZGMtNGU5ZGUyNGUwMzJlXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/J2jaXaDJwZ/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 9 - The Story of a Certain Wicked Man",
-              "image": "https://m.media-amazon.com/images/M/MV5BNTg1ZWQxYjYtZTc3Zi00MmQxLWFjYmUtNWE5ZjFlMjBmNmU3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/Rvt3t8AbZ/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 10 - The Black Death",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTJiODNiYjEtMzhmMS00NjQ3LWE3MDgtODBiNjk1ZjA1NDAzXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/v2HG4Uyl4h/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 11 - The Miracle at L'Estacque",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTcyNTkwYzItMjI0Ni00ZjAxLWEzODEtMzQ4ZDljMTkxZThhXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/dch74yww/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "ตอน 12 - Those He Couldn't Cure",
-              "image": "https://m.media-amazon.com/images/M/MV5BOTBlYTkzN2UtOTZiOC00NTJhLTlmMzUtNjUzY2QyNjI5MjcxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/3M9reCMSGF/video.mp4/playlist.m3u8"
-            }
-          ]
-        },
-        {
-          "name": "Sub Thai",
-          "info": "Isekai Yakkyoku",
-          "image": "https://m.media-amazon.com/images/M/MV5BNWM1ZjVkZmQtOTYzOC00Yzg3LTlmZjgtNDc5ZWZmYTU2ZjVkXkEyXkFqcGc@._V1_FMjpg_UX387_.jpg",
-          "stations": [
-            {
-              "name": "Ep. 1 - A Reincarnated Pharmacologist and a Parallel World",
-              "image": "https://m.media-amazon.com/images/M/MV5BYjI3OTIyMmItMzhkYi00NjRjLWFiMjEtYjMzZDNhMTM3Y2FiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/MvxbFHAI/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 2 - Master and Apprentice",
-              "image": "https://m.media-amazon.com/images/M/MV5BNGYxMTQ5ZmQtZTUwMS00OTEyLTk4NTUtYjU3M2U4N2JkNTkzXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/O4Z9iZb8/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 3 - The Chief Royal Pharmacian and the Reincarnated Pharmacologist",
-              "image": "https://m.media-amazon.com/images/M/MV5BNjdjMDUzZDAtMGRmYy00YmMwLTg0NWUtNThjNTBmYmFlYWM5XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/6dT9FSEP/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 4 - The Empress and an Imperial Charter",
-              "image": "https://m.media-amazon.com/images/M/MV5BZGIzYmFiMzYtMjdhZS00YTg5LWE0NzAtMWNkOTAzMmJiY2VmXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/90FrV3m9/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 5 - Daily Life at Parallel World Pharmacy and Cosmetics",
-              "image": "https://m.media-amazon.com/images/M/MV5BOTdhNzMyNGQtYWRjYi00MzdjLThjZGQtMGI4ZDFmNjIxYTBkXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/lbUHZ7fa/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 6 - Siblings and the Sea",
-              "image": "https://m.media-amazon.com/images/M/MV5BZjIwYTYwNWItYmI3NC00MjlkLWFiYmQtNjMwYWVkMGIxZGRiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/CuQONQb5/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 7 - The Boy with No Shadow and the Inquisitors",
-              "image": "https://m.media-amazon.com/images/M/MV5BN2FlNDY3YjQtMmYzNy00NjkwLWEzY2UtZmFhNzQyZTQwODQ2XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/4QCW7n1t/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 8 - Influenza and the Dawn of a Pharmacy",
-              "image": "https://m.media-amazon.com/images/M/MV5BYzcxNWI4MDAtNjNhMC00OTUzLWFhZGMtNGU5ZGUyNGUwMzJlXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/ijF9QvgF/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 9 - The Story of a Certain Wicked Man",
-              "image": "https://m.media-amazon.com/images/M/MV5BNTg1ZWQxYjYtZTc3Zi00MmQxLWFjYmUtNWE5ZjFlMjBmNmU3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/5j9wEffZ/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 10 - The Black Death",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTJiODNiYjEtMzhmMS00NjQ3LWE3MDgtODBiNjk1ZjA1NDAzXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/rQDxLpcE/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 11 - The Miracle at L'Estacque",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTcyNTkwYzItMjI0Ni00ZjAxLWEzODEtMzQ4ZDljMTkxZThhXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/22qqaekE/video.mp4/playlist.m3u8"
-            },
-            {
-              "name": "Ep. 12 - Those He Couldn't Cure",
-              "image": "https://m.media-amazon.com/images/M/MV5BOTBlYTkzN2UtOTZiOC00NTJhLTlmMzUtNjUzY2QyNjI5MjcxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/Ci9eYnBw/video.mp4/playlist.m3u8"
-            }
-          ]
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/7cQr4wZ7vaRyZR7HS6FneZlKDt.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "เภสัชกรเทพสองโลก",
+                    "image": "https://image.tmdb.org/t/p/original/7cQr4wZ7vaRyZR7HS6FneZlKDt.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - A Reincarnated Pharmacologist and a Parallel World",
+                            "image": "https://image.tmdb.org/t/p/original/sOLgXvJ0N2A2oqlT3saDN3XPyvb.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/896mlUnVSB/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 2 - Master and Apprentice",
+                            "image": "https://image.tmdb.org/t/p/original/vmSRSt1QCrt2XSyPh03PvzhqJkS.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/DdwEVfjE/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 3 - The Chief Royal Pharmaceutist and the Reincarnated Pharmacologist",
+                            "image": "https://image.tmdb.org/t/p/original/oSXy2nPHbKIkk9gt1AUcVOruzBJ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/AtEJxYVnKG/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 4 - The Empress and an Imperial Charter",
+                            "image": "https://image.tmdb.org/t/p/original/8T6TOEaQL1knDbTOrQcLbobkYuW.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/oI16ryTHP1/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 5 - Daily Life at Parallel World Pharmacy and Cosmetics",
+                            "image": "https://image.tmdb.org/t/p/original/aNaidcZB8yJ2UUgKmTt1daPEFtH.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/9ad80DBTlg/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 6 - Siblings and the Sea",
+                            "image": "https://image.tmdb.org/t/p/original/rKfWZvbeJklPG2q5bBUMBIol7Qy.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/hzJKUQfkrr/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 7 - The Boy with No Shadow and the Inquisitors",
+                            "image": "https://image.tmdb.org/t/p/original/q2a39ej9AO6dREkKrpNunOJBigg.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/JGoN1VrDJe/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 8 - Influenza and The Dawn of Pharmacy",
+                            "image": "https://image.tmdb.org/t/p/original/v1WIqaY6tb46HvCLSON1laJaH0.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/J2jaXaDJwZ/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 9 - The Story of a Certain Wicked Man",
+                            "image": "https://image.tmdb.org/t/p/original/wbCymWSzUEf0wDbJ36nPYUGTTxX.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Rvt3t8AbZ/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 10 - The Black Death",
+                            "image": "https://image.tmdb.org/t/p/original/kTR3Z6Is9nXUOBMGwmvgSzqDtxa.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/v2HG4Uyl4h/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 11 - The Miracle at L'Estacque",
+                            "image": "https://image.tmdb.org/t/p/original/mbK3hJwmabaB5wM7597dC2UULfU.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/dch74yww/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 12 - Those He Couldn't Cure",
+                            "image": "https://image.tmdb.org/t/p/original/fFGDE3Y0q7Fd7tThHFRXKeoXeap.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/3M9reCMSGF/video.mp4/playlist.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "ซับไทย",
+                    "info": "Isekai Yakkyoku",
+                    "image": "https://image.tmdb.org/t/p/original/7cQr4wZ7vaRyZR7HS6FneZlKDt.jpg",
+                    "stations": [
+                        {
+                            "name": "Ep. 1 - A Reincarnated Pharmacologist and a Parallel World",
+                            "image": "https://image.tmdb.org/t/p/original/sOLgXvJ0N2A2oqlT3saDN3XPyvb.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/MvxbFHAI/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 2 - Master and Apprentice",
+                            "image": "https://image.tmdb.org/t/p/original/vmSRSt1QCrt2XSyPh03PvzhqJkS.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/O4Z9iZb8/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 3 - The Chief Royal Pharmaceutist and the Reincarnated Pharmacologist",
+                            "image": "https://image.tmdb.org/t/p/original/oSXy2nPHbKIkk9gt1AUcVOruzBJ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/6dT9FSEP/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 4 - The Empress and an Imperial Charter",
+                            "image": "https://image.tmdb.org/t/p/original/8T6TOEaQL1knDbTOrQcLbobkYuW.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/90FrV3m9/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 5 - Daily Life at Parallel World Pharmacy and Cosmetics",
+                            "image": "https://image.tmdb.org/t/p/original/aNaidcZB8yJ2UUgKmTt1daPEFtH.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/lbUHZ7fa/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 6 - Siblings and the Sea",
+                            "image": "https://image.tmdb.org/t/p/original/rKfWZvbeJklPG2q5bBUMBIol7Qy.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/CuQONQb5/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 7 - The Boy with No Shadow and the Inquisitors",
+                            "image": "https://image.tmdb.org/t/p/original/q2a39ej9AO6dREkKrpNunOJBigg.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/4QCW7n1t/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 8 - Influenza and The Dawn of Pharmacy",
+                            "image": "https://image.tmdb.org/t/p/original/v1WIqaY6tb46HvCLSON1laJaH0.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ijF9QvgF/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 9 - The Story of a Certain Wicked Man",
+                            "image": "https://image.tmdb.org/t/p/original/wbCymWSzUEf0wDbJ36nPYUGTTxX.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/5j9wEffZ/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 10 - The Black Death",
+                            "image": "https://image.tmdb.org/t/p/original/kTR3Z6Is9nXUOBMGwmvgSzqDtxa.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/rQDxLpcE/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 11 - The Miracle at L'Estacque",
+                            "image": "https://image.tmdb.org/t/p/original/mbK3hJwmabaB5wM7597dC2UULfU.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/22qqaekE/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 12 - Those He Couldn't Cure",
+                            "image": "https://image.tmdb.org/t/p/original/fFGDE3Y0q7Fd7tThHFRXKeoXeap.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Ci9eYnBw/video.mp4/playlist.m3u8"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    }
-  ],
-  "name": "Isekai Yakkyoku [เภสัชกรเทพสองโลก]",
-  "image": "https://m.media-amazon.com/images/M/MV5BNWM1ZjVkZmQtOTYzOC00Yzg3LTlmZjgtNDc5ZWZmYTU2ZjVkXkEyXkFqcGc@._V1_FMjpg_UX387_.jpg"
+    ],
+    "name": "Parallel World Pharmacy [เภสัชกรเทพสองโลก]",
+    "image": "https://image.tmdb.org/t/p/original/52PZhMEggFTd4YBsnpDZZLW44xQ.jpg"
 }

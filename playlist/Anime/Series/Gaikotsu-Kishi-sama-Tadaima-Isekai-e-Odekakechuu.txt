@@ -1,166 +1,166 @@
 {
-    "name": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu [บันทึกการเดินทางต่างโลกของท่านอัศวินกระดูก]",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+    "name": "Skeleton Knight in Another World [บันทึกการเดินทางต่างโลกของท่านอัศวินกระดูก]",
+    "image": "https://image.tmdb.org/t/p/original/jMhzjbRI1iL2ENtMnS3Zm3DBAJw.jpg",
     "groups": [
         {
             "name": "Season 1",
-            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+            "image": "https://image.tmdb.org/t/p/original/dW2wXawLy0uwCHfakogAl2Vtwjk.jpg",
             "groups": [
                 {
                     "name": "พากย์ไทย",
                     "info": "บันทึกการเดินทางต่างโลกของท่านอัศวินกระดูก",
-                    "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "image": "https://image.tmdb.org/t/p/original/dW2wXawLy0uwCHfakogAl2Vtwjk.jpg",
                     "stations": [
                         {
-                            "name": "ตอน 1 - The Wandering Knight Sets Out to Make the World a Better Place",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/206847",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "ตอน 1 - อัศวินพเนจร ออกเดินทางสู่การทำให้โลกน่าอยู่ขึ้น",
+                            "image": "https://image.tmdb.org/t/p/original/fBtVIQiLuLWHJlqeKphBWXMXGsd.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/aDibPRBu/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
-                            "name": "ตอน 2 - A First Job, a Girl's Wish, and an Approaching Shadow",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/206850",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "ตอน 2 - งานแรก ความปรารถนาของสาวน้อยกับเงามืดที่คืบคลานเข้ามา",
+                            "image": "https://image.tmdb.org/t/p/original/um10LevdXEI0R2AYptydlueHcpc.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/KR01LChw/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
-                            "name": "ตอน 3 - An Austere Elf Dances for Her Comrades",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/206853",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "ตอน 3 - เอลฟ์ผู้สง่างาม ร่ายรำเพื่อสหายร่วมเผ่า",
+                            "image": "https://image.tmdb.org/t/p/original/lZ7YvC4uIYemSJupsZjOoOLjqi6.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/onwewCPH/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
-                            "name": "ตอน 4 - Infiltrating the Slave Market!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/206856",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "ตอน 4 - ลอบเข้าฐานขบวนการค้าทาส! ตามหาความชั่วร้ายที่อยู่บนโลกนี้ซะ",
+                            "image": "https://image.tmdb.org/t/p/original/rHHR4PqUUz1QW4TOhPbOnFYIwUq.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Vd0SpEg/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
-                            "name": "ตอน 5 - A Secret Revealed, and a Bond Forged",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/206859",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "ตอน 5 - ความลับที่ถูกเปิดเผยกับสายสัมพันธ์ที่ถูกถักทอ",
+                            "image": "https://image.tmdb.org/t/p/original/ni7FhGMJIibku27F0e5RUdAg5Yv.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/XsJtM85F/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
-                            "name": "ตอน 6 - Learning About the Darkness of This World at the Elf Village",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/206862",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "ตอน 6 - ห้วงลึกของต่างโลกที่สัมผัสในหมู่บ้านเอลฟ์",
+                            "image": "https://image.tmdb.org/t/p/original/zVnOTb0k3UAr7x5pQiqOBvK4jRY.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/mQGZqkCo/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
-                            "name": "ตอน 7 - A Miracle for the High-Minded Princess",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/206865",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "ตอน 7 - ปาฏิหาริย์มาหาเจ้าหญิงผู้ไล่ตามอุดมการณ์แล้ว",
+                            "image": "https://image.tmdb.org/t/p/original/dfJ7Yf0EyIfj5npoevyVyPhHElU.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/VqBIOboR/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
-                            "name": "ตอน 8 - Allied! Dashing Through the Darkness With the Beastpeople!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/206868",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "ตอน 8 - ต่อสู้ร่วมกัน! ฝ่าค่ำคืนอันมืดมิดไปพร้อมกับสหายมนุษย์สัตว์",
+                            "image": "https://image.tmdb.org/t/p/original/4w6Si1ZKUftG18L6CxOYtaGmnLc.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/PgXsrhWD/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
-                            "name": "ตอน 9 - The Capital in Chaos and a Maiden's Oath",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/206871",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "ตอน 9 - เมืองหลวงที่สั่นคลอนกับคำสาบานของหญิงสาว",
+                            "image": "https://image.tmdb.org/t/p/original/rZUtXhlhizgXbt2r9LSSkgn56bb.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/miIfKIyu/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
-                            "name": "ตอน 10 - Hope for the Future Found in the Desert",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/206874",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "ตอน 10 - ความหวังสู่วันพรุ่งนี้ที่ก่อตัวในทะเลทราย",
+                            "image": "https://image.tmdb.org/t/p/original/n9yhihLfyCxjYBfsCbHpwipWIcy.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/9stb9fZa/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
-                            "name": "ตอน 11 - The Monster-Taming Barbarian Laughs in the Darkness",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/206877",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "ตอน 11 - ผู้ใช้สัตว์อสูรป่าเถื่อนที่หัวเราะในความมืด",
+                            "image": "https://image.tmdb.org/t/p/original/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/pK4BUBzT/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
-                            "name": "ตอน 12 - I Shall Cut Through the World's Evils!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/206880",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "ตอน 12 - ความชั่วร้ายบนโลกนี้ ข้าจะฟันมันให้หมด!",
+                            "image": "https://image.tmdb.org/t/p/original/9k5pk3KOgjsDrBCwLiv93XSmQfr.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/jMgaoEP/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         }
                     ]
                 },
                 {
                     "name": "ซับไทย",
                     "info": "บันทึกการเดินทางต่างโลกของท่านอัศวินกระดูก",
-                    "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "image": "https://image.tmdb.org/t/p/original/dW2wXawLy0uwCHfakogAl2Vtwjk.jpg",
                     "stations": [
                         {
                             "name": "Ep. 1 - The Wandering Knight Sets Out to Make the World a Better Place",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/183793",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/fBtVIQiLuLWHJlqeKphBWXMXGsd.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/uljamjil/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
-                            "name": "Ep. 2 - A First Job, a Girl's Wish, and an Approaching Shadow",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/183925",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "Ep. 2 - A First Job, a Girl's Wish and an Approaching Shadow",
+                            "image": "https://image.tmdb.org/t/p/original/um10LevdXEI0R2AYptydlueHcpc.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/H45Qnmq7/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 3 - An Austere Elf Dances for Her Comrades",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/184066",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/lZ7YvC4uIYemSJupsZjOoOLjqi6.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/qqSqenu/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
-                            "name": "Ep. 4 - Infiltrating the Slave Market!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/184217",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "Ep. 4 - Infiltrating the Slave Market!  In Search of the Worlds Evil",
+                            "image": "https://image.tmdb.org/t/p/original/rHHR4PqUUz1QW4TOhPbOnFYIwUq.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/JfIyzw1n/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 5 - A Secret Revealed, and a Bond Forged",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/184370",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/ni7FhGMJIibku27F0e5RUdAg5Yv.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/uM8Ze5Sk/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 6 - Learning About the Darkness of This World at the Elf Village",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/184614",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/zVnOTb0k3UAr7x5pQiqOBvK4jRY.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/VqlbFZOI/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 7 - A Miracle for the High-Minded Princess",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/184766",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/dfJ7Yf0EyIfj5npoevyVyPhHElU.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/KoDAv0yK/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
-                            "name": "Ep. 8 - Allied! Dashing Through the Darkness With the Beastpeople!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/184934",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "Ep. 8 - Allied! Dashing Through the Darkness with the Beastpeople!",
+                            "image": "https://image.tmdb.org/t/p/original/4w6Si1ZKUftG18L6CxOYtaGmnLc.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/IEBuBllo/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 9 - The Capital in Chaos and a Maiden's Oath",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/185110",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/rZUtXhlhizgXbt2r9LSSkgn56bb.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/QBXyh9Pc/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 10 - Hope for the Future Found in the Desert",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/185298",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/n9yhihLfyCxjYBfsCbHpwipWIcy.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/0tTxh8V0/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 11 - The Monster-Taming Barbarian Laughs in the Darkness",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/185483",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/gtbN6GED/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
-                            "name": "Ep. 12 - I Shall Cut Through the World's Evils!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/185841",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "Ep. 12 - I Shall Cut Through the World’s Evils!",
+                            "image": "https://image.tmdb.org/t/p/original/9k5pk3KOgjsDrBCwLiv93XSmQfr.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Qo5ccacL/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         }
                     ]
                 }

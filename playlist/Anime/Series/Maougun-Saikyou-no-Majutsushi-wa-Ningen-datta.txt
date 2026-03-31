@@ -1,0 +1,90 @@
+{
+    "name": "The Strongest Magician in the Demon Lord's Army Was a Human [จอมเวทมนุษย์ในกองทัพจอมมาร]",
+    "image": "https://image.tmdb.org/t/p/original/1ANATsXdWWJzsSI5GKp1cot6jRe.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/frCl8eWd4y4nUT6etOOILmz8Ozm.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/frCl8eWd4y4nUT6etOOILmz8Ozm.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - หัวหน้ากองพลอมตะ ไอค์",
+                            "image": "https://image.tmdb.org/t/p/original/opcqmO0abfOyeggfGR5CdFiAaEh.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F4218c4c1666840d2b219c7d1756dc10f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - หัวหน้ากองอัศวินกุหลาบขาว อลิสเทีย",
+                            "image": "https://image.tmdb.org/t/p/original/m8YBslE30D5rYTVblclpTuannvC.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff235b3dad13af7c88c59b1f3f4cbadcb%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - คนทรยศ",
+                            "image": "https://image.tmdb.org/t/p/original/vshvVzVlgrfuCXdG0IwL1S7K8j9.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fee9c9c566a869c005f5d314704910d59%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - ประลอง",
+                            "image": "https://image.tmdb.org/t/p/original/kSfiu48yYmTMzWBoS4QBHWRWtus.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8d42752154affb60a7ab137f46f89118%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - ความทะเยอทะยาน",
+                            "image": "https://image.tmdb.org/t/p/original/vutvazwX6bIN3BlEuYprYwhb4ae.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fcd69f1dd0c7dc6ebde1464ea2e19376f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - ราชาแห่งดวาฟว์",
+                            "image": "https://image.tmdb.org/t/p/original/zZdsBVsGJJRPhIB6FRT93QornE6.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F90422458daaef34a3b99b1fd5e974176%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - War Begins",
+                            "image": "https://image.tmdb.org/t/p/original/m7nxq4a5ff5U8BLwiViASDGFcQr.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F583bb78e6c2aa80a61a5662fad24d131%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - The Final Battle at Ivalias",
+                            "image": "https://image.tmdb.org/t/p/original/1JfGNbNFHvC4kstduMbUwBmgkIR.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fa884f3ab5cbab8ab44f3d9edfdbccae4%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - Negotiations",
+                            "image": "https://image.tmdb.org/t/p/original/4nYPQe6Y3pvHdD36b4pLrIYfDRI.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F4a1d769da42b517350d64aba4387d0d4%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Pirates",
+                            "image": "https://image.tmdb.org/t/p/original/54toDEwFuTzvn5X8uXzYUFXEBK1.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F203723137c08b48e589dde404501eda7%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Cefiro is Defeated",
+                            "image": "https://image.tmdb.org/t/p/original/hp1RsUQKxPyqVteNDAp620NrbJ4.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Feb7fe2c64b269538ef80017b90ced7dd%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - General E. Rudle",
+                            "image": "https://image.tmdb.org/t/p/original/wYVsvynK7DFXC5ksMLuom5GWn6I.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Facd59eef2a58cc62e817e308ee04daf5%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

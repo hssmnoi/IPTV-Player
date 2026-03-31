@@ -1,166 +1,166 @@
 {
-    "name": "Yasei no Last Boss ga Arawareta! [อุบัติการณ์ลาสบอสสุดแกร่ง]",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+    "name": "A Wild Last Boss Appeared! [อุบัติการณ์ลาสบอสสุดแกร่ง]",
+    "image": "https://image.tmdb.org/t/p/original/xh9lu8gDgzwMBiByTRtTsclluZf.jpg",
     "groups": [
         {
             "name": "Season 1",
-            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+            "image": "https://image.tmdb.org/t/p/original/9dhoMwDpkJm5dsSIiHMPl7or76t.jpg",
             "groups": [
                 {
                     "name": "พากย์ไทย",
                     "info": "อุบัติการณ์ลาสบอสสุดแกร่ง",
-                    "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "image": "https://image.tmdb.org/t/p/original/9dhoMwDpkJm5dsSIiHMPl7or76t.jpg",
                     "stations": [
                         {
                             "name": "ตอน 1 - A Wild Last Boss Appears!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/222950",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/uDTLOqtaE1H4axibZzOnPX4kHtA.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ifVl8f1Fa/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 2 - We Came to Svel!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/222952",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/AndiDmVhP0muuAHRrzVPjsESkka.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/dc0WcNzfBh/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 3 - Aries Has Attacked!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/223212",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/9OOeOSXfqtxf6X7faz5vyGEojj1.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/MCAaOOgO/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 4 - They Were Pulling Strings Behind the Scenes!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/223478",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/mvQFaxwrfnQgtfvnwySGAUFKdlo.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/GpoPq7QZ9G/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 5 - A Wild Hot Spring Appeared!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/223686",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/bt0XJC7RAx0jOxpwRNZwy0NUu3b.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/rY5BOpMRl6/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 6 - Libra of the Scales Appeared!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/223881",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/7Kgs5XIkDCnojzQSn7o4aZUzkmo.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/iCGlO0SRTL/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 7 - I was... a Savior!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/224095",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/tdHzZwRficaoDuKmy6IVOgiSg7Y.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ZSbepDW8ir/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 8 - Hey! 5%?! Seriously?!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/224279",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/v3paPl8HYUxM0TZSzH7tWiDbSTX.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/cngMaXZHwv/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 9 - The Masses Have Rioted!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/224514",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/h3lpDTbZjlSWuOsocGGsPNpxG3x.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/kALU1pOC5T/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
-                            "name": "ตอน 10 - Who Are You!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/224728",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "ตอน 10 - Who Are You?",
+                            "image": "https://image.tmdb.org/t/p/original/ersEJLiKDluMwMtAZE3DbKKqBlj.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/RQGjrMq3e/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 11 - A Wild Lufas Maphaal And a Wild Devil King Have Appeared at the Same Time!!!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/224917",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/lvwEIHZoCevCh7qRJMPzxfMVUrD.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/kFcAzYgAsF/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "ตอน 12 - There Was Something Incredible in My Homeland!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/225000",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/AnRfkHBnaFIPjuLTAMwKNctBQO4.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/e3r8QaPc87/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         }
                     ]
                 },
                 {
                     "name": "ซับไทย",
                     "info": "อุบัติการณ์ลาสบอสสุดแกร่ง",
-                    "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "image": "https://image.tmdb.org/t/p/original/9dhoMwDpkJm5dsSIiHMPl7or76t.jpg",
                     "stations": [
                         {
                             "name": "Ep. 1 - A Wild Last Boss Appears!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/221999",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/uDTLOqtaE1H4axibZzOnPX4kHtA.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/yIpTQVqcOR/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 2 - We Came to Svel!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/222149",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/AndiDmVhP0muuAHRrzVPjsESkka.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Gw6d4mpZLO/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 3 - Aries Has Attacked!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/222525",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/9OOeOSXfqtxf6X7faz5vyGEojj1.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ZRfbxW0iy3/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 4 - They Were Pulling Strings Behind the Scenes!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/222702",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/mvQFaxwrfnQgtfvnwySGAUFKdlo.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/dNCABj8qMT/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 5 - A Wild Hot Spring Appeared!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/222948",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/bt0XJC7RAx0jOxpwRNZwy0NUu3b.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/iUyVw3VZgz/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 6 - Libra of the Scales Appeared!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/223214",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/7Kgs5XIkDCnojzQSn7o4aZUzkmo.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/cLc0kgKE7/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 7 - I was... a Savior!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/223441",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/tdHzZwRficaoDuKmy6IVOgiSg7Y.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/8lBl65XJ4m/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 8 - Hey! 5%?! Seriously?!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/223653",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/v3paPl8HYUxM0TZSzH7tWiDbSTX.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/oPCKwYfl5T/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 9 - The Masses Have Rioted!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/223862",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/h3lpDTbZjlSWuOsocGGsPNpxG3x.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/J8vLUYTWfA/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
-                            "name": "Ep. 10 - Who Are You!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/224093",
-                            "referer": "https://www.anime-seven.com/"
+                            "name": "Ep. 10 - Who Are You?",
+                            "image": "https://image.tmdb.org/t/p/original/ersEJLiKDluMwMtAZE3DbKKqBlj.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/BIXFyFUexJ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 11 - A Wild Lufas Maphaal And a Wild Devil King Have Appeared at the Same Time!!!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/224281",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/lvwEIHZoCevCh7qRJMPzxfMVUrD.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/3n7MWY86Gu/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         },
                         {
                             "name": "Ep. 12 - There Was Something Incredible in My Homeland!",
-                            "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-                            "url": "https://www.anime-seven.com/playery/224512",
-                            "referer": "https://www.anime-seven.com/"
+                            "image": "https://image.tmdb.org/t/p/original/AnRfkHBnaFIPjuLTAMwKNctBQO4.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/AqePe6mWfz/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
                         }
                     ]
                 }

@@ -1,0 +1,96 @@
+{
+    "name": "Sankarea: Undying Love [ซังกะเรอา ซอมบี้โมเอะ]",
+    "image": "https://image.tmdb.org/t/p/original/onnBtLYwC1snOARDGhGoJ4x3ZX6.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/tksIwtOg3Rb6k5A0QjGP9ZdjMts.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/tksIwtOg3Rb6k5A0QjGP9ZdjMts.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - หากฉัน...กลายเป็น...ซอมบี้",
+                            "image": "https://image.tmdb.org/t/p/original/vbjwHVRlQEcgb5xQ5R3GwMQGdjN.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F3e3017ceb69ba8548611a7308b60da29%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - สำเร็จ…จนได้",
+                            "image": "https://image.tmdb.org/t/p/original/htB2W26IexGMhQwimnqWoWtP0f1.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F4aff3072010b9b25e7e111fed8eb0acd%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - ซังกะ...เรอา",
+                            "image": "https://image.tmdb.org/t/p/original/AhRHyRZPQ961u17vN07zINTEdAX.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd5e65c7486dc063dd23d8aee6be1b3a1%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - เด็กผู้หญิง...ธรรมดา",
+                            "image": "https://image.tmdb.org/t/p/original/f5SpyUB1mNI3G0oJyHB3xmjH87H.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Feaf5a63337afc9139bf78d158364ed20%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - ซอมบี้...กินอะไร",
+                            "image": "https://image.tmdb.org/t/p/original/epmb5jIz2SBYrAaHcV5abeYNNfB.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F55cf78aea6cefb577098febb5deeaa0d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - เพราะว่า...ได้เจอเธอ",
+                            "image": "https://image.tmdb.org/t/p/original/moItF9dOUxsV89zc8zf5cZKSpAr.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F92446f3ada2ceb8a568d4ee754b6e064%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - เพื่อน....สมัยเด็ก....",
+                            "image": "https://image.tmdb.org/t/p/original/8ddDdiAJT3UYLRM3k0Y7uheT6GM.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F48d9ca20e681fa61b5c087c384f90d52%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - อิสระ…จอมปลอม…",
+                            "image": "https://image.tmdb.org/t/p/original/bonkUNiLsqw3v7UdNZ1CxwUxAHX.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffab0790166f753fa9445d07ebf2d14f9%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - มือ…ของแม่…",
+                            "image": "https://image.tmdb.org/t/p/original/cf7czOLJvvhY5fmlDe9QS9jCA9j.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F3e94683b0228846f26cc6ae443a867e8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - ความปรารถนา...อันแรงกล้า",
+                            "image": "https://image.tmdb.org/t/p/original/uYalYwm2KCzac1qo5hyzEFkI2F0.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc45bb5c289f905e8b2caec6eca0d7f36%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - ฉันไม่ได้...วิเศษมาจากไหน..",
+                            "image": "https://image.tmdb.org/t/p/original/cD8AE5ncQKwO5qlqL0zXon2BOyA.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe1e9ca742b29c49dadd29afa3bfb5486%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - ณ ตอนนั้น ฉัน…",
+                            "image": "https://image.tmdb.org/t/p/original/xewNt3OPMwpnSW87l3uYvzDA7vk.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1e4eac2dcd69eff0afa654465f0a75bc%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 13",
+                            "image": "https://www.anime-kimi.com/wp-content/uploads/2026/01/Sankarea-ซังกะเรอา-มนต์รักซอมบี้สาวโมเอะ-พากย์ไทย-300x170.webp",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0e6cbfaf735600b85b5ebff48bd1e450%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

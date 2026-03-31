@@ -1,0 +1,102 @@
+{
+    "name": "Angel Beats! [แองเจิลบีทส์! แผนพิชิตนางฟ้า]",
+    "image": "https://image.tmdb.org/t/p/original/wz1PuXrg5ERQvyXKex3cGDie2hj.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/8PAnzwHqp0cO2EYWpYGxLAAW4CD.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/8PAnzwHqp0cO2EYWpYGxLAAW4CD.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - Departure",
+                            "image": "https://image.tmdb.org/t/p/original/seOnRGCNCN8FR58a6VgEltscSvp.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F31effb70057e4448740fac0546ab592c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - Guild",
+                            "image": "https://image.tmdb.org/t/p/original/wZZTqUxFAplf7dKKwdIWU1LGYd4.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F2d3b9ac3ab9dc89ebc405ee247b699df%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - My Song",
+                            "image": "https://image.tmdb.org/t/p/original/npyiZDN1tpAac31QCNtLTAmverL.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd824b30e7d7c3ab02b118f1c248c4c1a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - Day Game",
+                            "image": "https://image.tmdb.org/t/p/original/u59Hy3ghStbpkKtjNSPdbZd9yIq.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe99a31fd25acc4146078744287b2d959%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - Favorite Flavor",
+                            "image": "https://image.tmdb.org/t/p/original/6UQK0QWpuDPcjY4yS3jTIW9erv7.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fade3ac3c59585d7281da9a77cd423cbf%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - Family Affair",
+                            "image": "https://image.tmdb.org/t/p/original/pVEBrP1FKcMyiQBZyaEP7CXz1Oi.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F70194454b417f76b8896fe4f03ea98d0%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - Alive",
+                            "image": "https://image.tmdb.org/t/p/original/v5qsXlHOPzBpthAL0Z2aHpiq2jy.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd3d4f5323dab27d1ab87641f40e8aaf4%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - Dancer in the Dark",
+                            "image": "https://image.tmdb.org/t/p/original/3VXmqw9lMETGWoulUGf9WJkBm4Q.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F6fa99dbb87f3d1fc865d5681c0d39240%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - In Your Memory",
+                            "image": "https://image.tmdb.org/t/p/original/thDLv8fBSsQr03QtYqCj0iNQeDU.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb9d537352fbd4fc71960cbd44f5084aa%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Goodbye Days",
+                            "image": "https://image.tmdb.org/t/p/original/e10GjZ5ACGtBheCVh4KxKn0PT3q.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fdd9b40a8d1cd2c78d575838259a82f10%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Change the World",
+                            "image": "https://image.tmdb.org/t/p/original/7OqcK6YHbPIE14Jk55Kv9ROkJn1.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff4b5f5b91eb08b68f4d74a6b15420fa3%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - Knockin' on Heaven's Door",
+                            "image": "https://image.tmdb.org/t/p/original/xAa0RvxFt0dRtyMTYGKRoDKyR6z.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1b49452433e55cb1f4b5bbc8cb89d3a6%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 13 - Graduation",
+                            "image": "https://image.tmdb.org/t/p/original/yjTLgi8JrocMNXTTXNLF9YDMRh3.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd288887dc61e5beb95f082e54551548d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 14",
+                            "image": "https://www.anime-kimi.com/wp-content/uploads/2026/01/ld5fQq1PltjjLbWVww6KBV79DLt-300x170.webp",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fccfac3920c46e90b5fec5ed93336e366%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
