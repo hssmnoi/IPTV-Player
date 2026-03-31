@@ -1,0 +1,16 @@
+{
+  "name": "Black Clover: Sword Of The Wizard King แบล็คโคลเวอร์ ดาบแห่งจักรพรรดิเวทมนตร์",
+  "image": "https://m.media-amazon.com/images/M/MV5BOGIxZjZlZjUtODM0OC00NDJlLWI5ZjItNDg3MGJmODVmZWNhXkEyXkFqcGc@._V1_FMjpg_UY2222_.jpg",
+  "stations": [
+    {
+      "name": "พากย์ไทย",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGIxZjZlZjUtODM0OC00NDJlLWI5ZjItNDg3MGJmODVmZWNhXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+      "url": "https://hls.animeindy.com:8443/vid/wKMovVSQBO/video.mp4/playlist.m3u8"
+    },
+    {
+      "name": "ซับไทย",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGIxZjZlZjUtODM0OC00NDJlLWI5ZjItNDg3MGJmODVmZWNhXkEyXkFqcGc@._V1_FMjpg_UY2222_.jpg",
+      "url": "https://dlb02.dark-player.net/kwdata/5826c6cfee3fdbf24e5e747a7ed89cc7https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,640 @@
+{
+    "name": "Shangri-La Frontier [เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ]",
+    "image": "https://image.tmdb.org/t/p/original/aCGdpgNkgz66R1winFkTFsMAhlC.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/xjhFYCzH9l2j3eH7TVnj4qTam2f.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ",
+                    "image": "https://image.tmdb.org/t/p/original/xjhFYCzH9l2j3eH7TVnj4qTam2f.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - คุณเล่นเกมไปทำไม?",
+                            "image": "https://image.tmdb.org/t/p/original/cwOMKeIPzHO8Op8FezrL3oOHaDT.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Eqp7gVOIFv/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - ผู้มีเอกลักษณ์",
+                            "image": "https://image.tmdb.org/t/p/original/8qU5suic2xgx54CscaQnEGJw0CU.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/hBz4exJL57/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - หมาป่าทมิฬพิชิตราตรี",
+                            "image": "https://image.tmdb.org/t/p/original/9Y6qao7KeBA0UlcdVrmclR3SUPD.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/3YRbFucrN/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - ชำระล้างค่านิยมด้วยเกมกาก",
+                            "image": "https://image.tmdb.org/t/p/original/qdRbZFPYRJoTycMRYCC9afEwkt8.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/h1bqmUTNJ6/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - สุดท้ายแล้วคุณก็โดนล้อมไปด้วยคมหอก",
+                            "image": "https://image.tmdb.org/t/p/original/801UUNL5prJhGNuO5yE6dkiCHXj.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/AyxE1EomuX/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - ราชาอัศวินแห่งเครื่องเขียน",
+                            "image": "https://image.tmdb.org/t/p/original/wy656yWsHnqWKVeZfL9XMS2p4CE.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/0lql355fHL/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - สิ่งที่เหลืออยู่ของยุคสมัยแห่งพระเจ้า, ผู้แพ้ที่ยึดติด",
+                            "image": "https://image.tmdb.org/t/p/original/wVgQiWOwR38KW2Yg32nxG0oHRs8.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/oFmT8nUHsr/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - 300 ลิมิต บทเพลงแห่งความคลุ้มคลั่ง",
+                            "image": "https://image.tmdb.org/t/p/original/zudIBME8WHd8K4xp3DTcVAHdwQq.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/SKa4IXziQR/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - ทะเลไม้ที่สวยสง่า",
+                            "image": "https://image.tmdb.org/t/p/original/z4kItR68niGXJ8cWqLuImEydkyP.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/L4Fd7MtjnS/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - ปล้นสุสานกันเถอะ!!",
+                            "image": "https://image.tmdb.org/t/p/original/nen1lUA9HCXC8nIUDEOmXZmLZFZ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/mjyjabqFTJ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - แสงเจิดจรัสที่แท้จริง",
+                            "image": "https://image.tmdb.org/t/p/original/30kuWcgXImAyx34GdsbINMuyduN.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/E9um1fkXX/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - การเสียใจภายหลังจะเกิดขึ้นในอดีตเสมอ",
+                            "image": "https://image.tmdb.org/t/p/original/7NdNyHHGPm6tgTgghiWrxbD5kT0.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/7HSZr8Ltrc/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 13 - ที่อยู่ตรงนั้นมีแค่ความอาวรณ์",
+                            "image": "https://image.tmdb.org/t/p/original/qqZFExzjqSFMikALqFlsKU7zsis.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/iq7puGDVbE/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 14 - เล็กน้อย",
+                            "image": "https://image.tmdb.org/t/p/original/reZZzRAJ9DCUrIEv2rb6nbz1bPF.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/DWXl4RbRCv/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 15 - ทุ่มเทความรู้สึกในชั่วพริบตา พาร์ทหนึ่ง",
+                            "image": "https://image.tmdb.org/t/p/original/28TnUtcCtgaFbut5SLwZysObGGT.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/IpP082Bwe5/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 16 - หมาป่าทมิฬพิชิตราตรี",
+                            "image": "https://image.tmdb.org/t/p/original/3Fm7PCgMZ76OhwMRtdC8E53Na9k.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/aBo8QQLw2o/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 17 - ทุ่มเทความรู้สึกในชั่วพริบตา พาร์ทสาม",
+                            "image": "https://image.tmdb.org/t/p/original/p90w8NaO1tD2vxgRGWgVPiSxU39.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/hvW1CNhJ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 18 - ทุ่มเทความรู้สึกในชั่วพริบตา พาร์ทสี่",
+                            "image": "https://image.tmdb.org/t/p/original/cCh3PGxqhqq8sFaCGT0ClhmKIBS.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/vMcEUiWYZ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 19 - โลกที่ก้าวไปต่อ ฮีโร่ผู้ถูกเปิดเผย",
+                            "image": "https://image.tmdb.org/t/p/original/dSgVDs03axBDfOA04duszylnFEf.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/cahbKfmIBm/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 20 - ปัจจุบันและอนาคตของแต่ละคน",
+                            "image": "https://image.tmdb.org/t/p/original/sxkBsV99blbhZF6ze99n52kdHSp.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Uj49QOGiPG/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 21 - ธุระ การเลี้ยงดูและการพิชิต",
+                            "image": "https://image.tmdb.org/t/p/original/pNGzb7fV8TdlVSK99rMxo4j85jH.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/DYWqheFXM3/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 22 - ว็อคกิ้ง ออฟ เดอะ แอร์คลีนเนอร์",
+                            "image": "https://image.tmdb.org/t/p/original/mRV7YO0rFxCbaE32l4SVmzXa1cW.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/mT04weh8FF/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 23 - นกกับกระต่าย ปะทะ กะโหลกประสานเสียง",
+                            "image": "https://image.tmdb.org/t/p/original/8kyU47rHE5xEHx6eToMoZZY2SeW.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Ns92V5mM2b/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 24 - แรร์ไอเทมนั้นมีน้ำหนักมากกว่าชีวิต",
+                            "image": "https://image.tmdb.org/t/p/original/cs0JsVUmQWsP3gAstAuH0AxE8yK.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/pAjXBEVK90/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 25 - ผู้เบิกความมืดของโลก",
+                            "image": "https://image.tmdb.org/t/p/original/7zv4lXi3YqlCCDtdqO309RWQp2.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/tnwnQfjHPs/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                },
+                {
+                    "name": "ซับไทย",
+                    "info": "เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ",
+                    "image": "https://image.tmdb.org/t/p/original/xjhFYCzH9l2j3eH7TVnj4qTam2f.jpg",
+                    "stations": [
+                        {
+                            "name": "Ep. 1 - What Do You Play Games For?",
+                            "image": "https://image.tmdb.org/t/p/original/cwOMKeIPzHO8Op8FezrL3oOHaDT.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/QmdYHq3Xtk/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 2 - A Peculiar One",
+                            "image": "https://image.tmdb.org/t/p/original/8qU5suic2xgx54CscaQnEGJw0CU.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/QSoBV4OTM6/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 3 - Black Wolf Nightslayer",
+                            "image": "https://image.tmdb.org/t/p/original/9Y6qao7KeBA0UlcdVrmclR3SUPD.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/NJMtwY9BQx/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 4 - A Trash Game Realignment of Elevated Tastes",
+                            "image": "https://image.tmdb.org/t/p/original/qdRbZFPYRJoTycMRYCC9afEwkt8.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/HySarNKb5m/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 5 - Lo, Thou Art Assailed on All Sides",
+                            "image": "https://image.tmdb.org/t/p/original/801UUNL5prJhGNuO5yE6dkiCHXj.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/VHDNn1Onwp/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 6 - The Writing Tool Knight-Queen",
+                            "image": "https://image.tmdb.org/t/p/original/wy656yWsHnqWKVeZfL9XMS2p4CE.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/8cRM5PVRBW/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 7 - Remnant of the Divinity: The Aberrant Loser",
+                            "image": "https://image.tmdb.org/t/p/original/wVgQiWOwR38KW2Yg32nxG0oHRs8.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/MrdLRvtAjd/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 8 - The 300-Limit Pandemonium",
+                            "image": "https://image.tmdb.org/t/p/original/zudIBME8WHd8K4xp3DTcVAHdwQq.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/jktDgOsAZE/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 9 - A Dazzling Sea of Trees",
+                            "image": "https://image.tmdb.org/t/p/original/z4kItR68niGXJ8cWqLuImEydkyP.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/CUvZyM37wW/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 10 - Let's Go Tomb Raiding!!",
+                            "image": "https://image.tmdb.org/t/p/original/nen1lUA9HCXC8nIUDEOmXZmLZFZ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/lfaxHi9iQc/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 11 - The Glimmer of Truth",
+                            "image": "https://image.tmdb.org/t/p/original/30kuWcgXImAyx34GdsbINMuyduN.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/t8l36JBKPR/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 12 - Regrets Always Lie in the Past",
+                            "image": "https://image.tmdb.org/t/p/original/7NdNyHHGPm6tgTgghiWrxbD5kT0.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/J98HwmBKKG/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 13 - Only Resentments About the End of Life Remain",
+                            "image": "https://image.tmdb.org/t/p/original/qqZFExzjqSFMikALqFlsKU7zsis.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/hJE2vBg0dB/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 14 - Squish",
+                            "image": "https://image.tmdb.org/t/p/original/reZZzRAJ9DCUrIEv2rb6nbz1bPF.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/kxwUy5o9lP/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 15 - Putting Feelings Into a Moment (1)",
+                            "image": "https://image.tmdb.org/t/p/original/28TnUtcCtgaFbut5SLwZysObGGT.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/PRAGBhi1Ge/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 16 - Putting Feelings Into a Moment (2)",
+                            "image": "https://image.tmdb.org/t/p/original/3Fm7PCgMZ76OhwMRtdC8E53Na9k.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/biU5ybEGyP/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 17 - Putting Feelings Into a Moment (3)",
+                            "image": "https://image.tmdb.org/t/p/original/p90w8NaO1tD2vxgRGWgVPiSxU39.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/NwC2cXaL6/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 18 - Putting Feelings Into a Moment (4)",
+                            "image": "https://image.tmdb.org/t/p/original/cCh3PGxqhqq8sFaCGT0ClhmKIBS.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/mGJwQimji7/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 19 - The World Progresses, the Heroes Are Revealed",
+                            "image": "https://image.tmdb.org/t/p/original/dSgVDs03axBDfOA04duszylnFEf.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ptY0k692WO/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 20 - Current Situations and Next Steps",
+                            "image": "https://image.tmdb.org/t/p/original/sxkBsV99blbhZF6ze99n52kdHSp.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/CBtKpJwUF/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 21 - Errands, Cultivation, and Game Progress",
+                            "image": "https://image.tmdb.org/t/p/original/pNGzb7fV8TdlVSK99rMxo4j85jH.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/iUfpqoiyS/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 22 - The Walking Air Purifier",
+                            "image": "https://image.tmdb.org/t/p/original/mRV7YO0rFxCbaE32l4SVmzXa1cW.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/HbchuPDhWT/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 23 - Bird and Rabbits VS Chorus of Skeletons",
+                            "image": "https://image.tmdb.org/t/p/original/8kyU47rHE5xEHx6eToMoZZY2SeW.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/LoUIx560MN/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 24 - Rare Items, Worth More than Life Itself",
+                            "image": "https://image.tmdb.org/t/p/original/cs0JsVUmQWsP3gAstAuH0AxE8yK.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/wJouPi0wY1/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 25 - Those Who Illuminate the World's Darkness",
+                            "image": "https://image.tmdb.org/t/p/original/7zv4lXi3YqlCCDtdqO309RWQp2.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/2Fq3adM3ZK/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Season 2",
+            "image": "https://image.tmdb.org/t/p/original/aCGdpgNkgz66R1winFkTFsMAhlC.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ",
+                    "image": "https://image.tmdb.org/t/p/original/aCGdpgNkgz66R1winFkTFsMAhlC.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - Half-Naked Birdman and the Gang in Golem Paradise",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNGE0ZjZmNzktMjRhZC00MGM0LTk1YjUtOTUwYTQ5NmI0MDEyXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F932cb0a88309cf79d32d00f4b671a095%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - The Uncompromising Gatekeeper",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMzllZTM3ZTktNmY4OS00MzMyLWE5YTItNjcyMzNmZjhjMzdmXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fdc47275be818be35de0cf0f014cac6e1%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - Accelerating Meetings, Surging Desire, and the Start of Various Threads",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNGFhMjE3MmMtYmRhZS00NzRiLWIzNmUtZmI5ZDUwNGRhMThmXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F45bcc6e9f61623f9bfd084d6415e894d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - When Humanity Dreams of the Impossible and Takes to the Skies",
+                            "image": "https://m.media-amazon.com/images/M/MV5BZWMyNTNjYzctNmU2Mi00NjEyLTk1YTItMmU3ZDQ3ZDcxNDdmXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F997c8f8568f1f46a71b3cdefec8233f0%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - The Impetus of Hunger; the Persistence of Thirst",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNzI4ZjU3MDgtMDBhYy00MGUyLTk1MmQtZjZhYzUzMGMzODNhXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F7aa3c598c611d04c60f10bd9591ae1fe%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - After the Fierce Battle, Despair",
+                            "image": "https://m.media-amazon.com/images/M/MV5BZjAwYWNjNjktNzBiYy00MGI1LTlkYTktYzBhZDJhMmJkYzU3XkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F668dfb087e55a7af0aada4459284aa26%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - The Wings in a Draw",
+                            "image": "https://m.media-amazon.com/images/M/MV5BOTAwMjFiMWItMzhiZi00YzlmLWI1MjctMWM2ZWExMWEwNTNjXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F5bb2dc911e1dda43b31b5a10dc0e0dec%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - The Lion Catches a Rabbit With Its Full Strength; the Crab Catches a Phoenix With a Pizza Cutter",
+                            "image": "https://m.media-amazon.com/images/M/MV5BZjY1NDMwOWUtOTg1ZS00NDM1LTg1OTAtNDUwZTllYjFhNzA4XkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F657d9cde66bb57fe8a272017b9c2c5bc%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - Run, Fueled by Impatience",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTBlYjI0NTMtZmQyZi00ZmViLTgzZjgtZGQ2OTIxOWQ1YjNkXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbe7acf12eb6165be39bdc362d07c2907%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Track It Like a Bloodhound",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNGJlZDYwN2MtNjk0Zi00NTkyLWE3NjMtYTZhNWYzODI2M2VkXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fa02129d494dcaf436abe6cf21f3388f4%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Embrace the Lamplight of Ambition, Part 1",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTUxNzgwODktYzBhNy00MGUwLWE2OGItNTE5NjhhMTMwYTI2XkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F32388aeb0e1a96048b3b40e4b4d705e3%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - Embrace the Lamplight of Ambition, Part 2",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNGU4MzdmMDEtYTE1ZC00M2Y4LTk2YTQtNzcxNzQwYTY3NGRjXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbcac3b04f5308bc6b4dcae018be56978%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 13 - Embrace the Lamplight of Ambition, Part 3",
+                            "image": "https://m.media-amazon.com/images/M/MV5BOGU1ZjE5YmYtODA5MC00ZmU2LWFkY2EtYjAxZGI5YTVhODY2XkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F6ddebd7913b56b0d557afe9223afc262%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 14 - Embrace the Lamplight of Ambition, Part 4",
+                            "image": "https://m.media-amazon.com/images/M/MV5BZjBiZDJhNDctNTBmYS00NzJiLTgwYTctNzBkYjM4Y2Q2ZjlkXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F50a293b93b444ead8499f2c028a8e5c2%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 15 - Embrace the Lamplight of Ambition, Part 5",
+                            "image": "https://m.media-amazon.com/images/M/MV5BOWVjYTc2YTYtNjVlYi00MDQ0LWFmYjEtM2M0MmM2YWJlN2VhXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F49e6f3f9332dd5f0566b7e9bd259a2d7%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 16 - What Do You Play Games For? Their Answers",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYjVmNmU5NGYtNWIyNC00YzJmLWFkM2MtZWU2NjkyZTgyZDdmXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fadf03bfa601b1d6c87f057929ff506ca%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 17 - A Straight Flush Mixed With Jokers",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNWEzZjVlYWEtNGUzNC00ZjM1LWE4MzktYzllMDY3NWYzMzkyXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe6b8ddc84a08b49e7f51557a5a088119%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 18 - The Crimson Whale Meets the Monster Fish",
+                            "image": "https://m.media-amazon.com/images/M/MV5BZTAxZTFiMjgtNzY0OS00NjczLWJmMWEtMGE1NWNmZTQxYWMxXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb79e32c0fb74d6ca7dc9158e13e98298%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 19 - Revive, Broken City, Your Peace At an End",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDM2NGQxNDctNjYyOS00MGVjLTg2NjYtMDY0ZGYwYTMyNzUyXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbffb608224585c24cf4a6e56ad381e66%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 20 - Time to Fillet a Dragon Fish",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTk2Yjg3ODMtMzQyNS00YTgxLTk1YzgtNTI4ODBjZTcyOTYyXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Faef8d5651c17f884c2d583349b42438f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 21 - Venturing Wolves Then From the Seas to the Skyscrapers",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYjBjMzMxZTYtYzJlNi00MTYyLWJjY2MtZmUyZmQ0ZjcxYThiXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F49e006115e508b94115093b1ac793c9c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 22 - The Light Blazes Brightly, But for Just an Instant",
+                            "image": "https://m.media-amazon.com/images/M/MV5BZjg2Y2NhZjctNTU1Ny00NzgxLWIyOTYtMGI5MzYxYjhkNmUyXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F3f471bf1bbb261123f038639265ed53b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 23 - Malice at 100 Meters Per Second",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNmFkYmM5NDYtM2MyOS00MWJmLTljMDAtMjk2ZGQwODJmY2FjXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F775570c681fed9867fb61c4a7141ff7b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 24 - Great King of the Deep, I Humbly Seek to Crush You",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYWI1MmRmM2ItMzBmNy00NTkyLTlkZDItZjM3MmEzYTNhYWI4XkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb4d8a190316dfc0547b3eb910a74f4c8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 25 - The Anonymous (Asinine) A-Team and a Crisis",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNTNhNjc1MmItMDlhNC00MTA1LTkxMDgtZWVkN2RjZjM4YzBmXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe85bb41efff499b7239f2237d84df311%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                },
+                {
+                    "name": "ซับไทย",
+                    "info": "เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ",
+                    "image": "https://image.tmdb.org/t/p/original/aCGdpgNkgz66R1winFkTFsMAhlC.jpg",
+                    "stations": [
+                        {
+                            "name": "Ep. 2 - The Uncompromising Gatekeeper",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMzllZTM3ZTktNmY4OS00MzMyLWE5YTItNjcyMzNmZjhjMzdmXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffaa4494bde86836818e26f61c90060ee%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 3 - Accelerating Meetings, Surging Desire, and the Start of Various Threads",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNGFhMjE3MmMtYmRhZS00NzRiLWIzNmUtZmI5ZDUwNGRhMThmXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F7868c7fab2657aa8542e48c3de21c16a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 4 - When Humanity Dreams of the Impossible and Takes to the Skies",
+                            "image": "https://m.media-amazon.com/images/M/MV5BZWMyNTNjYzctNmU2Mi00NjEyLTk1YTItMmU3ZDQ3ZDcxNDdmXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fff35121b861db4dee0ff62618ba8f772%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 5 - The Impetus of Hunger; the Persistence of Thirst",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNzI4ZjU3MDgtMDBhYy00MGUyLTk1MmQtZjZhYzUzMGMzODNhXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffd6bb777126e4608d18ba0592944524a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 6 - After the Fierce Battle, Despair",
+                            "image": "https://m.media-amazon.com/images/M/MV5BZjAwYWNjNjktNzBiYy00MGI1LTlkYTktYzBhZDJhMmJkYzU3XkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffd755e0790ec024135584dfb06e479a3%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 7 - The Wings in a Draw",
+                            "image": "https://m.media-amazon.com/images/M/MV5BOTAwMjFiMWItMzhiZi00YzlmLWI1MjctMWM2ZWExMWEwNTNjXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc271b0f07f4097880ee6ee88f71e91d3%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 8 - The Lion Catches a Rabbit With Its Full Strength; the Crab Catches a Phoenix With a Pizza Cutter",
+                            "image": "https://m.media-amazon.com/images/M/MV5BZjY1NDMwOWUtOTg1ZS00NDM1LTg1OTAtNDUwZTllYjFhNzA4XkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9e288c189edbe4d34a4119d46e6eacce%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 9 - Run, Fueled by Impatience",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTBlYjI0NTMtZmQyZi00ZmViLTgzZjgtZGQ2OTIxOWQ1YjNkXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F691adc52cf88124204950d88b7fc51be%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 10 - Track It Like a Bloodhound",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNGJlZDYwN2MtNjk0Zi00NTkyLWE3NjMtYTZhNWYzODI2M2VkXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1650e50e1ab95fbcd60c6650e1cb7750%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 11 - Embrace the Lamplight of Ambition, Part 1",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTUxNzgwODktYzBhNy00MGUwLWE2OGItNTE5NjhhMTMwYTI2XkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F72447037168601bf884e40b957ea7c50%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 12 - Embrace the Lamplight of Ambition, Part 2",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNGU4MzdmMDEtYTE1ZC00M2Y4LTk2YTQtNzcxNzQwYTY3NGRjXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F5bc0b228bd623fe60b10e31871d28aa0%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 13 - Embrace the Lamplight of Ambition, Part 3",
+                            "image": "https://m.media-amazon.com/images/M/MV5BOGU1ZjE5YmYtODA5MC00ZmU2LWFkY2EtYjAxZGI5YTVhODY2XkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Faed12ab7844e7d57264784ce2cf004ec%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 14 - Embrace the Lamplight of Ambition, Part 4",
+                            "image": "https://m.media-amazon.com/images/M/MV5BZjBiZDJhNDctNTBmYS00NzJiLTgwYTctNzBkYjM4Y2Q2ZjlkXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F790d6106a3f94e74a1d85e27d00d0730%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 15 - Embrace the Lamplight of Ambition, Part 5",
+                            "image": "https://m.media-amazon.com/images/M/MV5BOWVjYTc2YTYtNjVlYi00MDQ0LWFmYjEtM2M0MmM2YWJlN2VhXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb00f8e94469b447e407e6d97e859488c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 16 - What Do You Play Games For? Their Answers",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYjVmNmU5NGYtNWIyNC00YzJmLWFkM2MtZWU2NjkyZTgyZDdmXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1064b6cebc221f25b98a021656e7c79b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 17 - A Straight Flush Mixed With Jokers",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNWEzZjVlYWEtNGUzNC00ZjM1LWE4MzktYzllMDY3NWYzMzkyXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F7cdd928ef6aa42b3f702842030a898ca%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 18 - The Crimson Whale Meets the Monster Fish",
+                            "image": "https://m.media-amazon.com/images/M/MV5BZTAxZTFiMjgtNzY0OS00NjczLWJmMWEtMGE1NWNmZTQxYWMxXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe00c57e838a638b0ba8f270a1e80a1fe%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 19 - Revive, Broken City, Your Peace At an End",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDM2NGQxNDctNjYyOS00MGVjLTg2NjYtMDY0ZGYwYTMyNzUyXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F2c31247f9fc61fd9b18ba75a39b94e66%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 20 - Time to Fillet a Dragon Fish",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTk2Yjg3ODMtMzQyNS00YTgxLTk1YzgtNTI4ODBjZTcyOTYyXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc3badd23661a690a2ac2852526f784e7%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 21 - Venturing Wolves Then From the Seas to the Skyscrapers",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYjBjMzMxZTYtYzJlNi00MTYyLWJjY2MtZmUyZmQ0ZjcxYThiXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fec367025a1519981e7d4ef071ef24f5b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 22 - The Light Blazes Brightly, But for Just an Instant",
+                            "image": "https://m.media-amazon.com/images/M/MV5BZjg2Y2NhZjctNTU1Ny00NzgxLWIyOTYtMGI5MzYxYjhkNmUyXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1f56b5f9dace5a8e0ca795204eb3674c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 23 - Malice at 100 Meters Per Second",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNmFkYmM5NDYtM2MyOS00MWJmLTljMDAtMjk2ZGQwODJmY2FjXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F489edfb391e2eb2bb4af5868ec94a252%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 24 - Great King of the Deep, I Humbly Seek to Crush You",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYWI1MmRmM2ItMzBmNy00NTkyLTlkZDItZjM3MmEzYTNhYWI4XkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F85c308b80ca8586267825fe5b98e9edd%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 25 - The Anonymous (Asinine) A-Team and a Crisis",
+                            "image": "https://m.media-amazon.com/images/M/MV5BNTNhNjc1MmItMDlhNC00MTA1LTkxMDgtZWVkN2RjZjM4YzBmXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe89c643ff49504268712c1a4cc93ad9b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

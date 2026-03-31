@@ -1,0 +1,307 @@
+{
+    "referer": "https://indy.team-indy.net/",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/yHsxHEugPPlOPqFZrPGvurltPjm.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "คำอธิษฐานในวันที่จากลาฟรีเรน ซีซั่น 1",
+                    "image": "https://image.tmdb.org/t/p/original/yHsxHEugPPlOPqFZrPGvurltPjm.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - ตอนจบของการผจญภัย",
+                            "image": "https://image.tmdb.org/t/p/original/7SfqQVmW125ugsktoRVTnRXpAkd.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/UYTqNMFqg/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 2 - ถึงจะไม่ใช่เวทมนตร์ก็ตาม...",
+                            "image": "https://image.tmdb.org/t/p/original/jVeDv4dZI5KbRQw3eD8RRiojUZ5.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/V33uhXOUll/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 3 - เวทมนตร์คร่าชีวิต",
+                            "image": "https://image.tmdb.org/t/p/original/5uVpkiIoMRCDaLcAxfG8Gc7VJWo.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/uUQ441WcGR/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 4 - ดินแดนที่วิญญาณหลับใหล",
+                            "image": "https://image.tmdb.org/t/p/original/nYFUXvyrxCRwcOdIiqRdLJtVScj.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/wNEJPQhlxV/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 5 - ภาพลวงตาของผู้ล่วงลับ",
+                            "image": "https://image.tmdb.org/t/p/original/ioJWXpvWXAEjK1ues1ZZBwdYOA0.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/JEX3wyZ3Pe/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 6 - วีรบุรุษแห่งหมู่บ้าน",
+                            "image": "https://image.tmdb.org/t/p/original/veuq90RbYrizOYc6RWjZHqhf2ii.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Y9rUTOABT2/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 7 - สิ่งที่เหมือนกับเรื่องเล่า",
+                            "image": "https://image.tmdb.org/t/p/original/qTS0N4eauUgqa64LVXJoJjfvpo6.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/8iFlyVoHf/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 8 - ฟรีเรนแห่งการลาจาก",
+                            "image": "https://image.tmdb.org/t/p/original/6m8vHkqJ8lESCxneLeXPNq5V08f.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/wE1uoUwARd/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 9 - ออร่าแห่งกิโยติน",
+                            "image": "https://image.tmdb.org/t/p/original/yUeaBIwxbsPSri1oVBr2hNXVPYQ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Q4rspPE6bd/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 10 - จอมเวทที่แข็งแกร่ง",
+                            "image": "https://image.tmdb.org/t/p/original/5Sryn4O6eO6bsdWbz30NK84PrnQ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/IJvMKdEpeJ/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 11 - ฤดูหนาวที่กลุ่มประเทศทางตอนเหนือ",
+                            "image": "https://image.tmdb.org/t/p/original/jUtZqIcrvFhI7XkBA3I1tZtCWDH.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/l64JDp7ZIN/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 12 - ผู้กล้าตัวจริง",
+                            "image": "https://image.tmdb.org/t/p/original/4YV6QgyVjXx0KcmPoT535hOhCWv.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Dvk6soNzX/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 13 - เกลียดพวกเดียวกัน",
+                            "image": "https://image.tmdb.org/t/p/original/jwkQw81qj1CNYEkW4ukZmK1YePC.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/D9RUKNZr6D/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 14 - สิทธิ์พิเศษของคนหนุ่มสาว",
+                            "image": "https://image.tmdb.org/t/p/original/mQEU8qSpVEadU4Dl9j0Wkpfgwuv.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/jG3ennIxHM/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 15 - กลิ่นของเรื่องยุ่งยาก",
+                            "image": "https://image.tmdb.org/t/p/original/cOfKOSmmgXgvO0Mu2OwlVKsj7hU.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/u2XGaty12N/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 16 - เพื่อนผู้มีอายุยืนยาว",
+                            "image": "https://image.tmdb.org/t/p/original/k8lmaH6EWTTGiRUKJVWx44Ydhhh.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/9jXyvDcEch/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 17 - งั้นขอให้สบายดีล่ะ",
+                            "image": "https://image.tmdb.org/t/p/original/2LGPjsA3qfxrQRNyA1Hy2J6pMPY.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/hT1G6Ba4Jn/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 18 - การสอบคัดเลือกจอมเวทชั้นหนึ่ง",
+                            "image": "https://image.tmdb.org/t/p/original/91NiTkE2yWsplPPI8LrjhAqRRfG.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/zdjNqkHqc/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 19 - แผนการอันแยบยล",
+                            "image": "https://image.tmdb.org/t/p/original/xJKt0TxvyUw9QjTiRNYJXmD5Gl5.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/eET3cDf0yG/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 20 - การฆ่าที่จำเป็น",
+                            "image": "https://image.tmdb.org/t/p/original/8jNWhj11csvsG0wctcSso9phJkF.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/cBcRdEc5BY/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 21 - โลกแห่งเวทมนตร์",
+                            "image": "https://image.tmdb.org/t/p/original/piGXoFe6uSWRqiV1Kv40fJnepGb.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/pZ522UqHDN/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 22 - ตั้งแต่รอบต่อไปเราจะกลายเป็นศัตรูกัน",
+                            "image": "https://image.tmdb.org/t/p/original/xUbTT9y3ZsDh2HEmyQd8UfvNEA1.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Z7UaG2yaQR/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 23 - พิชิตเขาวงกต",
+                            "image": "https://image.tmdb.org/t/p/original/tafHSu4qbxNwyRCKFhSBJgtJUhN.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/MS3WPADRck/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 24 - ร่างแยกอันสมบูรณ์แบบ",
+                            "image": "https://image.tmdb.org/t/p/original/ynN96chZ1anKjrmeFlkWvHGLK0O.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/9wp8ONsDTL/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 25 - ช่องโหว่อันร้ายแรง",
+                            "image": "https://image.tmdb.org/t/p/original/t7NXmWJL9a4uyPQuv0vAvPvd5td.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/GChTngl5pZ/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 26 - จุดสูงสุดของเวทมนตร์",
+                            "image": "https://image.tmdb.org/t/p/original/kovGQEJxKlJwG0YBvQn4JPLqwtP.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/4exGUpSM53/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 27 - ยุคสมัยของมนุษย์",
+                            "image": "https://image.tmdb.org/t/p/original/gU8G4cvHREYWQa3d0EhUvJSP2T8.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/A53zp1XMZJ/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "ตอน 28 - It Would Be Embarrassing When We Met Again",
+                            "image": "https://image.tmdb.org/t/p/original/rwVIbR6WXbsslVHcG3t4nvS1T53.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/LUGPrgGcr/video.mp4/playlist.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "ซับไทย",
+                    "info": "Sousou no Frieren Season 1",
+                    "image": "https://image.tmdb.org/t/p/original/yHsxHEugPPlOPqFZrPGvurltPjm.jpg",
+                    "stations": [
+                        {
+                            "name": "Ep. 1 - The Journey's End",
+                            "image": "https://image.tmdb.org/t/p/original/7SfqQVmW125ugsktoRVTnRXpAkd.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ulclKTwaMr/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 2 - It Didn't Have to Be Magic...",
+                            "image": "https://image.tmdb.org/t/p/original/jVeDv4dZI5KbRQw3eD8RRiojUZ5.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/qZLLBhQ0Dz/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 3 - Killing Magic",
+                            "image": "https://image.tmdb.org/t/p/original/5uVpkiIoMRCDaLcAxfG8Gc7VJWo.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/diPN4KaN2a/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 4 - The Land Where Souls Rest",
+                            "image": "https://image.tmdb.org/t/p/original/nYFUXvyrxCRwcOdIiqRdLJtVScj.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/pV3kB41CHh/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 5 - Phantoms of the Dead",
+                            "image": "https://image.tmdb.org/t/p/original/ioJWXpvWXAEjK1ues1ZZBwdYOA0.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/jxomlbVVu2/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 6 - The Hero of the Village",
+                            "image": "https://image.tmdb.org/t/p/original/veuq90RbYrizOYc6RWjZHqhf2ii.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/amy9n3sNKP/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 7 - Like a Fairy Tale",
+                            "image": "https://image.tmdb.org/t/p/original/qTS0N4eauUgqa64LVXJoJjfvpo6.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/NMtqfJRMuO/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 8 - Frieren the Slayer",
+                            "image": "https://image.tmdb.org/t/p/original/6m8vHkqJ8lESCxneLeXPNq5V08f.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/XK3X5kFJfg/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 9 - Aura the Guillotine",
+                            "image": "https://image.tmdb.org/t/p/original/yUeaBIwxbsPSri1oVBr2hNXVPYQ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/iST13Dan29/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 10 - A Powerful Mage",
+                            "image": "https://image.tmdb.org/t/p/original/5Sryn4O6eO6bsdWbz30NK84PrnQ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/hkY9XuH00U/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 11 - Winter in the Northern Lands",
+                            "image": "https://image.tmdb.org/t/p/original/jUtZqIcrvFhI7XkBA3I1tZtCWDH.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/vPNNUYf4/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 12 - A Real Hero",
+                            "image": "https://image.tmdb.org/t/p/original/4YV6QgyVjXx0KcmPoT535hOhCWv.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Dw0PimvQYT/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 13 - Aversion to One's Own Kind",
+                            "image": "https://image.tmdb.org/t/p/original/jwkQw81qj1CNYEkW4ukZmK1YePC.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/IJ58dMnCS/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 14 - Privilege of the Young",
+                            "image": "https://image.tmdb.org/t/p/original/mQEU8qSpVEadU4Dl9j0Wkpfgwuv.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/X8pXdJSXtN/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 15 - Smells Like Trouble",
+                            "image": "https://image.tmdb.org/t/p/original/cOfKOSmmgXgvO0Mu2OwlVKsj7hU.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Ty0eNvxUMM/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 16 - Long-Lived Friends",
+                            "image": "https://image.tmdb.org/t/p/original/k8lmaH6EWTTGiRUKJVWx44Ydhhh.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/xqAy8NNtdY/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 17 - Take Care",
+                            "image": "https://image.tmdb.org/t/p/original/2LGPjsA3qfxrQRNyA1Hy2J6pMPY.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/kh7F2j6LbN/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 18 - First-Class Mage Exam",
+                            "image": "https://image.tmdb.org/t/p/original/91NiTkE2yWsplPPI8LrjhAqRRfG.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/7g4PQP7py/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 19 - Well-Laid Plans",
+                            "image": "https://image.tmdb.org/t/p/original/xJKt0TxvyUw9QjTiRNYJXmD5Gl5.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/I4FG6anxex/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 20 - Necessary Killing",
+                            "image": "https://image.tmdb.org/t/p/original/8jNWhj11csvsG0wctcSso9phJkF.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/e0PfP3DWmJ/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 21 - The World of Magic",
+                            "image": "https://image.tmdb.org/t/p/original/piGXoFe6uSWRqiV1Kv40fJnepGb.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/TF86ZubrGB/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 22 - Future Enemies",
+                            "image": "https://image.tmdb.org/t/p/original/xUbTT9y3ZsDh2HEmyQd8UfvNEA1.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/TejX2w9uLG/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 23 - Conquering the Labyrinth",
+                            "image": "https://image.tmdb.org/t/p/original/tafHSu4qbxNwyRCKFhSBJgtJUhN.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/40KuYk61wN/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 24 - Perfect Replicas",
+                            "image": "https://image.tmdb.org/t/p/original/ynN96chZ1anKjrmeFlkWvHGLK0O.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Eo0pqBa80s/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 25 - A Fatal Vulnerability",
+                            "image": "https://image.tmdb.org/t/p/original/t7NXmWJL9a4uyPQuv0vAvPvd5td.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/aFPRE1Flmg/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 26 - The Height of Magic",
+                            "image": "https://image.tmdb.org/t/p/original/kovGQEJxKlJwG0YBvQn4JPLqwtP.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/u3wq7mGTEd/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 27 - An Era of Humans",
+                            "image": "https://image.tmdb.org/t/p/original/gU8G4cvHREYWQa3d0EhUvJSP2T8.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/kxK1oPBupr/video.mp4/playlist.m3u8"
+                        },
+                        {
+                            "name": "Ep. 28 - It Would Be Embarrassing When We Met Again",
+                            "image": "https://image.tmdb.org/t/p/original/rwVIbR6WXbsslVHcG3t4nvS1T53.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/hQ1yIngRXv/video.mp4/playlist.m3u8"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "name": "Frieren: Beyond Journey's End [คำอธิษฐานในวันที่จากลา]",
+    "image": "https://image.tmdb.org/t/p/original/dqZENchTd7lp5zht7BdlqM7RBhD.jpg"
+}

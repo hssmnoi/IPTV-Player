@@ -1,0 +1,11 @@
+{
+  "name": "Jurassic World Rebirth จูราสสิค เวิลด์: กำเนิดชีวิตใหม่",
+  "image": "https://m.media-amazon.com/images/M/MV5BMDE1N2EzMjAtMDY1My00YWE5LWEyYjYtYmE3YjZjNzQwNDhmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+  "stations": [
+    {
+      "name": "พากย์ไทย",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDE1N2EzMjAtMDY1My00YWE5LWEyYjYtYmE3YjZjNzQwNDhmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+      "url": "https://be4235.rcr32.ams02.i8yz83pn.com/hls2/06/09678/v0iam9aest6d_x/master.m3u8?t=40rF_X6NvqYAhUXrw2XD9XE2kqW4H3QygYFWONumEco&s=1755440014&e=10800&f=48393041&srv=1050&asn=133481&sp=5500&p=1"
+    }
+  ]
+}

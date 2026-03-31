@@ -1,0 +1,312 @@
+{
+    "name": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability [พอได้เกิดใหม่เป็นองค์ชายลำดับที่เจ็ด ก็เพื่อเรียนเวทให้สนุก]",
+    "image": "https://image.tmdb.org/t/p/original/ruLkQB8i1yazHgO0QCWpyJRRTs9.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/yIjsoBF2tBV401GI1fxVSFcQ6wL.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/yIjsoBF2tBV401GI1fxVSFcQ6wL.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - เกิดใหม่เป็นองค์ชายลำดับที่เจ็ด",
+                            "image": "https://image.tmdb.org/t/p/original/1VZawiNOorcQWt1KnYBqA7iHzvJ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc97be0296407877f8208510c31aba25d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - เผชิญหน้ากับนักผจญภัยโดยไม่คาดฝัน",
+                            "image": "https://image.tmdb.org/t/p/original/tmtTdMysmR0RXUU7ntOgikGgCdQ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8520350371b6e20034c5466f91c399c4%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - ทั้งพลังปราณ ทั้งการถ่ายโอนพลังเวท",
+                            "image": "https://image.tmdb.org/t/p/original/1uHq6kw49kGf89KQiEFsihA86Xu.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9ccecff69d5859f94c0050857e02c5a2%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - ออกล่าสัตว์อสูร",
+                            "image": "https://image.tmdb.org/t/p/original/mQpR5xgzoPjF55rOZKqRUZgIY0m.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F4f986171cd42a92627ab9714110f2db0%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - อสูรกลัดกลุ้ม",
+                            "image": "https://image.tmdb.org/t/p/original/eGSYFOognJMmX4G5YUleJeAq5kA.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F5e5f0d455f36b8b6a9c7f655bc2c1b71%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - พี่สาวกับสัตว์อสูร และดาบเวทกับพี่ชาย",
+                            "image": "https://image.tmdb.org/t/p/original/8WaKFBFYXeMvsiDnfXzf6k5MSMV.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F18a7f9133e498d613e4b7845547ace1d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - ต่อสู้กับเหล่ากิลด์นักฆ่ารัชนี",
+                            "image": "https://image.tmdb.org/t/p/original/3w8g0KbUgNWSFJITNCUgOr2mJxW.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fcbc66158be97afe4383c9376df78b1a4%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - ออกไปหาเจด",
+                            "image": "https://image.tmdb.org/t/p/original/dfFbnT9DkywmQLQMJUjNbW9AaIc.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F2f75f02d15ae1f6ed96adc5761351562%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - ภัยพิบัติกีซาร์ม",
+                            "image": "https://image.tmdb.org/t/p/original/g7o2uXRq3EVTGvwRVT6PC6ISn5s.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F59442f05a68fd7008d06e8c45f452516%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - ดาบของซิลฟา",
+                            "image": "https://image.tmdb.org/t/p/original/uelBJfc9NfSK14BR0rwWhauk7em.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe2f81c53ab6cbf9ee0e030751072192d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - คำสั่งเสียของเจด",
+                            "image": "https://image.tmdb.org/t/p/original/dr7mjDKVSLtZCz3tgOilXGOBOxT.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F94e7626cdee151ccfdcbcc319084f56d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - คำตอบของลอยด์",
+                            "image": "https://image.tmdb.org/t/p/original/mgkwK3nxtT7YuBmHqb6dQigI1ez.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc9474db84de91f6e9eb7b8f0a0e05b3d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 13 - I'll Join the Church!",
+                            "image": "https://image.tmdb.org/t/p/original/1jz6YT4dEW6ifueLh0PsjTj1G5U.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fa296409de231afc998a9cb8d58a3a4c7%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 14 - Jihriel's Miracles",
+                            "image": "https://image.tmdb.org/t/p/original/HfJVXTjWNQtan0ihTiMB3uXLc6.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9cca29cc1af4aa5d575f644191767c6d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 15 - Ghoul Hunting",
+                            "image": "https://image.tmdb.org/t/p/original/lCw26LxxdbZB7lVhymTdGAKKrOr.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F6858204b4cdca2494df87cab1a419d5a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 16 - Civil War",
+                            "image": "https://image.tmdb.org/t/p/original/dsHxg6aLSjsJ6o8ACUSdX8MA4yl.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F3745f3ba25929aa666bdc7e08a7940e4%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 17 - The Church's Secret",
+                            "image": "https://image.tmdb.org/t/p/original/mrVubM5O9ur3oN8bHkjaLmAmx23.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F530e9fa8ae1c2a434b8e6df74d7ee6c2%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 18 - Escher's Will",
+                            "image": "https://image.tmdb.org/t/p/original/3WyqjORcACZsK8thHPrOL5rYdaz.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8bdf38745f09617f4339be78cb966199%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 19 - The Great Advent Festival",
+                            "image": "https://image.tmdb.org/t/p/original/cB1zemL74GAgXfXGrGNP5GC10HI.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F092f944872ef9d225979ae9c2334a00d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 20 - Invasion",
+                            "image": "https://image.tmdb.org/t/p/original/8XMnMV9BKktZB9ZEw6qVaiNQQv5.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F5bb1c87bdd394ab75c221305f205be59%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 21 - The Moon and Tonkatsu",
+                            "image": "https://image.tmdb.org/t/p/original/eh9vXNL7J9J6ME8Ci3h8ccJcBo2.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F99b65133b806b2ab2d6d7a5cee920ce6%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 22 - Black Dragon",
+                            "image": "https://image.tmdb.org/t/p/original/1OBk4li2pTaCCYwK28Ikj6NPU4T.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe45f53383d59ca2e5820cceb844ab240%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 23 - The Battle Above the Clouds",
+                            "image": "https://image.tmdb.org/t/p/original/n0xNZgaCMDr82uITFb1dpzm5hZn.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F81dbce67c36a1fd562110dc3e813a2eb%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 24 - In the Light",
+                            "image": "https://image.tmdb.org/t/p/original/8wonsY7MsQF8VTJf1G7ufCPdVUF.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F55cd8c7dbca1188d2fdf664d9280aeba%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                },
+                {
+                    "name": "ซับไทย",
+                    "image": "https://image.tmdb.org/t/p/original/yIjsoBF2tBV401GI1fxVSFcQ6wL.jpg",
+                    "stations": [
+                        {
+                            "name": "Ep. 1 - I Reincarnated as the Seventh Prince",
+                            "image": "https://image.tmdb.org/t/p/original/1VZawiNOorcQWt1KnYBqA7iHzvJ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F4f57c441fb1135d08283f7d3be464b19%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 2 - I Encountered an Adventurer",
+                            "image": "https://image.tmdb.org/t/p/original/tmtTdMysmR0RXUU7ntOgikGgCdQ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd0f170c0211c57e36e0c385836888709%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 3 - Like Qi Techniques and Enchantment Magic",
+                            "image": "https://image.tmdb.org/t/p/original/1uHq6kw49kGf89KQiEFsihA86Xu.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fed06fecd9adf800e8f5d6f7b2f0218b8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 4 - Headed Out for a Monster Hunt",
+                            "image": "https://image.tmdb.org/t/p/original/mQpR5xgzoPjF55rOZKqRUZgIY0m.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F7550daca2f495b9c29ba9c3903251608%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 5 - The Demon Is Angry",
+                            "image": "https://image.tmdb.org/t/p/original/eGSYFOognJMmX4G5YUleJeAq5kA.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9e91d0f9427cda90e79c309698e09150%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 6 - Sisters, Monsters, Spellbound Swords, and Brothers",
+                            "image": "https://image.tmdb.org/t/p/original/8WaKFBFYXeMvsiDnfXzf6k5MSMV.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe6c92e7672ceb2292f1fa2ca3df79d15%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 7 - I'm Going to Battle Some Assassins",
+                            "image": "https://image.tmdb.org/t/p/original/3w8g0KbUgNWSFJITNCUgOr2mJxW.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fba128c8d2d7d76047732983948e06b1b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 8 - I'm Going to Meet Jade",
+                            "image": "https://image.tmdb.org/t/p/original/dfFbnT9DkywmQLQMJUjNbW9AaIc.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F57f0206891797efc2103be9f765f7792%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 9 - The Calamity Named Guisarme",
+                            "image": "https://image.tmdb.org/t/p/original/g7o2uXRq3EVTGvwRVT6PC6ISn5s.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fdadd9cab0f837981caa9532eeaa6caef%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 10 - Sylpha's Blade",
+                            "image": "https://image.tmdb.org/t/p/original/uelBJfc9NfSK14BR0rwWhauk7em.jpg",
+                            "url": "https://www.anime-kimi.com/episode/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-ep-10/",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 11 - Jade's Last Words",
+                            "image": "https://image.tmdb.org/t/p/original/dr7mjDKVSLtZCz3tgOilXGOBOxT.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F5b390b3e7d5adf4f865404983de19bdf%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 12 - Lloyd's Answer",
+                            "image": "https://image.tmdb.org/t/p/original/mgkwK3nxtT7YuBmHqb6dQigI1ez.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F298e25042b9faead1dc2a0a836f1f9a0%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 13 - I'll Join the Church!",
+                            "image": "https://image.tmdb.org/t/p/original/1jz6YT4dEW6ifueLh0PsjTj1G5U.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F6d68e3c0a5be6d6ff30c23acad9c2ec2%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 14 - Jihriel's Miracles",
+                            "image": "https://image.tmdb.org/t/p/original/HfJVXTjWNQtan0ihTiMB3uXLc6.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0ed13e8cb84aef40efd04f4dfff77cee%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 15 - Ghoul Hunting",
+                            "image": "https://image.tmdb.org/t/p/original/lCw26LxxdbZB7lVhymTdGAKKrOr.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F98a6d8e30761d958698b655287345891%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 16 - Civil War",
+                            "image": "https://image.tmdb.org/t/p/original/dsHxg6aLSjsJ6o8ACUSdX8MA4yl.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9da055124cf16665816d9d7b75d7d791%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 17 - The Church's Secret",
+                            "image": "https://image.tmdb.org/t/p/original/mrVubM5O9ur3oN8bHkjaLmAmx23.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F5b12be7d2f0c49559f7413a5b0909559%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 18 - Escher's Will",
+                            "image": "https://image.tmdb.org/t/p/original/3WyqjORcACZsK8thHPrOL5rYdaz.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fa19fd64ecc2b986349a4f93458cd5e7f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 19 - The Great Advent Festival",
+                            "image": "https://image.tmdb.org/t/p/original/cB1zemL74GAgXfXGrGNP5GC10HI.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb5d62993213af4ae3d190fbdc5a54659%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 20 - Invasion",
+                            "image": "https://image.tmdb.org/t/p/original/8XMnMV9BKktZB9ZEw6qVaiNQQv5.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fa9f2eef9bf2b7ee8574371ea01ef6452%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 21 - The Moon and Tonkatsu",
+                            "image": "https://image.tmdb.org/t/p/original/eh9vXNL7J9J6ME8Ci3h8ccJcBo2.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fdac7a52f5e0931a9fbd81b5dfea4e375%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 22 - Black Dragon",
+                            "image": "https://image.tmdb.org/t/p/original/1OBk4li2pTaCCYwK28Ikj6NPU4T.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffa6c3460f80fa259e411b83e2614a992%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 23 - The Battle Above the Clouds",
+                            "image": "https://image.tmdb.org/t/p/original/n0xNZgaCMDr82uITFb1dpzm5hZn.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F2d19bde2a4c9cc9e5ec653d14527f87a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 24 - In the Light",
+                            "image": "https://image.tmdb.org/t/p/original/8wonsY7MsQF8VTJf1G7ufCPdVUF.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F925520cb9c453d6181980874b3fe4f16%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

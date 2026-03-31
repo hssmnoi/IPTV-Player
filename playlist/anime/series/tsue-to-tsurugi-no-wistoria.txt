@@ -1,0 +1,168 @@
+{
+    "name": "Wistoria: Wand and Sword [ตำนานดาบและคทาแห่งวิสตอเรีย]",
+    "image": "https://image.tmdb.org/t/p/original/gxYKhO0GuPAeCb3llknWu53bYYS.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/5n0IZQA9MiXn5JBKZibtNhhFSAZ.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/5n0IZQA9MiXn5JBKZibtNhhFSAZ.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - เหมือนกับดาบที่ฟาดฟัน",
+                            "image": "https://image.tmdb.org/t/p/original/ieLlWMtF5bi7DlyJITf21k6Cu3P.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F42d2016c4529e89aff56ab651065206a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - ไม่มีทางย่อท้อ",
+                            "image": "https://image.tmdb.org/t/p/original/9LpMgZDv72ZJjuejWndwQWU1ILk.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Febdf4d44faa55a19ab070df132eb2602%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - Order&Watcher",
+                            "image": "https://image.tmdb.org/t/p/original/7t1iPH7vjBBKTTpNKZi4hBDBEps.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F18ede8848ee475ba7cfa99e7438df4fd%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - คืนก่อนเทศกาลใหญ่",
+                            "image": "https://image.tmdb.org/t/p/original/7oiqWAFQv4vlkuABNvBdz3FIUUu.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffb8724c7900308abc6f8d35c468a3664%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - ยิงพลุให้สัญญาณ",
+                            "image": "https://image.tmdb.org/t/p/original/4QBbhrpCMm335ntCEpqZNI8cyxY.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe5596e4015ce93cbd2240a93abcb9d5f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - ระหว่างศักดิ์ศรีและความเร่าร้อน",
+                            "image": "https://image.tmdb.org/t/p/original/hvZzyGam9CqZGO773jDkylmO6y2.jpg",
+                            "url": "https://www.anime-kimi.com/episode/tsue-to-tsurugi-no-wistoria-th-ep-6/",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - เอล แกส ฟรอส",
+                            "image": "https://image.tmdb.org/t/p/original/myPtGXeEHEtaaT0ZMt9UhDVyjmm.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb4f711d22a9a708eba41666e18809b6a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - ออกเดตกันไหม",
+                            "image": "https://image.tmdb.org/t/p/original/rmVsK0myQRoRwTtXtA26wAa5diD.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F311bd360261c5569cd4623c6bc80f195%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - เริ่มการลงสนาม",
+                            "image": "https://image.tmdb.org/t/p/original/p6wYSWB7BiIUi7WFFRagSAuNKTr.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F3a5fcdb57deff1ed46120894bc684ce0%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - ความฝันของพวกเรา",
+                            "image": "https://image.tmdb.org/t/p/original/8flSVODuQtO0UmkCPWbTGA1qAtL.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbb0ba7202ebf5e371b209f5bada4c396%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - ชื่อที่แท้จริงของผู้ขี้ขลาด",
+                            "image": "https://image.tmdb.org/t/p/original/lEWHb3qmE040Wb5ncCvf3y2BCh2.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F71f522014ce63c1d959fa15613a51141%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - คทาและดาบ",
+                            "image": "https://image.tmdb.org/t/p/original/2fxclTqjg9gf2Bn4NxtpQGo6wsk.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff2c1270ef8e70e30b8ed05d4365e64da%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                },
+                {
+                    "name": "ซับไทย",
+                    "image": "https://image.tmdb.org/t/p/original/5n0IZQA9MiXn5JBKZibtNhhFSAZ.jpg",
+                    "stations": [
+                        {
+                            "name": "Ep. 1 - Like a Lone Sword",
+                            "image": "https://image.tmdb.org/t/p/original/ieLlWMtF5bi7DlyJITf21k6Cu3P.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fdd9797ba9e028983dbdfe31ebae2bbc8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 2 - As Though Undaunted",
+                            "image": "https://image.tmdb.org/t/p/original/9LpMgZDv72ZJjuejWndwQWU1ILk.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb94b0cf465059b202af238ce20abd5bf%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 3 - Order & Watcher",
+                            "image": "https://image.tmdb.org/t/p/original/7t1iPH7vjBBKTTpNKZi4hBDBEps.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F03789613744aba4b93a095ac9aee8113%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 4 - The Eve of the Grand Festival",
+                            "image": "https://image.tmdb.org/t/p/original/7oiqWAFQv4vlkuABNvBdz3FIUUu.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8def392f77a2ff70162c77c9a5cce15d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 5 - Raise the Starting Pistol",
+                            "image": "https://image.tmdb.org/t/p/original/4QBbhrpCMm335ntCEpqZNI8cyxY.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8959c399013a894ca5b3b3ceed6ec05e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 6 - Between Pride and Passion",
+                            "image": "https://image.tmdb.org/t/p/original/hvZzyGam9CqZGO773jDkylmO6y2.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F4ce19be4870452967bfe3c222036b840%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 7 - Twelve Secret Ice Magics, El Glace Frosse",
+                            "image": "https://image.tmdb.org/t/p/original/myPtGXeEHEtaaT0ZMt9UhDVyjmm.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fad2b28320a57fbd42d92d76926d1c6ef%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 8 - Shall we date?",
+                            "image": "https://image.tmdb.org/t/p/original/rmVsK0myQRoRwTtXtA26wAa5diD.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1c4a60155542f1b36c497d54f9de6853%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 9 - Praxis Begins",
+                            "image": "https://image.tmdb.org/t/p/original/p6wYSWB7BiIUi7WFFRagSAuNKTr.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbe2ac940ecb6a15d49b0de41aa98db3a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 10 - Our Dream",
+                            "image": "https://image.tmdb.org/t/p/original/8flSVODuQtO0UmkCPWbTGA1qAtL.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F56f10ba307b55d407eca8a02e3c8cdc8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 11 - The True Name of Cowards",
+                            "image": "https://image.tmdb.org/t/p/original/lEWHb3qmE040Wb5ncCvf3y2BCh2.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F12bf5befe0ffa61cf5117731853e91b5%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 12 - Wand and Sword",
+                            "image": "https://image.tmdb.org/t/p/original/2fxclTqjg9gf2Bn4NxtpQGo6wsk.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbf681740f19fd8a32f245830a4739e57%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

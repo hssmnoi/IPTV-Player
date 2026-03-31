@@ -1,0 +1,90 @@
+{
+    "name": "Chillin' in Another World with Level 2 Super Cheat Powers [ชีวิตชิล ๆ ในต่างโลกกับอดีตแคนดิเดตผู้กล้าที่หลังจากเลเวล 2 ก็โคตรโกง]",
+    "image": "https://image.tmdb.org/t/p/original/3eBu6hYDRe72ZPUfLbhaHfF7EM9.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/bJYw5ocrHSTlVUqHSHjVwyQAwcO.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/bJYw5ocrHSTlVUqHSHjVwyQAwcO.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - A Level 2 Hero Candidate",
+                            "image": "https://image.tmdb.org/t/p/original/88VK8yDXgh7q6kN5Eh8DUGG2BtB.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/285ErbJB/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - Fenrys the Lupine Warrior",
+                            "image": "https://image.tmdb.org/t/p/original/ccPFRSme3rdiBBuAl59CbAfkvgd.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/pzRRz5zZqi/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - I've Begun My Life in Another World",
+                            "image": "https://image.tmdb.org/t/p/original/A1gJWfvZbSdxKCu310VS2RknaL7.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/YkbGeuKTs/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - An Unexpected Visitor",
+                            "image": "https://image.tmdb.org/t/p/original/glG4YvnloEQZPEdz45eS6Z2o5bY.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/VCubzPLJ5/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - Until My Life Ends",
+                            "image": "https://image.tmdb.org/t/p/original/iUkKaiF2KsMAIW4M24iCJFswQMn.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/uOBEIaURZb/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - Hiya, Djinn of Light and Darkness",
+                            "image": "https://image.tmdb.org/t/p/original/k04cyu8MAvsnLZiw6bJoWdOueJ6.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/P9qRSqJM9W/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - Toward Their Respective Futures",
+                            "image": "https://image.tmdb.org/t/p/original/mBB4tOKNl2bmXEsuaIu31pJhADh.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/0oWWPG9ABZ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - Unseen Wall",
+                            "image": "https://image.tmdb.org/t/p/original/pp2DsYdljuTs8zmyCjvGjWhRem4.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ZoLmkj2Xj/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - Wolf and Adventurer",
+                            "image": "https://image.tmdb.org/t/p/original/aW2QRv38hNm5BJDwNQZfFjocOXr.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/pcXsAGabvx/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - A New Housemate",
+                            "image": "https://image.tmdb.org/t/p/original/remruceRLvLzm7doibZXf7obCkE.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/zI99itBxPN/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - A Steamy Hot Spring Trip (1)",
+                            "image": "https://image.tmdb.org/t/p/original/iSfN5mZ18JJFq2QiNrhShfGlQQ7.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/6oF9KxK3cy/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - A Steamy Hot Spring Trip (2)",
+                            "image": "https://image.tmdb.org/t/p/original/8SUDxjRpg0Du5kVUkLeGKl8JDpQ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/am0SXBp3X/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

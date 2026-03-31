@@ -1,0 +1,170 @@
+{
+    "name": "Possibly the Greatest Alchemist of All Time [อาจเป็นนักเล่นแร่แปรธาตุที่ยิ่งใหญ่ที่สุดตลอดกาล]",
+    "image": "https://image.tmdb.org/t/p/original/4TyTS9O7ECH3mXpazQ6GpJXCqNm.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/4TyTS9O7ECH3mXpazQ6GpJXCqNm.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "นักเล่นแร่แปรธาตุที่ยิ่งใหญ่ที่สุดตลอดกาล",
+                    "image": "https://image.tmdb.org/t/p/original/4TyTS9O7ECH3mXpazQ6GpJXCqNm.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - I Was Summoned By Accident",
+                            "image": "https://image.tmdb.org/t/p/original/yHoyaCwueMiNm7ME4vVTcBRFutG.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/4nLqEGP3lN/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - To a New Land",
+                            "image": "https://image.tmdb.org/t/p/original/eBLdySfiFvO1HF4EGk4ZrBVr0su.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/HNnEYdDmMJ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - Contracts and Oaths",
+                            "image": "https://image.tmdb.org/t/p/original/eBqhwFSabT8WtILAynOaPdSNGXl.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/OBP6u5gQaA/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - Takumi Party's First Battle!",
+                            "image": "https://image.tmdb.org/t/p/original/cjVIewVN5NPWxn0b0fUjM6S0zRF.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/TV3m2ZZxRB/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - Shadow of Sidonia",
+                            "image": "https://image.tmdb.org/t/p/original/l00cQpOZ0daOAWSZsqIkqnRrZ1f.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/GU717cwQ3q/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - A Drake Horse Appears",
+                            "image": "https://image.tmdb.org/t/p/original/k2EIgT5c6I6r2o0zAVDr1r0SDyq.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ydIiele7e/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - The Fox-Eared Girl of the Royal Capital",
+                            "image": "https://image.tmdb.org/t/p/original/lnPEtBVz2K8a9cm9EvHJ4EOHjIY.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/peViLXfKIi/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - Let's Choose a Party Name!",
+                            "image": "https://image.tmdb.org/t/p/original/txdXHBTwdePe9LpgcMvWQC1y7R9.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/PfIihlWZ8U/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - Resolve",
+                            "image": "https://image.tmdb.org/t/p/original/6Xl3SfWedDLHcqlnyFVfuxP8cyX.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/eOCMgIotmk/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - Takumi Takes on Pioneering!",
+                            "image": "https://image.tmdb.org/t/p/original/cMSXRf99Q0OJjKWij9hkV2wTQmr.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/sc7452XaIU/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - Signs of Turmoil",
+                            "image": "https://image.tmdb.org/t/p/original/e6hISBiEkBExZ1k0V3m8y5ALIBz.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Ce4q3O7njK/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - When Bonds Are Tested",
+                            "image": "https://image.tmdb.org/t/p/original/lug7nXnXpOieqwnMcN6WDiOqs5D.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/yBzTxqk28N/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                },
+                {
+                    "name": "ซับไทย",
+                    "info": "นักเล่นแร่แปรธาตุที่ยิ่งใหญ่ที่สุดตลอดกาล",
+                    "image": "https://image.tmdb.org/t/p/original/4TyTS9O7ECH3mXpazQ6GpJXCqNm.jpg",
+                    "stations": [
+                        {
+                            "name": "Ep. 1 - I Was Summoned By Accident",
+                            "image": "https://image.tmdb.org/t/p/original/yHoyaCwueMiNm7ME4vVTcBRFutG.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/K8p1tiCTzB/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 2 - To a New Land",
+                            "image": "https://image.tmdb.org/t/p/original/eBLdySfiFvO1HF4EGk4ZrBVr0su.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/fakK2NGEQZ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 3 - Contracts and Oaths",
+                            "image": "https://image.tmdb.org/t/p/original/eBqhwFSabT8WtILAynOaPdSNGXl.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/xue8fwDd8w/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 4 - Takumi Party's First Battle!",
+                            "image": "https://image.tmdb.org/t/p/original/cjVIewVN5NPWxn0b0fUjM6S0zRF.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/h0jwfJ1y/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 5 - Shadow of Sidonia",
+                            "image": "https://image.tmdb.org/t/p/original/l00cQpOZ0daOAWSZsqIkqnRrZ1f.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/dahyUNS79Y/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 6 - A Drake Horse Appears",
+                            "image": "https://image.tmdb.org/t/p/original/k2EIgT5c6I6r2o0zAVDr1r0SDyq.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/9XaMnSzvOI/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 7 - The Fox-Eared Girl of the Royal Capital",
+                            "image": "https://image.tmdb.org/t/p/original/lnPEtBVz2K8a9cm9EvHJ4EOHjIY.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/aM5meEQedw/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 8 - Let's Choose a Party Name!",
+                            "image": "https://image.tmdb.org/t/p/original/txdXHBTwdePe9LpgcMvWQC1y7R9.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/djlCMoDflU/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 9 - Resolve",
+                            "image": "https://image.tmdb.org/t/p/original/6Xl3SfWedDLHcqlnyFVfuxP8cyX.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/QS3KHFwmZQ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 10 - Takumi Takes on Pioneering!",
+                            "image": "https://image.tmdb.org/t/p/original/cMSXRf99Q0OJjKWij9hkV2wTQmr.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/lbtjbBm5Vu/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 11 - Signs of Turmoil",
+                            "image": "https://image.tmdb.org/t/p/original/e6hISBiEkBExZ1k0V3m8y5ALIBz.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/87QialcuLm/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "Ep. 12 - When Bonds Are Tested",
+                            "image": "https://image.tmdb.org/t/p/original/lug7nXnXpOieqwnMcN6WDiOqs5D.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/0xJTm5aR5X/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

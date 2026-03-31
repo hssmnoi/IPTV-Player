@@ -7,12 +7,12 @@
     {
       "name": "Anime",
       "image": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/web/images/covers/cover-anime.png",
-      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/index.txt"
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/anime/index.txt"
     },
     {
       "name": "Movies",
       "image": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/web/images/covers/cover-movie.png",
-      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Movies/index.txt"
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/movies/index.txt"
     }
   ]
 }

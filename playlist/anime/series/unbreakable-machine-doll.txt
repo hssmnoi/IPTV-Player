@@ -1,0 +1,90 @@
+{
+    "name": "Unbreakable Machine-Doll [สงครามจักรกล มนตราราตรี]",
+    "image": "https://image.tmdb.org/t/p/original/hVZEHhtunEvFHUZGyIZChdci6Ul.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/hdYMAO4O5WoVsiQ0BDMclwBsv3B.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/hdYMAO4O5WoVsiQ0BDMclwBsv3B.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - Facing \"Cannibal Candy\" I",
+                            "image": "https://image.tmdb.org/t/p/original/r7OcOVHgLTlT1i0uf9vHM0gHg26.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0430ec074b38f9662e76b83a158c1e3f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - Facing \"Cannibal Candy\" II",
+                            "image": "https://image.tmdb.org/t/p/original/4NxNT7KthZIN8GquFLaBRbwM3pK.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F2f33f85911e9704d603069bba076c061%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - Facing \"Cannibal Candy\" III",
+                            "image": "https://image.tmdb.org/t/p/original/40BZJSmyikIR4terMopfbfnWs5b.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F5278332c1a17eb0005877db184db5e30%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - \"Facing\"Cannibal Candy\" IV",
+                            "image": "https://image.tmdb.org/t/p/original/jpY6HlByxy0PTVEeAQtS13OfJuM.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F6181a2e979b96e4a8155da54a035df0b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - Facing \"Sword Angel\" I",
+                            "image": "https://image.tmdb.org/t/p/original/ldzgJeVUHkRfvwB7EApgMbUrnm4.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Feb20aaa399e27c112b01cfc1f8ff347c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - Facing \"Sword Angel\" II",
+                            "image": "https://image.tmdb.org/t/p/original/6SXwLPiaHjtn4E9xCW09qG7oYXf.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe7b61ad3b41a99bd16fb8ace6d32aa1e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - Facing \"Sword Angel\" III",
+                            "image": "https://image.tmdb.org/t/p/original/bXQlKxUfeWgZKjs2O7J7HlcqINY.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F3c48add7458e5b8db02c05c5fdff867d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - Facing \"Sword Angel\" IV",
+                            "image": "https://image.tmdb.org/t/p/original/blPTNIRwbLluXKkOTu75GhfQuUG.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffffd2898c5a7a79c10cc2669138717ac%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - Facing \"Elf Speeder\" I",
+                            "image": "https://image.tmdb.org/t/p/original/wGtdTFZOf4pW0j7K8xCUYgGDbr1.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F79aced9859bf4bae942b586d6cdbc678%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Facing \"Elf Speeder\" II",
+                            "image": "https://image.tmdb.org/t/p/original/9wm6jHj75MnaIHaMQ8HItXhJLaM.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F19f680327638b2b7c4a9fa1788258502%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Facing \"Elf Speeder\" III",
+                            "image": "https://image.tmdb.org/t/p/original/41pN59eVbSJXLMzBWROW2QWC50M.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0e6bbe54d83b1c688f9e3a1586186af4%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - Facing \"Elf Speeder\" IV",
+                            "image": "https://image.tmdb.org/t/p/original/nmGSaGc1VyDul8sJPDZgDi2zKO2.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Feaa0ea89eddd4d5870f7ba437789732e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

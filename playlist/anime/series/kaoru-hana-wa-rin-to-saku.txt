@@ -1,0 +1,96 @@
+{
+    "name": "The Fragrant Flower Blooms with Dignity [ดอกรักผลิบานที่กลางใจ]",
+    "image": "https://image.tmdb.org/t/p/original/g1sYAQt0OeCxzyfagSEqxUlsLnt.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/otb1lkPqmMlN6B75F4DRakKTExq.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/otb1lkPqmMlN6B75F4DRakKTExq.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - รินทาโร่กับคาโอรุโกะ",
+                            "image": "https://image.tmdb.org/t/p/original/tt3Fu2Qy2Bo2QpYquaR59ejow9A.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb6f3c1a63e83c71267998f8d5306fb55%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - จิโดริกับคิเคียว",
+                            "image": "https://image.tmdb.org/t/p/original/34xbEWXt5KE3ubRIOkaA5YO7WE0.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F85736e6d5be63e03e6c7ef3001eae696%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - คนใจดี",
+                            "image": "https://image.tmdb.org/t/p/original/xiKStjHI6vO3Fpn2PD0f78PfDqo.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F6c40ea75c05353161e4fadc7d84b1351%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - อุณหภูมิของหัวใจ",
+                            "image": "https://image.tmdb.org/t/p/original/j5E2AommdZxa2259icRzHMfJbBt.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1ba824f8369d96bc4b9080f4dc4d558e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - สัญญาณของการเริ่มต้นใหม่",
+                            "image": "https://image.tmdb.org/t/p/original/nmkYkHuKT1D0YSBQ3d5cmTlbgFN.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F292a0652ea2043334b95d5b08cef749f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - เกลียดที่สุด / รักที่สุด",
+                            "image": "https://image.tmdb.org/t/p/original/cgZ7lmFvThuWsugfVRm0Y1h3f41.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc87532b4c0c78e92fdfd956ecc21e165%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - ผู้ชายเท่",
+                            "image": "https://image.tmdb.org/t/p/original/ywbxPaeBLYJmatNTTd9yPTxFKXB.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe0bd8d12dd15609ed26c8f84844fee6f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - ตัวตนที่แท้จริงของความรู้สึก",
+                            "image": "https://image.tmdb.org/t/p/original/ySLYVSDHDdGq8jo4SSTZoYWAvJg.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F35ef7cd87c8bd51c64b5936043252824%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - ผมทองกับเจาะหู",
+                            "image": "https://image.tmdb.org/t/p/original/y8TqA2W1MnlnOHZJf1tsCYWisTr.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9bdb6a2b0e2fc22699d61c70bb16b995%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Summer Storm",
+                            "image": "https://image.tmdb.org/t/p/original/wKP3eypkEkJyAXkc8WJWJNkMWIz.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe7acb9238d4596c042c4e0cd80c1abc7%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - A Morsel of Warmth",
+                            "image": "https://image.tmdb.org/t/p/original/dPGtIEdB8YDZjYEkyei8E8GrXru.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffed876211eb1b446963ae3e9aa7e64c1%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - Bewilderment at the Beachside",
+                            "image": "https://image.tmdb.org/t/p/original/7Du0SRnco3bPWduFINeGEn1ZOkt.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff5854dd9f29022c178fb7a48950982b3%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 13 - Kaoruko and Rintaro",
+                            "image": "https://image.tmdb.org/t/p/original/nYxoMY6vj85vbVIGuPRVFslC0Qj.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Faabf93ac98bab95a2ad61465634ea4e8%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

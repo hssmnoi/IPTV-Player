@@ -1,0 +1,90 @@
+{
+    "name": "Sasaki and Peeps [ซาซากิกับพีจัง]",
+    "image": "https://image.tmdb.org/t/p/original/kVp4PsyB8V839mGQjkn6kevBwKV.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/t0pLQlwJiGe0HODy5Yk1bMo12P.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/t0pLQlwJiGe0HODy5Yk1bMo12P.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - Real Life and Fantasy",
+                            "image": "https://image.tmdb.org/t/p/original/wieOzsGCLDaxZLJ3sIx1uLsmjj9.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9d7bccefe7a873a7356429056d50efa2%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - A First Job and a Partner",
+                            "image": "https://image.tmdb.org/t/p/original/avld1DbKFy72Jl6roIyFJik49tH.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F71f1cfcb9e39394a6dcc0b0bd356422c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - The War and the Young Lady",
+                            "image": "https://image.tmdb.org/t/p/original/l7aERvSE6mI7VRQFlIUWOtASjPO.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffa4dc67a686a25b378ccabd262e595c2%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - The Prince and the Sage",
+                            "image": "https://image.tmdb.org/t/p/original/vPhhlvFnzrfCUQxDQhlsjRbVgMV.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fedaaddd3b1775ea363e3298e552bdf25%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - A Magical Man and a Third World",
+                            "image": "https://image.tmdb.org/t/p/original/sgaoNxU0kJe5SJSFxjj7i9cwH5Y.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0759f74de2e9630315d32b8daf797b54%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - Interview and Wine and Dine",
+                            "image": "https://image.tmdb.org/t/p/original/egIOnR73uPhCv04xBnXTnGY48AP.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F3b7cb3f4da7180cbf71481cff00142db%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - Martial and Political Force",
+                            "image": "https://image.tmdb.org/t/p/original/u4pGiIcVZN7OASkJSoFuQpwVVct.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F68df05ab3717e9f07704df8bb4db7b4f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - Suspicions and Sightseeing",
+                            "image": "https://image.tmdb.org/t/p/original/vqhzxePHjF5EfQwsz7LF9W86gJF.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fea83ce996fdea438fca633891d57a9a6%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - Executions and Negotiations",
+                            "image": "https://image.tmdb.org/t/p/original/q1rgkoSwN4epVcYk8kiD9vmO0ef.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F53bbde967c23cb0efc26fe6db9b62ccd%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Value and Dignity",
+                            "image": "https://image.tmdb.org/t/p/original/jHyaKPU1QpgtpRw91x5KLMpwrc4.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Feed5526ec1bff917653643c3d9c2a2bc%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Imagination and Counters",
+                            "image": "https://image.tmdb.org/t/p/original/cos0Y7VmhxYBoxauVljxhM5cDIU.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fde9ad72e467cd37f1e2f513c6fb82ae8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - Real Life, Fantasy, and the Fourth World",
+                            "image": "https://image.tmdb.org/t/p/original/opnKolPR0aH83yKfa6AvC92FOb.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F675642e87ed5dbe1e317327febe332bb%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

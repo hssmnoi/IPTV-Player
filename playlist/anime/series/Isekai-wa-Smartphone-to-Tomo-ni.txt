@@ -1,0 +1,177 @@
+{
+    "referer": "https://mojianime.com/",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/cMXpuRUGkPbL4j6l5522oE5NNeZ.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "ไปต่างโลกก็ต้องไปกับสมาร์ทโฟนสิ",
+                    "image": "https://image.tmdb.org/t/p/original/cMXpuRUGkPbL4j6l5522oE5NNeZ.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - Awakening, and Another World",
+                            "image": "https://image.tmdb.org/t/p/original/xOOxyNQI0FvIdfn7EFaIPA4GkUe.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/4VhD4JGnJ0/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - First Journey, and Samurai",
+                            "image": "https://image.tmdb.org/t/p/original/T9eNihryC6ogwc5I6LE5bo2cJE.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/ybSxpFRJCX/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - Shougi Board, and Underground Ruins",
+                            "image": "https://image.tmdb.org/t/p/original/7l04IWFrBFAVDhwLDdbDDZTrPEA.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/HNIrbzvq0K/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - Engagement, and an Uninvited Visitor",
+                            "image": "https://image.tmdb.org/t/p/original/a6BDA4V94ng5R62LonCJGPKYcea.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/5C9EAoPlsr/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - Slime Castle, and New Functions",
+                            "image": "https://image.tmdb.org/t/p/original/nwXFP6ttdotssX33K8a3gDj7YTF.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/MyPgnyf3aq/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - Moving, and a Dragon",
+                            "image": "https://image.tmdb.org/t/p/original/8Ga4aciCt36ri61Xf7axoAca5IF.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/o4GCwlVGan/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - Nation of Beastmen, and an Observer",
+                            "image": "https://image.tmdb.org/t/p/original/beMGvFnMhvjfDpWyjpLmqKh9RCo.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/kS5RgcZ4en/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - Daily Life, and Onward to Eashen",
+                            "image": "https://image.tmdb.org/t/p/original/wwOscYH7LXP4qlZEynmGkKIxdt2.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/iJoRkdoYxt/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - Oedo, and the Immortal Gem",
+                            "image": "https://image.tmdb.org/t/p/original/x41gq0SS9kgtmIpv66SZ4o97Qr9.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/x2MS9YIw5j/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Ocean, and Vacations",
+                            "image": "https://image.tmdb.org/t/p/original/3NsNRlmoHHPV904zfTnFS6OJlmG.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/uJScjKLCyh/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Panties, and an Aerial Garden",
+                            "image": "https://image.tmdb.org/t/p/original/aV7v6lysbyBHLYF9qsqYfRKSlSL.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/tmZzA434qN/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - Decisions, and With My Smartphone",
+                            "image": "https://image.tmdb.org/t/p/original/5ppMtRwgTKTozBEZlQ9BnDkbGsM.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/98OmKOzPoZ/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Season 2",
+            "image": "https://image.tmdb.org/t/p/original/fBmsWqT5gRjH3qfWRQzRW7yoBiW.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "ไปต่างโลกก็ต้องไปกับสมาร์ทโฟนสิ",
+                    "image": "https://image.tmdb.org/t/p/original/fBmsWqT5gRjH3qfWRQzRW7yoBiW.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - Engagement Rings and a Hot Spring",
+                            "image": "https://image.tmdb.org/t/p/original/zf4nkvMsq5GsnSlrYhDHB92efhs.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/mugFE2xSgm/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - Deserted Survivors and the Workshop",
+                            "image": "https://image.tmdb.org/t/p/original/16dBEw7CY0XR3XtetZg140JEmfZ.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/osbqlFcd4n/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - Collecting Books and a Library Café",
+                            "image": "https://image.tmdb.org/t/p/original/fUpbxbhxdFn8HcbcByBbDhPGeVE.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/fmXv18ZAjf/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - Upheaval in the Castle and an Imperial Princess",
+                            "image": "https://image.tmdb.org/t/p/original/ywitEkgM0YklJPu8X3RiFQYMHRN.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/1NDh3bQeQg/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - The Fifth Wife And A Newly Founded Nation",
+                            "image": "https://image.tmdb.org/t/p/original/qqYQKiZwCtkbZEw0GEEfr049ks.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/ehJf414Vap/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - The Alchemy Ward and an Unexpected Reunion",
+                            "image": "https://image.tmdb.org/t/p/original/4NsFyWeePlJtIKtSK9sxnvfEZwO.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/Ndxamnn9R2/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - The Hangar and Frame Gears",
+                            "image": "https://image.tmdb.org/t/p/original/84AQx4SpB84418lfMR1QXdE3dCZ.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/TrT8AlXka8/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - Two Princes and the Small Fiancée",
+                            "image": "https://image.tmdb.org/t/p/original/eMnhkrnj4hvc2ymwcM25F1lT9hm.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/SWnYZ5WLp6/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - Day-Off Dates and the Female Knight",
+                            "image": "https://image.tmdb.org/t/p/original/9qU0CpzgzTm1eADyXz5mxtxSwNY.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/DOOrdTirHl/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Amnesia and the Mystic Eye of Petrification",
+                            "image": "https://image.tmdb.org/t/p/original/aEoThT3MGxxgHOZpxE0XogNmTUA.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/zonY6Dd5yu/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Sister From Another World and a Sparkling First Love",
+                            "image": "https://image.tmdb.org/t/p/original/eri61ZYdt3dOBAiFKLJBkQCZXG1.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/jwMoenKIwZ/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - Birth of a Prince and With My Smartphone",
+                            "image": "https://image.tmdb.org/t/p/original/vIR9VRmPENVxP2r09bfa9Q3LR2R.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/nCIvjqpb2Y/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "name": "In Another World with My Smartphone [ไปต่างโลกกับสมาร์ทโฟน]",
+    "image": "https://image.tmdb.org/t/p/original/k3DboKiicC4ZbJe50sjG1fGdMGX.jpg"
+}

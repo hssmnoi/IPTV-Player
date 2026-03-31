@@ -1,0 +1,303 @@
+{
+    "name": "From Me to You: Kimi ni Todoke [From Me to You: ฝากใจไปถึงเธอ]",
+    "image": "https://image.tmdb.org/t/p/original/lLUAZzJc6vfyE2TeY56AGGb3E5K.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/tIJh4NJVhIhlCI082XxEPX8AXvZ.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "ฝากใจไปถึงเธอ",
+                    "image": "https://image.tmdb.org/t/p/original/tIJh4NJVhIhlCI082XxEPX8AXvZ.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - บทนำ",
+                            "image": "https://image.tmdb.org/t/p/original/l9ndSxkMlo0lYWmh0sqg6lzGq5y.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/lw44dSm4/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - การเปลี่ยนที่นั่ง",
+                            "image": "https://image.tmdb.org/t/p/original/vOik1FF1JwzbsejilCW0riijsuY.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/xIddAy5n/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - หลังเลิกเรียน",
+                            "image": "https://image.tmdb.org/t/p/original/n39l6iofFqssciD2BAivLy07M6W.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/hauWUvyE/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - ข่าวลือ",
+                            "image": "https://image.tmdb.org/t/p/original/2PSqtI47xWMOb6sboEfeSbU2Odh.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/eyIt7ExV/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - ความมุ่งมั่น",
+                            "image": "https://image.tmdb.org/t/p/original/8xP4ODtwKCGP7uXEQBPS0tdf33K.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/5JEZEWED/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - เพื่อนฝูง",
+                            "image": "https://image.tmdb.org/t/p/original/qsVL2nwLrijPN1I4oHsouABbyta.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/YA60brJY/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - คืนวันเสาร์",
+                            "image": "https://image.tmdb.org/t/p/original/twevwOcZ2zAxJ5nrUCnBmbhOpeT.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/EpPdZJgo/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - การฝึกฝนตนเอง",
+                            "image": "https://image.tmdb.org/t/p/original/2bcgVbGenAFuaUD3uG3li3IAbuz.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/GMIptUsD/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - เพื่อนใหม่",
+                            "image": "https://image.tmdb.org/t/p/original/ac9faEt7y115GPRAW2FuIQH2USH.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/HUXjl3DJ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - ทำงานด้วยกัน",
+                            "image": "https://image.tmdb.org/t/p/original/gdwR5IqCvxuCejtY1QoBEy0d5tH.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/vlNZaesG/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - พิเศษ",
+                            "image": "https://image.tmdb.org/t/p/original/a32aoi778yWBXJWufJoxAMpA2F0.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/acNsy2jp/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - ความรู้สึกโรแมนติก",
+                            "image": "https://image.tmdb.org/t/p/original/ytDVPdsIJHKgXnPnc6nT8O6x0UM.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/JcCuu4NR/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 13 - ความรัก",
+                            "image": "https://image.tmdb.org/t/p/original/ieV2z1x5FmBEmYHHGOxoDxu0hD0.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/t5ILCevM/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 14 - คุรุมิ",
+                            "image": "https://image.tmdb.org/t/p/original/hkzS0nZ6MNazci5NSM0v7fKrORK.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/DumVwc8w/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 15 - คู่ปรับ",
+                            "image": "https://image.tmdb.org/t/p/original/tKudzeSlqngzYcdWRI6mJj1d6YL.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/HzWjieLo/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 16 - สนทนายามวิกาล",
+                            "image": "https://image.tmdb.org/t/p/original/emDXSHB1F2zoG52P2Bx6xOIYX5.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/HkbOKMUR/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 17 - วันหยุด",
+                            "image": "https://image.tmdb.org/t/p/original/fgLB6bZSx9NEM4OiACoUdD2x5d0.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/vbbM2BrT/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 18 - ความรักของจิซึรุ",
+                            "image": "https://image.tmdb.org/t/p/original/6UrNbbO82Vu6ShjjxvklM5ZU6qZ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Ar43ABax/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 19 - จงฝัน",
+                            "image": "https://image.tmdb.org/t/p/original/w3e7QrLW1q7Sw67w2pitrOtD1K1.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/SqRGmo8b/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 20 - ปัจจุบัน",
+                            "image": "https://image.tmdb.org/t/p/original/h7YsV3tKVhckiCOoHWg2cvkGsXR.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/MRb049W0/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 21 - หิมะแรก",
+                            "image": "https://image.tmdb.org/t/p/original/kfuwSZlaFH8PX3Vq2ydE9CC4VFF.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/S0IIh7pi/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 22 - คริสต์มาส",
+                            "image": "https://image.tmdb.org/t/p/original/xXpMR5cG6KfmJHo1oAjC9ucRW9P.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/RkKtAnOP/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 23 - สองคน",
+                            "image": "https://image.tmdb.org/t/p/original/xfxJWrcdlP1Imzn8jp19uEqH1zb.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/qsLAG6Yo/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 24 - วันเกิด",
+                            "image": "https://image.tmdb.org/t/p/original/feYymBBFwZRF5bObT3ZLfIBJUcp.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/jc1SjnB6/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 25 - ปีใหม่",
+                            "image": "https://image.tmdb.org/t/p/original/qenldvyCxdsVRyJy4zCSEYtSp5H.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/S5I8JuU/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Season 2",
+            "image": "https://image.tmdb.org/t/p/original/lLUAZzJc6vfyE2TeY56AGGb3E5K.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "ฝากใจไปถึงเธอ",
+                    "image": "https://image.tmdb.org/t/p/original/lLUAZzJc6vfyE2TeY56AGGb3E5K.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - วาเลนไทน์",
+                            "image": "https://image.tmdb.org/t/p/original/3mTeb9NxtXlyIswtn8De5nrX8o4.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Ak1QGbnT8Y/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - นักเรียนปี 2",
+                            "image": "https://image.tmdb.org/t/p/original/jntBAjmjFvSh4oYpSs3Bar4Leoi.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/XQEIjCxLLR/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - ลืมไปเถอะ",
+                            "image": "https://image.tmdb.org/t/p/original/AdudeDuD20gJ1DvBbBqLg70E4G.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/NcFtj8nZu3/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - เข้าใจผิด",
+                            "image": "https://image.tmdb.org/t/p/original/aFBgg45T6Nl3QCQR1JMXiromN1u.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/3rFQKOZFiE/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - คนที่ชอบ",
+                            "image": "https://image.tmdb.org/t/p/original/euSiqbudQF8vwaQoylBnixoPdk2.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/qrRZoZnreA/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - ความรักกับเรื่องกวนใจ",
+                            "image": "https://image.tmdb.org/t/p/original/ctb9rGCPE8uWAos9Pzh7DCqSom5.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/zG5Xss28Cm/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - ตัดใจซะเถอะ",
+                            "image": "https://image.tmdb.org/t/p/original/8KwWjjkXRK4X5rbQTbkITz4GN3m.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/fZOVzxX3XJ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - ส่งใจไป…",
+                            "image": "https://image.tmdb.org/t/p/original/jI3S75LVolFmDltERnHGMbX4IxC.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/EGTXt45vMc/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - สารภาพรัก",
+                            "image": "https://image.tmdb.org/t/p/original/m863WMX2pQNTGyMw5a3dN90j8qw.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/FwFxOYHkri/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - จากนี้ไป",
+                            "image": "https://image.tmdb.org/t/p/original/mFzC84NnU01aJzq0dXn8fHfcZsL.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/7WTpMxJTVU/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - หลังงานเทศกาล",
+                            "image": "https://image.tmdb.org/t/p/original/lAbOkzsagg4l8hh2O6V0X2ZcIq0.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/xDoZ13tMg/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - คนสำคัญ",
+                            "image": "https://image.tmdb.org/t/p/original/6MFS2FHSABNxDLQeYIPZACWD3nI.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/mUldEXx1KM/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Season 3",
+            "image": "https://image.tmdb.org/t/p/original/5fo3p4guox65slwFmjDS35AV9W2.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "ฝากใจไปถึงเธอ",
+                    "image": "https://image.tmdb.org/t/p/original/5fo3p4guox65slwFmjDS35AV9W2.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - ไม่มีทางที่ฉันจะเกลียดเธอ",
+                            "image": "https://image.tmdb.org/t/p/original/96MI1JwQgiyVJi9Un8oKp5hwnoz.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fae0f1ffb072866afae6f84e25e795d45%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - ทริปโรงเรียน",
+                            "image": "https://image.tmdb.org/t/p/original/H657HNyWyUDmg3BX1I8T1rOOOX.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8fa696496cdd52ee9d57ac89bbf3e308%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - เพื่อนใจ",
+                            "image": "https://image.tmdb.org/t/p/original/cEpNYQ3lDJy99GJbSljekkTrtO3.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F09f9b9e1882a3f3a13b1779416f8fa05%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - สังสรรค์วันคริสต์มาส",
+                            "image": "https://image.tmdb.org/t/p/original/A535S3edmCvJhuxyuDwjxz0AohQ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F05c326f9c1e18bba1fcfe4af015195cb%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - ช่วงเวลาที่มีความสุข",
+                            "image": "https://image.tmdb.org/t/p/original/fA7MvP781VGRXxDHndcGw4wUL8U.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F96c41fabbbc259d65ec280e72200617c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - Graduation",
+                            "image": "https://m.media-amazon.com/images/M/MV5BZjU0M2M3MTMtYWUwNC00ZTIzLTk4ZDUtMWJlODcwOWJhYzA4XkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb5c442a561c2b71b6e7e643c0c60332a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "name": "A Galaxy Next Door [โอโตนาริ นิ กิงงะ]",
+    "image": "https://image.tmdb.org/t/p/original/otbEkcLvoI1XfJTBnkc8HPIvXcr.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/7ED2MO0ymbDckQpYZEcjoqmqUwy.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/7ED2MO0ymbDckQpYZEcjoqmqUwy.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - เจ้าหญิงและนรกที่ชื่อเดตไลน์",
+                            "image": "https://image.tmdb.org/t/p/original/hSEtViXIaFbbwpJjXx9aTxlcJrM.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/o78g14FuN/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - เจ้าหญิงกับการซื้อของ",
+                            "image": "https://image.tmdb.org/t/p/original/tJr0vytrlBcgdrIU3jl5VYa6eQr.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/RmqwPW2Ucd/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - เจ้าหญิงกับการระเบิดอารมณ์",
+                            "image": "https://image.tmdb.org/t/p/original/x4I5Ss7g7wEIi3lVUTAoDdoGnhG.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/fcyKH0l5cI/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - เจ้าหญิงกับรูปท้องฟ้า",
+                            "image": "https://image.tmdb.org/t/p/original/aZhECnrmI5i4gWTEFdogKPKDxfD.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/y0YBNEpX/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - เจ้าหญิงกับสวนสัตว์",
+                            "image": "https://image.tmdb.org/t/p/original/fCmJArpyNvj4OmWG5F4kpBCDw6q.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/tNYm4saRVF/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - เจ้าหญิงกับจดหมาย",
+                            "image": "https://image.tmdb.org/t/p/original/95SpmT6Ti3wVtIyKELKfHDkmA64.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/q8llFx3k40/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - เจ้าหญิงและไอร้อนจาง ๆ",
+                            "image": "https://image.tmdb.org/t/p/original/bhcWtUq3SuQ8jbOfvYsO3iKX5H1.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/fytl1rc9qI/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - เจ้าหญิงกับคริสต์มาส",
+                            "image": "https://image.tmdb.org/t/p/original/55X00rRZuU8X2mxwXsNtqqGXjyS.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/OxsCrMphEx/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - เจ้าหญิงและน้ำพุร้อน",
+                            "image": "https://image.tmdb.org/t/p/original/1yeeWJACQ96vDFRgN7L8vv6sUcz.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/wQ0WYEhNEe/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - เจ้าหญิงและการประชุมในครอบครัว",
+                            "image": "https://image.tmdb.org/t/p/original/4ua6ICaL3g3KklcctBX1ghEpNmc.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/4YoZ0zUTi/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - อิจิโระและการบ่งหนาม",
+                            "image": "https://image.tmdb.org/t/p/original/y7nMHYbbpTXVHWEWGoxq6Sk1R4q.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/hHFDIt8iAd/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - เจ้าหญิงและเปลวเพลิง",
+                            "image": "https://image.tmdb.org/t/p/original/kgZWxqRj7euxnNE3QEF15K3sh45.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/tdFcT2sBZW/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

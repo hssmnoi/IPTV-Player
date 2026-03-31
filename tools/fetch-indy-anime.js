@@ -8,7 +8,7 @@
  *   --track=th|subth  th = พากย์ไทย, subth = ซับไทย (default: subth)
  *   --season=N        ระบุ season ที่จะ fetch หรืออัปเดต (default: 1)
  *                     ใช้กับ --update-meta เพื่ออัปเดตเฉพาะ season ที่ระบุ
- *   --output=FILE     ชื่อไฟล์ผลลัพธ์ใน playlist/Anime/Series/ (ไม่ต้องใส่ path)
+ *   --output=FILE     ชื่อไฟล์ผลลัพธ์ใน playlist/anime/series/ (ไม่ต้องใส่ path)
  *   --tmdb-key=KEY    TMDB API key (ถ้าไม่ใส่จะอ่านจาก .env อัตโนมัติ)
  *   --tmdb-id=N       ระบุ TMDB TV ID ตรงๆ (ใช้เมื่อ search ได้ผลผิด)
  *   --update-meta[=poster|cover|title]
@@ -87,9 +87,9 @@ if (!seriesUrl && !updateMeta) {
 }
 
 // ───── Config ─────
-const PLAYLIST_DIR = path.resolve(__dirname, "../playlist/Anime/Series");
+const PLAYLIST_DIR = path.resolve(__dirname, "../playlist/anime/Series");
 const INDEX_PATH = path.resolve(PLAYLIST_DIR, "index.txt");
-const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/";
+const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/anime/series/";
 const REFERER = "https://indy-anime.net/";
 
 const HEADERS = {
@@ -580,7 +580,7 @@ async function main() {
     updateIndex(seriesTitle, posterUrl, outputFile);
 
     console.log("\n🎉 เสร็จสิ้น!");
-    console.log(`   ไฟล์: playlist/Anime/Series/${outputFile}`);
+    console.log(`   ไฟล์: playlist/anime/series/${outputFile}`);
     console.log(`   จำนวนตอน: ${stations.length}`);
   } catch (err) {
     console.error(`\n❌ Error: ${err.message}`);

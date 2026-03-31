@@ -1,0 +1,90 @@
+{
+    "name": "I Parry Everything [ฉันจะ แพรี่ ให้หมด –ผู้แข็งแกร่งที่สุดในโลกอยากจะเป็นนักผจญภัยให้ได้]",
+    "image": "https://image.tmdb.org/t/p/original/nVmc8K5J7SGMlE6tA5lVzVzAzQ9.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/arYDvPe3MS4lgt6K4gYRlXCJhXS.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/arYDvPe3MS4lgt6K4gYRlXCJhXS.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - I Parry a Cow",
+                            "image": "https://image.tmdb.org/t/p/original/4oRiL1pZ1oNlBFh7CHo7K51X8wq.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/pbqpiEmooV/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - I Parry the Reward",
+                            "image": "https://image.tmdb.org/t/p/original/64iLnLn5rTF0cEV3yRJpFFPzKvd.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/AZzZ19bOzu/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - I Parry Taking On A Page",
+                            "image": "https://image.tmdb.org/t/p/original/nCIuNiWznpPlJeTMS0XT6xsF0Ye.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/a1tHj8xClj/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - I Parry a Goblin",
+                            "image": "https://image.tmdb.org/t/p/original/mTaxhB8lLDe98S6xMNq2WjEf3BN.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ghLSjL5poy/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - I Parry a Frog",
+                            "image": "https://image.tmdb.org/t/p/original/raT8261E7QtGW1tXYbqAWASXKDB.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ZZ6FG8P4dj/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - I Parry Deadly Poison",
+                            "image": "https://image.tmdb.org/t/p/original/7RDLX8RO27qN7vedWQY6zVKouos.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/IpNHOAYULb/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - I Parry the Dead",
+                            "image": "https://image.tmdb.org/t/p/original/3BqIZc9TTzIhiNC62XJQEN9zkrF.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/KG2L6HxSep/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - I Parry the Dragon",
+                            "image": "https://image.tmdb.org/t/p/original/mr07ULvnvvYb7Er1MDlaxt2PBZG.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/BsQVroIACr/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - I Parry an Army",
+                            "image": "https://image.tmdb.org/t/p/original/b2L4EjOfotP2QGF3ZgIKFtFfrEF.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/o7rbCe7EZo/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - I Parry the Emperor's Authority",
+                            "image": "https://image.tmdb.org/t/p/original/7R5feMwrrzuY0xtz2y079ZdGiKC.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/lnYezLQL87/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - I Parry Divine Wrath",
+                            "image": "https://image.tmdb.org/t/p/original/hGpBskMUjJWDP9xmOTFGey1Q3p.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/hZxTRQG5jn/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - I Parry Everything",
+                            "image": "https://image.tmdb.org/t/p/original/48UcBGp0AXfF5fNHEOz1h32M5ST.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/fgjmlNs5gF/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

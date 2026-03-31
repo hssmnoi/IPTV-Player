@@ -1,0 +1,12 @@
+{
+  "groups": [
+    {
+      "name": "Black Clover: Sword Of The Wizard King แบล็คโคลเวอร์ ดาบแห่งจักรพรรดิเวทมนตร์",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGIxZjZlZjUtODM0OC00NDJlLWI5ZjItNDg3MGJmODVmZWNhXkEyXkFqcGc@._V1_FMjpg_UY2222_.jpg",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/anime/movies/Black-Clover-Sword-Of-The-Wizard-King.txt"
+    }
+  ],
+  "name": "The Movies",
+  "image": "https://drive.google.com/uc?id=1GkjBby5-kQSRwuCa36KptBkb80vqOXyx",
+  "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/anime/movies/index.txt"
+}

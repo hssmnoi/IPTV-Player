@@ -1,0 +1,96 @@
+{
+    "name": "The Devil Is a Part-Timer! [ผู้กล้าซึนซ่าส์กับจอมมารสู้ชีวิต]",
+    "image": "https://image.tmdb.org/t/p/original/55jYHFT8iJuASF8Mzg0V8Dh3N3M.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/8SOKHI2l7hECjzPcgRIzjLVZjGP.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/8SOKHI2l7hECjzPcgRIzjLVZjGP.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - The Devil Arrives in Sasazuka",
+                            "image": "https://image.tmdb.org/t/p/original/bM0ApZxAfSLlcHg93jeDlaBWp2C.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe52c825865601f566afba6bbf939c9cd%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - The Hero Stays at the Devil's Castle for Work Reasons",
+                            "image": "https://image.tmdb.org/t/p/original/deVDhZv0pEFbhS38tCBI5O3YpP0.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F753c541608ed25d978db2918a928c429%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - The Devil Goes on a Date with His Junior in Shinjuku",
+                            "image": "https://image.tmdb.org/t/p/original/5I16tFuQPc53vy5rDQ9yC6eZaWV.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8f426b6dd28b4ed9147fa81f83248cd2%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - The Hero Experiences Human Warmth",
+                            "image": "https://image.tmdb.org/t/p/original/8mGjWPlwROVBe21NutxZOgz45Cx.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F153236ab2082d95e48395751eb283227%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - The Devil and the Hero Save Sasazuka",
+                            "image": "https://image.tmdb.org/t/p/original/8ReEifytyZchTqh8Dc9eAai4EGQ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9130fe13fe2376bc3dceb050157d0977%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - The Devil Climbs the Stairway to School",
+                            "image": "https://image.tmdb.org/t/p/original/j1l4XiZhRUoZeRSw8FPTLyeq2xI.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fdaa00c46d31a78b6b0a3a440ca59ae93%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - The Devil's Budget Is Saved by Neighborliness",
+                            "image": "https://image.tmdb.org/t/p/original/b7vUzzwWm9fT9EltsrFU58dOvhD.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff72810c05b8ee540fccaa8a58114ecdb%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - The Hero Enters the Fray",
+                            "image": "https://image.tmdb.org/t/p/original/7Pu6NucK2o6ofhbnoTwLFGradXt.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff736d182d79bf943f8856e7f72564e49%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - The Hero Experiences a Fray",
+                            "image": "https://image.tmdb.org/t/p/original/5aqHRiH286YbgTyB6I7Aq1PEwqI.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F688d79ef26824dc84a5c751a9ee82e37%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - The Devil and the Hero Take a Break from the Daily Routine",
+                            "image": "https://image.tmdb.org/t/p/original/p60RYPHsAuFlocdtA2y3AeCmGJL.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc069e37f03e7246ac6dfc095ea869ea1%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - The Hero Stays True to Her Convictions",
+                            "image": "https://image.tmdb.org/t/p/original/nXDNkjg6ybEZQgwFoMnefA3HlDO.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1f3b904c6550db8ef00498b38b058535%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - The Devil Carries Out His Duties",
+                            "image": "https://image.tmdb.org/t/p/original/sYfW8txJKVYwHyJPPa6Xb4yidPi.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F4d447bd2c8e0e9bef5f519cc7dd7730d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 13 - The Devil and the Hero Do Some Honest Hard Work",
+                            "image": "https://image.tmdb.org/t/p/original/feY0MMI5VzniNH7TYVVbqR6cFtr.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff1077ef6ba807b18d39b93e08114c251%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

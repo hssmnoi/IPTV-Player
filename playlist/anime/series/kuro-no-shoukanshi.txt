@@ -1,0 +1,90 @@
+{
+    "name": "Black Summoner [นักอัญเชิญทมิฬ]",
+    "image": "https://image.tmdb.org/t/p/original/otO9fEZRVa5GRGswglYXXmcSnWF.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/cXl7z7sCfaTKnLyZywWV5HcIgFa.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/cXl7z7sCfaTKnLyZywWV5HcIgFa.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - ผู้มาเกิดใหม่ซึ่งสูญเสียความทรงจำ",
+                            "image": "https://image.tmdb.org/t/p/original/c9gV1LIZIOgeIFdjAe9qYaXHB7s.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F956e3b22ad887881b982f8d791199c88%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - วิญญาณอัศวินดำ",
+                            "image": "https://image.tmdb.org/t/p/original/qsgkMfAQYeBsZim1lAoCkuSFIEa.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd85909ae1feddffe7395af446647f3fb%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - สัญญาลับกับกิลด์และสาวน้อยทาส",
+                            "image": "https://image.tmdb.org/t/p/original/c29UTlRLRkRRNNPNigtcaLZLb1M.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F43cc1c311bc7c695b7272e580fe03da0%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - ปีศาจ",
+                            "image": "https://image.tmdb.org/t/p/original/94t1oDsAhk5rmbTYEMc9ASgEIhy.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffeed90518b3a8d53425f0657027d20bc%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - ลูกสาวของจอมมาร",
+                            "image": "https://image.tmdb.org/t/p/original/v6UtpF2BiGYPtOv3maNkfg2sJ5a.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F50901d6e86e8ab136cc014c4db743a17%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - ข้าวสวย โจร และผู้กล้า",
+                            "image": "https://image.tmdb.org/t/p/original/z6OkAOk0kmLnxfRtWhWK22fcu3S.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F37e9c250be59937c6150263e989468f4%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - การต่อสู้กับเหล่าผู้กล้า",
+                            "image": "https://image.tmdb.org/t/p/original/79BfjUfV36wWLk8gNc39vxd0uyE.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb9ee9c213f3b8b302e8a8ed652702e8e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - การกลับสู่พาซูและการจุติของเทพธิดา",
+                            "image": "https://image.tmdb.org/t/p/original/kbuKNVCXsluNznJOtBPNR8188Rk.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F363b0000c247615eb4a6b15d60fae2b8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - อัญเชิญผู้กล้า",
+                            "image": "https://image.tmdb.org/t/p/original/y4kK9rBiMkEtY3RdNO3zyPh2U5f.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F966b9645ce9dda51009df26dd2d59d1b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - ครอบครัวใหม่",
+                            "image": "https://image.tmdb.org/t/p/original/5A2kBXwkNwWjUbSVddAGXi3boYq.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff9d91f1c6d1dde303826e539eee2c605%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - การทดสอบเลื่อนขั้นระดับ S",
+                            "image": "https://image.tmdb.org/t/p/original/erTH8nfzhHh6ym5pcyN3dFzCYyO.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0cd56bd9e260b48215e277656995c49c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - ผู้มาเกิดใหม่อีกคนหนึ่ง",
+                            "image": "https://image.tmdb.org/t/p/original/spvybqEdZvXrbHc2jCqKDcVnqsZ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F16c8a117c4b3c96c9e05eb2553ebc169%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

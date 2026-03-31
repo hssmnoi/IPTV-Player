@@ -1,0 +1,90 @@
+{
+    "name": "Fermat Kitchen [2 อัจฉริยะ เมนูคณิตทฤษฎีแฟร์มา]",
+    "image": "https://image.tmdb.org/t/p/original/2CrSIqyoZIVk0UsbBPaJlMkCxcM.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/mr8AClCRHeGGkJUOckdVywuLM24.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/mr8AClCRHeGGkJUOckdVywuLM24.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - ชายปริศนา",
+                            "image": "https://image.tmdb.org/t/p/original/p8jgtYCj0FgJSZKS2S8vJxBOPMC.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ZAmUyudlb/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - ประตูแห่งความจริง",
+                            "image": "https://image.tmdb.org/t/p/original/Ehygh8zHkAeugLaxkaMBxKmprK.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/kKIi5Ddqc5/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - ท้าทายเทพเจ้าด้วยการทำอาหาร",
+                            "image": "https://image.tmdb.org/t/p/original/pkVRtPulLU8EcYlyBmCFvIYqfhY.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/CxDW1OFdu/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - ก่อนและหลัง",
+                            "image": "https://image.tmdb.org/t/p/original/gZ5FrxGiuHWuci6bQcnCFkmOPCJ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/JA2maCQNh6/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - ความคิดถึงและอาหาร",
+                            "image": "https://image.tmdb.org/t/p/original/wjivYRAK5nvtExYcBq8YyKc9wKN.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/TqrPf1Qr7d/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - เหตุการณ์ที่ทับซ้อน",
+                            "image": "https://image.tmdb.org/t/p/original/n3veJZSKSwNC8befL1ThAmkPVBM.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/lX0mjFjgwL/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - ความฝัน",
+                            "image": "https://image.tmdb.org/t/p/original/ospiEKzd2mcbOiuXVtdpnSD8XTS.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/3gwHKwmOOf/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - การแข่งขันอันดุเดือด",
+                            "image": "https://image.tmdb.org/t/p/original/6g0sSaoeXYyUSbNc972XmZzvoZP.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/I1Fe7PnyBc/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - การล่มสลายของสมการ",
+                            "image": "https://image.tmdb.org/t/p/original/zFCGKAY0WLBUIIwoxGuYbGEODn3.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/caHOowA2CZ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - บทสนทนากับความมืดมิด",
+                            "image": "https://image.tmdb.org/t/p/original/l69MC9EUvwYLzumSiASoQCvstvG.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/6Al0z72vZ3/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - พิธีเปิด",
+                            "image": "https://image.tmdb.org/t/p/original/gbxBdS4YD0yIHwIwpmhrVRdBsjW.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/xRsEnzOnry/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - อาหารของแฟร์มาต์",
+                            "image": "https://image.tmdb.org/t/p/original/1j9emQbUareve0GtXZ4vayKft3L.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/T4VHqI5xR/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "name": "Girls und Panzer [สาวปิ๊ง! ซิ่งแทงค์]",
+    "image": "https://image.tmdb.org/t/p/original/hKEgErh0c9ljzHyODohZWzapI9U.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/4lXfHboc4GJsFQu0KSSx6F2AUAY.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/4lXfHboc4GJsFQu0KSSx6F2AUAY.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - I'll Take Up Sensha-dō!",
+                            "image": "https://image.tmdb.org/t/p/original/c1bocOMMEfNECNdpoFsHi8FxXGb.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb836283bfba930fb4bc0fdfe4dfe6f50%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - I'll Board the Tank!",
+                            "image": "https://image.tmdb.org/t/p/original/fksCujfdNJqCVbu8jlNSnPQlZAT.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd42d69e7f0bd978777cca54687d3f1b7%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - I'll Join the Fight!",
+                            "image": "https://image.tmdb.org/t/p/original/aHkc9b4kRpH71fsCl6ElQ86FVdU.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F78a1e6745322b3236903f84263c35023%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - I'll Do My Best As Commander!",
+                            "image": "https://image.tmdb.org/t/p/original/hKwrtBct8oRYeyhXcSYxkIjOfpQ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd2838c6c8058080bb8eec982ad17f3a1%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - An Experienced Sherman Army Corps!",
+                            "image": "https://image.tmdb.org/t/p/original/euoakMJSqKd6lF7iDdtCj6QCt9Y.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F04e32f301d266ba0c64db1aa07ee24f8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - The First Round Reaches Its Climax!",
+                            "image": "https://image.tmdb.org/t/p/original/9VFwgJ4EugjTdCdBscER0whirhv.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F782ec88ecfc60eca8a6bb1df82301188%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - Up Next is Anzio!",
+                            "image": "https://image.tmdb.org/t/p/original/yme5tsOt9poC27Obanl96eZbHqP.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F12a63f658c1ac9f3d2221c3908013af7%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - We're Fighting Pravda!",
+                            "image": "https://image.tmdb.org/t/p/original/9LJUN02hCmzmEsoGyFeClA61H6h.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F18abb0363caf2d4abd86ff0b200c4b40%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - Last Ditch Effort!",
+                            "image": "https://image.tmdb.org/t/p/original/iSr6Ej0y3JEWHeQPNiJy38bJx1i.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F431f6abc01e31867873e2a11e2721035%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Classmates!",
+                            "image": "https://image.tmdb.org/t/p/original/z5HV4fhY2Z9Z4lnKBiJfjaJqi04.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc66e49ec3f007380759871d8fa77df54%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - The Battle Gets Fierce",
+                            "image": "https://image.tmdb.org/t/p/original/mq38PTiu2KuLV3ErDtI6dzveTam.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F180aeadbdda8493a59fd20bec258b58a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - This Fight Won't Be Dismissed!",
+                            "image": "https://image.tmdb.org/t/p/original/AoWHP3hWPobBi5xZgmFF8pFq6na.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbe7945cd9343842de016c2fbe18fbf3b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

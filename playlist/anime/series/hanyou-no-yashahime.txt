@@ -1,0 +1,162 @@
+{
+    "name": "Yashahime: Princess Half-Demon [ยาฉะฮิเมะ เจ้าหญิงครึ่งอสูร]",
+    "image": "https://image.tmdb.org/t/p/original/78l5gFTXyLp9KE4uSWJgSRb9RGj.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/bFOiobDTL0BAtxtYInYRUIYwbLg.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/bFOiobDTL0BAtxtYInYRUIYwbLg.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - Inuyasha: Since Then",
+                            "image": "https://image.tmdb.org/t/p/original/6QGFm4jN9iJ8nDqgSyAKhnmAm7i.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/HEvSgQF/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - The Three Princesses",
+                            "image": "https://image.tmdb.org/t/p/original/lFykC4YUaQv4OA0SWjQ8fkNcEmG.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/BLNXXS8f/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - The Dream Butterfly",
+                            "image": "https://image.tmdb.org/t/p/original/w9d4wZIxlMMKkkThykyKfQ3RF0o.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/8bQ9jH94/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - The Gateway To The Past",
+                            "image": "https://image.tmdb.org/t/p/original/mAhFuj11VtiKfWvDgp26y9yRYcY.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/A0Axo8oE/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - Jakotsumaru of the Red Bone Palace",
+                            "image": "https://image.tmdb.org/t/p/original/qJlKeha0YBpTUPtn4zMQ7eUM59R.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/l22GGd2r/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - The Cat Juan at the Old Temple",
+                            "image": "https://image.tmdb.org/t/p/original/zsEaof2koXNSx7vnsoM7RLdybRt.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/23UpZRIV/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - Meeting through an Apple",
+                            "image": "https://image.tmdb.org/t/p/original/bVKHxq2Lfn7PeADGpP6fQd0UTJO.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/6VXoacjT/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - The Dream Gazing Trap",
+                            "image": "https://image.tmdb.org/t/p/original/kyxpfHzggruzpdOuk7d9583oIEj.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/pvZcPowL/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - Meifuku, the Meioju",
+                            "image": "https://image.tmdb.org/t/p/original/96Z2ci8L6hYwf3p38qu8oJlwUvy.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/kJ9zwHGK/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - The Gold and Silver Rainbow Pearls",
+                            "image": "https://image.tmdb.org/t/p/original/kClhS7lyS1u8Ey6XM4MgUcZrGlB.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/H6IqLE6C/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - Curse of the Man-Eating Pond",
+                            "image": "https://image.tmdb.org/t/p/original/kv9zc3ohCiebLG8xy6Oav0Ixj5j.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/lGANSPRR/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - Night of the New Moon and the Black-haired Towa",
+                            "image": "https://image.tmdb.org/t/p/original/eojMEzD8ZDyJqmnzHMUF0VHFCff.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/SrmCwxB/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 13 - The Delicious Feudal Monks",
+                            "image": "https://image.tmdb.org/t/p/original/blj2UtgBk7rjcSTLpPAUttwJOQ2.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/8wjpfKK2/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 14 - The One Behind the Forest Fire",
+                            "image": "https://image.tmdb.org/t/p/original/oqmueh5wXlSxsiBvPFnJkY5nuzN.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Tq8MuAHV/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 15 - Farewell Under the Lunar Eclipse",
+                            "image": "https://image.tmdb.org/t/p/original/6KWTfIoaqAUhzFkTlvLzSCDy7xt.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/LI3x3lSC/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 16 - Double-Edged Moroha",
+                            "image": "https://image.tmdb.org/t/p/original/mZHsspv4bMSkkrFHheB0QXa5Vs6.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/nEby41lq/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 17 - The Two Evil Traps",
+                            "image": "https://image.tmdb.org/t/p/original/5OTCVsEDfdnZ0cHJea0bh8wFoH6.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/pxMcvDx/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 18 - Sesshomaru and Kirinmaru",
+                            "image": "https://image.tmdb.org/t/p/original/oudh7SYXFI3OAFLmkddYLYDTFIb.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/DG4ZWMnq/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 19 - Princess Aiya’s Beniyasha Hunting",
+                            "image": "https://image.tmdb.org/t/p/original/ns67lcKJzMwoajIZQl9CkTGR47j.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/QVm5JQec/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 20 - The Hidden Village for Half Demons",
+                            "image": "https://image.tmdb.org/t/p/original/mMWlDGwImpa0RNSPIcnNQsO9bCy.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/RoqAHQAp/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 21 - Secret of the Rainbow Pearls",
+                            "image": "https://image.tmdb.org/t/p/original/kLHLNOQfNAeNFZDOMOkeuWFXFEa.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/vbddRgj2/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 22 - The Stolen Seal",
+                            "image": "https://image.tmdb.org/t/p/original/j2oiiJI3n0092CkIuGXVX7ML4DU.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/vwkG4nv8/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 23 - The Three Princesses Strike Back",
+                            "image": "https://image.tmdb.org/t/p/original/dFXSIPYjT4LLqqDYdBKeyDNcl0Y.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/7npzYaX/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 24 - Sesshomaru's Daughter",
+                            "image": "https://image.tmdb.org/t/p/original/8t8wstk8MSLxKBOHe6Ul8B5KOKE.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ZyiL5zha/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

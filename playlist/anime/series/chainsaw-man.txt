@@ -1,0 +1,90 @@
+{
+    "name": "Chainsaw Man [เชนซอว์แมน]",
+    "image": "https://image.tmdb.org/t/p/original/yVtx7Xn9UxNJqvG2BkvhCcmed9S.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/wYZmuYFgXJdT1OECKqrj16Wc7m0.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/wYZmuYFgXJdT1OECKqrj16Wc7m0.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - สุนัขกับเลื่อยยนต์",
+                            "image": "https://image.tmdb.org/t/p/original/dDwTq0HNQGMCpEdVQQyksvJvUcP.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe3227e4d984eda1b7be123c84ba1db09%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - มาเยือนโตเกียว",
+                            "image": "https://image.tmdb.org/t/p/original/sHT11G9NrSxYCTPLJn0Uo8UGVys.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F5b6572917a3bf351630b45ae577a0bb0%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - เบาะแสของน้องเหมียว",
+                            "image": "https://image.tmdb.org/t/p/original/rBsJMk7RMG0KkcwNMw85wL6NRMv.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe1ff94653d0c0aa29614dab4d0a48b28%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - ช่วยกลับมา",
+                            "image": "https://image.tmdb.org/t/p/original/xKHaV7lbRU6AHijcAsGmJgXWcBi.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F73fb37b84a3f30390a182d8899d4b23b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - ปิศาจปืน",
+                            "image": "https://image.tmdb.org/t/p/original/5OX1F7rJY5GUrxJ3ll8PWABzTN3.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9cd6cc3db18eb3caa672a9feba44eb1e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - ฆ่าเด็นจิ",
+                            "image": "https://image.tmdb.org/t/p/original/uHxdaAAeQUDszXPkzmYDDz04fmd.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe9ddb3f8756d7620bd86bb66d3e97a53%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - รสชาติของการจูบ",
+                            "image": "https://image.tmdb.org/t/p/original/iUCOrXRCuc17081EZb0i2OnNDtA.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0019f979e7c607c7009b7da57ea9c994%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - ปืน",
+                            "image": "https://image.tmdb.org/t/p/original/oMRTKYMYHQBlFVYvjNuUJWzLYz5.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F2b2e68bf69accea92eb9768bc8f8c8fa%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - จากเกียวโต",
+                            "image": "https://image.tmdb.org/t/p/original/dLiGSci8j5HTkS0SnJaNFKC1sOQ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8929ae42ae13064124e650bd4b0f9d00%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - แผลช้ำซ้ำซาก",
+                            "image": "https://image.tmdb.org/t/p/original/agiShHMgIhNCVC7wZ88PGwU6AnU.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fce97b7a3f0ecadd9f190b29727488d04%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - ภารกิจเริ่มต้น",
+                            "image": "https://image.tmdb.org/t/p/original/8sDXfti8kNF1NXZ0OM7qdeVH3Pr.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F01d30751fad2f1db74b267d9d1f53c0f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - ดาบคาตานะ ปะทะ เลื่อยยนต์",
+                            "image": "https://image.tmdb.org/t/p/original/xqxc5esGMw5alHcju87cmjyAkyy.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd60a8e6e2ad81f0a2a0954443e388f26%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

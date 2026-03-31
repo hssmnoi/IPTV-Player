@@ -1,0 +1,162 @@
+{
+    "name": "So I'm a Spider, So What? [แมงมุมแล้วไงข้องใจเหรอคะ]",
+    "image": "https://image.tmdb.org/t/p/original/oTbqSiJx2nxFJ8zSM8JLdkTUFKZ.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/12Pa3ymxiffDhqZuGUi3Rnbisg8.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/12Pa3ymxiffDhqZuGUi3Rnbisg8.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - เกิดใหม่ในต่างโลก",
+                            "image": "https://image.tmdb.org/t/p/original/uzCPJ6hJF9zjuIKzEcAnMEvCMG9.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F881ea325e6dc420fa8465765ae06624c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - สร้างบ้านไม่ทันไรก็ไฟไหม้",
+                            "image": "https://image.tmdb.org/t/p/original/zr8ktCsK8dDgTmoTSTLPi7w12Qw.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1ff12c62b07ab9706a6e82a2f8571eab%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - มังกรดินกับข่าวร้าย",
+                            "image": "https://image.tmdb.org/t/p/original/euF4TUPglrZqE3JciVQhi2u3UG2.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0f54e214cba1b71cd312c10cb5761dbe%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - ลิงอะไรกันนี่",
+                            "image": "https://image.tmdb.org/t/p/original/rDxy9dsXm8u6baN7yT9K4ihbXzQ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F943215780d17a826d3b6d585a22652c1%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - ปลาดุกอร่อยไหม",
+                            "image": "https://image.tmdb.org/t/p/original/772NdEQV09FBbaAFgnisGirwUFN.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbafa1a70726e625090601e688b4de529%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - ผู้กล้ากับจอมมารงั้นเหรอ",
+                            "image": "https://image.tmdb.org/t/p/original/vgzNZdEDMqmqwmInPTIefZJia0i.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fa1dbbc544993dc07d0c73eccc5ec3bd0%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - บทบาทใหม่ในฐานะองค์ชาย",
+                            "image": "https://image.tmdb.org/t/p/original/wYXrklwpyLryazzHZQkfVJm4Ls2.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fa42c91c9fc2b8d880e2bcafb8cc2c964%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - นี่ฉันตายแล้วใช่ไหม",
+                            "image": "https://image.tmdb.org/t/p/original/fJvhHRghghgUC3xFvyOpR0rdzYw.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F3331437ddb0d1c1cafcdbf6994db38c0%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - ชั้นพูดภาษาต่างโลกก็ไม่ได้เหรอ",
+                            "image": "https://image.tmdb.org/t/p/original/lUgEGDZZh8fWhn4X2eD90sbXXNI.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Feadd862c2fbf42bfc5134cd4ddcaa9ce%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - ตานี่เป็นใครกัน",
+                            "image": "https://image.tmdb.org/t/p/original/7rROn4k0UvZoXZlG9fLGzwbLSIG.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc72f2eb615028db328d2102084db8b2e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - ศึกครั้งหน้าคือศึกครั้งใหญ่",
+                            "image": "https://image.tmdb.org/t/p/original/ozz4w9oe9x6rG41Wjz47bj8YRHz.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb7f30c72976c7435b0da677f62c4c66e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - การต่อสู้ของฉันเพิ่งจะเริ่มขึ้น",
+                            "image": "https://image.tmdb.org/t/p/original/mwKYI6nWqn5W99c0PX79yEnQZ4x.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F44b31dbd75e94e9e18e24c213756664b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 13 - เย่! ออกไปข้างนอก เราจะเป็นอิสระแล้วใช่ไหม",
+                            "image": "https://image.tmdb.org/t/p/original/4toLmSrhWrkzbAfBAILTG3K1A1Y.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe6f14a017de371e431bb7f4033d61495%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 14 - ว่าไงนะ กบฏงั้นเหรอ",
+                            "image": "https://image.tmdb.org/t/p/original/lKIIQPcsNVmUzG9Ye811qbqeyHX.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F27931f9469e01d2ffa4c9faa4c8a6645%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 15 - มาเทอร์ส่งแมงมุมหุ่นเชิดน่ารำคาญพวกนี้มาสินะ",
+                            "image": "https://image.tmdb.org/t/p/original/yxlatb2ltnuc29SZTN9LTaBPuWw.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc1175e662668c7c79f3d07073ab9ebf8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 16 - นี่เราใจเร็วเกินไปหรือเปล่านะ",
+                            "image": "https://image.tmdb.org/t/p/original/ukzz5fikQTrzKWAUctYrbWBtTCQ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F60ad1b7f3e9820e47740c94f10637a9a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 17 - นี่เราทำอะไรอยู่ ?",
+                            "image": "https://image.tmdb.org/t/p/original/7l6YgDTDC2ny6uT1E9zbvUWmzmy.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fff2ed248c8f9bb6bfde82cba041f8d91%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 18 - พวกนายนี่มันแย่จริงๆ เลย",
+                            "image": "https://image.tmdb.org/t/p/original/a78yUperroMVnbQifIHUeVGPumX.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0ec94e5f4e7721e63b6ab85ade9c72e1%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 19 - เหมือนงานคืนสู่เหย้าของเพื่อนร่วมชั้นเลยว่าไหม",
+                            "image": "https://image.tmdb.org/t/p/original/n8oXNIX6WQAyK0DirFuSFlcvYu2.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8b0a8766ed68faa7096f193b6462381b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 20 - มันไม่ใช่ความผิดฉันใช่ไหม",
+                            "image": "https://image.tmdb.org/t/p/original/mZdgsslqcmF7zwoIwcPCessosP9.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F2b78317ab0b7ccde750a07a4fc2bec9e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 21 - ฉันไม่ได้เป็นส่วนหนึ่งของเรื่องนี้ใช่ไหม",
+                            "image": "https://image.tmdb.org/t/p/original/1jBhiWgyTbfzn4oD2kPChv7j5fD.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F3196c6d9764c820a60eed4738d06b626%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 22 - ตลอดไป",
+                            "image": "https://image.tmdb.org/t/p/original/8aRvimTUNJxciD4TexXvhcq6YkI.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fa966dd653a8749968537ccac7df1ed06%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 23 - เพื่อนเก่า",
+                            "image": "https://image.tmdb.org/t/p/original/eFejitN8TjYxhmqK1eYHlQzD4VT.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F64050e44d526acc5ae561bfe89ca7931%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 24 - ฉันยังเป็นแมงมุมแล้วไง ข้องใจเหรอคะ",
+                            "image": "https://image.tmdb.org/t/p/original/57uxzDmE7RFIwDQ0j07WCxtAueT.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8ec534d7d24cbc7ce3c402d0a85bfc2c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

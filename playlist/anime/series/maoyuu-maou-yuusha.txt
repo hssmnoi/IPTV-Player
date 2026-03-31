@@ -1,0 +1,90 @@
+{
+    "name": "Maoyu: Archenemy & Hero [มาโอยุ จอมมารผู้กล้าจับคู่กู้โลก]",
+    "image": "https://image.tmdb.org/t/p/original/nrYpyvYhfOD4DT58BvYGIhP4Ezv.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/nrYpyvYhfOD4DT58BvYGIhP4Ezv.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/nrYpyvYhfOD4DT58BvYGIhP4Ezv.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - You Will Be Mine, Hero. I Refuse!",
+                            "image": "https://image.tmdb.org/t/p/original/9p6q1kHNtumQN3iNDcAR2MJSdgD.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F4df166a6de0cf826e2af984cd74db325%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - Please Make Us Human",
+                            "image": "https://image.tmdb.org/t/p/original/8dXqSC1fvGWkuDhBT2RxE9eaZMW.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe7d9da7b4e3ea224a29af4617af27541%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - Where Have You Been?!",
+                            "image": "https://image.tmdb.org/t/p/original/z7rnMcZsiN5cbonPSlcU8EC2sOl.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fcfa410ef2ee27e23c949ae95043f3632%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - If That Happens, I'll Take a Bite Out of the Hero!",
+                            "image": "https://image.tmdb.org/t/p/original/3EvdgbIEWCeVum4gJIWSxsiOfCs.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb0dc2df917bccbdf9225aa9f90f115a4%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - You Smell Good, Demon King. And I Feel Safe in Your Arms, Hero.",
+                            "image": "https://image.tmdb.org/t/p/original/uNYd91NbG6KfipOQ0jaN0NFUadV.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fa92c41046a398c07ba30a6e13c8055f8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - Welcome Back, Hero! Yeah, Old Man. I'm Back!",
+                            "image": "https://image.tmdb.org/t/p/original/f7ZZ3a58inN9vcffiCIT8Gq0jjC.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd73fe266ed5e5caa0725c3fec281c833%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - I'll Be Back Soon, We'll See Each Other Soon.",
+                            "image": "https://image.tmdb.org/t/p/original/3BSQXk82uqWiG8IfFGBCbn8GryN.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F65569b8fd6e1b9aa6fdb1812a75c8d6e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - Take This Sword, My Lord",
+                            "image": "https://image.tmdb.org/t/p/original/qhHMs4vB2uo5fAzVDOelRJQN4e9.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F3aff40d0f7680d1efb88df1930df1385%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - I Am Human",
+                            "image": "https://image.tmdb.org/t/p/original/kbkduKGeqxqJGVsOrNU7IYnSGob.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F275e8db852b1744b994c54569a9752c1%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - So Now Their Plans Are Finally Coming to Fruition?",
+                            "image": "https://image.tmdb.org/t/p/original/fH0ODYBfTnAQc2dxw9oFeUBuT2x.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F50add207f764eb019af6c70d6bfad298%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - I Just Destroy and Kill, Without Creating Anything",
+                            "image": "https://image.tmdb.org/t/p/original/MIFUVDzASM9PqJci9KiQzGXrCV.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9cba698831bba8bcc4fb26062a1a7977%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - I'm Back My Hero. You Sleep Too Much, My Demon King",
+                            "image": "https://image.tmdb.org/t/p/original/zCLNcnObFMJ3sj6GzMZ7F6jFBbY.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F5d1a5b603eb66c6fd80e37b11fd96630%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

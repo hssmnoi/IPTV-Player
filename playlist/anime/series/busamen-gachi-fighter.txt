@@ -1,0 +1,90 @@
+{
+    "name": "Uglymug, Epicfighter [ไอ้หน้าปลวกยอดนักสู้]",
+    "image": "https://image.tmdb.org/t/p/original/6lYZ29Y4lBpod50gBz1OndQFqx0.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/19LP0nU1Z4z7XiimtGiPgGdUXf.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/19LP0nU1Z4z7XiimtGiPgGdUXf.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - โคตรเทพ ถือกำเนิด",
+                            "image": "https://image.tmdb.org/t/p/original/k6X7R2dsJtqso9f5Z69xI30AxHM.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/NzDmqJZc0S/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - สำรวจดันเจี้ยนของจริง",
+                            "image": "https://image.tmdb.org/t/p/original/6xLjgzWf6FASleG5IEslKn6yKI1.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/BdJaaEsKk0/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - ผู้กล้าเปลวเพลิงลุกโชน",
+                            "image": "https://image.tmdb.org/t/p/original/4xVaKwWOsbqyIUuvylsYgBoAxaY.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/sKzV8oLWZS/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - เดชนางด้วนโคตรอันตราย",
+                            "image": "https://image.tmdb.org/t/p/original/n1cpVNa7uNXTVKbfFsJV3jY0AZL.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/8vhDXnPn5e/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - นางฟ้าตัวจริงจุติแล้ว",
+                            "image": "https://image.tmdb.org/t/p/original/b0AAVJRuSYIafdoan0Vj0HUeLN8.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/BJeO3byvxR/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - ภารกิจแฝงตัวของจริง",
+                            "image": "https://image.tmdb.org/t/p/original/t9HYB7ZnHm6yJsJRm2gDZEBS6qU.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/TOXEazlQJz/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - มาสเตอร์จอมชั่วร้ายของจริง",
+                            "image": "https://image.tmdb.org/t/p/original/xVqYeGmoqQw5qWNEBEN8xdiw6PV.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/zXsVwEc8Pr/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - ศึกตัดสินของจริงในโคลอสเซียม",
+                            "image": "https://image.tmdb.org/t/p/original/pOxWmaG1mjVXdXLBmp5N8zzBa5F.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/GN7771aeW2/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - ก่อตั้งบริษัทของจริง",
+                            "image": "https://image.tmdb.org/t/p/original/hhdurJwQVBqIVz0EJ6ROyzgqa7T.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ybdQYqGTyV/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - หญิงมากเสน่ห์ของจริง",
+                            "image": "https://image.tmdb.org/t/p/original/k4Jo2UBS4RQRRm1B1QtCm0a01xR.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/HWSa1KMjN1/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - สิ้นหวังกับเทพของจริง",
+                            "image": "https://image.tmdb.org/t/p/original/3ZNV2f5jDy02oaRDA0JhkeefUUe.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/buomrQ0Rfr/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - ไอ้หน้าปลวกยอดนักสู้",
+                            "image": "https://image.tmdb.org/t/p/original/vRU356n5nBUA8aApykD5gk2i1sU.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/YgRHaZrvXK/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

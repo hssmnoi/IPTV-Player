@@ -1,0 +1,300 @@
+{
+    "name": "JUJUTSU KAISEN [มหาเวทย์ผนึกมาร]",
+    "image": "https://image.tmdb.org/t/p/original/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/fHQ2XHRdRix0rkDCShmGQ8c6d03.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/fHQ2XHRdRix0rkDCShmGQ8c6d03.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - เรียวเมน สุคุนะ",
+                            "image": "https://image.tmdb.org/t/p/original/3wymoL9HYpllpFrcD8VCvemktGg.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F76851baa290fa16f866aa6a6fa09eccc%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - เพื่อตนเอง",
+                            "image": "https://image.tmdb.org/t/p/original/k5U9vkpy31UiqCkEc6x6OPBBB0R.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F56dcb1604d539cf3ee5a5b932f7bbe55%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - หญิงเหล็ก",
+                            "image": "https://image.tmdb.org/t/p/original/foMCHRzZVfCTvrmfWWeWViBzvZH.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffe77e7319084d7f7ef9a63c2aba5704a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - ครรภ์คำสาปต้องกำจัด",
+                            "image": "https://image.tmdb.org/t/p/original/7AxWD8EGwgurIeNoS40YidIlbcT.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc306179c825887e2760518ac15e2a24c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - ครรภ์คำสาปต้องกำจัด 2",
+                            "image": "https://image.tmdb.org/t/p/original/xXIK0xhHMThQkSkbBMAznaUTubj.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F49f7585ae7d757024d564538d699440e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - หลังฝน",
+                            "image": "https://image.tmdb.org/t/p/original/p7iB7X4BBr1vxeIjfeIelKZWaeS.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F208e7519e4cf6401412e112e8d6e1995%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - จู่โจม",
+                            "image": "https://image.tmdb.org/t/p/original/ggoWW4AChFzqNkVNr941EhRqTiX.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F08f4c92e223f7f33f4ad5ef087a2660f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - น่าเบื่อ",
+                            "image": "https://image.tmdb.org/t/p/original/6RmiWPTEzDIOLmGI3zYo2GqVeOW.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F94c18bef03680cc8660e89157fd2cc78%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - ลูกปลากับกรรมสนอง",
+                            "image": "https://image.tmdb.org/t/p/original/2oiKacR5YLtv7dr6lyjoyUif1Za.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1aa619eb7708adda4472e5614826ad84%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - กลายร่างอย่างค่อยเป็นค่อยไป",
+                            "image": "https://image.tmdb.org/t/p/original/rYa2K1q24GNb3dgAvgZm6K6OTzj.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0d4b00aac423804ebcf33a3f22faec1a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - หัวโบราณ",
+                            "image": "https://image.tmdb.org/t/p/original/dVRE3XvFfgm8BRww4AqxokPMds1.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fcba5c20ad223714ab5c6cf470bab6121%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - แด่เธอในสักวันหนึ่ง",
+                            "image": "https://image.tmdb.org/t/p/original/toPm43S9jRbpOnU6JetStwUTFj6.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F618d54412bdaba31cc5b84fd1e611976%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 13 - เจอกันพรุ่งนี้",
+                            "image": "https://image.tmdb.org/t/p/original/5L3jkgKkzPvECLSiOxAqA4MIIiP.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F724546bff0eab56b766236c3cb256584%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 14 - งานแลกเปลี่ยนกระชับมิตรโรงเรียนพี่น้องเกียวโต: การแข่งขันแบบทีม 0",
+                            "image": "https://image.tmdb.org/t/p/original/wzimi19uWzAboYzDjYUDpdhEMUO.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc8c0257fce39a2ff9f575711fcf2f197%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 15 - งานแลกเปลี่ยนกระชับมิตรโรงเรียนพี่น้องเกียวโต: การแข่งขันแบบทีม 1",
+                            "image": "https://image.tmdb.org/t/p/original/hoZfRWj2ROpzPnuKf45CUPzCRQE.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Feb25051b02cd81af8d5359cb2b2006ed%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 16 - งานแลกเปลี่ยนกระชับมิตรโรงเรียนพี่น้องเกียวโต: การแข่งขันแบบทีม 2",
+                            "image": "https://image.tmdb.org/t/p/original/bDM0qdyzYUMhNpIH9AUkz7okbRE.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe2e4449c48f898c7b7d7a1c806db1d63%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 17 - งานแลกเปลี่ยนกระชับมิตรโรงเรียนพี่น้องเกียวโต: การแข่งขันแบบทีม 3",
+                            "image": "https://image.tmdb.org/t/p/original/7BMedKvP6i1wIK7vLgL3v2BnRHe.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F44065564456a6be16ed9ca6c217f9c24%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 18 - นักปราชญ์",
+                            "image": "https://image.tmdb.org/t/p/original/haxqbRAfpDuS9MIEBk9ToRLNuxt.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9aff34e70626d54e1077d8bea20cab8f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 19 - ประกายทมิฬ",
+                            "image": "https://image.tmdb.org/t/p/original/qpDxYXnn0ZkoLPz0lB6iQZVIkHM.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F971b4267e72a37a6b7ec39060907f7e5%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 20 - ไม่ได้มาตรฐาน",
+                            "image": "https://image.tmdb.org/t/p/original/f15D3bnszZigSKbc85wL8ItwLKn.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F97a7c3405103e2dd5f2e13d7b62e004e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 21 - จูจุทสึ โคชิเอน",
+                            "image": "https://image.tmdb.org/t/p/original/jhTrnQKXpc7rxDwM1Wm7ulKf71P.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F941409c809ccd986738862554dff70f4%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 22 - จุดเริ่มต้นของการเชื่อฟังอย่างงมงาย",
+                            "image": "https://image.tmdb.org/t/p/original/oYPvSsCDALfVeQ5goo1aPibYiXm.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fa4123fab50cf29aa58beae825a5fda66%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 23 - จุดเริ่มต้นของการเชื่อฟังอย่างงมงาย 2",
+                            "image": "https://image.tmdb.org/t/p/original/eLxlqoRzD7HPe8JgiJd5iGpXpaf.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8dbc4b9e4365365f4b5b548f54ca1b75%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 24 - สมรู้ร่วมคิด",
+                            "image": "https://image.tmdb.org/t/p/original/zIG6nADGUqJYDBXEsDaYyzYjHgH.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F7f790e8f789a8eb450a5939cc210905b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 25 - ซ่อนเล็บ",
+                            "image": "https://image.tmdb.org/t/p/original/wR1ss0SiN0EjKOPgrGfCm9FzdVD.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F91ecf2b7fe7965f6f1d8817460e1c80c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 26 - ซ่อนเล็บ 2",
+                            "image": "https://image.tmdb.org/t/p/original/xNMW94wR8jfsXZbMK3XD2ftOUd0.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc90fc8f46722f7b84cc0f3f785a9bd82%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 27 - ซ่อนเล็บ 3",
+                            "image": "https://image.tmdb.org/t/p/original/hiWLnViLZISiSWmMi5aLUcWz79M.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fa69e5e875c833e28400e5c928180defa%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 28 - ซ่อนเล็บ 4",
+                            "image": "https://image.tmdb.org/t/p/original/mPm5BPw4dujoEHZNjpYTUEBLBZz.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd006d060a001474bb7336bb91719a79e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 29 - อกาลมรณะ",
+                            "image": "https://image.tmdb.org/t/p/original/gjWLlxTUqzf7t4HsMQhUCxke5EW.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F40ef81ab88ef08b523a66582334978bf%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 30 - ก็ประมาณนั้น",
+                            "image": "https://image.tmdb.org/t/p/original/5sVDG2UKlryQ3YhAMzSHKwXE0nF.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe9237348eaed04b39db039b193337d1e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 31 - เทศกาลยามเย็น",
+                            "image": "https://image.tmdb.org/t/p/original/AwgGz4NcjZEv65DoCx4sOoZ2hdn.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F075124bbcdbbdefa2771860143ad22a2%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 32 - อุบัติการณ์ชิบูยะ",
+                            "image": "https://image.tmdb.org/t/p/original/iWpee6FUvkhvA2ZQuWxRkwIltjy.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F2f87ab53c1e64c008d35464e721e2654%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 33 - อุบัติการณ์ชิบูยะ เปิดประตู",
+                            "image": "https://image.tmdb.org/t/p/original/wbeKG5lUim0kUzygMojZ5XLH7ar.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe99ea4f3a930b601ecdb62f204b00f7c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 34 - สับสน",
+                            "image": "https://image.tmdb.org/t/p/original/vVKd4JzK1UV6sxuiPL28gZdtT4Q.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbbb5e1e751e730e10720819edf39b752%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 35 - เข้าทรง",
+                            "image": "https://image.tmdb.org/t/p/original/6CIaldfN1D3DyeqRELOaTgGlVLu.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9e7ac38861dbbc9ceb3a2fefd8290818%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 36 - ดาบไร้คม",
+                            "image": "https://image.tmdb.org/t/p/original/kdpIM5MToGTQMwHCTpuMyabC7xu.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fa4e11fafe95fe4f3b88a0afafd622a0a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 37 - เกล็ดสีชาด",
+                            "image": "https://image.tmdb.org/t/p/original/iKXFjdV8tmrQmqro2AsJ2e1AwjN.jpg",
+                            "url": "https://www.anime-kimi.com/episode/jujutsu-kaisen-2nd-season-2-ep-13/",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 38 - สั่นคลอน",
+                            "image": "https://image.tmdb.org/t/p/original/uUIXH9nBl7HFoaomIlL4CTolq39.jpg",
+                            "url": "https://www.anime-kimi.com/episode/jujutsu-kaisen-2nd-season-2-ep-14/",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 39 - สั่นคลอน 2",
+                            "image": "https://image.tmdb.org/t/p/original/vzNGwCOfpuytEmR2UO29trlodjy.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff813a15d08d959e98e7cb11c3f741e9f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 40 - ฟ้าผ่า",
+                            "image": "https://image.tmdb.org/t/p/original/g9yiVw2BHqThSeevyuKBoJrsTpM.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbde5e431ce4ea5b1cc1b68648e020113%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 41 - ฟ้าผ่า พาร์ท 2",
+                            "image": "https://image.tmdb.org/t/p/original/sduM7W14ngIFUMnXaWfjb96lv0I.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F7132fc790f13e439768fad415c8a4f5c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 42 - ผิดหรือถูก",
+                            "image": "https://image.tmdb.org/t/p/original/rAZeDUOFLQoLgEqcjvNoMy7lmpB.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F4dce754b9bc8220957c37619764af28f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 43 - ผิดหรือถูก พาร์ท 2",
+                            "image": "https://image.tmdb.org/t/p/original/irunrX4hAbsTWUTZpWNJXg1Asbv.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1fdf3e622a8f2d5c04f6d9e843013120%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 44 - ผิดหรือถูก พาร์ท 3",
+                            "image": "https://image.tmdb.org/t/p/original/lItVwAU21e8qp14AaulanGtkJDY.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F5c035ac486bf6cb8dcac9ab45ab57c62%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 45 - แปลงร่าง",
+                            "image": "https://image.tmdb.org/t/p/original/pg4bblgq3ywpFOphH5tEerg7Tu8.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F12e4c9483b9fe826f4dfc5c7bf67206f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 46 - แปลงร่าง พาร์ท 2",
+                            "image": "https://image.tmdb.org/t/p/original/sBcwd2U4aVIGixTIuxjOe8QBDEY.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff07d4cfe9e59d5beac294b9eed58ef74%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 47 - อุบัติการณ์ชิบุยะ ปิดประตู",
+                            "image": "https://image.tmdb.org/t/p/original/oZXG2hKiueV4A9RSbV6ZMNdhWyz.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F039e3a6691437e6394c61f0a4273478d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

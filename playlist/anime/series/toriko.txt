@@ -1,0 +1,906 @@
+{
+    "name": "Toriko [โทริโกะ]",
+    "image": "https://image.tmdb.org/t/p/original/8NyEmf5xB1HSYM0MzADv8mjUnc4.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/vd1IIulw8DsNnXs341lYQXIfGK3.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/vd1IIulw8DsNnXs341lYQXIfGK3.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - ตอนพิเศษ! ลูฟี่และโทริโกะ! การต่อสู้ที่แสนยากลำบากของพวกเขา!",
+                            "image": "https://image.tmdb.org/t/p/original/1DhVrY8RyADCk6QRE87bAXcimHu.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/LkEmUD3F/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - อสูรแห่งแดนลับ! โทริโกะ จับจระเข้การาระมาซะ!",
+                            "image": "https://image.tmdb.org/t/p/original/8ojDESex2xAZulD9kf9pwcd2g39.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/DbaghMJN/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - ผลไม้มายา 7 รส! เก็บผลสายรุ้งมาซะ!",
+                            "image": "https://image.tmdb.org/t/p/original/mLV5oK2OK1qkzNlI2WBc8v4z8kH.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/bYxEHcUf/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - ปะทะพิษร้ายวาฬปักเป้า! โคโคะแห่ง 4 จตุรเทพปรากฏตัว!",
+                            "image": "https://image.tmdb.org/t/p/original/7KUd01DBmZZDbTcDzksm3Hl9tmP.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/T6VHAhZ5/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - การต่อสู้ในถ้ำลึก! เพิ่มพลัง หมัดตะปู 5 ดอกรวด!",
+                            "image": "https://image.tmdb.org/t/p/original/sDQmVZTd3KL6LFtgfZnSoVQIBvl.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/gir8LP4D/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - น็อกกิ้งมาสเตอร์! เจ้าวาฬปักเป้าเอ๋ย ได้เวลามื้ออาหารของจริงแล้ว!",
+                            "image": "https://image.tmdb.org/t/p/original/qQ32KQZzqcKyWBWe4nFoenA3v1O.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/H2wuHEs/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - หมาป่าที่แข็งแกร่งที่สุด! แบทเทิลวูลฟ์ ฟื้นคืนชีพ!",
+                            "image": "https://image.tmdb.org/t/p/original/npb9pec2LtYvQ8iwiCOEdmBO3XQ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ZfRIi9bJ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - ผู้คุกคามปรากฏตัว! กูร์เมต์โคลอสเซียม โกลาหล!",
+                            "image": "https://image.tmdb.org/t/p/original/eFZcRIPb3lMB79w2VzNYvjMwWcz.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ocnVvb8h/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - สิ่งที่สืบมา! กูรเมต์เซลล์ แผลงฤทธิ์!",
+                            "image": "https://image.tmdb.org/t/p/original/qYpjwUsnzLHUHIWs389BdE0mkt3.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/uD0wiaUB/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - ชายผู้ไร้ขีดจำกัด! นามของเค้าคือ ซานี่!",
+                            "image": "https://image.tmdb.org/t/p/original/eaJBaQ4nxBj2H6MQ2Zg6QrFypYE.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/lwzBWw0/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - มุ่งหน้าสู่เกาะรีกัล! ตามหาเนื้ออัญมณี!",
+                            "image": "https://image.tmdb.org/t/p/original/bfUguI2p5k2fPrkX55zvnp10pWs.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/svPPs6IG/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - เกมเวทมนตร์! ไปยังสนามปีศาจให้ได้!",
+                            "image": "https://image.tmdb.org/t/p/original/3j1IGzt2EB0Z77oUhNAPB7BiSrv.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/caKlxauK/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 13 - สุดยอดกองหนุน! สู้มัน โคโคะ VS หุ่น GT!",
+                            "image": "https://image.tmdb.org/t/p/original/4QaGmJQsmgFqkShbCiCSjXI217S.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/whjkcnF5/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 14 - พิษร้ายที่คุกคาม! โคโคะ ความสมดุลเพื่อชัยชนะ!",
+                            "image": "https://image.tmdb.org/t/p/original/7d37E9xv8Rkh6qHwYf5nHZ8Jr1d.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/NxaiyfCM/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 15 - ความงามที่น่ากลัว! ซานี่ การต่อสู้อย่างลูกผู้ชาย!",
+                            "image": "https://image.tmdb.org/t/p/original/3uw61aWgLOYyjdxn9CI40YmTbLj.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Z3WjdzD/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 16 - ความปรารถนาครั้งสุดท้ายของริน! จงตื่นขึ้น ซุปเปอร์โทริโกะ!",
+                            "image": "https://image.tmdb.org/t/p/original/nH7nkI3rCPRKD1pp4GmJJn81ZKQ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/pMY7fgNF/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 17 - พลังแห่งความโกรธซุปเปอร์โทริโกะ! พลังหมัดตะปูขั้นสุดยอด!",
+                            "image": "https://image.tmdb.org/t/p/original/9DtDqIllucGUV58lXSpGLkugL5K.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/SlasF2S/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 18 - รสชาติที่ซึมซับใน DNA ! โทริโกะ ตามล่า BB คอร์น!",
+                            "image": "https://image.tmdb.org/t/p/original/bbBfo8AcpAuD8xCLmbFuLRVYYrA.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Eu72V3Oa/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 19 - พรสวรรค์แห่งการต่อสู้! แสดงออกมาซะเทอรี่ คุณสมบัติแห่งราชันย์!",
+                            "image": "https://image.tmdb.org/t/p/original/hfvD6Gc7EHNzofcA8jBvTmEegsj.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/rHRJpXCC/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 20 - เพื่อเทอรี่! ระเบิดความร้อนระอุ BB คอร์น!",
+                            "image": "https://image.tmdb.org/t/p/original/kBNUBpABZjFssOkwM9NRbAteZaa.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/UQZKQJx1/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 21 - พลังของสมาคมนักล่าอาหาร ! พลังของโทริโกะ ได้เวลาพัฒนา!",
+                            "image": "https://image.tmdb.org/t/p/original/ezqVTjvz4RNSD7VCCfESPuyPrwq.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/cy6q1fI2/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 22 - แรงดันแห่งความบ้าคลั่ง! กรีนแพตซ์ VS โทริโกะ!",
+                            "image": "https://image.tmdb.org/t/p/original/nvANcGtTnkTECCvcVCokKrm3JSu.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/9Cmcsvg/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 23 - สวนสนุกแห่งอาหาร! เมืองแห่งการกิน กรูเมต์ทาวน์!",
+                            "image": "https://image.tmdb.org/t/p/original/qfVgxk2z6cQIPm0yXjxHZ7XUvNc.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/9feZuJZ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 24 - ช่วงเวลาแห่งความฝัน! ซุปศตวรรษของเซ็ตสึโนะ!",
+                            "image": "https://image.tmdb.org/t/p/original/60Wy9rNlIRaZoJevB846LXeSoul.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/hoXQuPVI/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 25 - สถานที่นัดพบ! การแข่งขันของเหล่านักล่าอาหาร!",
+                            "image": "https://image.tmdb.org/t/p/original/rSpVP53HKClkaNVdZhodA5XdJpr.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/8QecRfaO/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 26 - การต่อสู้ของเหล่านักล่าอาหาร! บนผืนน้ำแข็งแห่งนรก!",
+                            "image": "https://image.tmdb.org/t/p/original/bmaKwnOTnZPE4hDoYk7nHswxAPE.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/4rVDwzwA/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 27 - รีบกินตอนร้อนๆ! การแข่งขันแห่งชีวิตบนทุ่งน้ำแข็ง!",
+                            "image": "https://image.tmdb.org/t/p/original/a2U3KNwQLVPsQtqcvK6s71lW45F.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/c0oem6N/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 28 - ระเบิดเพลิงเขย่าภูเขาน้ำแข็ง! โฉมหน้าที่แท้จริงของชายสวมหน้ากาก!",
+                            "image": "https://image.tmdb.org/t/p/original/fUnWqk0iDjADkkN388wilXpfJgk.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/6LpWM0CU/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 29 - ผู้ใช้แมลงดอกไม้บาน! ทอมมี่ร็อด VS โทริโกะ!",
+                            "image": "https://image.tmdb.org/t/p/original/qDbZR8uZQ4eUO2Aee6LiWVxNI70.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/qmHWJ8BV/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 30 - ศักดิ์ศรีและความนอบน้อม! ทาคิมารุสู้เต็มที่ด้วยเซนนูกิ ช็อต!",
+                            "image": "https://image.tmdb.org/t/p/original/jQfmaAWa2KwQyneQjT9FGXCKhrr.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ZZK58yXR/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 31 - ศึกตัดสิน! สุดยอดท่าไม้ตายของแมทช์และทาคิมารุ!",
+                            "image": "https://image.tmdb.org/t/p/original/jQfmaAWa2KwQyneQjT9FGXCKhrr.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/eZODl4Ue/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 32 - ผู้พิทักษ์อาหารกับที่ตั้งของซุปในตำนาน!",
+                            "image": "https://image.tmdb.org/t/p/original/yYnQkfunX9BeTQKDVQpyjm27Fjv.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/wf2npIYm/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 33 - พุ่งตรงสู่ชัยชนะ! การต่อสู้แสนดุเดือดโทริโกะ VS ทอมมี่ร็อด!",
+                            "image": "https://image.tmdb.org/t/p/original/lukCdoDNjTJeqJ8sGPtTwyhCRMz.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/HxsoK9Et/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 34 - จัดการให้สิ้นซาก! ทอมมี่ร็อดเปิดโหมดเอาจริง!",
+                            "image": "https://image.tmdb.org/t/p/original/fBu9LBnJFrAYoBI5HItNqq0ASxP.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/HeCrnPKc/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 35 - พลังสุดเหลือเชื่อ! ผู้พิทักษ์อาหารเทปเปร่วมต่อสู้!",
+                            "image": "https://image.tmdb.org/t/p/original/2emQHEmtF4oahf4K7IqxeLSjRL.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/AnHNvUgJ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 36 - หยดสุดท้าย! ใครจะได้กินซุปศตวรรษกันแน่?!",
+                            "image": "https://image.tmdb.org/t/p/original/uJWFFU1xovVacTxTfcVlUivx8B.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/JvgtL69A/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 37 - ลาก่อนนะ ไอซ์เฮล! พลังที่ซ่อนเร้นของยายเซ็ตสึ!",
+                            "image": "https://image.tmdb.org/t/p/original/pHeiQabS3a8E3UUY0oc38teTiFs.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/q5wAvCga/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 38 - การรักษาสุดหวือหวา! ผู้พิทักษ์โยซาคุปรากฏตัวแล้ว!",
+                            "image": "https://image.tmdb.org/t/p/original/opXIrjCUBfJri82Tt2zafNiI9Wr.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/v2PuysLS/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 39 - การแข่งขัน! การรักษาของโทริโกะหรือซุปของโคมัตสึกันนะ!",
+                            "image": "https://image.tmdb.org/t/p/original/sqdHj5Z2CtCWdl1jFYpFlzIns4E.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/GBarwWGq/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 40 - สู่โลกแห่งความสุข! ซุปศตวรรษที่แท้จริง!",
+                            "image": "https://image.tmdb.org/t/p/original/43PPWP8YMHnTf1dAC7hzgjaYZsy.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Pslcg7o0/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 41 - ฉลองบ้านใหม่! ทุกคนพร้อมหน้าที่บ้านขนมหวาน!",
+                            "image": "https://image.tmdb.org/t/p/original/tXEcUZwojileC8i4yrrYINwVDyn.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/mvGlpdRb/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 42 - ศึกชิงราชานักล่าอาหาร! ตามล่าสุดยอดแห่งของหวาน!",
+                            "image": "https://image.tmdb.org/t/p/original/c4IJfsfEnb3E7Lni4QwAP0hYG97.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/pCqKMrI2/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 43 - เมนูสายสัมพันธ์! คู่หูกันตลอดไป!",
+                            "image": "https://image.tmdb.org/t/p/original/r9WKj5CPS7SVQu3Aq4cSuDFrA2s.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/zvVhYoS/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 44 - สีขาวอันร้อนแรง! โทริโกะ VS ประธานแห่ง IGO!",
+                            "image": "https://image.tmdb.org/t/p/original/qcvCKTQlzknroDCW2lfBxmDfq3P.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/x9LBMuWx/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 45 - สวนผักในอากาศ! ผักลอยฟ้า!",
+                            "image": "https://image.tmdb.org/t/p/original/v7oG6ceca7KKTahsqToeuVSCUg.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/P03WzqQq/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 46 - การค้นพบ! ราชาแห่งผัก สมุนไพรโอโซน!",
+                            "image": "https://image.tmdb.org/t/p/original/8kSW2kDq1qetdYFjtDx1PcKO1IT.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/KVaYKES/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 47 - คำสารภาพบนท้องฟ้า! ร่วมมือกันเถอะ!",
+                            "image": "https://image.tmdb.org/t/p/original/kKiiGWwgouIYlPWSrCzitrlhoTj.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Pkw9qIBC/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 48 - การเผชิญหน้าที่ตกตะลึง! สิ่งมีชีวิตลึกลับปรากฏตัว!",
+                            "image": "https://image.tmdb.org/t/p/original/7GRg3aqWdS7DX4p4VmtgrA6DzJu.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/WternEyd/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 49 - ความจริงแห่งโลกกรูเมต์! โทริโกะดิ่งลง!",
+                            "image": "https://image.tmdb.org/t/p/original/5OvAYOVzDZg0YsLyiKyZr1cEoX0.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/FCfROxsO/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Season 2",
+            "image": "https://image.tmdb.org/t/p/original/5IIka6Vgm1pilJMY7BHXwQKlAKj.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/5IIka6Vgm1pilJMY7BHXwQKlAKj.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - สุดยอดผู้ช่วยชีวิตปรากฏตัว! ความหมายที่แท้จริงของคำว่าพวกพ้อง!",
+                            "url": "https://hls.animeindy.com:8443/vid/BcVd4W9T/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/2MT57KSUWy1d5k4ET7fQVfKafKv.jpg"
+                        },
+                        {
+                            "name": "ตอน 2 - ตอนพิเศษ! ลูฟี่และโทริโกะ! ความจริงที่แสนน่าตกใจเกี่ยวกับเจ้าเสือ!",
+                            "url": "https://hls.animeindy.com:8443/vid/nAPlPjTC/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/w7S2iAr87y3NuWdS69jKMjClyHm.jpg"
+                        },
+                        {
+                            "name": "ตอน 3 - ช็อค! มีดที่หักกับช่างลับมีดเมลด์!",
+                            "url": "https://hls.animeindy.com:8443/vid/Dy5c883w/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/ujz7ozdUV0hFFppiEaPa1JtAOpq.jpg"
+                        },
+                        {
+                            "name": "ตอน 4 - ตึงเครียด! มีดของโทริโกะ VS มีดครัวของเมลด์!",
+                            "url": "https://hls.animeindy.com:8443/vid/RzaQ7SMm/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/xv1lV3NJmlgX1F05tLw5VoCSibD.jpg"
+                        },
+                        {
+                            "name": "ตอน 5 - แรงดึงดูดรุนแรง! กระโจนเข้าสู่เฮฟวี่โฮล!",
+                            "url": "https://hls.animeindy.com:8443/vid/eav4vHHF/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/viDYkRnE5NyjIVKzcLhJd1IJgJ.jpg"
+                        },
+                        {
+                            "name": "ตอน 6 - ความจริงที่ซ่อนอยู่! เมลด์รุ่นแรกปรากฏตัว!",
+                            "url": "https://hls.animeindy.com:8443/vid/ai29tKj/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/1fY1sW8WUFBCtimdTIN32DU8oZO.jpg"
+                        },
+                        {
+                            "name": "ตอน 7 - งานชิ้นแรก! ในฐานะรุ่นที่ 2 และสะเก็ดดาวเมลด์!",
+                            "url": "https://hls.animeindy.com:8443/vid/5yrm5TFy/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/n1F7Ityio6HC1ahfeFyXNr7HYMv.jpg"
+                        },
+                        {
+                            "name": "ตอน 8 - ทุ่มเททั้งหมดเพื่องาน! มีดครัวเมลด์เสร็จสมบูรณ์!",
+                            "url": "https://hls.animeindy.com:8443/vid/VkMh16gf/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/4wPzuOCVo1niPKGVSM7Qr7bm0oa.jpg"
+                        },
+                        {
+                            "name": "ตอน 9 - ระดับคนดัง! การเดินทางในฝันบนกูร์เมต์แคริส!",
+                            "url": "https://hls.animeindy.com:8443/vid/UkBVJl69/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/zJ4eJ9gjMmy3bxBAd1gWgsFrn6w.jpg"
+                        },
+                        {
+                            "name": "ตอน 10 - ในที่สุดเขาก็ปรากฏตัว! 4 จตุรเทพคนสุดท้าย ซีบร้า!",
+                            "url": "https://hls.animeindy.com:8443/vid/Ug5Ly1mr/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/w1jujHNJ1FhgyTJygqOSsFVVicO.jpg"
+                        },
+                        {
+                            "name": "ตอน 11 - ปลดปล่อยเสียงคำราม! ปล่อยตัวอาชญากรซีบร้าแล้ว!",
+                            "url": "https://hls.animeindy.com:8443/vid/t6ZDEvAK/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/e4LPNO1qjbuVxr8Uwz5kLE6VJC7.jpg"
+                        },
+                        {
+                            "name": "ตอน 12 - ยกระดับการเตือนภัย! ซีบร้ากับดินแดนแห่งแซนด์การ์เด้น!",
+                            "url": "https://hls.animeindy.com:8443/vid/z6t8JAqs/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/tqzAhhC5oh1qy8ndL9fEBitJqs5.jpg"
+                        },
+                        {
+                            "name": "ตอน 13 - โคมัตสึหายตัวไป! เขาวงกตทะเลทรายของปิศาจ!",
+                            "url": "https://hls.animeindy.com:8443/vid/EJVFklLN/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/aOzfW9OgcLJh2AQ0O81w6IVdoh9.jpg"
+                        },
+                        {
+                            "name": "ตอน 14 - เสียงที่ถูกผนึก! กรู์เมต์พีรามิดดินแดนต่างมิติ!",
+                            "url": "https://hls.animeindy.com:8443/vid/477kHEaM/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/oVZozBBvTsF54we9mCsisMu4mPC.jpg"
+                        },
+                        {
+                            "name": "ตอน 15 - แปลกประหลาด! หนังสือลึกลับและสิ่งมีชีวิตในโลงศพ!",
+                            "url": "https://hls.animeindy.com:8443/vid/6nwYthJM/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/bAB6Eb0jrrzhqMIr4vQnglavqcg.jpg"
+                        },
+                        {
+                            "name": "ตอน 16 - คู่ต่อสู้ที่น่าตกตะลึง! ซาลามันเดอร์สฟิงซ์!",
+                            "url": "https://hls.animeindy.com:8443/vid/BvgxGb4p/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/oaQmFN3P0gzW1g9d9RlqRiSiEBV.jpg"
+                        },
+                        {
+                            "name": "ตอน 17 - ร่วมมือกันทำอาหาร! โคมัตสึนำโทริโกะและซีบร้า!",
+                            "url": "https://hls.animeindy.com:8443/vid/fBGzFOFv/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/vQQR2naY7jfKOAHN1JQe0q9ZD5H.jpg"
+                        },
+                        {
+                            "name": "ตอน 18 - ระเบิดออกมา การรวมเทคนิค! โคล่าที่ดีที่สุดในโลก!",
+                            "url": "https://hls.animeindy.com:8443/vid/xrgg5PKw/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/x1skfyyGxKuuqP0SEjVD3Dd33hH.jpg"
+                        },
+                        {
+                            "name": "ตอน 19 - ความจริงสู่แสงสว่าง! โคมัตสึและเอกลักษณ์ของสิ่งมีชีวิตลึกลับ!",
+                            "url": "https://hls.animeindy.com:8443/vid/DNcMbi0g/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/aLBu2WnndAgvHwANNxIiu2vRW5L.jpg"
+                        },
+                        {
+                            "name": "ตอน 20 - แซงหน้าพ่อ! แกงกะหรี่มูมมามกลางฤดูร้อน!",
+                            "url": "https://hls.animeindy.com:8443/vid/jSGmkvSb/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/mfb4glNGwXr1AI8TC53ijurQzjU.jpg"
+                        },
+                        {
+                            "name": "ตอน 21 - เชื่อมต่อถึงกัน! ซุปเปอร์แกงกะหรี่มูมมาม!",
+                            "url": "https://hls.animeindy.com:8443/vid/Zth4J2YT/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/sKjR3WndfSmxAiCVBhkJyabEl8d.jpg"
+                        },
+                        {
+                            "name": "ตอน 22 - ฉากใหม่! กำหนดการของโทริโกะและการกลับมาของเขา!",
+                            "url": "https://hls.animeindy.com:8443/vid/gnIynyFP/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/jtiwqhTxcSkE0KFDA02GOxEzPv3.jpg"
+                        },
+                        {
+                            "name": "ตอน 23 - โชคแห่งอาหารเอ่อล้น! การแสวงบุญที่ศาลเจ้ากรู์เมต์!",
+                            "url": "https://hls.animeindy.com:8443/vid/VHEkZ5tW/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/jbCC0FUl31keUvy4Pf3m0vApF41.jpg"
+                        },
+                        {
+                            "name": "ตอน 24 - ว๊าก! แอปเปิ้ลตกใจที่น่ามหัศจรรย์!",
+                            "url": "https://hls.animeindy.com:8443/vid/S04jrX7C/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/eWhOVXkJ94UtaGv8BnghNta6Vvm.jpg"
+                        },
+                        {
+                            "name": "ตอน 25 - ไข่ชิกเกอร์! ความทรงจำของลุงยชชี่และภรรยา!",
+                            "url": "https://hls.animeindy.com:8443/vid/LastS9Lk/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/rLhoc37WfpidRrmvhD7rqaRurT6.jpg"
+                        },
+                        {
+                            "name": "ตอน 26 - ประกายของคริสตัล! กูรามิเรืองแสง!",
+                            "url": "https://hls.animeindy.com:8443/vid/vVJn2PdZ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/erxqBuShW9ZYJheNTOjJBT8A6Hk.jpg"
+                        },
+                        {
+                            "name": "ตอน 27 - ผลกระทบจากความโกรธ! น้ำตกยักษ์ เดธฟอลล์!",
+                            "url": "https://hls.animeindy.com:8443/vid/TIQWAdW0/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/b9O0oOoEGGZgmHBK2oK9KKxNsau.jpg"
+                        },
+                        {
+                            "name": "ตอน 28 - เทคนิคใหม่ของซานี่! ผลของการฝึกอันงดงาม!",
+                            "url": "https://hls.animeindy.com:8443/vid/7cMVBeqa/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/t1swhsSWboAKiEJ7AfctU9ui9Nc.jpg"
+                        },
+                        {
+                            "name": "ตอน 29 - รวมพลัง 30 เท่า! หมัดตะปูคู่ 36 หมัด!",
+                            "url": "https://hls.animeindy.com:8443/vid/eicqIRJT/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/ioUUAn4fuxtv0Lm4fH8UckmOa1E.jpg"
+                        },
+                        {
+                            "name": "ตอน 30 - สัญชาตญาณการทำอาหาร! โคมัตสึและกูรามิเรืองแสง!",
+                            "url": "https://hls.animeindy.com:8443/vid/BUWo32EF/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/k3xMOYB8DMCsbG6tJyGNlzfNVHX.jpg"
+                        },
+                        {
+                            "name": "ตอน 31 - การผลิตที่แสนฟุ่มเฟือย! สุดยอดการบริหารอาหาร!",
+                            "url": "https://hls.animeindy.com:8443/vid/O4EW14nT/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/bRfbHiNiuXeIYIaRyC6mz32rOTW.jpg"
+                        },
+                        {
+                            "name": "ตอน 32 - ขนม 1,000 ปีที่ดีที่สุด! เรื่องราวของโคมัตสึและยุน!",
+                            "url": "https://hls.animeindy.com:8443/vid/CyYr4QMC/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/pss2NUalsG5fCNCAHepdttMXDx5.jpg"
+                        },
+                        {
+                            "name": "ตอน 33 - การรวมตัวที่ภูเขาฤดูใบไม้ร่วง! เทอรี่, ยุน, คิส, และควินน์!",
+                            "url": "https://hls.animeindy.com:8443/vid/NPCv378n/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/v1wYtdgycebeC7TayAh3pOAptbV.jpg"
+                        },
+                        {
+                            "name": "ตอน 34 - การเจอกัน! ทาเกะจังแห่งปราสาทโอโตกิ!",
+                            "url": "https://hls.animeindy.com:8443/vid/dDZIpJlJ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/fWF6y3rybBSm8PnlBXLrxnzCf9P.jpg"
+                        },
+                        {
+                            "name": "ตอน 35 - ส่วนหนึ่งของวิธี! เป้าหมายของเชฟ!",
+                            "url": "https://hls.animeindy.com:8443/vid/Obp2JbZu/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/gdRN9r8SFsL65um7HQuEUKLDOFM.jpg"
+                        },
+                        {
+                            "name": "ตอน 36 - การเปลี่ยนแปลงที่น่าทึ่ง! ร้านตัดผมกูร์เมต์!",
+                            "url": "https://hls.animeindy.com:8443/vid/XdCf1m5r/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/rmDoBGqxXVvQg20x9I5hIVhEYIr.jpg"
+                        },
+                        {
+                            "name": "ตอน 37 - 4 จตุรเทพรวมตัว! คืนมหัศจรรย์กลางฤดูหนาว!",
+                            "url": "https://hls.animeindy.com:8443/vid/Dug5i9S/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/hhRqnYNROSt5r6RcOzsXKAaEaXe.jpg"
+                        },
+                        {
+                            "name": "ตอน 38 - เมอรี่ อิตาดาคิมัส! การนำเสนอของกูร์เมต์ซานต้า!",
+                            "url": "https://hls.animeindy.com:8443/vid/iV0RcJ1D/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/zCUV9StDTztpbTX6BOfaHWY74Si.jpg"
+                        },
+                        {
+                            "name": "ตอน 39 - สวรรค์หรือนรกกันแน่! เข้าสู่กูร์เมต์คาสิโน!",
+                            "url": "https://hls.animeindy.com:8443/vid/oTb8EzLy/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/v75DkDVMNH7rie30yfHZpBpZz3t.jpg"
+                        },
+                        {
+                            "name": "ตอน 40 - ปรากฏตัว! บอสของโลกทำอาหารใต้ดิน ไลฟ์แบรเรอร์!",
+                            "url": "https://hls.animeindy.com:8443/vid/LBsJBC8/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/hzbiapun2A3cD11J5wHLmCC2yd1.jpg"
+                        },
+                        {
+                            "name": "ตอน 41 - การ์ดเกมที่ต้องเดิมพันด้วยชีวิต! กูร์เมต์เทสติ้ง!",
+                            "url": "https://hls.animeindy.com:8443/vid/YsIrgf3/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/ytpStyLD2Jdyx2UItcJbANGK0Ju.jpg"
+                        },
+                        {
+                            "name": "ตอน 42 - เดดฮีท! โคโคะ VS ไลฟ์แบรเรอร์!",
+                            "url": "https://hls.animeindy.com:8443/vid/njZ4Nhf5/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/zEI0QSeh7x2GTaEJMfm2tpAc5Jo.jpg"
+                        },
+                        {
+                            "name": "ตอน 43 - แผนการของโคโคะ! บิ๊กมิสการ์ดที่จะตัดสินผล!",
+                            "url": "https://hls.animeindy.com:8443/vid/HsWOuFGX/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/du2YMl9TPmzlM1lqDIhEEq8kM9j.jpg"
+                        },
+                        {
+                            "name": "ตอน 44 - กินหรือถูกกิน! โทริโกะ VS ฮันเนียแพนด้า!",
+                            "url": "https://hls.animeindy.com:8443/vid/xYiTPR6f/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/3fRSRZATZY1FwEyJ7zNyelems0s.jpg"
+                        },
+                        {
+                            "name": "ตอน 45 - ไคลแม็กซ์! เหล่าวัตถุดิบสุดเลวร้ายที่เหลืออยู่!",
+                            "url": "https://hls.animeindy.com:8443/vid/uWmSzKhU/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/2JwsoEj0ig8nuuZShWH4KFJBOUl.jpg"
+                        },
+                        {
+                            "name": "ตอน 46 - ช่วงเวลาแห่งบทสรุป! แผนการณ์ที่สูงส่งของโคโคะ!",
+                            "url": "https://hls.animeindy.com:8443/vid/Spe6idxc/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/wUa1hXJOdIDLrAmBCxn7TV64vRP.jpg"
+                        },
+                        {
+                            "name": "ตอน 47 - รสชาติจากนอกโลก! อาหารที่แท้จริง กระเทียมดาวตก!",
+                            "url": "https://hls.animeindy.com:8443/vid/ylzSlUkK/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/r7km9qhjFYjxmNd5Vz7XHpHpuSI.jpg"
+                        },
+                        {
+                            "name": "ตอน 48 - สุดยอดการประลอง! อิจิริว VS บอสสมาคมนักล่าอาหาร มิโดระ!",
+                            "url": "https://hls.animeindy.com:8443/vid/Qt21SR86/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/3LFgdO2Wuxmi2lE67KXAqRfiWGF.jpg"
+                        },
+                        {
+                            "name": "ตอน 49 - วัตถุดิบที่อยู่ซ่อนอยู่! คำแนะนำฉุกเฉินจากอิจิริว!",
+                            "url": "https://hls.animeindy.com:8443/vid/Eb3Aj7L9/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/in2w0LBPSRttxnpmOeaS0xLi8Pq.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Season 3",
+            "image": "https://image.tmdb.org/t/p/original/7sTVFJU7SZrOHsjeUKW00Cp4aON.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/7sTVFJU7SZrOHsjeUKW00Cp4aON.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - ตอนพิเศษ! การรวมตัวที่แข็งแกร่งที่สุดในประวัติศาสตร์ ปะทะ จอมตะกละแห่งท้องทะเล!",
+                            "url": "https://hls.animeindy.com:8443/vid/DO8ursoT/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/q68jMzycTRP5S2Qmo9oxc4pLh30.jpg"
+                        },
+                        {
+                            "name": "ตอน 2 - เพื่อเป็นการฉลองครบ 100 ตอน! 4 จตุรเทพรวมตัวกัน!",
+                            "url": "https://hls.animeindy.com:8443/vid/Y7rcb792/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/iVn2qEQVhvY3vyJeYjbJHjxxLEC.jpg"
+                        },
+                        {
+                            "name": "ตอน 3 - โทริโกะเป็นลม! การจับวัตถุดิบที่เหม็นที่สุดในโลก!",
+                            "url": "https://hls.animeindy.com:8443/vid/XfV4y62q/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/enLH9ddieaa9qniLHA7wZVINh7T.jpg"
+                        },
+                        {
+                            "name": "ตอน 4 - สุดยิ่งใหญ่! การปรุงแบบมวยปล้ำ และเอโฮมากิยักษ์สำเร็จ!",
+                            "url": "https://hls.animeindy.com:8443/vid/hmVkfkiA/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/Y1H7ACr2atvNYPFHnTnc96ymer.jpg"
+                        },
+                        {
+                            "name": "ตอน 5 - ประสานมือ และคำนับ! สมบัติของชาติแห่งโลกกรู์เมต์ ชิน ชินชิน!",
+                            "url": "https://hls.animeindy.com:8443/vid/HwicR9Xj/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/xpGW3WYoPbPFsVb5PGSmeR7Lh1v.jpg"
+                        },
+                        {
+                            "name": "ตอน 6 - ไม่มีมารยาทเข้าไม่ได้! ความแปลกของวัดโชคุริน!",
+                            "url": "https://hls.animeindy.com:8443/vid/g5oGlqlP/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/wXNGOZAX2x43JuPuhShHlVOXB8X.jpg"
+                        },
+                        {
+                            "name": "ตอน 7 - โทริโกะพ่ายแพ้อย่างสมบูรณ์! ความละเอียดอ่อน และพลังของเกียรติแห่งอาหาร!",
+                            "url": "https://hls.animeindy.com:8443/vid/mXGaZRBX/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/9Si4oYnBK1h3jCjPy86v2HYU93G.jpg"
+                        },
+                        {
+                            "name": "ตอน 8 - จงซึมซับความรู้สึก! สิ่งสำคัญของเกียรติแห่งอาหาร!",
+                            "url": "https://hls.animeindy.com:8443/vid/EPGuZkew/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/9xNp5GvwmSBWcKnpzSCD7zfvH5w.jpg"
+                        },
+                        {
+                            "name": "ตอน 9 - ภัยร้ายที่ใกล้เข้ามา! เร็วเข้าโทริโกะ เส้นทางสู่ผลฟอง!",
+                            "url": "https://hls.animeindy.com:8443/vid/Mwk1AE6f/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/zObs4gIq7lC5D3gpMlVtCzCqcuD.jpg"
+                        },
+                        {
+                            "name": "ตอน 10 - โศกนาฏกรรม! การล่มสลายของวัดโชคุริน... ลาก่อนโคมัตสึ!",
+                            "url": "https://hls.animeindy.com:8443/vid/ZO3NRnTV/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/l7HD3SrmQ384O2vqs8fkG8is5uM.jpg"
+                        },
+                        {
+                            "name": "ตอน 11 - แข็งแกร่งไร้คู่ต่อสู้! 1 ในผู้เข้าใจเกียรติแห่งอาหาร!",
+                            "url": "https://hls.animeindy.com:8443/vid/rFYh15nF/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/kw101z8dGVFvrX6VUZgrAEJkgVJ.jpg"
+                        },
+                        {
+                            "name": "ตอน 12 - ระดับสมบัติของชาติ ขยับครั้งเดียวได้ 100 ล้านเยน! โทริโกะ VS ชิโย!",
+                            "url": "https://hls.animeindy.com:8443/vid/FVqDNrJP/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/lw8dGoIpCK4QDXuBHM4qIpNEfrQ.jpg"
+                        },
+                        {
+                            "name": "ตอน 13 - วัตถุดิบลวงตา เซ็นเตอร์! อิจิริวและผู้แข็งแกร่งแห่งไบโอโทป 0!",
+                            "url": "https://hls.animeindy.com:8443/vid/fFylBhuV/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/o2y2QknK4jaMj3eOSPGlrQIVXFW.jpg"
+                        },
+                        {
+                            "name": "ตอน 14 - ผึ้งในตำนาน อินฟินิบี! โทริโกะ VS หุ่น GT โรโบรุ่นใหม่!",
+                            "url": "https://hls.animeindy.com:8443/vid/LbypnH1L/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/4QPB7iP1cC2IDnXHrZXA7t8NSuG.jpg"
+                        },
+                        {
+                            "name": "ตอน 15 - แสดงความแข็งแกร่งที่แท้จริง! เกียรติแห่งอาหารของโคมัตสึ อาหารของจริง! บะหมี่ล่องหน เซนเมน!",
+                            "url": "https://hls.animeindy.com:8443/vid/waTsWyQ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/hsICSUoZiTLF6u56NpFdYesjCpi.jpg"
+                        },
+                        {
+                            "name": "ตอน 16 - 4 จตุรเทพรวมตัว! 4 สัตว์ร้ายจากโลกกูร์เมต์ถูกปลุกแล้ว!",
+                            "url": "https://hls.animeindy.com:8443/vid/VgMytPQV/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/gu1JRncnmSK0n7bTiVkpGIfYpgg.jpg"
+                        },
+                        {
+                            "name": "ตอน 17 - การต่อสู้ของเหล่าผู้กำหนดชะตากรรมของมนุษยชาติ! 4 สัตว์ร้าย VS 4 จตุรเทพ!",
+                            "url": "https://hls.animeindy.com:8443/vid/1Tr2Vhp/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/rKVFX9DMdRLf7bTplylZMpD98BD.jpg"
+                        },
+                        {
+                            "name": "ตอน 18 - โทริโกะ โคโคะ ซานี่ ซีบร้า! พายุ 4 จตุรเทพแห่งการโจมตี!",
+                            "url": "https://hls.animeindy.com:8443/vid/yATdQlaV/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/q9rr6PhU8yvaH9pz3aqF4UTj2na.jpg"
+                        },
+                        {
+                            "name": "ตอน 19 - วิกฤตครั้งใหม่โทริโกะ! 4 สัตว์ร้ายคืบคลานไปสู่ร่างหลัก!",
+                            "url": "https://hls.animeindy.com:8443/vid/mYL0jy5g/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/A8UBReHsTP8IQghYf7qsiYVjSYT.jpg"
+                        },
+                        {
+                            "name": "ตอน 20 - 4 สัตว์ร้ายและกรีนเรน",
+                            "url": "https://hls.animeindy.com:8443/vid/QFov6P9H/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/tVwpSOS2PNwVyvUR0DVgmfiVaNp.jpg"
+                        },
+                        {
+                            "name": "ตอน 21 - สถานการณ์ที่เลวร้ายที่สุดของ 4 จตุรเทพ! การตัดสินใจของโคมัตสึ!",
+                            "url": "https://hls.animeindy.com:8443/vid/qtF05NNl/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/fXxNJOyt8urHMnLue6hkZqHnnUi.jpg"
+                        },
+                        {
+                            "name": "ตอน 22 - ปกป้องมนุษยชาติด้วยอาหารแห่งปาฏิหาริย์!",
+                            "url": "https://hls.animeindy.com:8443/vid/MIFJLkTY/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/2lVwEZss57EXUGVYhAfbaseUPS.jpg"
+                        },
+                        {
+                            "name": "ตอน 23 - ระเบิดออกมา ความอยากลิ้มลอง! จตุรเทพรวมพลัง!",
+                            "url": "https://hls.animeindy.com:8443/vid/S1xqTL71/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/umVs0l9TWw7CcrwzSYTYNmIw46B.jpg"
+                        },
+                        {
+                            "name": "ตอน 24 - เทคนิคลับ โอชุกุ เบนซาน",
+                            "url": "https://hls.animeindy.com:8443/vid/zRFK0nZI/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/meP90dtb9w4IfnFBNou2XSHwKGe.jpg"
+                        },
+                        {
+                            "name": "ตอน 25 - การเตรียมพร้อมสำหรับเทศกาล! การดิ้นของ ตัวอันตราย!",
+                            "url": "https://hls.animeindy.com:8443/vid/dmV8XFae/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/aO5GCg9hB069q4JhDkNIKYWHo4b.jpg"
+                        },
+                        {
+                            "name": "ตอน 26 - โทริโกะ VS มอนสเตอร์โลกกรู์เมต์ มองปลัง!",
+                            "url": "https://hls.animeindy.com:8443/vid/3IEO3N6/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/fjhZY0qPnH6ZDbCTbW9VdYCdOiB.jpg"
+                        },
+                        {
+                            "name": "ตอน 27 - เทคนิคใหม่ของโทริโกะ! เนลกัน!",
+                            "url": "https://hls.animeindy.com:8443/vid/qKV1Rqu2/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/uDtrm9lFnzjeUgLvZ5WIPC2WxNe.jpg"
+                        },
+                        {
+                            "name": "ตอน 28 - ความโกลาหลที่หลีกเลี่ยงไม่ได้! เปิดม่านเทศกาลอาหาร!",
+                            "url": "https://hls.animeindy.com:8443/vid/Il6lPvl/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/i7PWlPcP3NAwk6SFJ39gDY7Jsxk.jpg"
+                        },
+                        {
+                            "name": "ตอน 29 - โคมัตสึเจอปัญหา!? คุกกิ้งไตรกีฬา!",
+                            "url": "https://hls.animeindy.com:8443/vid/fVUshjiq/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/owtBVeFfW61L0bhLRLrGntexQuu.jpg"
+                        },
+                        {
+                            "name": "ตอน 30 - เชฟในตำนาน เทนกุ บุรันจิปรากฏตัว!!",
+                            "url": "https://hls.animeindy.com:8443/vid/DmOGdx3e/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/ufHuPhyW6vbyWlRQyySZGLZ6HyS.jpg"
+                        },
+                        {
+                            "name": "ตอน 31 - การขี่ที่ผิดกติกา! บุรันจิพาไป!!",
+                            "url": "https://hls.animeindy.com:8443/vid/zRMu5mEv/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/sowPm1nysDLne2lPkJMxfaTHenN.jpg"
+                        },
+                        {
+                            "name": "ตอน 32 - อยู่หรือตาย การแข่งเดธคุกกิ้ง!!",
+                            "url": "https://hls.animeindy.com:8443/vid/EfhGCYme/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/paabUeaDu1VKPmuD4LclUSPCjgn.jpg"
+                        },
+                        {
+                            "name": "ตอน 33 - ใครคือคู่ที่แกร่งที่สุด การทำอาหารทั้งเกาะ!!",
+                            "url": "https://hls.animeindy.com:8443/vid/K3lgn5nM/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/TWjUgbvxqE4WIFQOw3W0hlCG8d.jpg"
+                        },
+                        {
+                            "name": "ตอน 34 - การระบาดของสงคราม! องค์กรกรูเมต์ที่น่ารังเกียจ!",
+                            "url": "https://hls.animeindy.com:8443/vid/kCIRoQrb/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/tOWpUChH2kCkPiYkqPXJJdLg5Hc.jpg"
+                        },
+                        {
+                            "name": "ตอน 35 - ปกป้องโคมัตสึ! โทริโกะ ปะทะ สตาร์จุน!!",
+                            "url": "https://hls.animeindy.com:8443/vid/PSqawuqA/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/w7yfGBa3ul3kBRAVa8Px3ynE0ZE.jpg"
+                        },
+                        {
+                            "name": "ตอน 36 - การต่อสู้ของสัตว์ป่า! การโจมตีที่รุนแรงที่สุดของโทริโกะ!!",
+                            "url": "https://hls.animeindy.com:8443/vid/fDS2bnX/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/VGDMgX8M7oWoPFNL0cpjcA4vXF.jpg"
+                        },
+                        {
+                            "name": "ตอน 37 - การโชว์ที่สุดยอด! IGO VS สมาคมนักล่าอาหาร",
+                            "url": "https://hls.animeindy.com:8443/vid/k9XDH9a/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/sF1axio73HlFwGqq3VKR2mzNTWS.jpg"
+                        },
+                        {
+                            "name": "ตอน 38 - ไพ่ตายที่น่ากลัว! สัตว์ร้ายโลกกรูเม่ต์ ไนโตร",
+                            "url": "https://hls.animeindy.com:8443/vid/RCXXr2Aa/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/bgEzQlqEcwWdjFlQdmpAwHmqqp0.jpg"
+                        },
+                        {
+                            "name": "ตอน 39 - การต่อสู้ถึงตาย! โคโค VS กรินพาร์ช",
+                            "url": "https://hls.animeindy.com:8443/vid/xhykGJTJ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/yIGn7JP69aSLu1myhAaoDePrPaF.jpg"
+                        },
+                        {
+                            "name": "ตอน 40 - ดวล! ซานี่ VS ทอมมี่ร็อด",
+                            "url": "https://hls.animeindy.com:8443/vid/p5jIGpbP/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/sp5CRuyKHt7MDCmHx9r2ilRELSh.jpg"
+                        },
+                        {
+                            "name": "ตอน 41 - ช่วงเวลาแห่งบทสรุป! พลังสุดท้ายของซานี่!!",
+                            "url": "https://hls.animeindy.com:8443/vid/U0UFEHED/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/aFzRwC0t3th4E9VphMxRqugW3Tn.jpg"
+                        },
+                        {
+                            "name": "ตอน 42 - โต้กลับ! ซีบร้าออกโรง!!",
+                            "url": "https://hls.animeindy.com:8443/vid/gnE0NB84/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/kX6lS22MCN6J1Gatx3HRxNWXG19.jpg"
+                        },
+                        {
+                            "name": "ตอน 43 - โทริโกะ โต้กลับ! สุดยอดความประทับใจ!!",
+                            "url": "https://hls.animeindy.com:8443/vid/g0JYqmPD/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/b35jTYLxiqSmuaIopKuITz55kEg.jpg"
+                        },
+                        {
+                            "name": "ตอน 44 - ศัตรูที่ร้ายกาจที่สุดในประวัติศาสตร์! โจอาปรากฏตัว!!",
+                            "url": "https://hls.animeindy.com:8443/vid/QT8mUTPK/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/MyLCSU9G40kmNZBG47a8kHtcuS.jpg"
+                        },
+                        {
+                            "name": "ตอน 45 - ช็อค! ตัวตนปริศนาของโจอา!!",
+                            "url": "https://hls.animeindy.com:8443/vid/10RP2ps7/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/qvkCZEt5E7dDSAqV1RhZAYScofy.jpg"
+                        },
+                        {
+                            "name": "ตอน 46 - จุดเริ่มต้นของจุดจบ! โทริโกะ vs โจอา!!",
+                            "url": "https://hls.animeindy.com:8443/vid/TFaBEdzB/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/nBMEDbNqRP303cIPEgat9AFXQqz.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

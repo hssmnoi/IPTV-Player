@@ -1,0 +1,170 @@
+{
+    "name": "A Journey Through Another World: Raising Kids While Adventuring [บันทึกการเดินทางแสนเอื่อยในต่างโลก (เลี้ยงลูกพร้อมกับเป็นนักผจญภัย)]",
+    "image": "https://image.tmdb.org/t/p/original/xvFV6ADOmUZfK28aLrPAXmxrEZO.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/47XgvfPqOwVAjuCZuLWRsRUqtm3.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "บันทึกการเดินทางแสนเอื่อยในต่างโลก",
+                    "image": "https://image.tmdb.org/t/p/original/47XgvfPqOwVAjuCZuLWRsRUqtm3.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - ต่างโลกและฝาแฝด",
+                            "image": "https://image.tmdb.org/t/p/original/xvuYe88vhPOsOYC9fyXLC10CCzb.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb760d729c290d95bb5778580b9ce89ed%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - ฝากตัวด้วยนะ จูล",
+                            "image": "https://image.tmdb.org/t/p/original/pOFnlFEY8Uj0IXX0aV6rmDVVYJ0.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbd343b1f713fdf43dd88330599a53768%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - ปราบปราม มอนสเตอร์!",
+                            "image": "https://image.tmdb.org/t/p/original/kdc55LMpEyefGRRGSa1kMcelaFy.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fae1a1fcd8b1ddaf26d782cf81e657b67%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - พี่ชาย โกรธ",
+                            "image": "https://image.tmdb.org/t/p/original/5fxdXRUzzK9JbgvzDpqNAZtc9Xa.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F89622bd718b8148f3aad2b9f502e56a3%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - จัดการก็อบลิน!",
+                            "image": "https://image.tmdb.org/t/p/original/awU8kszCQmLpEf1mDU1dnDIACkZ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F29549e771f1daabfade4ea43074f6aa6%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - ทะเล! เค็มปี๋!",
+                            "image": "https://image.tmdb.org/t/p/original/sGxughtXQEy5d0cgwpVC2MvQjW6.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F4e97bb2638d917f4327d4bdb0c269202%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - ตุ๊กตา! มังกร!",
+                            "image": "https://image.tmdb.org/t/p/original/yxpQasZUUSPoemIWXLu4CKlH9EK.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F38601e2f8b095b235586d5f36817492b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - ปู! ปู!",
+                            "image": "https://image.tmdb.org/t/p/original/6bCKNBjJIonA310o1leCnjIp8Ag.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F3f00b762c5b55779368d4938dcd8d09e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - ป๊ะป๋า คืออะไร",
+                            "image": "https://image.tmdb.org/t/p/original/zrYTl5Gh0sNStzc1L6zsdGeqUNx.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F6911c8c13f80ae088145e3d8a0c752ab%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - จะหาเพื่อน... ได้ไหมนะ...",
+                            "image": "https://image.tmdb.org/t/p/original/osWazWV7wo2PV8wTLvRnUSOf2Xd.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F4d47f31a59a64d7792705dfeb52ce55a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - เวคเตอร์ บทบาทสำคัญ",
+                            "image": "https://image.tmdb.org/t/p/original/sIzKWpDplVa3ABmAfdfUqbrStvy.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9001e15b88f50ab0cbe1dc3589750cb9%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - Bye-Bye! See You Next Time!",
+                            "image": "https://image.tmdb.org/t/p/original/o2Kv8PrMDqEmn38h7zAAQXFCRXM.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F05a0fd871e587167db64d756795662b8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                },
+                {
+                    "name": "ซับไทย",
+                    "info": "บันทึกการเดินทางแสนเอื่อยในต่างโลก",
+                    "image": "https://image.tmdb.org/t/p/original/47XgvfPqOwVAjuCZuLWRsRUqtm3.jpg",
+                    "stations": [
+                        {
+                            "name": "Ep. 1 - Another World and Twins",
+                            "image": "https://image.tmdb.org/t/p/original/xvuYe88vhPOsOYC9fyXLC10CCzb.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F34fb2a0e9671300bb7085d66c9459d65%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 2 - Nice to Meet You, Joule",
+                            "image": "https://image.tmdb.org/t/p/original/pOFnlFEY8Uj0IXX0aV6rmDVVYJ0.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb2614e9b1a953e98d100358d14320095%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 3 - Monster Hunting!",
+                            "image": "https://image.tmdb.org/t/p/original/kdc55LMpEyefGRRGSa1kMcelaFy.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe497e2cf99c6a971be62e1c762f5cef1%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 4 - Taku Gets Mad",
+                            "image": "https://image.tmdb.org/t/p/original/5fxdXRUzzK9JbgvzDpqNAZtc9Xa.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F7ec5177c7cb9c26f5e7c0bd6ef1c69df%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 5 - We're Gonna Beat the Goblins!",
+                            "image": "https://image.tmdb.org/t/p/original/awU8kszCQmLpEf1mDU1dnDIACkZ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd52dcf538b4b8c9290c58003ee8d96b4%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 6 - The Ocean! It's Salty!",
+                            "image": "https://image.tmdb.org/t/p/original/sGxughtXQEy5d0cgwpVC2MvQjW6.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc66e97df77c1930f5ec140d79af55f3b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 7 - Mermaids! Dragons!",
+                            "image": "https://image.tmdb.org/t/p/original/yxpQasZUUSPoemIWXLu4CKlH9EK.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1aa94143dd5e52cf29fab0ef728642c2%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 8 - Crab! Crab!",
+                            "image": "https://image.tmdb.org/t/p/original/6bCKNBjJIonA310o1leCnjIp8Ag.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbe534345eab6feed039a14df43cd039d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 9 - What's a Dad?",
+                            "image": "https://image.tmdb.org/t/p/original/zrYTl5Gh0sNStzc1L6zsdGeqUNx.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F55cbe11366f429d3624a22ed2153789a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 10 - I Hope We Can Make Friends...",
+                            "image": "https://image.tmdb.org/t/p/original/osWazWV7wo2PV8wTLvRnUSOf2Xd.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffbe91c24a2f7713bde60d887055ece48%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 11 - Vector Does a Good Job!",
+                            "image": "https://image.tmdb.org/t/p/original/sIzKWpDplVa3ABmAfdfUqbrStvy.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F63edc1ef29f9fc67445f3cfa4a8fd7d4%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "Ep. 12 - Bye-Bye! See You Next Time!",
+                            "image": "https://image.tmdb.org/t/p/original/o2Kv8PrMDqEmn38h7zAAQXFCRXM.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1dd61b5206f681acccef5b8c9987f33c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

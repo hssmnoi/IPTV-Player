@@ -1,0 +1,90 @@
+{
+    "name": "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells [E rank ผู้ถูกทิ้งเพราะสกิลไร้ค่าอย่าง [สร้างสถานะผิดปกติ] จะเหยียบย้ำทุกสิ่งที่ขวางทางจนแกร่งสุดในใต้หล้า]",
+    "image": "https://image.tmdb.org/t/p/original/jjpkWZ9LUXoUnh4F65qp7FuFawO.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/k4FpPQ0TlHphQ8X2VpzPJUV16V1.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/k4FpPQ0TlHphQ8X2VpzPJUV16V1.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - เทพธิดาผู้แจ้งการอัญเชิญ",
+                            "image": "https://image.tmdb.org/t/p/original/gBY5YNRNnbXOscNbHMRBDsI6ME5.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/pMiqaltRU/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - โบราณสถานร้าง",
+                            "image": "https://image.tmdb.org/t/p/original/xA3M28ZoC1PDayQWqAm13vnY25Z.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Ujm2jz3PRr/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - เผชิญหน้า ~AVENGER(S)~",
+                            "image": "https://image.tmdb.org/t/p/original/ruTj5dFJb9eLohp5TNRhuL6ip4i.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/2tG9478Jvu/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - หญิงสาวผู้ถูกเรียกว่าเจ้าหญิงอัศวิน",
+                            "image": "https://image.tmdb.org/t/p/original/vw1rDlLyhYFAhxkjBuQlsWLS51F.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/p3Kr2GVjpx/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - ห่วงโซ่แห่งความเชื่อใจ",
+                            "image": "https://image.tmdb.org/t/p/original/wSOkCF9N2Dcdb5sn6H2LA3Z3IZU.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/A6nbUVQL/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - มนุษย์ที่แข็งแกร่งที่สุด ซิบิท การ์ทแลนด์",
+                            "image": "https://image.tmdb.org/t/p/original/xifJ6uLL2RGEIloZBDXfePOXVuk.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/1FC1m9kt5h/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - นักรบโลหิตแห่งมอนรอย",
+                            "image": "https://image.tmdb.org/t/p/original/zpYY1nZLGpObVWgZmgpwrBkqIUM.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/QLc4Fx0hoy/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - ไปกับราชาแมลงวัน",
+                            "image": "https://image.tmdb.org/t/p/original/rnAxkD11awek8mSrsdkuZThRplV.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/9E0kyo8lOn/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - กลยุทธ์อันดำมืด ~missing~",
+                            "image": "https://image.tmdb.org/t/p/original/4PujGDMsmKPDO4bObWK2ieIj8s0.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/0rhUY35zS/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - เขตอาศัยมารสีทอง 〜encounter〜",
+                            "image": "https://image.tmdb.org/t/p/original/9DucSTzThxGJ7y5AgzIL7I5GhS0.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Mmk7j90XJh/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - เกินขีดจำกัด",
+                            "image": "https://image.tmdb.org/t/p/original/fJSJ38Ymzf1eHpSuj7mII3Rcfhx.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/HNb0LmN5wv/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - ราชาและดาบ",
+                            "image": "https://image.tmdb.org/t/p/original/4DqCKpVOQxZLSv6Akcth1b2GcuO.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/HvlDeU20u3/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

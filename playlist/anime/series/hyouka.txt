@@ -1,0 +1,155 @@
+{
+    "name": "Hyouka [ปริศนาความทรงจำ]",
+    "image": "https://image.tmdb.org/t/p/original/qoAig2n9LkukqnizytaBtOSwif7.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/o9SM5Bljnb8IokMbdp1Xij6gMxS.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/o9SM5Bljnb8IokMbdp1Xij6gMxS.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - ฟื้นชีวิตชมรมวรรณกรรมอันเก่าแก่",
+                            "image": "https://image.tmdb.org/t/p/original/t0oYYGrH4kElTbmKfl3jn5T8weG.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/CvTVugTW/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - กิจกรรมชมรมวรรณกรรมที่น่านับถือ",
+                            "image": "https://image.tmdb.org/t/p/original/dwMtCqgdVEQfJGRQsp4N1ryj0We.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/BgkSsmG/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - เหตุผลของผู้สืบทอดชมรมวรรณกรรม",
+                            "image": "https://image.tmdb.org/t/p/original/oZnIaHwXtLEPI2gGXAphp5Jp0kc.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/pUDQBUXl/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - อดีตของชมรมวรรณกรรมอันทรงเกียรติ",
+                            "image": "https://image.tmdb.org/t/p/original/uF54xIrj0nUr6itZkb8fWwy7Q3v.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/o1Ae9f0P/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - ความจริงของชมรมวรรณกรรมที่มีประวัติยาวนาน",
+                            "image": "https://image.tmdb.org/t/p/original/6WWJA5QR4thy7t0lpiW0JExDN3q.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/6hcxl2er/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - การก่อมหาบาป",
+                            "image": "https://image.tmdb.org/t/p/original/ddfERi3kye6OxkpRHyZaDGM6ZO0.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/m9CxcwSD/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - มองตัวจริงบ้าง",
+                            "image": "https://image.tmdb.org/t/p/original/iG5srL366oRVtKtERlYrPBoHem0.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/WRcA5puy/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - ไปดูตัวอย่างหนังกัน!",
+                            "image": "https://image.tmdb.org/t/p/original/62R0LkaVzAUb9VmhaFedq7BmIuv.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Q0BYxBCI/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - คดีฆาตกรรมในหมู่บ้านร้างฟุรุโอกะ",
+                            "image": "https://image.tmdb.org/t/p/original/uOuLmWacwrKgUaHJb8u8vqsqlin.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/TQL3qiJU/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - จุดบอดของมนุษย์ทั้งมวล",
+                            "image": "https://image.tmdb.org/t/p/original/gD4NcuVf7CvHWLH7RLnq932FEBK.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/eNq53irT/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - เอ็นด์โรลของคนเขลา",
+                            "image": "https://image.tmdb.org/t/p/original/sLzTu3R7WU6k2JhPkmWsJ6tjGFa.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/8OyD4BO/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - สิ่งนั้นที่ทับถมกันไม่สิ้นสุด",
+                            "image": "https://image.tmdb.org/t/p/original/lHCF4rCsFENbUWA2FFmafvLTCCn.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/E8cvHRu4/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 13 - ร่างไร้วิญญาณยามเย็น",
+                            "image": "https://image.tmdb.org/t/p/original/n4zXbFg61awo93jcjxjpmEbTuLc.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/HZavhh64/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 14 - วายไฟเยอร์",
+                            "image": "https://image.tmdb.org/t/p/original/nunpZRdMTwPG2ehkW0maLTxHKV1.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/53DtG8X/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 15 - คดีจูโมจิ",
+                            "image": "https://image.tmdb.org/t/p/original/8kbT28DXCfF1ImfkGqa3YE1Azt2.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/kwHV1RLa/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 16 - เป้าหมายอย่างสุดท้าย",
+                            "image": "https://image.tmdb.org/t/p/original/h4x87zw1ORrVurYhBalSkLyjz5D.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/rnZ2V4f/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 17 - ลำดับของคุดร์ยัฟกา",
+                            "image": "https://image.tmdb.org/t/p/original/4NoJYatigJRiOZiPoHDuk1X8JvS.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/HFOx1PEQ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 18 - แดดบนภูเขายังแรงอยู่หรือเปล่า",
+                            "image": "https://image.tmdb.org/t/p/original/b0MLnFQ6hvvztb9CUqWQkvB1xHH.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/yiLBgDlm/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 19 - คนที่อยู่ในใจนั้น",
+                            "image": "https://image.tmdb.org/t/p/original/hBHKD7EuQou5H8XD1MdJHR4ydl7.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/jAYo2rv1/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 20 - สุขสันต์วันแสนเบื่อ",
+                            "image": "https://image.tmdb.org/t/p/original/kVeUhp6TocQwhn7PkfHDgXAd4KR.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/KMsJR1yq/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 21 - คดีช็อกโกแลตวันวาเลนไทน์",
+                            "image": "https://image.tmdb.org/t/p/original/eqbrMGjgyWD5zlmLDkzUdg6oWdw.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/lWUDEYhJ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 22 - เจ้าหญิงผู้เดินทางอ้อม",
+                            "image": "https://image.tmdb.org/t/p/original/cxd2WbPg01dVPOD0C3pYCgAGq85.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/1RRNIvJ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 23",
+                            "url": "https://hls.animeindy.com:8443/vid/MO1uRrP7/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,935 @@
+{
+    "name": "Hunter x Hunter [ฮันเตอร์ x ฮันเตอร์]",
+    "image": "https://image.tmdb.org/t/p/original/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/4jA40N280wb9NT7yjtFdcJND5aq.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/4jA40N280wb9NT7yjtFdcJND5aq.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - การออกเดินทาง x และ x เพื่อน",
+                            "image": "https://image.tmdb.org/t/p/original/7ppEotl1YMs1adTscDdMoLhQaQ3.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/rnleeuUg/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - บททดสอบ x แห่ง x การสอบ",
+                            "image": "https://image.tmdb.org/t/p/original/qEX0cNZhtRdvXkqalV3cg1yiJhB.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/uWpfeshT/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - คู่แข่ง x เพื่อ x การเอาตัวรอด",
+                            "image": "https://image.tmdb.org/t/p/original/wBvtNJypYY0Jm2nb3B9K7IAC5N2.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/xmpyz4kU/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - ความหวัง x กับ x ความทะเยอทะยาน",
+                            "image": "https://image.tmdb.org/t/p/original/4guXoOOo3DEN4OkSdlC5Cf6EZey.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/59YGhT2S/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - ฮิโซกะ x ผู้ลึกลับ",
+                            "image": "https://image.tmdb.org/t/p/original/597gzJBK4A8tbDX4KZKrK9hmJQG.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/7F1ZMCNw/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - การแข่งขัน x ที่ x น่าประหลาดใจ",
+                            "image": "https://image.tmdb.org/t/p/original/fU4qeE9kQXtVDHnp2vgzxjOycsG.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/DAtRdj7n/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - การเผชิญหน้า x บน x เรือเหาะ",
+                            "image": "https://image.tmdb.org/t/p/original/onvHNXtp3JICmWJmT8ETFtiIkep.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/KqZnVocl/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - การตัดสินใจ x โดย x เสียงส่วนใหญ่",
+                            "image": "https://image.tmdb.org/t/p/original/sj2RJGWOjtR9t903J3jXesPGEe3.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/LZTqJzoy/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - ระวัง x นักโทษ x ไว้",
+                            "image": "https://image.tmdb.org/t/p/original/lAqMF73lJBtNPkyoZHOgpEJwL5E.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/71P7pGJs/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - เล่ห์ x ของ x กล",
+                            "image": "https://image.tmdb.org/t/p/original/iwZQOYXqojkNzVIa23t6kY3QBoJ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/4dDF0as7/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - การเดิมพัน x เจ้าปัญหา",
+                            "image": "https://image.tmdb.org/t/p/original/cDlwi2JQREzRF7eyqCXQJmLWCvA.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/WlHMLjKj/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - การทดสอบ x ความมุ่งมั่น x ครั้งสุดท้าย",
+                            "image": "https://image.tmdb.org/t/p/original/9CjSlm1zoWsFcvBNRds8ilZueWF.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/QWb5FfXf/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 13 - จดหมาย x จาก x กอน",
+                            "image": "https://image.tmdb.org/t/p/original/8gDyN4qfTUXotm5HqdMsrjxvJv8.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/jMlNIDGU/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 14 - โจมตี x ให้ x เข้าเป้า",
+                            "image": "https://image.tmdb.org/t/p/original/qCFO7q6Xu0vFGE9XyzDxK7jcPoL.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/pIGmzYNB/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 15 - การแก่งแย่ง x แฝง x กลโกง",
+                            "image": "https://image.tmdb.org/t/p/original/vwQGJWECo9pcMNOiWcNfZZqYUyj.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/x49BAW7u/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 16 - ความพ่ายแพ้ x และ x ความอัปยศ",
+                            "image": "https://image.tmdb.org/t/p/original/ipiSa3T8dTKUN2ONfcRRasL1Yj3.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/OvpmJzGk/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 17 - หลุมพราง x ใน x หลุม",
+                            "image": "https://image.tmdb.org/t/p/original/tNsFQC2NKUubt5tXo0RTM7NkA6W.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/VimG64ME/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 18 - การสัมภาษณ์ x ใหญ่",
+                            "image": "https://image.tmdb.org/t/p/original/vJZkqcrHpmZHxegZ78LzDfcOmuX.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ighrwlVB/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 19 - ชนะไม่ได้ x แต่ก็ x แพ้ไม่ได้",
+                            "image": "https://image.tmdb.org/t/p/original/3dDeKMK7zSvwPmqfJx8QIysbxvP.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/9EuVDzDd/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 20 - การรุกคืบ x ที่ยากจะเข้าใจ",
+                            "image": "https://image.tmdb.org/t/p/original/3VYMQ43P7EBd4r4bAzDXZyYkhcX.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/m20aaQff/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 21 - ปัญหา x ระหว่าง x พี่น้อง",
+                            "image": "https://image.tmdb.org/t/p/original/1CsJO8Br1cUWYyw3khMXQxNsQFE.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/mhJAW5Un/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 22 - หมาเฝ้าบ้าน x ที่ x แสนอันตราย",
+                            "image": "https://image.tmdb.org/t/p/original/rd8uxgVRtEhrQh4Qntv9qBHAuaI.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/iEPH3uU5/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 23 - หน้าที่ x ของ x ผู้รักษาการณ์",
+                            "image": "https://image.tmdb.org/t/p/original/ubAClUC0YLOcXVTAZBe7Ifc7NcS.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/pm14SOcR/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 24 - ตระกูล x โซลดิ๊ก",
+                            "image": "https://image.tmdb.org/t/p/original/b9dLM01DTcBvNKkkzG7VKrBRwQ2.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/3pu7IPyv/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 25 - ถ้าตาบอด x ก็ x มองไม่เห็น",
+                            "image": "https://image.tmdb.org/t/p/original/yk0Mv0GuGVjyPF9dvHOY5feL5bo.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/K4ARpA9/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 26 - เรื่องราว x หลังจาก x วันนั้น",
+                            "image": "https://image.tmdb.org/t/p/original/6ALbyCGQjoYTTTiPOeAANpkXyI.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/WG9bUazK/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 27 - Arrival x At The x Arena!",
+                            "image": "https://image.tmdb.org/t/p/original/kMEnNBYAVlPAUD6Sc7Q3jguENON.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/uZrfkmIC/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 28 - Nen x And x \"Nen\"",
+                            "image": "https://image.tmdb.org/t/p/original/i92F1OWGYAod5iMA7gIUf6RrdQe.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/yUVnMPGF/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 29 - Awakening x And x Potential!",
+                            "image": "https://image.tmdb.org/t/p/original/1epSCrmRHrKDDvxCHxqO0nyLsHN.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/qPzseAD/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 30 - Fierce x and x Ferocious",
+                            "image": "https://image.tmdb.org/t/p/original/wITa0jIlz1OPaEwDQAbnYw4Ydw.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/tDfAF6Ez/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 31 - Destiny x and x Tenacity!",
+                            "image": "https://image.tmdb.org/t/p/original/hOjKE9KOcZPax7k8IZFTaAOImDy.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/PEP0hcGS/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 32 - A x Surprising x Win",
+                            "image": "https://image.tmdb.org/t/p/original/5bGFbChoHIYCjCabjG7X01ALSVo.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/HWwk6dzg/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 33 - An x Empty x Threat!",
+                            "image": "https://image.tmdb.org/t/p/original/l7MxcIjl3sMrH0FWj1wQSjroolS.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/dvDySenc/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 34 - Power x To x Avenge!",
+                            "image": "https://image.tmdb.org/t/p/original/6edJcYCU3f6f1Sxi6x3OX5Dq5kY.jpg",
+                            "url": "https://indy-anime.net/watch/hunter-x-hunter-x-episode-28-sound-th/",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 35 - The x True x Pass",
+                            "image": "https://image.tmdb.org/t/p/original/7vgWpVQkWRZPjHBq5oXv3dcH0oI.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Nf2anPB/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 36 - A Big Debt x And x A Small Kick!",
+                            "image": "https://image.tmdb.org/t/p/original/jAoQgkl8YJX07NyfRAHZ8z6DYbe.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Bnqv9lhg/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 37 - Ging x And x Gon!",
+                            "image": "https://image.tmdb.org/t/p/original/9whw6I0bgZRn0g5RPvwjxLgizHd.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/sBaEkKOX/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 38 - Reply x From x Dad!",
+                            "image": "https://image.tmdb.org/t/p/original/j0pfjEG4dezWnTM72dLbKWDGbNk.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/wxzOAl1M/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 39 - Wish x And x Promise!",
+                            "image": "https://image.tmdb.org/t/p/original/20b0e5UpBguxeFVOf2bwGwqEH49.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/dSXFjuvn/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 40 - Nen x Users x Unite?",
+                            "image": "https://image.tmdb.org/t/p/original/iyIWGudUoF19d4tPrDlxcI5vVP1.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/VSKPJ78h/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 41 - Gathering x Of x Heroes!",
+                            "image": "https://image.tmdb.org/t/p/original/5hnXRLR2G4HxNlFVjmaQicx1FYQ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/lknOggxO/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 42 - Defend x and x Attack!",
+                            "image": "https://image.tmdb.org/t/p/original/6BejwIjXKOawFKSDF6jpGRuCC39.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/OZrlFDf0/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 43 - A x Shocking x Tragedy!",
+                            "image": "https://image.tmdb.org/t/p/original/iyhewpsvmdg1TZxKuV4PnJz5TM4.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/jssjpeDY/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 44 - Buildup x To A x Fierce Battle",
+                            "image": "https://image.tmdb.org/t/p/original/n2DWd1Lt80aqIFeMtFzSgpjn18X.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/aICCIesg/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 45 - Restraint x And x Vow",
+                            "image": "https://image.tmdb.org/t/p/original/vg0QzmDJG2Uf5Uif4k2deo08ZYE.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/tXT8E9Pg/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 46 - Chasing x and x Waiting",
+                            "image": "https://image.tmdb.org/t/p/original/jxK8tVxssyrKQuxG3YCqHMu8cWs.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/m0E8wrPa/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 47 - Condition x and x Condition",
+                            "image": "https://image.tmdb.org/t/p/original/2DSHHAuP0cI9A9LzCZf8hkY3HGl.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/lmAWkhoi/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 48 - Very x Sharp x Eye",
+                            "image": "https://image.tmdb.org/t/p/original/q29X8OVumAX2mECNdSFaulpxvsb.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/vdQMgSJ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 49 - Pursuit x and x Analysis",
+                            "image": "https://image.tmdb.org/t/p/original/m06AjUYeKIoGAyb1SlSXEdaHMrT.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/9snx5n1/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 50 - Ally x and x Sword",
+                            "image": "https://image.tmdb.org/t/p/original/jzF9mjDw9SrbDy3LJVEc26wkRUe.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/rRmuVVIn/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 51 - A x Brutal x Battlefield",
+                            "image": "https://image.tmdb.org/t/p/original/9CTiIfWUL8DAMAI2UigX0fjf5fM.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/lIkDZEen/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 52 - Assault x And x Impact",
+                            "image": "https://image.tmdb.org/t/p/original/hovXzhyd56Rjgq5ERi81xIkym1m.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/BkgrfxdJ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 53 - Fake x And x Psyche",
+                            "image": "https://image.tmdb.org/t/p/original/5auF9f0bcgQauAU3Fj8oTOX05bp.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/2eL3dzsE/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 54 - Fortunes x Aren't x Right?",
+                            "image": "https://image.tmdb.org/t/p/original/8WZfM3jvb0ETVDjQbDRK5bfqTIW.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/0HWx9SmR/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 55 - Allies x And x Lies",
+                            "image": "https://image.tmdb.org/t/p/original/bCZTNyi6RpMd52MrPR1JlyHFMwL.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/026tpHgn/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 56 - Beloved x And x Beleaguered",
+                            "image": "https://image.tmdb.org/t/p/original/aSUAx7yRqzrdK1aamiHkwpml1dn.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/jba8GVlZ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 57 - Initiative x And x Law",
+                            "image": "https://image.tmdb.org/t/p/original/4n2FnhORFVr2WGSP48Dy23ZlhTY.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/BsjlbrG/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 58 - Signal x To x Retreat",
+                            "image": "https://image.tmdb.org/t/p/original/4bbh9hwLdXhFBuZZ9VFnDSAjbY5.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/xWWs8LQi/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 59 - Bid x And x Haste",
+                            "image": "https://image.tmdb.org/t/p/original/t54Kzth37hxC267MmOVzTjoIu0s.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/pcDI07h/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 60 - End x And x Beginning",
+                            "image": "https://image.tmdb.org/t/p/original/tfpBmwvXnxuzVT5uf7ZvTjCnPcm.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/4cO16aKw/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 61 - Invitation x And x Friend",
+                            "image": "https://image.tmdb.org/t/p/original/bETLKtT4hlmEpC95eH7FBtMW82t.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/4zdnaNCf/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 62 - Reality? x And x Raw",
+                            "image": "https://image.tmdb.org/t/p/original/avJ1kF7vZUcpPX0wU2iAvalaHcE.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/8tcOo3ls/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Season 2",
+            "image": "https://image.tmdb.org/t/p/original/itMuFli5HRafl3ofO5srdN0mmCQ.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/itMuFli5HRafl3ofO5srdN0mmCQ.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - A x Hard x Master?",
+                            "image": "https://image.tmdb.org/t/p/original/3dAKW55W7JjsPRYfxi0IPy5zDDi.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/8tcOo3ls/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - Strengthen x And x Threaten",
+                            "url": "https://hls.animeindy.com:8443/vid/gGfsoZO/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/6MulA4Ok6LokYM9BaYrxbpJV23C.jpg"
+                        },
+                        {
+                            "name": "ตอน 3 - Evil Fist x And x Rock, Paper, Scissors",
+                            "url": "https://hls.animeindy.com:8443/vid/VEUvUtRF/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/f5AsO4rtum5wDW0JnCLi4mboudT.jpg"
+                        },
+                        {
+                            "name": "ตอน 4 - Strategy x And x Scheme",
+                            "url": "https://hls.animeindy.com:8443/vid/bfCb3mt5/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/mPwevU53hYJ28MU4T3grzxBaq58.jpg"
+                        },
+                        {
+                            "name": "ตอน 5 - 15 x 15",
+                            "url": "https://hls.animeindy.com:8443/vid/VyCdkm4b/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/jOXT8Ry4g5iGXqIWylMrAwcYkF5.jpg"
+                        },
+                        {
+                            "name": "ตอน 6 - Pirates x And x Guesses",
+                            "url": "https://hls.animeindy.com:8443/vid/KxI7lxNn/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/eHhVEtWsNfeJE1umGp4xy2EB7Yd.jpg"
+                        },
+                        {
+                            "name": "ตอน 7 - A x Heated x Showdown",
+                            "url": "https://hls.animeindy.com:8443/vid/Fd6O7C72/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/kMYdJ8Nv4yzFxIgDLwpJuZ0HfHl.jpg"
+                        },
+                        {
+                            "name": "ตอน 8 - Guts x And x Courage",
+                            "url": "https://hls.animeindy.com:8443/vid/MnQjzbyw/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/tdIHLiTK9947lDOD5cCJTbJmSjQ.jpg"
+                        },
+                        {
+                            "name": "ตอน 9 - Bargain x And x Deal",
+                            "url": "https://hls.animeindy.com:8443/vid/3RuaxYtw/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/uGHCFSbdhbcKfwP16Q5pDk65OFy.jpg"
+                        },
+                        {
+                            "name": "ตอน 10 - Chase x And x Chance",
+                            "url": "https://hls.animeindy.com:8443/vid/4mUhQm4F/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/nuE0KOtPWmG8lyRAmARdRFwiSoc.jpg"
+                        },
+                        {
+                            "name": "ตอน 11 - Insanity x And x Sanity",
+                            "url": "https://hls.animeindy.com:8443/vid/GiTRpuBU/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/hbQAc1KKW1fTFVF0VdlH41svBBs.jpg"
+                        },
+                        {
+                            "name": "ตอน 12 - Victor x And x Loser",
+                            "url": "https://hls.animeindy.com:8443/vid/4HnZi9qz/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/bIyWvXxB3ZpseUYdlsvATK2U3pv.jpg"
+                        },
+                        {
+                            "name": "ตอน 13 - Ging's Friends x And x True Friends",
+                            "url": "https://hls.animeindy.com:8443/vid/KYEjL6yl/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/cWoRwxNuL7lXQvBHdfIoJnFcRQx.jpg"
+                        },
+                        {
+                            "name": "ตอน 14 - Reunion x And x Understanding",
+                            "url": "https://hls.animeindy.com:8443/vid/oM76mCAy/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/sBR2cc5iqaInAVJw7PNiEzpoCoD.jpg"
+                        },
+                        {
+                            "name": "ตอน 15 - Unease x And x Sighting",
+                            "url": "https://hls.animeindy.com:8443/vid/69L79vu5/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/oe9ACgFGz5UapOEeNgPxqpaM0dg.jpg"
+                        },
+                        {
+                            "name": "ตอน 16 - Very x Rapid x Reproduction",
+                            "url": "https://hls.animeindy.com:8443/vid/7ZJzVXBS/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/s1RNqwCc5jVIc2oyEMX1Xawgzwv.jpg"
+                        },
+                        {
+                            "name": "ตอน 17 - No x Good x NGL",
+                            "url": "https://hls.animeindy.com:8443/vid/ZvpPTH3V/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/x6eyR5L5JuJQgeO0RLMZMr6Hs3h.jpg"
+                        },
+                        {
+                            "name": "ตอน 18 - Evil x And x Terrible",
+                            "url": "https://hls.animeindy.com:8443/vid/PYD82xD0/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/dnF68v7cdR50X8kvtpUg4xfusJh.jpg"
+                        },
+                        {
+                            "name": "ตอน 19 - The x Fight x Begins",
+                            "url": "https://hls.animeindy.com:8443/vid/OO9t26bq/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/oxhpcUDrE0KD1ZtrviFiLEVCWi6.jpg"
+                        },
+                        {
+                            "name": "ตอน 20 - Kite x And x Slots",
+                            "url": "https://hls.animeindy.com:8443/vid/lnowlJVd/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/nRnAsjJHj9X2KyVQQf98oscK9Z9.jpg"
+                        },
+                        {
+                            "name": "ตอน 21 - Inspiration x To x Evolve",
+                            "url": "https://hls.animeindy.com:8443/vid/GqhwKEHZ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/q5hKenRctZ58PnksDxhwhw2gw9Z.jpg"
+                        },
+                        {
+                            "name": "ตอน 22 - A x Fated x Awakening",
+                            "url": "https://hls.animeindy.com:8443/vid/HxfnAroo/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/pHipW8jBA8gwS4eQeYrQeURA0G4.jpg"
+                        },
+                        {
+                            "name": "ตอน 23 - Light x And x Darkness",
+                            "url": "https://hls.animeindy.com:8443/vid/0NlH4XlJ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/s94ZRW4bNGbitTdMLieQPb8SKxD.jpg"
+                        },
+                        {
+                            "name": "ตอน 24 - Promise x And x Reunion",
+                            "url": "https://hls.animeindy.com:8443/vid/4Qv3K95O/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/6OKfLWaxyDeCtN33oIsbZt8D9uX.jpg"
+                        },
+                        {
+                            "name": "ตอน 25 - Duel x And x Escape",
+                            "url": "https://hls.animeindy.com:8443/vid/6upk7aZ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/tvi6uotVRdzyiJC0ibHPdBReXlG.jpg"
+                        },
+                        {
+                            "name": "ตอน 26 - Rock-Paper-Scissors x And x Weakness",
+                            "url": "https://hls.animeindy.com:8443/vid/D0y2nlYI/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/aMyNSvAJfLrjbN4iraQudCZRqi6.jpg"
+                        },
+                        {
+                            "name": "ตอน 27 - Compassion x And x Strength",
+                            "url": "https://hls.animeindy.com:8443/vid/2osAKT6F/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/5k8L2R3C5psLC5DhqYvEostM53x.jpg"
+                        },
+                        {
+                            "name": "ตอน 28 - Slow x And x Cursed",
+                            "url": "https://hls.animeindy.com:8443/vid/91HOwGen/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/zqhZVjQQKeIcbNQxM4FvRWArUgF.jpg"
+                        },
+                        {
+                            "name": "ตอน 29 - The Strong x And x The Weak",
+                            "url": "https://hls.animeindy.com:8443/vid/fI77kc4/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/rXHXN4vw0U7RNFuQUrZEjHiEcFj.jpg"
+                        },
+                        {
+                            "name": "ตอน 30 - One Wish x And x Two Promises",
+                            "url": "https://hls.animeindy.com:8443/vid/U64nSpzj/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/iBHZIPR3bKdZb0buwJKaq0IXIlp.jpg"
+                        },
+                        {
+                            "name": "ตอน 31 - Date x With x Palm",
+                            "url": "https://hls.animeindy.com:8443/vid/ApjhdNOV/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/gN6AOr1o2TViDgRM7VgpG6FXUVb.jpg"
+                        },
+                        {
+                            "name": "ตอน 32 - Friend x And x Journey",
+                            "url": "https://hls.animeindy.com:8443/vid/xXzR2Dsb/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/oANn5lxkNG6a6Uw1kwVIrNClpDy.jpg"
+                        },
+                        {
+                            "name": "ตอน 33 - Grudge x And x Dread",
+                            "url": "https://hls.animeindy.com:8443/vid/Elw1d5Ok/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/wpemlA3oNbOCldgK2cYAVh7TiVE.jpg"
+                        },
+                        {
+                            "name": "ตอน 34 - A x Lawless x Home",
+                            "url": "https://hls.animeindy.com:8443/vid/RVoqS713/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/4m3ynMxxe5sxDauIF1grM0VgrLk.jpg"
+                        },
+                        {
+                            "name": "ตอน 35 - Carnage x And x Devastation",
+                            "url": "https://hls.animeindy.com:8443/vid/DWjWXFIW/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/4AGTtajnR0pfB8tuHBvjaAn8LSm.jpg"
+                        },
+                        {
+                            "name": "ตอน 36 - Infiltration x And x Selection",
+                            "url": "https://hls.animeindy.com:8443/vid/Im8qAOtT/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/57nfHf1LkeQfeApFz3vaDBrYZeJ.jpg"
+                        },
+                        {
+                            "name": "ตอน 37 - Combination x And x Evolution",
+                            "url": "https://hls.animeindy.com:8443/vid/q8EV9BdQ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/476kuxrMcFucxxTMwyULgzbRDpj.jpg"
+                        },
+                        {
+                            "name": "ตอน 38 - Tracking x And x Pursuit",
+                            "url": "https://hls.animeindy.com:8443/vid/WEUiQje7/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/lYPUwjGXGbHAFoRsNPecReagCjp.jpg"
+                        },
+                        {
+                            "name": "ตอน 39 - Ikalgo x And x Lightning",
+                            "url": "https://hls.animeindy.com:8443/vid/zBDHRl3A/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/uAPLxprjvuVv6EVZhiLPOOApRca.jpg"
+                        },
+                        {
+                            "name": "ตอน 40 - Power x And x Games",
+                            "url": "https://hls.animeindy.com:8443/vid/BM4OonHK/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/9JeGT71XaJAIW76kRs6VSUUaZpR.jpg"
+                        },
+                        {
+                            "name": "ตอน 41 - Check x And x Mate",
+                            "url": "https://hls.animeindy.com:8443/vid/bfjU3kTD/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/6RnuN0oHbB2lPYXQZ79BZSH5AEP.jpg"
+                        },
+                        {
+                            "name": "ตอน 42 - Doubt x And x Hesitation",
+                            "url": "https://hls.animeindy.com:8443/vid/qmYdgNEj/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/vGhP2CLZawmqSBHIu800prVJ2eB.jpg"
+                        },
+                        {
+                            "name": "ตอน 43 - Resolve x And x Awakening",
+                            "url": "https://hls.animeindy.com:8443/vid/nicrwYHJ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/yxKjLLlKNictcnWh5FIZRJw1akF.jpg"
+                        },
+                        {
+                            "name": "ตอน 44 - Knov x And x Morel",
+                            "url": "https://hls.animeindy.com:8443/vid/fVgRVqSF/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/eVczSRNwKvTye0FUFj7FMLKbJ6w.jpg"
+                        },
+                        {
+                            "name": "ตอน 45 - Return x And x Retire",
+                            "url": "https://hls.animeindy.com:8443/vid/V0IeFkr6/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/xnbB2aWAvM6w2ooR4JcQh9FvBre.jpg"
+                        },
+                        {
+                            "name": "ตอน 46 - Komugi × And × Gungi",
+                            "url": "https://hls.animeindy.com:8443/vid/0nKjgPl1/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/6uVbRuligtQgaUcWheQFuLPb3V8.jpg"
+                        },
+                        {
+                            "name": "ตอน 47 - Taking Stock x And x Taking Action",
+                            "url": "https://hls.animeindy.com:8443/vid/aeEWocQ5/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/t0iSyByFhJqFxXsLWGDihNtTi9m.jpg"
+                        },
+                        {
+                            "name": "ตอน 48 - Confusion x And x Expectation",
+                            "url": "https://hls.animeindy.com:8443/vid/SdCTEr9n/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/zbGY00ZdIzI4zaz1WX9Gzlz6Yvb.jpg"
+                        },
+                        {
+                            "name": "ตอน 49 - Charge x And x Invade",
+                            "url": "https://hls.animeindy.com:8443/vid/yJgFVp5/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/qZ4KA73UMRoFyBAHWujsQqNtkyz.jpg"
+                        },
+                        {
+                            "name": "ตอน 50 - Monster x And x Monster",
+                            "url": "https://hls.animeindy.com:8443/vid/CWyc3zkA/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/aYFMduwiejOxev0e3e1MbbmQLmK.jpg"
+                        },
+                        {
+                            "name": "ตอน 51 - An x Indebted x Insect",
+                            "url": "https://hls.animeindy.com:8443/vid/9proWhO5/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/9QlWeOHsC4ZqnbydqE1tgaSy9N0.jpg"
+                        },
+                        {
+                            "name": "ตอน 52 - Divide x And x Conquer",
+                            "url": "https://hls.animeindy.com:8443/vid/FmVqgWiO/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/xXH3Lv4QkrkZh9uGkB3rCgiYlXx.jpg"
+                        },
+                        {
+                            "name": "ตอน 53 - Duty x And x Question",
+                            "url": "https://hls.animeindy.com:8443/vid/2dWxrhPq/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/aHwzVR5QQvzkHFIc87HHKCXKt5s.jpg"
+                        },
+                        {
+                            "name": "ตอน 54 - Revenge x And x Recovery",
+                            "url": "https://hls.animeindy.com:8443/vid/ohqkqQ1Q/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/aSvYNE6z6dChbwOIkdQt6k7GnLV.jpg"
+                        },
+                        {
+                            "name": "ตอน 55 - Insult x And x Payback",
+                            "url": "https://hls.animeindy.com:8443/vid/Qsk8u95x/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/l0Bjci1uwxgDajyGzy3ErMAVifw.jpg"
+                        },
+                        {
+                            "name": "ตอน 56 - A x False x Rage",
+                            "url": "https://hls.animeindy.com:8443/vid/B9rBEzKb/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/vOdxwsKjVQQ7bmjsqQYA5JbVVow.jpg"
+                        },
+                        {
+                            "name": "ตอน 57 - Strong x Or x Weak",
+                            "url": "https://hls.animeindy.com:8443/vid/25wSazps/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/hEoUCQmkFzKW54M4KFBx8rvRTJB.jpg"
+                        },
+                        {
+                            "name": "ตอน 58 - Fake x And x Real",
+                            "url": "https://hls.animeindy.com:8443/vid/F2RakZA6/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/8C2ILBPGOvcPbr1ZsJKZjKPS7c7.jpg"
+                        },
+                        {
+                            "name": "ตอน 59 - Defeat x And x Dignity",
+                            "url": "https://hls.animeindy.com:8443/vid/iw9wmAjP/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/qBo3Achl6DDeheSwIxFVhY3khO5.jpg"
+                        },
+                        {
+                            "name": "ตอน 60 - Pose x And x Name",
+                            "url": "https://hls.animeindy.com:8443/vid/YIbZWIDR/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/i3yKtzm5KdOWp8xqFWZYhrbkWn8.jpg"
+                        },
+                        {
+                            "name": "ตอน 61 - Centipede x And x Memory",
+                            "url": "https://hls.animeindy.com:8443/vid/iu7PPE4X/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/tOXyX2Lq7LvWe7rnDjPyfan4hFS.jpg"
+                        },
+                        {
+                            "name": "ตอน 62 - Breakdown x And x Awakening",
+                            "url": "https://hls.animeindy.com:8443/vid/G8rUuqEL/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/x6tb49fivOBQWG4qJuWaQmiMGIb.jpg"
+                        },
+                        {
+                            "name": "ตอน 63 - Great Power x And x Ultimate Power",
+                            "url": "https://hls.animeindy.com:8443/vid/Upkm1R7f/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/6MRzS8u8sA47dbZCrUPEFsSi8AM.jpg"
+                        },
+                        {
+                            "name": "ตอน 64 - Zero x And x Rose",
+                            "url": "https://hls.animeindy.com:8443/vid/Y2lU1o7g/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/aXy31PWN4kDnywAKu1bCV3AbZAb.jpg"
+                        },
+                        {
+                            "name": "ตอน 65 - Hostility x And x Determination",
+                            "url": "https://hls.animeindy.com:8443/vid/Ff4pUxVJ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/gdX5FNnbXgdFBuSfWVbkmbDNLy.jpg"
+                        },
+                        {
+                            "name": "ตอน 66 - Unparalleled Joy x And x Unconditional Love",
+                            "url": "https://hls.animeindy.com:8443/vid/en7baGEj/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/y2KJJP2kjFieIvKmo4Dchu3yofo.jpg"
+                        },
+                        {
+                            "name": "ตอน 67 - Formidable Enemy x And x Clear Objective",
+                            "url": "https://hls.animeindy.com:8443/vid/I4V7evNs/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/53gLYox0WtpnnnwNozwYvOapN5O.jpg"
+                        },
+                        {
+                            "name": "ตอน 68 - Magic × To × Destroy",
+                            "url": "https://hls.animeindy.com:8443/vid/STJ6DSh2/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/klre2EGRv7onlQQXqS6Xfp55WKr.jpg"
+                        },
+                        {
+                            "name": "ตอน 69 - Anger x And x Light",
+                            "url": "https://hls.animeindy.com:8443/vid/6EdZkQhs/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/razXnCod1WhFbtzkFk7kGVFdLNW.jpg"
+                        },
+                        {
+                            "name": "ตอน 70 - Flash x And x Start",
+                            "url": "https://hls.animeindy.com:8443/vid/iuMAEepu/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/siH2V7ncxlzoWnoJxgPKqvkRwWG.jpg"
+                        },
+                        {
+                            "name": "ตอน 71 - Deadline x To x Live",
+                            "url": "https://hls.animeindy.com:8443/vid/dEjTBFvb/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/pHIFnEOYlYKTXpdxiDo98aUU2js.jpg"
+                        },
+                        {
+                            "name": "ตอน 72 - The Word x Is x You",
+                            "url": "https://hls.animeindy.com:8443/vid/C6mNQQbi/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/tq9lLh5rByjvzi2gHhFmIAr3xHQ.jpg"
+                        },
+                        {
+                            "name": "ตอน 73 - This Person x And x This Moment",
+                            "url": "https://hls.animeindy.com:8443/vid/zEmJrngX/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/iqJE7XyiknJq9yq2fhdA2IuP6Fu.jpg"
+                        },
+                        {
+                            "name": "ตอน 74 - Homecoming x And x True Name",
+                            "url": "https://hls.animeindy.com:8443/vid/MDXyZkY6/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/1tbPsGNxTKLtEtxfTS9NzKBIs76.jpg"
+                        },
+                        {
+                            "name": "ตอน 136",
+                            "url": "https://hls.animeindy.com:8443/vid/SDvfsW1j/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Season 3",
+            "image": "https://image.tmdb.org/t/p/original/eHv7DcRol9xrpwE14D4GuRdgcH0.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/eHv7DcRol9xrpwE14D4GuRdgcH0.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - Debate x Among x Zodiacs",
+                            "url": "https://hls.animeindy.com:8443/vid/uuiAJWUq/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/7wkzmHNIs1OtFDnbl0HRzAP22pG.jpg"
+                        },
+                        {
+                            "name": "ตอน 2 - Request x And x Wish",
+                            "url": "https://hls.animeindy.com:8443/vid/tfef7lUQ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/jwl4CIIBWDHDU7Pu8eqP9qxCeHF.jpg"
+                        },
+                        {
+                            "name": "ตอน 3 - Alluka x And x Something",
+                            "url": "https://hls.animeindy.com:8443/vid/qwarG8E3/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/uxd65aSW5SXlYsacC1t9l2cl51g.jpg"
+                        },
+                        {
+                            "name": "ตอน 4 - Join Battle x And x Open Battle",
+                            "url": "https://hls.animeindy.com:8443/vid/B4t0PFZE/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/tSP3lTkaYVNlg9bploJUn37t5DA.jpg"
+                        },
+                        {
+                            "name": "ตอน 5 - Magician x And x Butler",
+                            "url": "https://hls.animeindy.com:8443/vid/20umTD6a/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/nw013pro5YdFxvVdPaI9ZMe1QWj.jpg"
+                        },
+                        {
+                            "name": "ตอน 6 - Needles x And x Debt",
+                            "url": "https://hls.animeindy.com:8443/vid/pOygiiEH/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/qh56WlLyXEYGCUBg1pfiUvMfThD.jpg"
+                        },
+                        {
+                            "name": "ตอน 7 - Sin x And x Claw",
+                            "url": "https://hls.animeindy.com:8443/vid/GLUPA9yP/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/iDLXvbypT4t5Qa6WYt8tRMu0JSZ.jpg"
+                        },
+                        {
+                            "name": "ตอน 8 - Approval x And x Coalition",
+                            "url": "https://hls.animeindy.com:8443/vid/yu7WtQw0/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/3ITQ52fx8MrsXxM4XhkP6lMvRI9.jpg"
+                        },
+                        {
+                            "name": "ตอน 9 - Defeat x And x Reunion",
+                            "url": "https://hls.animeindy.com:8443/vid/Vza33b9R/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/jQdAwi6Hwkz2D81OH38AQtArcUU.jpg"
+                        },
+                        {
+                            "name": "ตอน 10 - Chairman x And x Release",
+                            "url": "https://hls.animeindy.com:8443/vid/aMSR8Utw/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/lfUi51Se5O9fbgblVKcJoWAcCI0.jpg"
+                        },
+                        {
+                            "name": "ตอน 11 - Salvation x And x Future",
+                            "url": "https://hls.animeindy.com:8443/vid/et1WFkQQ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/cBmpayCSV8rfFPrxjwfQobH6TUN.jpg"
+                        },
+                        {
+                            "name": "ตอน 12 - Past x And x Future",
+                            "url": "https://hls.animeindy.com:8443/vid/ic6VUJN/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/",
+                            "image": "https://image.tmdb.org/t/p/original/z8FUy1ScYC2Pc1J3ozYpNLUTMI2.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

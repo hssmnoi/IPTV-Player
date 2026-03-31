@@ -1,0 +1,162 @@
+{
+    "name": "Campfire Cooking in Another World with My Absurd Skill [สกิลสุดพิสดารกับมื้ออาหารในต่างโลก]",
+    "image": "https://image.tmdb.org/t/p/original/cXc3yiQ5RrimzfucovjO83RTrnq.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/3k94oxp4zio6o3JquKbrmXhSAu6.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/3k94oxp4zio6o3JquKbrmXhSAu6.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - สกิลพิสดารสุดเจ๋ง",
+                            "image": "https://image.tmdb.org/t/p/original/dcfHKLYS55YXwZtOaLMe5YItjHg.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fff1b782a2cd221ec481d1eea92cc76ac%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - อสูรรับใช้สุดเด่นตัวนี้คือตำนานที่ยังมีชีวิตอยู่",
+                            "image": "https://image.tmdb.org/t/p/original/hN06377Q3OStGL6CyzhIgfw8ijr.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F04c212999d31354b516d73ebbaf1d0be%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - พลังอันมหาศาลนี้มีเพื่ออาหาร",
+                            "image": "https://image.tmdb.org/t/p/original/dNl5OFSTM5Qzf3MC0saS9ByytYa.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F31a2b3f678780fd23624ffb0960100fa%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - ถ้าไม่มีแผนที่ก็เริ่มไม่ได้หรอกนะ",
+                            "image": "https://image.tmdb.org/t/p/original/IszJBgm0pAFpX71eNEh2ES1WIQ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F4dac56ca4cf421b03cc863fb3d585485%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - เทพธิดาแห่งลมชอบของหวาน",
+                            "image": "https://image.tmdb.org/t/p/original/lCzxOTNww05BhdpGzyq0P4GylYb.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F64e89ed24bfe24423d8922bbb867aa86%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - การเติบโตที่ไม่คาดคิดมาก่อน",
+                            "image": "https://image.tmdb.org/t/p/original/sb88MaRO6hZtiRK8g9MX9uNG1AP.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F771e30f15627c3acb432ea3443b48610%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - หมาป่าเต้นรำกับสัตว์อสูร",
+                            "image": "https://image.tmdb.org/t/p/original/sNM4HhBZJgTWjrSCUfsJWY5DAPd.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0335bf4e3d99feb9f599a6e6cb8fd319%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - ตัวระดับบอสอร่อยทุกตัว",
+                            "image": "https://image.tmdb.org/t/p/original/yo5IIz4VKasBR6TJe8mQqfTHyFX.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F7f2c1ebf4c45f57b848c22d1d09c7f64%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - รับคำขอเพื่อเงินกับเนื้อ",
+                            "image": "https://image.tmdb.org/t/p/original/qFLzTrHB4D6nAjlVIoC6PI578sU.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F168ec46ee71ebf2e6a92a0cc1e935154%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - ครอบครัวทั้งสองของฉันมีพลังมากเกินไป",
+                            "image": "https://image.tmdb.org/t/p/original/tI1M6WdX9Lo6rvDZvEWp1q4Murq.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbfa3b894ae1489207780ff50d861e5a1%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - การค้าขายเพื่อคุณนาย",
+                            "image": "https://image.tmdb.org/t/p/original/Af45VEdHadrthUJwSnruO42iDEZ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9e8ac420e9dd10262dcf14a2bd03e689%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - การผจญภัยนั้นไร้ที่สิ้นสุดเหมือนอาหาร",
+                            "image": "https://image.tmdb.org/t/p/original/fHiK7A5zOwYRz1ast5jMVeiwSm.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fa6c434c8b1feb07fb0f9fd73c568c241%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 13 - พวกพ้องใหม่ที่ไม่ธรรมดา",
+                            "image": "https://image.tmdb.org/t/p/original/zNbSz5chYm5kwtBLf3UjNI0HmDX.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F197ef13e07feb973f7b9625f2957fd74%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 14 - แยกชิ้นส่วนเอิร์ธดราก้อน",
+                            "image": "https://image.tmdb.org/t/p/original/kQVi15Swa6qWhqqu5F7XUuMWsad.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F6d7a53b894c9b518d3cfea8758d39c0e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 15 - สเต๊กเอิร์ธดราก้อนระดับ3ดาว",
+                            "image": "https://image.tmdb.org/t/p/original/iKB5OfzYJAC07PDslmQDacrKvIo.jpg",
+                            "url": "https://www.anime-kimi.com/episode/tondemo-skill-de-isekai-hourou-meshi-2-th-ep-3/",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 16 - The Dungeon with Ready-Made Food",
+                            "image": "https://image.tmdb.org/t/p/original/ltXNjaq1uCUxxrGAw2Zx8NCb13R.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fa4018048b0af03f3e6646b3a5087211e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 17 - Is the Enemy Monsters or Hunger?",
+                            "image": "https://image.tmdb.org/t/p/original/byuvGgPfPFvRMTRAmjVvmFfZAJN.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb9d519c431e4904bbcc63fdb5d44bd90%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 18 - Online Grocery Levels Up",
+                            "image": "https://image.tmdb.org/t/p/original/71DeBeVR4oI73vtul5rgi5KYWUa.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F70099faeda8abe984094518ed3ac9a4e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 19 - Street Snacking Heaven",
+                            "image": "https://image.tmdb.org/t/p/original/wcmk5W7pFYdUNoipshLMLG2w7gk.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9d7ef265611064908c1a3e17fa254f45%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 20 - Do Blacksmiths Dream of BBQ?",
+                            "image": "https://image.tmdb.org/t/p/original/yDIIbB9lXz5mgejOMZz7NLiBasu.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9e24f1b8c6c98cbc4021adec4230655d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 21 - A Vacation Along with Subjugation",
+                            "image": "https://image.tmdb.org/t/p/original/3tkqSCQ9qoM9QXZ4IZK7rIe5c4H.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fabb36822255d99da84055bf1de1b2215%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 22 - Dinner Starts with One Dish",
+                            "image": "https://image.tmdb.org/t/p/original/1r3TqgUCll1hEj1bikXwCCirqlq.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fdd0e61b4f610ece4b6c1bdfc2ba3c9ae%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 23 - Fight?! The Great Sea Battle",
+                            "image": "https://image.tmdb.org/t/p/original/iUbMdJxPafPG1HyKRm9E2AsEuzl.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb1e7a8781d9597115be5e887d271d2af%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 24 - A New Return",
+                            "image": "https://image.tmdb.org/t/p/original/5SnYp7v9yrUJ1iujQqX23zyeKYO.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F776f7ec4c44f65197252f2aea76e37e4%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

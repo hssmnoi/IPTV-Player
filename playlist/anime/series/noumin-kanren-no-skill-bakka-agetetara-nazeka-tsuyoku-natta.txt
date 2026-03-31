@@ -1,0 +1,90 @@
+{
+    "name": "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills. [ผมเอาแต่อัปสกิลทำฟาร์ม แต่ไม่รู้ทำไมผมถึงได้แข็งแกร่งขึ้นซะงั้น]",
+    "image": "https://image.tmdb.org/t/p/original/8TTveKSNr23SRib4Q4C3yy9dszz.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/8kGS4NSnQvOpUcZiSHKbx7admBA.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/8kGS4NSnQvOpUcZiSHKbx7admBA.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - เกษตรมือหนึ่ง",
+                            "image": "https://image.tmdb.org/t/p/original/paYmp3zMQXN7FcnwrFq8cP6mO5u.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1fd3060f2d984fb9e56188ab4920bedd%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - The Farmer and The Guild",
+                            "image": "https://image.tmdb.org/t/p/original/2Sfg5e4MM1J1jTq2l74avyy8sfa.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F7da72490b1c4967dda373b49d8fa0a3c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - The Farmer and The Malevolent Dragon Ouroborus",
+                            "image": "https://image.tmdb.org/t/p/original/78WAQFpzcNGafDqJNPu5vGZ84bJ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F3921023d4d32b086e94b848e7db30551%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - The Farmer and the Life That Was Saved",
+                            "image": "https://image.tmdb.org/t/p/original/r41JJnVfmSe7cgZeriCTOnRWx2P.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F56d12ac26fcecce8f870991d3941c1ee%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - The Farmer and Lulugus",
+                            "image": "https://image.tmdb.org/t/p/original/4Qr5rCxoZjYdaxHNGOcgCilwuJU.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F07c82146bfbcb7442190e1706f963b32%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - The Farmer and The Hero Who Can't Be a Hero",
+                            "image": "https://image.tmdb.org/t/p/original/mIfPOPkIr9l5Uvt3EysMNDJEPX6.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Faf9984d9be3282bb476447d9baf303a6%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - The Farmer and The Princess's Resolution",
+                            "image": "https://image.tmdb.org/t/p/original/oXyEM8OU4stCtu2uzOAT5iEIeko.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe5257eb17df7f46e87deff28df793f0c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - The Farmer and The Wedding",
+                            "image": "https://image.tmdb.org/t/p/original/vE9K9oEQkHbIwHwKtCNHZhgeBPG.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F6c9759b9e76041fa946bc50a502992d6%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - Al's Past",
+                            "image": "https://image.tmdb.org/t/p/original/tstQqAN1V13dhxfFfrT8M20K8KC.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F07b305f17039ce5231ca9b3e4dfec941%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - The Farmer and Aspara Town",
+                            "image": "https://image.tmdb.org/t/p/original/xXEM4lugoyyznuXGBkCKlw7vBPx.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fdc9f40b7056d3b7366a90e20a9c673f9%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - The Reunion of The Farmer and The Demon King's Castle",
+                            "image": "https://image.tmdb.org/t/p/original/uLOjd0GCNSh99iBdRO31awKispN.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fae0f96837eb9b44b13a88ea97ed8b46a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - The Farmer and The New Resolution",
+                            "image": "https://image.tmdb.org/t/p/original/wF9udwocj6JF7Lm3MNnKVZ8IW9y.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F5a450326c7f4afd5801a42b379e12c2b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

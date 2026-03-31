@@ -1,0 +1,162 @@
+{
+    "name": "Unnamed Memory [อันเนมด์ เมโมรี]",
+    "image": "https://image.tmdb.org/t/p/original/tvrc6PfamASdvp334FYUrViR3Hp.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/tvrc6PfamASdvp334FYUrViR3Hp.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/tvrc6PfamASdvp334FYUrViR3Hp.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - Cursed Words and the Azure Tower",
+                            "image": "https://image.tmdb.org/t/p/original/f8XRQAvYXIHDIOwmlGqeihABXGP.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb31857acfeffba39d9d9643afb18f5d0%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - The Past Recalled Once Again",
+                            "image": "https://image.tmdb.org/t/p/original/33T4pe82JeLKj5ijhUAm5ADOFV5.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffbe6f3cb40f263ed7a138a8c6b0463f2%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - What the Forest Dreams Of",
+                            "image": "https://image.tmdb.org/t/p/original/2ugYvuq4wVybRSGJedNo9d6bTdA.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F71987898a0111be7a2b95aee6aa656f6%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - A Breath of Life into Image",
+                            "image": "https://image.tmdb.org/t/p/original/c3wUDuRtvH8bR8vhy1xSiOZte5x.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbbfd80b39accfe6ba2f84bbc87f36b86%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - Unnamed Emotion",
+                            "image": "https://image.tmdb.org/t/p/original/mdxiZBra1d7m6dX2bghreyfb4kd.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff1ae0ee3b4216853259c4ec88ffe51c6%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - As the Abyss is Born",
+                            "image": "https://image.tmdb.org/t/p/original/aKTewR6bs4mUSwHlILT64SOxlPM.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff50e23425c0ab204eb8e0fcd072d18ea%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - The End of the Dream",
+                            "image": "https://image.tmdb.org/t/p/original/fRaFMvZOZ9YCcCd6BZ2baAE24ut.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0fdba8d9684c632315c9a3c073ad8e49%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - Green Vines",
+                            "image": "https://image.tmdb.org/t/p/original/hgRSIewmkZfrr3qXLh4YCDYT4jr.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd2e7b340e62f9da49a9560fceb5f4712%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - The Things Unknown",
+                            "image": "https://image.tmdb.org/t/p/original/7jjodA6biA9AkTPBlwtyUbTP6XK.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc03f41486411ec9c21ee37888ca7cd71%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Blank Slate Children",
+                            "image": "https://image.tmdb.org/t/p/original/2xi4GSgD9Gh0zEuyA3MwLCcbypN.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1f52254ddeadd1a35e3c64eda6206ced%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Castle of Sand",
+                            "image": "https://image.tmdb.org/t/p/original/3bSD3H5ISX1Otmc6cb9BfFy6bmC.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd058847cbca5bbe7b8b193ce3c357025%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - Two Joined Memories",
+                            "image": "https://image.tmdb.org/t/p/original/9sBke7uHdvpWViB4V5efDOvAl83.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F4dafaad25c17e038ad0f6dde27e7a4b7%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 13 - From a Blank Page Anew",
+                            "image": "https://image.tmdb.org/t/p/original/mDI0Ns9OXVwoZtJTzA5czGA162m.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0ac0719b96679d9ee25af9b212f201fb%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 14 - Emerging from a Glass Cocoon",
+                            "image": "https://image.tmdb.org/t/p/original/2ET0IPVjR8Apjb5zeXoyzHJlAxc.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd9fb2990ccd1846f3f740b4ee8a4b4db%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 15 - Unanswered Prayer",
+                            "image": "https://image.tmdb.org/t/p/original/c9o1ZgpNYkRzc759ryrxARq30e9.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F510f7f1c10119891e6c2a6441cc17f0d%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 16 - Unseen Visage",
+                            "image": "https://image.tmdb.org/t/p/original/oF2T3TIlkTKt2wvhqEoouDT7tvF.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb4609c059036a1af31258351a3df5c68%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 17 - Returning the Promise",
+                            "image": "https://image.tmdb.org/t/p/original/hIkkYEl0Q0UnyFeDFJ4pvRtUJoS.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ff5e2c172263e7f228899b121117e7beb%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 18 - Bloodless Scars",
+                            "image": "https://image.tmdb.org/t/p/original/veS4097UYFpYMSVD5INC23Owdvh.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1ecd5265d87f93ced942fb1ff2d68e53%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 19 - Joyful Sorrow",
+                            "image": "https://image.tmdb.org/t/p/original/yo3voYoN7bYU3idU4Njuka32yfI.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb9fa950e5caf0e7ab8d83756f2875b39%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 20 - Half of Eternity",
+                            "image": "https://image.tmdb.org/t/p/original/d2VwkqFVGK1gdoh8IAFXUZlW8vr.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0932626ca4a9df3a2e11a544d5f89382%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 21 - Pride of the Past",
+                            "image": "https://image.tmdb.org/t/p/original/mEPMIJ6IiFBXypNikjEJg2gWRxW.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8ae82833eeb721e424dd29a3f3624732%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 22 - Once upon a Time with You",
+                            "image": "https://image.tmdb.org/t/p/original/47M5tBH8ZNratRxEB6Gefl1KE3H.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F87d0e9d878c56e9be0be8a4590bfb112%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 23 - At Memory's End",
+                            "image": "https://image.tmdb.org/t/p/original/om8rFfmgiGuLCGXT20gqssSfLVo.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0c24d0b0fc7213e30ab83b2aca7acf26%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 24 - Death of the Nameless Nation",
+                            "image": "https://image.tmdb.org/t/p/original/jTLhEUToAFjvm89S77vf6nQrINY.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1bf502b835ee007957e558cbb1959ecb%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

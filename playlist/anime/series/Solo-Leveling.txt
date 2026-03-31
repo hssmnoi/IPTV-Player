@@ -1,0 +1,170 @@
+{
+    "referer": "https://mojianime.com/",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "โซโลเลเวลลิง",
+                    "image": "https://image.tmdb.org/t/p/original/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - ชินอยู่แล้ว",
+                            "image": "https://image.tmdb.org/t/p/original/rm8q4ZHkVwbwUjjdbOIV9v5RW99.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/9bEzmXs0j1/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - ถ้าเรายังมีโอกาสอีกสักครั้ง",
+                            "image": "https://image.tmdb.org/t/p/original/ch5o2NnATbswomEiCugOgjX8IwY.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/6ewxXcBF8j/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - เป็นเหมือนเกม",
+                            "image": "https://image.tmdb.org/t/p/original/k2ZJYbwUzBW7HNNMMmWBv3r8RhT.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/KfagCjm3uY/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - เราต้องแข็งแกร่งกว่านี้",
+                            "image": "https://image.tmdb.org/t/p/original/dlNMEUnupGrPATIaiOEmxfvUfSG.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/LJAQAr9XK/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - ข้อเสนอที่ค่อนข้างดี",
+                            "image": "https://image.tmdb.org/t/p/original/tIWzK1uQrZz9ch0atwhOWur9cUd.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/G0AXPI2oU/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - เริ่มการล่าของจริง",
+                            "image": "https://image.tmdb.org/t/p/original/qLm1R2o54Cvzs74cz4jG4BXZS2S.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/GIFdXJStUH/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - มาดูกันว่าฉันจะไปได้ไกลแค่ไหน",
+                            "image": "https://image.tmdb.org/t/p/original/kWm0ksvgMnjqjI3TmPZ9ZQiry30.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/xWrfI0m8UH/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - เรื่องน่าหงุดหงิด",
+                            "image": "https://image.tmdb.org/t/p/original/mYoah2DtfKVqGMtuCBmgeZYCQoM.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/EK4UsFid7H/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - สกิลที่ซ่อนไว้",
+                            "image": "https://image.tmdb.org/t/p/original/AjfYXy3e5THdxO2a1UVAoQgbrWf.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/1u1xOoE9PC/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - นี่คืออะไร ปิกนิกเหรอ",
+                            "image": "https://image.tmdb.org/t/p/original/sFOZjW7SZ3cSSTx6agbALwNdSc9.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/hPISKPKwu2/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - อัศวินผู้ปกป้องบัลลังก์อันว่างเปล่า",
+                            "image": "https://image.tmdb.org/t/p/original/xwTGcW5n6CdxW8SfipWiQzz40RO.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/IIzfsp7Vbo/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - จงตื่น",
+                            "image": "https://image.tmdb.org/t/p/original/8WNsU7GLSsXcCAxa5th5nkWeO6W.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/Y33L58lL6/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 13 - You Aren't E-Rank, Are You",
+                            "image": "https://image.tmdb.org/t/p/original/7qznlqeN3Ccshw6olWEdQMIsygP.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/UW5iX22Tjg/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 14 - I Suppose You Aren't Aware",
+                            "image": "https://image.tmdb.org/t/p/original/kylozAI9Rf1pp7pZ8nFPK4s1s5n.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/eec3OV91UR/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 15 - Still a Long Way to Go",
+                            "image": "https://image.tmdb.org/t/p/original/ljpLCXeYjx4yHLFbIJFW6LrL3uZ.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/ybPWomcOp/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 16 - I Need to Stop Faking",
+                            "image": "https://image.tmdb.org/t/p/original/jW1QhZUIPZ420pEldWHwrpdyRdt.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/URRBtEIUUu/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 17 - This Is What We're Trained to Do",
+                            "image": "https://image.tmdb.org/t/p/original/o8cccNR6J3dSuh00elhZgd4Glmu.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/ml5IWF0nd0/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 18 - Don't Look Down on My Guys",
+                            "image": "https://image.tmdb.org/t/p/original/byJcQpCL4XiTwEl4pMG2HaT2bkr.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/2BcCxonP2P/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 19 - The 10th S-Rank Hunter",
+                            "image": "https://image.tmdb.org/t/p/original/zmRqLXqOMR2zVJ7bn9wwBsakOKh.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/WUcVnrpmac/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 20 - Looking Up Was Tiring Me Out",
+                            "image": "https://image.tmdb.org/t/p/original/unMSFOjTEsQ0rNfqkvQSfE4ar6S.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/GPsGgf2arz/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 21 - It Was All Worth It",
+                            "image": "https://image.tmdb.org/t/p/original/mYvKcjF0LXlo1H3MOb278SsGgow.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/SX8RSHErO1/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 22 - We Need a Hero",
+                            "image": "https://image.tmdb.org/t/p/original/qzPInwNpRC417SPuo5NREZuxYu.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/KpSuydwh7/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 23 - It's Going to Get Even More Intense",
+                            "image": "https://image.tmdb.org/t/p/original/dmABjDkzyMmj7PVHbv6lrOzVVCV.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/JrabCkogsn/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 24 - Are You the King of Humans",
+                            "image": "https://image.tmdb.org/t/p/original/ifo6WIOkMjahicQ7yfDL0F26nJI.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/lOH3GVuznR/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        },
+                        {
+                            "name": "ตอน 25 - On to the Next Target",
+                            "image": "https://image.tmdb.org/t/p/original/dsXC84kGPEbHWkSKSWOIYodjMVv.jpg",
+                            "url": "https://moji.abcdxzy.xyz:8443/vod/JI12uNfR9X/video.mp4/playlist.m3u8",
+                            "referer": "https://anime-infy.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "name": "Solo Leveling",
+    "image": "https://image.tmdb.org/t/p/original/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg"
+}

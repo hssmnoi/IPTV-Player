@@ -1,0 +1,90 @@
+{
+    "name": "Bogus Skill «Fruitmaster» ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~ [สกิลไร้ประโยชน์ มาสเตอร์ผลไม้]",
+    "image": "https://image.tmdb.org/t/p/original/fZiuJtxzOlvvbQcgrCSnwefqkcp.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/fZiuJtxzOlvvbQcgrCSnwefqkcp.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/fZiuJtxzOlvvbQcgrCSnwefqkcp.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - The Only Ingredient",
+                            "image": "https://image.tmdb.org/t/p/original/vMe15txW08UJty137E9HY4O5TtH.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/WIj1PjjrpJ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - Incomplete Light",
+                            "image": "https://image.tmdb.org/t/p/original/l6YoD9N7YEK2Me4LgWVLQrE0PY8.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/OzuIPwE3OW/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - The Magic Castle of Spirits",
+                            "image": "https://image.tmdb.org/t/p/original/eZQvQAzbINZBUEeoifzscXzHPw6.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/iyB9CqlCLc/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - Taboo Skills",
+                            "image": "https://image.tmdb.org/t/p/original/kH4BVtLiNd1bIroNzSNVj1BQRZ4.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/jgiTin3znq/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - A Tumultuous Argument",
+                            "image": "https://image.tmdb.org/t/p/original/1Y1wBHfMcqH9ANYVInqtqXOSGuk.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/ooJ64Og8K1/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - The Legendary Blacksmith",
+                            "image": "https://image.tmdb.org/t/p/original/xjkPZBhuhnbjsKcqOldYdTALUUU.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/iVpOsmSRnv/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - The Thundering Beast",
+                            "image": "https://image.tmdb.org/t/p/original/bThdhs1VUZXkx8Ub45w9GrhZQaa.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/DA6J12bBaD/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - The Indomitable Torch Flame",
+                            "image": "https://image.tmdb.org/t/p/original/k9lGdR5ICu0kycB96NEwMOdkQ1d.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Pyv21jOWv3/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - The Reunion By the Lake",
+                            "image": "https://image.tmdb.org/t/p/original/y9wuy2zqQkYKbqLYK8nnD6xw9Pf.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/bWe6Ur4Eu/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - Waves of Frenzy",
+                            "image": "https://image.tmdb.org/t/p/original/7UXII3x48EcCQueGgggdM2Tngz9.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/yo7H3WXLwZ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - Blessing of the Fairies",
+                            "image": "https://image.tmdb.org/t/p/original/cYUoCnEDXJnU00IAn71V0zpAwMF.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/FgNhNwYx3o/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - The Evening Star",
+                            "image": "https://image.tmdb.org/t/p/original/vLXdSjB5JAHpT8CaJbyCKBleoYD.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/7KPEgQGwjY/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

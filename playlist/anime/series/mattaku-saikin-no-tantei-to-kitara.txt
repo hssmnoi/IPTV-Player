@@ -1,0 +1,90 @@
+{
+    "name": "Detectives These Days Are Crazy! [นักสืบสมัยนี้มันบ้าไปแล้ว!]",
+    "image": "https://image.tmdb.org/t/p/original/hv51RYVvaCrKJKuwFEWm17V0QaD.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/m8ZfBDId32XAehyYnJODDBKv9mv.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/m8ZfBDId32XAehyYnJODDBKv9mv.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - Former Great Detective Nagumo Keiichiro / Mashiro's Pest Extermination",
+                            "image": "https://image.tmdb.org/t/p/original/vWxxyR6JS5VRHvcigWHNDOtWjgx.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/9HizvhtagF/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - With Ghosts, Go for the Knees / Find the Real Thief! / Three Minutes Until Mashiro Explodes",
+                            "image": "https://image.tmdb.org/t/p/original/7orJRNxrJzwJ8hDvvVUBDJ0BQ6d.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/YRyZHG4KTF/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - Great Detective Asunaro / The Ones Who Don't Realize They're Stalkers Are the Most Dangerous",
+                            "image": "https://image.tmdb.org/t/p/original/dlnyDsNkhuRnUMZHJGjp2lu5feB.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/NdlQPo3Gow/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - Murder at the Mansion of Screams / Maki-chan and the Generation Gap",
+                            "image": "https://image.tmdb.org/t/p/original/b0NC36OAx137HkfFUyNWgTI0zDP.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/R7k77CPYp1/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - Welcome to the World of Grown-Ups / A Midsummer Thriller / Mashiro and the Agent from the Stars",
+                            "image": "https://image.tmdb.org/t/p/original/iBtXBEIzLfSnLeB0NGLj1deQGAF.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Gb05I9jk21/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - Mashiro Hosts Girls' Night Out / Assistant Switch!! / Battle to the Death at 100° Celsius",
+                            "image": "https://image.tmdb.org/t/p/original/zslmekJzWTjxvn042T7yjRooDv4.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Dqhx7Fu7c/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - Nagumo-san's Grown-Up Allure / The Lost Child and Mashiro / The Great Detective vs. Phantom Thief Riverfake",
+                            "image": "https://image.tmdb.org/t/p/original/7ZBc76q35IIbJW4XZLKxpZdaK3o.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/3arrV2ltLD/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - Nagumo's Cyber Case File / The Phantom Thief's Method / A Detective Assistant's Day Off",
+                            "image": "https://image.tmdb.org/t/p/original/pcVxkE27mufclYEUvXAxVg9xGCU.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/uubDUFU2i/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - Take Good Care of Your Smartphone / Maki-chan and Asunaro",
+                            "image": "https://image.tmdb.org/t/p/original/kA8z3V0jUhKy1BN3Vvb88fyABKF.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/U9CIFX4GzD/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - Catch the Sneak Photographer! / The Bullet Bride",
+                            "image": "https://image.tmdb.org/t/p/original/l5C4RIIYIy2darqiKGtYLEV9x8R.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/yy7sXhFVd8/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - Mashiro and the Psychic of Love",
+                            "image": "https://image.tmdb.org/t/p/original/ml8GvRICBwAkSLdGdJvkeyoCsXZ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/HDcnfQRbBZ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - Nagumo Dons the Haori / Producing Nagumo Detective Agency / Nagumo Detective Agency Shuts Down",
+                            "image": "https://image.tmdb.org/t/p/original/jcFItkXMWakSZaAvsqHFuaXzqFb.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/OWb95Vk9NK/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

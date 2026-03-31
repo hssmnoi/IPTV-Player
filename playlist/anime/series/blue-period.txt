@@ -1,0 +1,90 @@
+{
+    "name": "Blue Period",
+    "image": "https://image.tmdb.org/t/p/original/bK669RsJ4xaZYHvc144iKlEyzJ7.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/9FL2TiUwDbRARcq2uPtyrBmUEpa.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/9FL2TiUwDbRARcq2uPtyrBmUEpa.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - ตระหนักถึงความปีติในการวาดภาพ",
+                            "image": "https://image.tmdb.org/t/p/original/ibpThNOSS9IVvx8dw42PkNhxCQ3.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/mGpzTFDX/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - ไม่โดนแดดเผาเลยสักนิด",
+                            "image": "https://image.tmdb.org/t/p/original/jw8RNEfJ1IhoRpb9X03ZaWpR84T.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/M6PRrQiH/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - โรงเรียนติว เดบิวต์ ออฟ เดอะ เดด",
+                            "image": "https://image.tmdb.org/t/p/original/v52BbTaJ6AXhtKtSltzNhVk5nWM.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/vP78eVzW/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - พวกเราจะมุ่งหน้าไปที่ไหนกัน",
+                            "image": "https://image.tmdb.org/t/p/original/nlJf0M5V9A1SpyUfrcrTjNQEF9C.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/E2Mgzo2V/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - รู้หัวข้อไปก็วาดไม่ได้อยู่ดี",
+                            "image": "https://image.tmdb.org/t/p/original/epKcZNu75aF4d6JpgMkA2YcRg8d.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/7NCLFI1/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - ใจเครียดจริง ไม่ล้อเล่น",
+                            "image": "https://image.tmdb.org/t/p/original/4P9IFhetitkvPK1ftsepCzwzeSR.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/5Vvd6XJz/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - เริ่มการสอบรอบแรก",
+                            "image": "https://image.tmdb.org/t/p/original/vH0Tgxc4HzAkiaHNKgQvw0sqg13.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/7twAmN95/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - ไอเดียพลุ่งพล่าน",
+                            "image": "https://image.tmdb.org/t/p/original/cTBkrLJ4Ne9nqxarMEJPSaUzS0l.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/69HOdWir/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - คมมีดที่หลงทาง",
+                            "image": "https://image.tmdb.org/t/p/original/dthHp3NgMOgivTyPGVMB06Em5SE.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/oLuqgMeb/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - สีน้ำเงินของพวกเรา",
+                            "image": "https://image.tmdb.org/t/p/original/qlK8PbdG2EoMoHbkiZzoCR7CacO.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/SDiwZXlv/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - เริ่มการสอบรอบสอง",
+                            "image": "https://image.tmdb.org/t/p/original/gdSODPnXgw7uN2OFEKAXZVgP4Sz.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/gAVKD5ak/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - ตัวเราเริ่มมีสีสันขึ้นมาแล้ว",
+                            "image": "https://image.tmdb.org/t/p/original/nojLibyLGbpPRvT9AhSzQeHMhqM.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/nrncGpxn/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

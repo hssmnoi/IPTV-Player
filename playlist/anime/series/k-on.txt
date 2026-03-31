@@ -1,0 +1,276 @@
+{
+    "name": "K-ON! [เค-อง! ก๊วนดนตรีแป๋วแหวว]",
+    "image": "https://image.tmdb.org/t/p/original/70hf2538UAf7mzzNgvqTlWq6PDf.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/4VptMvnDRRsUeeNRs6UTPKTjqiX.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/4VptMvnDRRsUeeNRs6UTPKTjqiX.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - Disband the Club!",
+                            "image": "https://image.tmdb.org/t/p/original/kC4aJQF5MdnOepF40k2HrvzhJca.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd46b0125464a92618885296fcd951ef8%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - Instruments!",
+                            "image": "https://image.tmdb.org/t/p/original/gDVVSZ8VekACMpfdRfZihP5oKBX.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0bc95a65c34b007be8f347f4087dfa30%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - Cram Session!",
+                            "image": "https://image.tmdb.org/t/p/original/wI1UUNcyKxA29raIdIsPlAkDoY1.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fad2f65940a9e25464dc69c630801621a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - Training Camp!",
+                            "image": "https://image.tmdb.org/t/p/original/tPmIeIChm8ZryyK1CBLDp1tUq4P.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F2a4716811b4734f45dd5cb549bef0810%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - Advisor!",
+                            "image": "https://image.tmdb.org/t/p/original/hLTtcJ9JKBnYNTMb6BLYsKh38SO.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F66b2ca43359fdfb99650993e0b7d8c5c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - School Festival!",
+                            "image": "https://image.tmdb.org/t/p/original/6lDPIA3MzJJysvGK4KBojdptQAn.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1c3f431be293c39646c4b7f3451a44a9%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - Christmas!",
+                            "image": "https://image.tmdb.org/t/p/original/d0WTXmGiMPaW2ZwFDSERXO073Bs.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe642552feb947a02b276939d78123a66%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - Freshman Reception!",
+                            "image": "https://image.tmdb.org/t/p/original/swzH7K2L10n56JuV8LkymdKUjRM.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc83b18a1b4987f86b954facadfe7d992%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - New Club Member!",
+                            "image": "https://image.tmdb.org/t/p/original/i1AFUuXalcr2DcPRPqgWZonnpV1.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F580d1ee1c8321150c2ceae46a8107686%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Another Training Camp!",
+                            "image": "https://image.tmdb.org/t/p/original/oSjvCimmaSoehY71a4B2vxI52zN.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8e02a64778d69855512a807de225a117%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Crisis!",
+                            "image": "https://image.tmdb.org/t/p/original/lk7k3Q6XCvqJCEh2loB2lX6WiFU.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0525a67ecb204696cba1b2d5147c3cee%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - Light Music!",
+                            "image": "https://image.tmdb.org/t/p/original/3FIO2pdtuK6nPxpwlY51AtwuhT5.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F95b8474a76b9e5bb622b9fe4de66ab89%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 13",
+                            "image": "https://www.anime-kimi.com/wp-content/uploads/2026/01/K-ON-เค-อง-ก๊วนดนตรีแป๋วแหวว-พากย์ไทย-300x170.webp",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F2c5fb82566efb7f95e31a8e273558a56%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 14",
+                            "image": "https://www.anime-kimi.com/wp-content/uploads/2026/01/K-ON-เค-อง-ก๊วนดนตรีแป๋วแหวว-พากย์ไทย-300x170.webp",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9c10ac64bb20de1be7fdf11d49ae62e6%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Season 2",
+            "image": "https://image.tmdb.org/t/p/original/rK0m1pPvSJBefYj35VsceMWjKe0.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/rK0m1pPvSJBefYj35VsceMWjKe0.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - Seniors!",
+                            "image": "https://image.tmdb.org/t/p/original/sZJamTpk4Gub8ePBLCKAAF1lAEg.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F4a05b8a33d732befa3ad37395ca72f8f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - Clean-up!",
+                            "image": "https://image.tmdb.org/t/p/original/xnaLR4q0ie09DfbqasVrYxsok9e.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fa7d43a5c9e0ab95cf2b138cadd9a1a18%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - Drummer!",
+                            "image": "https://image.tmdb.org/t/p/original/iS7BhqVp7LzylOs9nBhqcqDO2yp.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F454407793b3f3b0042ceaedea96b825f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - Field Trip!",
+                            "image": "https://image.tmdb.org/t/p/original/d3uUaU2KfPN742N2dnMffahfO3e.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F04dfda51343d5ba6edff298aa646211b%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - Staying Behind!",
+                            "image": "https://image.tmdb.org/t/p/original/8BMQwJ7SKhuVPjohyxWPk4KHvzB.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F6541cd14b247ed54268085852a1ad57e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - Rainy Season!",
+                            "image": "https://image.tmdb.org/t/p/original/r2EXk9I8up4ktxOv253TNNO4ASM.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F2eae93d2ce2d51a69aa6e392b9f2220e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - Tea Party!",
+                            "image": "https://image.tmdb.org/t/p/original/pROa3YUegKdbnwHhXGG5B9IlNc5.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F945033920a531137b1a7be1ec03b2d98%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - Career!",
+                            "image": "https://image.tmdb.org/t/p/original/yzbQHgi1ydFoPap447M9EXoSymY.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc4f7a83b561e78338363113682bac1e6%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - Finals!",
+                            "image": "https://image.tmdb.org/t/p/original/uSAIW2HqXw33WPN0LVGAjQUAV9P.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F89dc2b46132277f245ab10c265ac0c4f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Teacher!",
+                            "image": "https://image.tmdb.org/t/p/original/dDl0USilDNNJfWb7gBPRQreAkOB.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F43319290bdc44808555f790453d4f356%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Hot!",
+                            "image": "https://image.tmdb.org/t/p/original/uqb6nFHlybK051OZMqC4qJ9j4X2.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd5c90ed31f651096e314314c94e0da49%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - Summer Festival!",
+                            "image": "https://image.tmdb.org/t/p/original/vvnQJgXUwyfPjiviS0iLQ8JmFk4.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F157bd675f139fdbff22aa4779b7120de%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 13 - Late Summer Greeting Card!",
+                            "image": "https://image.tmdb.org/t/p/original/dP2XkXFd9682ilNDMfFVWkZgImp.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F809d962a648b9751dcaeb68a6becc08e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 14 - Summer Training!",
+                            "image": "https://image.tmdb.org/t/p/original/qf6EDOvpPTDp43Huai700ckPUfz.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffea3ca38f418645861ae3ac56fb845ad%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 15 - Marathon Tournament!",
+                            "image": "https://image.tmdb.org/t/p/original/guD1OMHurzF852CiVd9vuFUr9VJ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F48468eb4e9a9301488c597aae5daef62%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 16 - Upperclassmen!",
+                            "image": "https://image.tmdb.org/t/p/original/9ygxfVfE3tYNMpiq0hfz1US5kt8.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F0b5097ca6deac39a6b25e8cb101decd6%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 17 - No Club Room!",
+                            "image": "https://image.tmdb.org/t/p/original/pTmbffrFA3Ov1wjkZI7meOXYYte.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F91f4a818ddc733bee6adc0250d6ca3ee%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 18 - Leading Role!",
+                            "image": "https://image.tmdb.org/t/p/original/xW6J1pjfIZ8XHFb8h3SDIxzyzKw.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F7df1c4b3fb7897a7db3a4e9604131130%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 19 - Romeo and Juliet!",
+                            "image": "https://image.tmdb.org/t/p/original/eqX3b80TQ3wcxd55UlIp2mpHGUx.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc760f3d3d60fc04fddb3fbc2e709c53f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 20 - Yet Another School Festival!",
+                            "image": "https://image.tmdb.org/t/p/original/owSNTzI4Oans5x4r0QUAjXvPcjr.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe07cba4ab8606577a202a49ef9122833%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 21 - Graduation Yearbook!",
+                            "image": "https://image.tmdb.org/t/p/original/oYXjwrXAGXoE1wnE4m3LvSZuJvO.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F80d24e1a7c878ac67f81fc9874a44e9a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 22 - Entrance Exam!",
+                            "image": "https://image.tmdb.org/t/p/original/yDMasAMqn48gtiTiO8CtR0ju9Yi.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F28307409544ea768d35ecd13e6bea289%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 23 - After School!",
+                            "image": "https://image.tmdb.org/t/p/original/g14CMfNMoxa9YR8RMA1b9P2CC4o.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F62040cd10c17f0c803c3647ca6029e88%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 24 - Graduation Ceremony!",
+                            "image": "https://image.tmdb.org/t/p/original/gtXQ6yeUwq8o5nY1nstAWQAVhjP.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F41abbf3e995645e13aa622228c849952%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 25",
+                            "image": "https://www.anime-kimi.com/wp-content/uploads/2026/01/K-ON-เค-อง-ก๊วนดนตรีแป๋วแหวว-ซีซั่น-2-พากย์ไทย-300x170.webp",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb86f4ee0c269892b3ea859af5222b9fb%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 26",
+                            "image": "https://www.anime-kimi.com/wp-content/uploads/2026/01/K-ON-เค-อง-ก๊วนดนตรีแป๋วแหวว-ซีซั่น-2-พากย์ไทย-300x170.webp",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F5c540bccdee7c8465a7f74a49d4d9fc2%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 27",
+                            "image": "https://www.anime-kimi.com/wp-content/uploads/2026/01/K-ON-เค-อง-ก๊วนดนตรีแป๋วแหวว-ซีซั่น-2-พากย์ไทย-300x170.webp",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc0a842730fc9a29825b04ff83110484e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

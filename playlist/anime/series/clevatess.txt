@@ -1,0 +1,90 @@
+{
+    "name": "Clevatess [เคลวาเทส อสูรจอมราชัน]",
+    "image": "https://image.tmdb.org/t/p/original/7sWrMBhOS1x4RUCr3o2I4ld13fq.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/7sWrMBhOS1x4RUCr3o2I4ld13fq.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/7sWrMBhOS1x4RUCr3o2I4ld13fq.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - จ้าวแห่งอสูรรัตติกาล",
+                            "image": "https://image.tmdb.org/t/p/original/p6gcZP2kXzJU23f4iIZ8VRNBOgM.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/f05BQfMQB/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - จ้าวอสูรผู้ถูกจองจำ",
+                            "image": "https://image.tmdb.org/t/p/original/sm8730WgxgnzbyjF7LkKUDCRYsV.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/YaXXpPFFbU/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - หน้าที่ของผู้กล้า",
+                            "image": "https://image.tmdb.org/t/p/original/fd8BwdvNr9TuF0jbErD1kicwYSD.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/9kXWOk1bos/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - พรสวรรค์ทางเวทมนตร์",
+                            "image": "https://image.tmdb.org/t/p/original/cRAhwJ5ntAU2ZAfKHnIR92Tdq2g.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/K3K27G7AXF/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - การเดินทัพของโบเรต",
+                            "image": "https://image.tmdb.org/t/p/original/uv4GxBWga1IEq3ZzmHjkgDkrj58.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/vME50QeZK3/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - จอมเวทผู้บงการแมลง",
+                            "image": "https://image.tmdb.org/t/p/original/lDQ848fqBcpQE9712delcPZomCa.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/UWs1JNlIdv/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - ไม้ตายเวทมนตร์",
+                            "image": "https://image.tmdb.org/t/p/original/qJxOXe29wNUB9QPrBZkRmcsnIzE.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/UYyr381kjY/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - การหลั่งไหลของแมลง",
+                            "image": "https://image.tmdb.org/t/p/original/eZ8ea6KhcSUJySh6c21v070LTuq.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Ij8jRQZeFk/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - สมรภูมิไฮดราท",
+                            "image": "https://image.tmdb.org/t/p/original/dL6nEfMJAtZIu1Lw4iUomDNN9zS.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/mxVzJM2OJ/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - มาร์โกและโดเรล",
+                            "image": "https://image.tmdb.org/t/p/original/iyNvl1eocZ7Z2ufN56lz65rvb33.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/xzNfXamCOa/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - ผู้กล้าตัวปลอม",
+                            "image": "https://image.tmdb.org/t/p/original/ekjkrhDUyKWvrBxpZNnULvJNTn5.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/EbPS2KINUi/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - Return of the King",
+                            "image": "https://image.tmdb.org/t/p/original/1tms3Vdvk5Kql7iaRJlTorsR5G8.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/T0H1KQb0hC/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "name": "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside [ผมโดนกลุ่มผู้กล้าขับไสเลยต้องไปสโลว์ไลฟ์ที่ชายแดน]",
+    "image": "https://image.tmdb.org/t/p/original/hk5qqvJLRBDaPYBc8lKkSYQrR1c.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/ayQzpP6rrQ15OUFmies7kMQf1LO.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/ayQzpP6rrQ15OUFmies7kMQf1LO.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - You're Not a True Comrade",
+                            "image": "https://image.tmdb.org/t/p/original/rWAvB1BOuZzf8taHLUE7w9K1ULT.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fa4318ee1ad03e653369b277c07ea61f6%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - The Princess Who Didn't Join the Hero's Party",
+                            "image": "https://image.tmdb.org/t/p/original/cJiTi2o63xuoqgoD4NWna0azFx3.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F6c2ed77c97dcc76e1b98731e11e0bfaa%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - Let's Start Our Quiet Life Together",
+                            "image": "https://image.tmdb.org/t/p/original/gY0LwTq3jico0ga8otN6XOIK4zy.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F47517f2a9f935bac76abe6c5cc4e1c3d%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - Of Mead and Motives",
+                            "image": "https://image.tmdb.org/t/p/original/hXlRFysVbo6OBxhJu3zV5prGJTm.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F2f0be64e3630fc0d90c778bda6e72907%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - The Amber Ring",
+                            "image": "https://image.tmdb.org/t/p/original/l0Wr94GvEmiqammt42pPFBhvwmS.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fdc92ba438a66588fc3de648ba5edf3c7%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - The Rampage Begins",
+                            "image": "https://image.tmdb.org/t/p/original/vwKLY9r0XMl0JIU4tOLVMItkWOQ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F7c38d1f8bf8389b63e277b18b1c580de%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - The Chaos After the Storm",
+                            "image": "https://image.tmdb.org/t/p/original/6xwBrfib4jtnLH8T7NUy8NDrrKF.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F857b8f0623e6fc9f8cc52e562f1585aa%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - The Man Who Would Be a Hero",
+                            "image": "https://image.tmdb.org/t/p/original/eEW65bE6BOkW3N07UeDejJhH6l5.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F5c9f93b2fdb3614e052123bba6301e64%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - Days of Peace and Ease",
+                            "image": "https://image.tmdb.org/t/p/original/nn0OhNw49ENSTFdF77p0GPBwoT7.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F04409d8e95e38304c8c771ad31cff3ff%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Saving the Hero",
+                            "image": "https://image.tmdb.org/t/p/original/1S0O8v1ULLGXiZ1EUiyfaIYTgxg.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fcec8c15b4e8e86b84b1378ba2f054715%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - A Gathering of Champions",
+                            "image": "https://image.tmdb.org/t/p/original/80QgQPtufA63Nbx2exRZg5gYt1Z.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F1f0da8c559be0a67ca15ca75da3b6549%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - A Parting of Ways",
+                            "image": "https://image.tmdb.org/t/p/original/ckSIT7WwTvtIvqcmd4NSiAgcZX1.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fadf8f21b4189d1a963041f278c45fc54%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 13 - The Guide",
+                            "image": "https://image.tmdb.org/t/p/original/ouyzTu834aPl0yQm89c1gKtnEfS.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd025a5a8445360859f1d79e093db0622%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

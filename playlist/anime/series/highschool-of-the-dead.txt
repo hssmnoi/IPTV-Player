@@ -1,0 +1,90 @@
+{
+    "name": "High School of the Dead [ฝ่าดงนรกเดินดิน]",
+    "image": "https://image.tmdb.org/t/p/original/jaGpsfRddhzkZIlqxDnDqT3XBhr.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/hJkSlOEHpAE4aIluQ822ZZaxc5V.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/hJkSlOEHpAE4aIluQ822ZZaxc5V.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - Spring of the DEAD",
+                            "image": "https://image.tmdb.org/t/p/original/oK5GNhme7ZdZp5HvDAycPjVL9HT.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fc9aee660e2e376fb953c605bc3e4fd73%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - Escape from the DEAD",
+                            "image": "https://image.tmdb.org/t/p/original/7rGQzAZozg97tNWxnpwhce47jO3.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffc35f92ad1190bfe900f377205ebe9bf%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - Democracy under the DEAD",
+                            "image": "https://image.tmdb.org/t/p/original/ymXzgBc4nNXp1UeKzx00vm5gZNP.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F11c83670504013609b9508ca28682e99%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - Running in the DEAD",
+                            "image": "https://image.tmdb.org/t/p/original/qPbsjEGIVxSvyDbmjclU03inK2d.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F49cee6ec23f8052e01470480e8596d15%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - Streets of the DEAD",
+                            "image": "https://image.tmdb.org/t/p/original/3aeA9TrHwZqMAlnHT6Jf2yYlldJ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fca0616cbfbb468d89a221f3f3de2a6f6%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - In the DEAD of the Night",
+                            "image": "https://image.tmdb.org/t/p/original/xOImd2nM6LZ5DCkwr5OvdcoY27v.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F19a3dc71c09a47c28ac99ddd2a8f2c1c%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - DEAD Night and the DEAD Ruck",
+                            "image": "https://image.tmdb.org/t/p/original/7IJSIWIJaapDbpIQgExR31YoVoJ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe7e4f740f97a38c313a9abc2ec6ab85e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - The DEAD Way Home",
+                            "image": "https://image.tmdb.org/t/p/original/53SCWhfp8A2R5t7AVeYUdUourrf.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F6b99e0280a083eb0efefc610cc01ea1a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - The Sword and DEAD",
+                            "image": "https://image.tmdb.org/t/p/original/yNOV3bOdYkOq9xw0Fvcbx4NOHyu.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fed376c8c2e0e958151aadd099ab84773%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - The DEAD's House Rules",
+                            "image": "https://image.tmdb.org/t/p/original/xhgY3i0cz2NImEh1WkaLlbZfiWY.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8550a822d2e6d0a7a90ceca8462e876a%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - DEAD Storm Rising",
+                            "image": "https://image.tmdb.org/t/p/original/e6y9Lkj8TRjdxZJ7cU1IJ8XP6FL.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8f97f981159a0a6f7cb1067b791a7f42%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - All DEAD'S Attack",
+                            "image": "https://image.tmdb.org/t/p/original/q59SdK9aHIHQquBi0BfrYN5AaaE.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Feaa4d8c6c014768ef022f0f7d834942f%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

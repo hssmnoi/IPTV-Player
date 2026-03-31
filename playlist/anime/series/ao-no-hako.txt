@@ -1,0 +1,168 @@
+{
+    "name": "Blue Box [กล่องรักวัยใส]",
+    "image": "https://image.tmdb.org/t/p/original/mVAWCCNBxPX3EUf9XhcFff4wW5V.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/4b60HLxEaIPPSnzsUeI3mevVJCQ.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/4b60HLxEaIPPSnzsUeI3mevVJCQ.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - รุ่นพี่จินัตสึ",
+                            "image": "https://image.tmdb.org/t/p/original/iP1wh8pjHPOP7S7DewTa4KDDgVO.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/HjRXjArAHL/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - ต้องไปให้ถึงระดับประเทศ",
+                            "image": "https://image.tmdb.org/t/p/original/654vPnrKqjJufJj53Zg5uCV7jpE.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/1pWsWf1zT/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - จิอิ",
+                            "image": "https://image.tmdb.org/t/p/original/1PYnJ1W53ZPRyEYpp25EZbvrlJw.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/4blsW9sg21/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - ถ้าเขาชนะ",
+                            "image": "https://image.tmdb.org/t/p/original/tpNkGMMFxVaaHSUr0xi8WtxWtEs.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/7ozuIXICHq/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - พิพิธภัณฑ์สัตว์น้ำ",
+                            "image": "https://image.tmdb.org/t/p/original/9DT2lF6SHysuBkd5vgCXK460WEk.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/l2L4xRJiZg/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - อวยพรให้ด้วยนะ",
+                            "image": "https://image.tmdb.org/t/p/original/pyIWyOKZMnWBk6jAIrbnDOc0bP1.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/uBnE5y1cu/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - ขอสักอันสิ",
+                            "image": "https://image.tmdb.org/t/p/original/sxrKwe2e9gWOVURsyHrciPXCh1k.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/QB0Ex2FwSR/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - แต้ม!",
+                            "image": "https://image.tmdb.org/t/p/original/hzvtE1H7wPCom0pHwrrlKwgrOn2.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/6uViHLltAv/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - จะคอยเชียร์นะ",
+                            "image": "https://image.tmdb.org/t/p/original/sMA1jXiKf31WxEmtY2OTs7vGpUw.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/1TF9FJEnVP/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - ท่าไม่ดีเลย",
+                            "image": "https://image.tmdb.org/t/p/original/cUOPnuBTWz7i7jomwRR8XzMkbCd.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/mTMnlV0PZA/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - แย่",
+                            "image": "https://image.tmdb.org/t/p/original/rz3xzgykJRv90rk03gzq0PnKPRO.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/WOLvcDYHZn/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - สาวๆ...",
+                            "image": "https://image.tmdb.org/t/p/original/5fBnYivRNHmPUMvVRfWgdPfWKVT.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/m0MjJKZb2X/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 13 - ขอให้เชียร์แบบไม่หยุดเลยนะ",
+                            "image": "https://image.tmdb.org/t/p/original/ihS0QGr6HL8P7L6y7OYSPiwCDR4.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/MTqZ8OQNK/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 14 - เกี่ยวพันกันตรงไหน",
+                            "image": "https://image.tmdb.org/t/p/original/34khq5ncoySUYA9VzauvfgTj6rm.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/e3gv7YxJLE/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 15 - 26 สิงหาคม",
+                            "image": "https://image.tmdb.org/t/p/original/jlXKcCW9TW8PGGjxMoGy1WsPoWt.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/YgWRVqrI0O/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 16 - ผู้หญิงที่ไม่ยุติธรรม",
+                            "image": "https://image.tmdb.org/t/p/original/4lZji1ZM6IBykmLYxgyuDfFerzm.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/64wt0nGcs0/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 17 - แน่นอน ฉันก็อยากเห็น",
+                            "image": "https://image.tmdb.org/t/p/original/r84lf3xXptHTKevjyUJXVqktesr.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/v7XYYJzlEd/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 18 - I Know",
+                            "image": "https://image.tmdb.org/t/p/original/8gPCl2ceXGssrAydbuKQCG5xGoB.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/9WhWKlKb2f/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 19 - I've Got Plans",
+                            "image": "https://image.tmdb.org/t/p/original/vEyVb21mXP7uCk1RgPk0YdNrliD.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/u3tQxdeuXH/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 20 - As One of Her Closest Friends",
+                            "image": "https://image.tmdb.org/t/p/original/24bKMeaaNypMAqmO3itHxRXsXU.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/9y683O8Cl/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 21 - A Chance to Blossom",
+                            "image": "https://image.tmdb.org/t/p/original/svItHgAc20VnY829RgeHzg3Hc4W.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/8z7TQqqmea/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 22 - Inota!",
+                            "image": "https://image.tmdb.org/t/p/original/sVmrm0n8LqRIgQuORsUj1EoKsRd.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/RYVdAuPxWT/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 23 - Spinning",
+                            "image": "https://image.tmdb.org/t/p/original/rf35oTeibEneOyZBM4YcccS62Qy.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/YyAOAQ3SpE/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 24 - A Roller Coaster",
+                            "image": "https://image.tmdb.org/t/p/original/sLQeOfkntkwEWpjoUa5lEMI8HrK.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/kC0tSoyF1n/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 25 - Even So",
+                            "image": "https://image.tmdb.org/t/p/original/ctkW1CquYlv2DF2z9rpHFqll0VV.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/QtcBLWCvGt/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

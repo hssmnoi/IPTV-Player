@@ -1,0 +1,90 @@
+{
+    "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! [ผมถูกเพื่อนที่เชื่อใจหลอกไปฆ่า เลยใช้กิฟต์สุ่มกาชาพาพวกพ้องเลเวล 9999 กลับมาล้างแค้น]",
+    "image": "https://image.tmdb.org/t/p/original/pGNBYEae87H8iLRF3AoztonnZkp.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/e8FeYSMY5C1IEO1Nu4MRmELqUxN.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/e8FeYSMY5C1IEO1Nu4MRmELqUxN.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - หักหลังและช่วยเหลือ",
+                            "image": "https://image.tmdb.org/t/p/original/lCNKJ7N6wY1Oh5BreKIG9xBu5bX.jpg",
+                            "url": "https://www.anime-kimi.com/episode/shinjiteita-nakama-tachi-ni-dungeon-okuchi-de-korosarekaketa-ga-gift-2-ep-1/",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - นรก",
+                            "image": "https://image.tmdb.org/t/p/original/2tOtSlDKq2tT3Apps51ElD9Qa0J.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fd43e2e57b38f4aea48664a09af988434%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - ราชาแห่งความพินาศ",
+                            "image": "https://image.tmdb.org/t/p/original/pLRfqKRGAE62rxjyPO5jFv7QhFV.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F28434940592952a74478ae5819356c2e%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - นักผจญภัย",
+                            "image": "https://image.tmdb.org/t/p/original/azsvUq3EUaapbrSOKWmmvhYLws9.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F9c52fc9ea5a911e482d1ac61d34f74c7%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - A Small Wish",
+                            "image": "https://image.tmdb.org/t/p/original/y6ybODmLMUtzqoX4yAmr94NxGYV.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fa3e4015608ba1c046019ca473441fcce%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - The Adventurer Killer",
+                            "image": "https://image.tmdb.org/t/p/original/qhV6oiLc3TZAg3BApdBanBOJL27.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F64215f17517dbd148c58984b32ffd675%2Fmaster.txt%3Fs%3D1%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - Thank You",
+                            "image": "https://image.tmdb.org/t/p/original/bKL4ZnUECpqLTmPxfR4z0XiRvhO.jpg",
+                            "url": "https://www.anime-kimi.com/episode/shinjiteita-nakama-tachi-ni-dungeon-okuchi-de-korosarekaketa-ga-gift-2-ep-7/",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - White Knights",
+                            "image": "https://image.tmdb.org/t/p/original/6EwGpZSPMo2pTUPTYoTz4J5nN5m.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fe3e55d1fc73437b237aa3e4724df5e1a%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - Kick Off",
+                            "image": "https://image.tmdb.org/t/p/original/5NmWrqiN2uueyKQ8Oq6vZtVZl5X.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F97a9f3d83492cd7a014b766dc0e95db9%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - The Tower War",
+                            "image": "https://image.tmdb.org/t/p/original/ladv6aQ1xOb4RqXJ3ps4SZHJKgP.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fb026b060c6d84806fba2e8b87dc0da2d%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - God Requiem Gungnir",
+                            "image": "https://image.tmdb.org/t/p/original/dNqkDF8yRbUfIJLdmvGlech0ETm.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F75d2d65a928e259390c203e4b8304683%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - Towards a New Path",
+                            "image": "https://image.tmdb.org/t/p/original/7JwaKSSl6DrG8e0nCn6gRJb4VIZ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F4c3c6c5de5ac44959ea989bcb7562ef7%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

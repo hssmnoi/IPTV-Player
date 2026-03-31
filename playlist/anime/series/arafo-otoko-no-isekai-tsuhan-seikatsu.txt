@@ -1,0 +1,96 @@
+{
+    "name": "The Daily Life of a Middle-Aged Online Shopper in Another World [ทะลุมิติไปเป็นยอดนักขายออนไลน์ในต่างโลกของชายวัยสี่สิบ]",
+    "image": "https://image.tmdb.org/t/p/original/rr079GvB0pgzkGnKFTSk7519dDR.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/rr079GvB0pgzkGnKFTSk7519dDR.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/rr079GvB0pgzkGnKFTSk7519dDR.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - An Unfamiliar Forest",
+                            "image": "https://image.tmdb.org/t/p/original/mL47fXs3yEGZRSW3GaIWlvQKPSo.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F45694dc7ac82910af5f6321298ac31ee%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - Curry Is Justice!",
+                            "image": "https://image.tmdb.org/t/p/original/zK2hpxCu7a7BCKRFgWN7F64f1MM.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F7c9cce4dab5c9e3a18e422ecd2407f55%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - A Small House in a Big Forest",
+                            "image": "https://image.tmdb.org/t/p/original/6Lan7XcbwrNoixy7C1cMvxpsDNY.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F46ed505efdb955f5b0a1cf0826ece1e5%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - Adventurers (Kenichi and His 8 Allies)",
+                            "image": "https://image.tmdb.org/t/p/original/g9Os1hulvg57yJKpGSajezSl7wv.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8dda8dfbd1de04fdedc2fd90dbf6384b%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - The Moon Over an Old Castle",
+                            "image": "https://image.tmdb.org/t/p/original/t7VAUyJRgx2NMG7GT8ZqX8n4OPJ.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Ffc3393ae72f45de4abfa27404c323d9e%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - The Book Loving...",
+                            "image": "https://image.tmdb.org/t/p/original/5gvKfqY4LjEpaZOOmpzeF0vwqNV.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F8e15a5cb73fb545c33dbe6cfa74caad5%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - Creep Forth!",
+                            "image": "https://image.tmdb.org/t/p/original/oPPFLOMDdx8ukkKyhHbu59LQigj.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F415759cd6eb4bf6270ab99b57e554e8c%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - The Timid Mage",
+                            "image": "https://image.tmdb.org/t/p/original/ys2tbR2o0m24fq4MIcGAkyzUJvc.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F505f92a1f073dd678671645ac1aeb892%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - So It's a Spider, So What?",
+                            "image": "https://image.tmdb.org/t/p/original/peGdJGy3oc9Ly8g14kbTs7F250r.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F43117c0014fb8988d23ddebf2aa4f0d5%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - The Story of Canals",
+                            "image": "https://image.tmdb.org/t/p/original/4lE34uIBdu6U2RPrfMtMrVFwkyz.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F00fa014f1f4c84246c314a9f1052bd95%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Shock!",
+                            "image": "https://image.tmdb.org/t/p/original/3JBTT2lb7pSulOhlBJcsvvrIQJE.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2Fbc770c5c8e2a51fb6a6bc8a751e21c5a%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - The Unreasonable, Mischievous Princess",
+                            "image": "https://image.tmdb.org/t/p/original/rx5lo4ccBJ1Eh3gc5hfhyGNjR86.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F6a5f699e862a6586c25c62e67ab9e16f%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        },
+                        {
+                            "name": "ตอน 13 - To Sa-Kura",
+                            "image": "https://image.tmdb.org/t/p/original/2K57J6iZBoMzETHC6BnHbK78PYO.jpg",
+                            "url": "https://www.anime-kimi.com/hls_proxy.php?url=https%3A%2F%2Fmycdn-hd.xyz%2Fcdn%2Fhls%2F30869c6377b07537560ed7bcd2dd2c05%2Fmaster.txt%3Fs%3D2%26d%3D",
+                            "referer": "https://www.anime-kimi.com/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
