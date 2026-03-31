@@ -264,6 +264,11 @@
       "image": "https://image.tmdb.org/t/p/original/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg"
     },
     {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/arafo-otoko-no-isekai-tsuhan-seikatsu.txt",
+      "name": "The Daily Life of a Middle-Aged Online Shopper in Another World [ทะลุมิติไปเป็นยอดนักขายออนไลน์ในต่างโลกของชายวัยสี่สิบ]",
+      "image": "https://image.tmdb.org/t/p/original/rr079GvB0pgzkGnKFTSk7519dDR.jpg"
+    },
+    {
       "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/seiken-gakuin-no-makentsukai.txt",
       "name": "The Demon Sword Master of Excalibur Academy [จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์]",
       "image": "https://image.tmdb.org/t/p/original/rvUIWcUg23JwWDVF7oTqLFmUe9g.jpg"
