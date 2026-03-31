@@ -4,122 +4,122 @@
   "imageScale": "centerCrop",
   "groups": [
     {
-      "url": "/playlist/Anime/Series/Bofuri.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Bofuri.txt",
       "name": "Bofuri [น้องโล่สายแทงก์ แกร่งเกินร้อย]",
       "image": "https://cdn.myanimelist.net/images/anime/1579/113812l.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Gaikotsu-Kishi-sama-Tadaima-Isekai-e-Odekakechuu.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Gaikotsu-Kishi-sama-Tadaima-Isekai-e-Odekakechuu.txt",
       "name": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu [บันทึกการเดินทางต่างโลกของท่านอัศวินกระดูก]",
       "image": "https://m.media-amazon.com/images/M/MV5BMjdmMGRmY2MtMWIwZC00NjU0LTkzM2YtNTM2ZmRhYzMyMjA3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Genjitsu-Shugi-Yuusha-no-Oukoku-Saikenki.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Genjitsu-Shugi-Yuusha-no-Oukoku-Saikenki.txt",
       "name": "Genjitsu Shugi Yuusha no Oukoku Saikenki [ยุทธศาสตร์กู้ชาติของราชามือใหม่]",
       "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Horimiya.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Horimiya.txt",
       "name": "Horimiya [โฮริมิยะ สาวมั่นกับนายมืดมน]",
       "image": "https://m.media-amazon.com/images/M/MV5BOGUzYmZkZjItNjI5Yi00NjllLThiMjUtYTY0MDI4M2Y0MmZlXkEyXkFqcGc@._V1_FMjpg_UY3507_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Isekai-Shokudou.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Isekai-Shokudou.txt",
       "name": "Isekai Shokudou [ร้านอาหารต่างโลก]",
       "image": "https://m.media-amazon.com/images/M/MV5BNGE4ODFiYzgtMGE0Yy00N2Q3LWFlM2QtMmMyODQ5MWUxZjk2XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Isekai-wa-Smartphone-to-Tomo-ni.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Isekai-wa-Smartphone-to-Tomo-ni.txt",
       "name": "Isekai wa Smartphone to Tomo ni [ไปต่างโลกก็ต้องไปกับสมาร์ทโฟนสิ]",
       "image": "https://m.media-amazon.com/images/M/MV5BYTMxNDIzYzEtNjA2My00ZGM3LWI3NGEtNmVhODg0YmU3NDBmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Isekai-Yakkyoku.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Isekai-Yakkyoku.txt",
       "name": "Isekai Yakkyoku [เภสัชกรเทพสองโลก]",
       "image": "https://m.media-amazon.com/images/M/MV5BNWM1ZjVkZmQtOTYzOC00Yzg3LTlmZjgtNDc5ZWZmYTU2ZjVkXkEyXkFqcGc@._V1_FMjpg_UX387_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Isekai-Yururi-Kikou.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Isekai-Yururi-Kikou.txt",
       "name": "Isekai Yururi Kikou [บันทึกการเดินทางแสนเอื่อยในต่างโลก]",
       "image": "https://m.media-amazon.com/images/M/MV5BNDJlYzAwNTYtNzhiNC00ZTcxLThjYWYtMzVkOGY5ZWJhODYwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Izure-Saikyou-no-Renkinjutsushi.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Izure-Saikyou-no-Renkinjutsushi.txt",
       "name": "Izure Saikyou no Renkinjutsushi? [นักเล่นแร่แปรธาตุที่ยิ่งใหญ่ที่สุดตลอดกาล]",
       "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Jitsu-Wa-Ore-Saikyou-Deshita.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Jitsu-Wa-Ore-Saikyou-Deshita.txt",
       "name": "Jitsu Wa Ore Saikyou Deshita? [ผมเทพสุดจริงเหรอ?]",
       "image": "https://m.media-amazon.com/images/M/MV5BY2MyY2I2YjItY2Q1Ny00ODUwLWExM2ItNjg2MzVhNGE1MmY5XkEyXkFqcGc@._V1_FMjpg_UX1064_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Kage-no-Jitsuryokusha-ni-Naritakute.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Kage-no-Jitsuryokusha-ni-Naritakute.txt",
       "name": "Kage no Jitsuryokusha ni Naritakute! [ชีวิตไม่ต้องเด่น ขอแค่เป็นเทพในเงา]",
       "image": "https://m.media-amazon.com/images/M/MV5BMDFmMWJlMWYtMDFkNi00OWViLTkzOGEtNDI0YWNmM2M5MzI5XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Kami-tachi-ni-Hirowareta-Otoko.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Kami-tachi-ni-Hirowareta-Otoko.txt",
       "name": "Kami-tachi ni Hirowareta Otoko [เพราะพระเจ้าเลือกเลยได้เกิดใหม่มาเลี้ยงสไลม์ในต่างโลก]",
       "image": "https://m.media-amazon.com/images/M/MV5BNDJlYzAwNTYtNzhiNC00ZTcxLThjYWYtMzVkOGY5ZWJhODYwXkEyXkFqcGc@._V1_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Katainaka-no-Ossan-Kensei-ni-Naru.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Katainaka-no-Ossan-Kensei-ni-Naru.txt",
       "name": "Katainaka no Ossan, Kensei ni Naru [ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง]",
       "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Kimi-ni-Todoke.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Kimi-ni-Todoke.txt",
       "name": "Kimi ni Todoke [ฝากใจไปถึงเธอ]",
       "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Mizu-Zokusei-no-Mahoutsukai.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Mizu-Zokusei-no-Mahoutsukai.txt",
       "name": "Mizu Zokusei no Mahoutsukai [จอมเวทวารี]",
       "image": "https://m.media-amazon.com/images/M/MV5BOGJlZmZmOGYtNWJjNy00ZDI1LThmZGEtYjk3ZmExNzVhMjMwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Saikyou-Tank-no-Meikyuu-Kouryaku.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Saikyou-Tank-no-Meikyuu-Kouryaku.txt",
       "name": "Saikyou Tank no Meikyuu Kouryaku [แทงก์สุดแกร่ง แห่งวงกต]",
       "image": "https://m.media-amazon.com/images/M/MV5BNjc1MTljZGYtODQzMy00MGVjLTg5ZDQtYjNlYzdkOGZmYmU3XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Shangri-La-Frontier.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Shangri-La-Frontier.txt",
       "name": "Shangri-La Frontier [เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ]",
       "image": "https://m.media-amazon.com/images/M/MV5BNjdkOTE4NWItYWUyNS00ZTQ5LWE5ODYtODA1YWUxNThhY2E1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Solo-Leveling.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Solo-Leveling.txt",
       "name": "Solo Leveling [โซโลเลเวลลิง]",
       "image": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Sono-Bisque-Doll-wa-Koi-wo-suru.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Sono-Bisque-Doll-wa-Koi-wo-suru.txt",
       "name": "Sono Bisque Doll wa Koi wo suru [หนุ่มเย็บผ้ากับสาวนักคอสเพลย์]",
       "image": "https://m.media-amazon.com/images/M/MV5BYTlkODJlOWItZmQyMC00MWExLThkYWUtYTM0YWJjMzg2MDc4XkEyXkFqcGc@._V1_FMjpg_UY576_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Sousou-no-Frieren.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Sousou-no-Frieren.txt",
       "name": "Sousou no Frieren [คำอธิษฐานในวันที่จากลาฟรีเรน]",
       "image": "https://m.media-amazon.com/images/M/MV5BZTI4ZGMxN2UtODlkYS00MTBjLWE1YzctYzc3NDViMGI0ZmJmXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Tensei-shitara-Dainana-Ouji.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Tensei-shitara-Dainana-Ouji.txt",
       "name": "Tensei shitara Dainana Ouji [พอได้เกิดใหม่เป็นองค์ชายลำดับที่เจ็ด ก็เพื่อเรียนเวทให้สนุก]",
       "image": "https://m.media-amazon.com/images/M/MV5BMzUzMWUyZmItNjFhZC00NzlmLWJjYjktZjM1ZWNmODA3ZmEyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Tensei-Shitara-Slime-Datta-Ken.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Tensei-Shitara-Slime-Datta-Ken.txt",
       "name": "Tensei Shitara Slime Datta Ken [เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว]",
       "image": "https://m.media-amazon.com/images/M/MV5BOTczMjM3MDUtYmZjMC00YzZhLWE4ODQtNjg5YWU4NTJjNzY2XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Tsuki-ga-Michibiku-Isekai-Douchuu.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Tsuki-ga-Michibiku-Isekai-Douchuu.txt",
       "name": "Tsuki ga Michibiku Isekai Douchuu [จันทรานำพาสู่ต่างโลก]",
       "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_FMjpg_UX800_.jpg"
     },
     {
-      "url": "/playlist/Anime/Series/Yasei-no-Last-Boss-ga-Arawareta.txt",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/Yasei-no-Last-Boss-ga-Arawareta.txt",
       "name": "Yasei no Last Boss ga Arawareta! [อุบัติการณ์ลาสบอสสุดแกร่ง]",
       "image": "https://m.media-amazon.com/images/M/MV5BOTIzYjNkNDQtMDhmNi00ZjFkLTg1NzktMDY1NmFmMWM5ZjRkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg"
     }

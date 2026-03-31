@@ -13,62 +13,62 @@
             {
               "name": "ตอน 1 - Kicked from the Party",
               "image": "https://m.media-amazon.com/images/M/MV5BMGYyMWNhOTItNzQ2My00ZDI2LTliNTItNDU5YmIyOTAyMGJiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/nx5pu8JB6v/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/nx5pu8JB6v/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 2 - Return to Avancia",
               "image": "https://m.media-amazon.com/images/M/MV5BNTU2ZDJhOGQtODgwMC00MmQ3LWI1NGEtNjczNGYzOWI2MjE4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/ds41NXIjGM/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/ds41NXIjGM/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 3 - An Unknown Monster",
               "image": "https://m.media-amazon.com/images/M/MV5BNGFiNGNlZmMtNjYxNy00ZDY2LTg2ZGMtZWE0MDE5MzVkYTg0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/DWe3f9JbVI/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/DWe3f9JbVI/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 4 - Selfish",
               "image": "https://m.media-amazon.com/images/M/MV5BNzQyMTk5OTgtOGUwYy00YzA5LThmMjMtNzUyOTk4OGI0NWMzXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/lbGKEgwy7T/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/lbGKEgwy7T/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 5 - Towards Dreams",
               "image": "https://m.media-amazon.com/images/M/MV5BOGFmMGU3Y2YtZWZmZC00MzFmLTk2NDgtN2M5OTc0ZGE0MTUwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/H0RSLv0iV/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/H0RSLv0iV/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 6 - The Labyrinth's Manager",
               "image": "https://m.media-amazon.com/images/M/MV5BODE5OGJmYjUtZWQ4My00OTBkLWIwMTctNmJjYzMyYzczNDVjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/C49kmz5oKW/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/C49kmz5oKW/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 7 - In Keild",
               "image": "https://m.media-amazon.com/images/M/MV5BZTU3NTM3MTUtZTE2MC00ZDViLTljZTUtZTYzY2U5YTVhYmM1XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/FR371vw6jA/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/FR371vw6jA/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 8 - Lilia and Lily",
               "image": "https://m.media-amazon.com/images/M/MV5BMGFiOGQwYmItZGVmOS00M2YwLTk4MDItMjlhMGFiZDFkYWJkXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/ICOhkdYwMw/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/ICOhkdYwMw/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 9 - Amon Sloth",
               "image": "https://m.media-amazon.com/images/M/MV5BNjkwMTdhYWEtNWIzZC00ZjMzLWEzY2MtZWFmMGIxMGQwYzNmXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/2L6UUGfK0Y/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/2L6UUGfK0Y/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 10 - Foreign Homunculi",
               "image": "https://m.media-amazon.com/images/M/MV5BZTg4MDA3YzctOWJmYS00Nzg4LTllYzEtYzEyYzZjMzE1YjM1XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/T6CgqDBD45/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/T6CgqDBD45/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 11 - Attack of the Monsters",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFkNjU5MzEtOWRmYi00YTM4LTk1NDItMGFjY2NjNGRkZTAyXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/jIB718gZl4/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/jIB718gZl4/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 12 - Magic Power",
               "image": "https://m.media-amazon.com/images/M/MV5BM2ZlZDA4M2MtYjllZS00NWE3LTgzZDAtZWNjYWExMjAzMjEzXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/4OWhIdk4Zu/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/4OWhIdk4Zu/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             }
           ]
         },
@@ -80,62 +80,62 @@
             {
               "name": "Ep. 1 - Kicked from the Party",
               "image": "https://m.media-amazon.com/images/M/MV5BMGYyMWNhOTItNzQ2My00ZDI2LTliNTItNDU5YmIyOTAyMGJiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/e5TfxYO3wJ/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/e5TfxYO3wJ/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 2 - Return to Avancia",
               "image": "https://m.media-amazon.com/images/M/MV5BNTU2ZDJhOGQtODgwMC00MmQ3LWI1NGEtNjczNGYzOWI2MjE4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/CnJrQQRZsS/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/CnJrQQRZsS/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 3 - An Unknown Monster",
               "image": "https://m.media-amazon.com/images/M/MV5BNGFiNGNlZmMtNjYxNy00ZDY2LTg2ZGMtZWE0MDE5MzVkYTg0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/uTIXGilTXI/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/uTIXGilTXI/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 4 - Selfish",
               "image": "https://m.media-amazon.com/images/M/MV5BNzQyMTk5OTgtOGUwYy00YzA5LThmMjMtNzUyOTk4OGI0NWMzXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/GFhJ9cFxZD/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/GFhJ9cFxZD/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 5 - Towards Dreams",
               "image": "https://m.media-amazon.com/images/M/MV5BOGFmMGU3Y2YtZWZmZC00MzFmLTk2NDgtN2M5OTc0ZGE0MTUwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/myJuCS2oK/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/myJuCS2oK/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 6 - The Labyrinth's Manager",
               "image": "https://m.media-amazon.com/images/M/MV5BODE5OGJmYjUtZWQ4My00OTBkLWIwMTctNmJjYzMyYzczNDVjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/JZSSEYb5N2/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/JZSSEYb5N2/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 7 - In Keild",
               "image": "https://m.media-amazon.com/images/M/MV5BZTU3NTM3MTUtZTE2MC00ZDViLTljZTUtZTYzY2U5YTVhYmM1XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/7A4ksIqxX/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/7A4ksIqxX/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 8 - Lilia and Lily",
               "image": "https://m.media-amazon.com/images/M/MV5BMGFiOGQwYmItZGVmOS00M2YwLTk4MDItMjlhMGFiZDFkYWJkXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/kOXGTBMPkO/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/kOXGTBMPkO/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 9 - Amon Sloth",
               "image": "https://m.media-amazon.com/images/M/MV5BNjkwMTdhYWEtNWIzZC00ZjMzLWEzY2MtZWFmMGIxMGQwYzNmXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/ie9yFt03r/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/ie9yFt03r/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 10 - Foreign Homunculi",
               "image": "https://m.media-amazon.com/images/M/MV5BZTg4MDA3YzctOWJmYS00Nzg4LTllYzEtYzEyYzZjMzE1YjM1XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/VOUrXAnXIy/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/VOUrXAnXIy/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 11 - Attack of the Monsters",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFkNjU5MzEtOWRmYi00YTM4LTk1NDItMGFjY2NjNGRkZTAyXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/yEtDL9imyS/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/yEtDL9imyS/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 12 - Magic Power",
               "image": "https://m.media-amazon.com/images/M/MV5BM2ZlZDA4M2MtYjllZS00NWE3LTgzZDAtZWNjYWExMjAzMjEzXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/2U1sS2LalO/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/2U1sS2LalO/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             }
           ]
         }

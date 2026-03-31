@@ -16,7 +16,7 @@ const APP_SHELL = [
   "./images/covers/cover-anime-movie.png",
   "./images/covers/cover-movie.png",
   "./images/covers/cover-series.png",
-  "../playlist/main.txt",
+  "..https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/main.txt",
 ];
 
 self.addEventListener("install", (event) => {
@@ -59,7 +59,7 @@ self.addEventListener("fetch", (event) => {
   }
 
   // Always prefer latest playlist data, then fallback to cache.
-  if (url.pathname.includes("/playlist/")) {
+  if (url.pathname.includes("https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/")) {
     event.respondWith(
       fetch(req)
         .then((res) => {

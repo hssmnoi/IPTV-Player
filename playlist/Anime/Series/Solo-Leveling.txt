@@ -13,73 +13,73 @@
             {
               "name": "ตอน 1 - I'm Used to It",
               "image": "https://m.media-amazon.com/images/M/MV5BYjE3NWZmY2UtZGEzNy00OGUyLWEyOWEtZTJmMTYxOWZlN2U0XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/9bEzmXs0j1/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/9bEzmXs0j1/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 2 - If I Had One More Chance",
               "image": "https://m.media-amazon.com/images/M/MV5BM2Y0MmNlMDAtMTJjNC00NDgwLTgzNWQtZWFiMjY1Yzg1N2I5XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/6ewxXcBF8j/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/6ewxXcBF8j/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 3 - It's Like a Game",
               "image": "https://m.media-amazon.com/images/M/MV5BYzY2M2Y3MTQtMWE2My00YjVlLWIzODktM2RkNTdjMWFmMDU1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/KfagCjm3uY/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/KfagCjm3uY/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 4 - I've Gotta Get Stronger",
               "image": "https://m.media-amazon.com/images/M/MV5BOTU5NDY1MTQtMjQ1MC00ODk3LTg5YWMtNjY5ODM2YTYwOGZjXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/LJAQAr9XK/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/LJAQAr9XK/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 5 - A Pretty Good Deal",
               "image": "https://m.media-amazon.com/images/M/MV5BZjY3YWJkMjUtMzRlNi00NmI1LTliM2QtZTlkNTQ3MDVhNzNkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/G0AXPI2oU/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/G0AXPI2oU/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 6 - The Real Hunt Begins",
               "image": "https://m.media-amazon.com/images/M/MV5BNTliMmQzNDMtOWRhOS00NDgxLTkzNGEtYjYxODM0YjFjZGFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/GIFdXJStUH/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/GIFdXJStUH/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 7 - Let's See How Far I Can Go",
               "image": "https://m.media-amazon.com/images/M/MV5BNDc5ZDcyZjEtOGY3My00N2Q1LWFhNTktNzRjYTA2YzYwOTdjXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/xWrfI0m8UH/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/xWrfI0m8UH/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 8 - This Is Frustrating",
               "image": "https://m.media-amazon.com/images/M/MV5BNWMwMDMxYWYtNDE1Yy00YzVhLWI4MDktYjY4MzIxZmMyN2I3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/EK4UsFid7H/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/EK4UsFid7H/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 9 - You've Been Hiding Your Skills",
               "image": "https://m.media-amazon.com/images/M/MV5BMzg3MDRlZTYtYmIwZS00YjZlLWFhZTctZTQ5YmQ0MzBkMzQ3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/1u1xOoE9PC/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/1u1xOoE9PC/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 10 - What Is This, a Picnic?",
               "image": "https://m.media-amazon.com/images/M/MV5BZWY3Y2UwNWQtNDQ5MC00ZGRlLTkyZTgtYThiMTAyNjNmZWY1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/hPISKPKwu2/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/hPISKPKwu2/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 11 - A Knight Who Defends an Empty Throne",
               "image": "https://m.media-amazon.com/images/M/MV5BODk0MjRhOTctMGIwNi00NDk1LWExMTItYzhmOTFkOTUyYWNmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/IIzfsp7Vbo/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/IIzfsp7Vbo/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 12 - Arise",
               "image": "https://m.media-amazon.com/images/M/MV5BMzk0ZTk2ZjEtYjUyMS00MGU5LWJkOWYtYjNhMDcwMWQyNDUxXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/Y33L58lL6/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/Y33L58lL6/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             }
           ]
@@ -98,79 +98,79 @@
             {
               "name": "ตอน 1 - You Aren't E-Rank, Are You?",
               "image": "https://m.media-amazon.com/images/M/MV5BOWU1NjA3ZDgtZDg5ZC00MDIzLWE2NTAtODQyOGIzOGI5NjBlXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/UW5iX22Tjg/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/UW5iX22Tjg/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 2 - I Suppose You Aren't Aware",
               "image": "https://m.media-amazon.com/images/M/MV5BNzQ2ZWI4NjAtZTIzYS00YTUyLWI0OTAtOTgzNjgzN2I3NGE4XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/eec3OV91UR/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/eec3OV91UR/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 3 - Still a Long Way to Go",
               "image": "https://m.media-amazon.com/images/M/MV5BYWFjMWEzY2MtNGM4MS00M2Q0LWJjNTctZWRkODE0YmE3ODBlXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/ybPWomcOp/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/ybPWomcOp/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 4 - I Need to Stop Faking",
               "image": "https://m.media-amazon.com/images/M/MV5BMzI3ZjhlZGYtOTE5NS00MDYyLThjNDYtYTg4OGNjZWUzNzA1XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/URRBtEIUUu/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/URRBtEIUUu/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 5 - This Is What We're Trained to Do",
               "image": "https://m.media-amazon.com/images/M/MV5BNzkwOGNjMGEtZmIwYi00ODM0LWI4ZDgtNTg4MTgwNGMzNjlmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/ml5IWF0nd0/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/ml5IWF0nd0/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 6 - Don't Look Down on My Guys",
               "image": "https://m.media-amazon.com/images/M/MV5BMDFjOTJhNTEtNjk0ZS00NDg2LTkwNzctMGRiNmUyZTMyODdkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/2BcCxonP2P/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/2BcCxonP2P/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 7 - The 10th S-Rank Hunter",
               "image": "https://m.media-amazon.com/images/M/MV5BNzk1MTNiNWUtOTMxYi00NGUxLWJlNGMtZWFjZGEyMjk2M2U0XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/WUcVnrpmac/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/WUcVnrpmac/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 8 - Looking Up Was Tiring Me Out",
               "image": "https://m.media-amazon.com/images/M/MV5BOTFhZmMxYjUtNjI5My00Y2QzLWJkODMtODQ2ZTQ0NWVjNGMzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/GPsGgf2arz/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/GPsGgf2arz/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 9 - It Was All Worth It",
               "image": "https://m.media-amazon.com/images/M/MV5BYjAxMzljOWYtY2JiZC00YzM3LWI5ZDAtODlmNGNiZDc4MDY2XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/SX8RSHErO1/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/SX8RSHErO1/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 10 - We Need a Hero",
               "image": "https://m.media-amazon.com/images/M/MV5BYjIxODU1NzctYmU0Zi00NDJiLWEyZWYtNWE2MGQ2NWZkNDE4XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/KpSuydwh7/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/KpSuydwh7/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 11 - It's Going to Get Even More Intense",
               "image": "https://m.media-amazon.com/images/M/MV5BM2RhNWJmZGQtNTgzMi00NjNlLWJlYmItOTUzZmNiYjMzNmNhXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/JrabCkogsn/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/JrabCkogsn/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 12 - Are You the King of Humans",
               "image": "https://m.media-amazon.com/images/M/MV5BZDFmNGQxYTktNGQ0NC00MWUzLThiMjUtOWU5YmVmMGVmYWZlXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/lOH3GVuznR/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/lOH3GVuznR/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 13 - On to the Next Target",
               "image": "https://m.media-amazon.com/images/M/MV5BOGVmYTNjNDUtMmRhMy00NzNmLTk3YWUtMDA3MGY5YzAwNjc0XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/JI12uNfR9X/video.mp4/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/JI12uNfR9X/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             }
           ]

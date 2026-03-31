@@ -13,62 +13,62 @@
             {
               "name": "ตอน 1 - เหล่าสไลม์และเรียวมะ",
               "image": "https://m.media-amazon.com/images/M/MV5BNmQyZDE0MGYtYWU4Ni00NGZjLTliYzAtMGYwMmQyOWY4ZGU3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,2,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/rBrjo8yd/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/rBrjo8yd/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 2 - ออกเดินทางกับเหล่าสไลม์",
               "image": "https://m.media-amazon.com/images/M/MV5BMjlmYzJhZmMtYjYyOC00MWRjLWI3Y2ItOTc3ZjlkYjE1Y2QxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,2,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/SY7nVc3W/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/SY7nVc3W/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 3 - เข้าเมืองครั้งแรกกับเหล่าสไลม์",
               "image": "https://m.media-amazon.com/images/M/MV5BYTJjMjgxZTQtNWYwNC00YWVmLWI1YTEtNmY3ZTE3YjIyYmY5XkEyXkFqcGc@._V1_QL75_UX1000_CR0,2,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/CYTjoklA/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/CYTjoklA/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 4 - งานทำความสะอาดกับสไลม์",
               "image": "https://m.media-amazon.com/images/M/MV5BMjJiZjA2NTQtMzk4OC00OTk5LTgwZmUtOTlhZjcyYjcwMGYxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/Vfg8nmF2/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/Vfg8nmF2/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 5 - การฝึกฝนของคุณหนูกับสไลม์",
               "image": "https://m.media-amazon.com/images/M/MV5BOWVjMGMwYWQtZDk5NS00MWFjLTk1MTktMDg2Y2NjNWRhMTE2XkEyXkFqcGc@._V1_QL75_UY563_CR2,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/E6Bj1Az/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/E6Bj1Az/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 6 - กำจัดมอนสเตอร์กับเหล่าสไลม์",
               "image": "https://m.media-amazon.com/images/M/MV5BMDI1N2FhMDItNTM2ZS00YWMzLWFmOTktZDQxMmEyZTE0NmMxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/HirceDbT/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/HirceDbT/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 7 - เตรียมเปิดร้านซักผ้ากับเหล่าสไลม์",
               "image": "https://m.media-amazon.com/images/M/MV5BYzJmYWE3Y2MtMjBiNy00ZjEwLWI0OWMtMjViNmVjYzMwMzdiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/Ac47wYK/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/Ac47wYK/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 8 - ธุรกิจร้านซักผ้ากับเหล่าสไลม์",
               "image": "https://m.media-amazon.com/images/M/MV5BZjNlNDVlYWYtODJjOC00YmUyLWE0YTctNGY1ZjBlYmEzMTViXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/L7QqiRmU/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/L7QqiRmU/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 9 - เพื่อนร่วมงานใหม่กับเหล่าสไลม์",
               "image": "https://m.media-amazon.com/images/M/MV5BOTRlM2RjNDEtOTE1Mi00Y2E4LWIyMzYtZGNlZGQ3ZDhiMTIzXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/hnuHu786/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/hnuHu786/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 10 - สไลม์สายพันธุ์ใหม่กับเหล่าสไลม์",
               "image": "https://m.media-amazon.com/images/M/MV5BMWE1ZWM4ZTYtZjU4Ni00NjMwLWJhZTMtZWRiNzFhMjRjZjg4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/OjrJ1DHS/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/OjrJ1DHS/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 11 - การฝึกเวทมนตร์ ควบคุมมอนสเตอร์กับเหล่าสไลม์",
               "image": "https://m.media-amazon.com/images/M/MV5BNGYyODg3NWEtMTc3ZC00MzdlLTg4ODUtZjI2OGIzMjk0Yzc4XkEyXkFqcGc@._V1_QL75_UY563_CR2,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/ygD1RWDj/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/ygD1RWDj/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 12 - วันใหม่กับเหล่าสไลม์",
               "image": "https://m.media-amazon.com/images/M/MV5BYTUwMjFmYjUtMDdlNi00NmNjLWExYWEtMmI1ZmNkOTdiZDZiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,26,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/vrdXk15/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/vrdXk15/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             }
           ]
         },
@@ -80,62 +80,62 @@
             {
               "name": "Ep. 1 - Ryoma, with the Slimes",
               "image": "https://m.media-amazon.com/images/M/MV5BNmQyZDE0MGYtYWU4Ni00NGZjLTliYzAtMGYwMmQyOWY4ZGU3XkEyXkFqcGc@._V1_QL75_UX1000_CR0,2,1000,563_.jpg",
-              "url": "https://indy.team-indy.club:8443/vid/hPOayz24/video.mp4/playlist.m3u8"
+              "url": "https://indy.team-indy.club:8443/vid/hPOayz24/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 2 - Departure, with the Slimes",
               "image": "https://m.media-amazon.com/images/M/MV5BMjlmYzJhZmMtYjYyOC00MWRjLWI3Y2ItOTc3ZjlkYjE1Y2QxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,2,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/T45xeITI/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/T45xeITI/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 3 - First Time in Town, with the Slimes",
               "image": "https://m.media-amazon.com/images/M/MV5BYTJjMjgxZTQtNWYwNC00YWVmLWI1YTEtNmY3ZTE3YjIyYmY5XkEyXkFqcGc@._V1_QL75_UX1000_CR0,2,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/Uaq8uRbw/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/Uaq8uRbw/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 4 - Clean-Up Duty, with the Slimes",
               "image": "https://m.media-amazon.com/images/M/MV5BMjJiZjA2NTQtMzk4OC00OTk5LTgwZmUtOTlhZjcyYjcwMGYxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/84sjPVlO/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/84sjPVlO/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 5 - The Lady's Training Session, with the Slimes",
               "image": "https://m.media-amazon.com/images/M/MV5BOWVjMGMwYWQtZDk5NS00MWFjLTk1MTktMDg2Y2NjNWRhMTE2XkEyXkFqcGc@._V1_QL75_UY563_CR2,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/NNqhM9VR/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/NNqhM9VR/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 6 - Monster Hunting, with the Slimes",
               "image": "https://m.media-amazon.com/images/M/MV5BMDI1N2FhMDItNTM2ZS00YWMzLWFmOTktZDQxMmEyZTE0NmMxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/8SWe24s/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/8SWe24s/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 7 - Starting the Business, with the Slimes",
               "image": "https://m.media-amazon.com/images/M/MV5BYzJmYWE3Y2MtMjBiNy00ZjEwLWI0OWMtMjViNmVjYzMwMzdiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/hcorUd6l/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/hcorUd6l/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 8 - Laundry Business, with the Slimes",
               "image": "https://m.media-amazon.com/images/M/MV5BZjNlNDVlYWYtODJjOC00YmUyLWE0YTctNGY1ZjBlYmEzMTViXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/VicI5u9l/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/VicI5u9l/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 9 - The New Coworkers, with The Slimes",
               "image": "https://m.media-amazon.com/images/M/MV5BOTRlM2RjNDEtOTE1Mi00Y2E4LWIyMzYtZGNlZGQ3ZDhiMTIzXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/9mLIqZKI/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/9mLIqZKI/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 10 - The New Slimes, with the Slimes",
               "image": "https://m.media-amazon.com/images/M/MV5BMWE1ZWM4ZTYtZjU4Ni00NjMwLWJhZTMtZWRiNzFhMjRjZjg4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/IQdiY2Vg/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/IQdiY2Vg/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 11 - The Slimes and the Familiar Magic Training",
               "image": "https://m.media-amazon.com/images/M/MV5BNGYyODg3NWEtMTc3ZC00MzdlLTg4ODUtZjI2OGIzMjk0Yzc4XkEyXkFqcGc@._V1_QL75_UY563_CR2,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/xCa5hiwp/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/xCa5hiwp/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 12 - The Slimes and the New Life",
               "image": "https://m.media-amazon.com/images/M/MV5BYTUwMjFmYjUtMDdlNi00NmNjLWExYWEtMmI1ZmNkOTdiZDZiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,26,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/qzBiLBKo/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/qzBiLBKo/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             }
           ]
         }
@@ -153,62 +153,62 @@
             {
               "name": "Ep. 1 - Ryoma and the New Plan",
               "image": "https://m.media-amazon.com/images/M/MV5BNDJlYzAwNTYtNzhiNC00ZTcxLThjYWYtMzVkOGY5ZWJhODYwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,419,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/5PmMscGQAO/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/5PmMscGQAO/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 2 - Ryoma and the Crime Prevention Drill",
               "image": "https://m.media-amazon.com/images/M/MV5BNDJlYzAwNTYtNzhiNC00ZTcxLThjYWYtMzVkOGY5ZWJhODYwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,419,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/N5aNu8x5DD/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/N5aNu8x5DD/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 3 - Ryoma and the Poster Girl",
               "image": "https://m.media-amazon.com/images/M/MV5BNDJlYzAwNTYtNzhiNC00ZTcxLThjYWYtMzVkOGY5ZWJhODYwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,419,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/YHKBtqSOTJ/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/YHKBtqSOTJ/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 4 - Ryoma and the Second Shop",
               "image": "https://m.media-amazon.com/images/M/MV5BNDJlYzAwNTYtNzhiNC00ZTcxLThjYWYtMzVkOGY5ZWJhODYwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,419,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/VQbscLjuQw/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/VQbscLjuQw/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 5 - Ryoma and the New Acquaintance",
               "image": "https://m.media-amazon.com/images/M/MV5BNDJlYzAwNTYtNzhiNC00ZTcxLThjYWYtMzVkOGY5ZWJhODYwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,419,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/FFowbzWC6m/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/FFowbzWC6m/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 6 - Ryoma and the Magic Item Market",
               "image": "https://m.media-amazon.com/images/M/MV5BNDJlYzAwNTYtNzhiNC00ZTcxLThjYWYtMzVkOGY5ZWJhODYwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,419,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/apydvIkkXj/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/apydvIkkXj/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 7 - Ryoma and the Local Cuisine",
               "image": "https://m.media-amazon.com/images/M/MV5BNDJlYzAwNTYtNzhiNC00ZTcxLThjYWYtMzVkOGY5ZWJhODYwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,419,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/uSMJ2jOLki/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/uSMJ2jOLki/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 8 - Ryoma and the Traveling Entertainer",
               "image": "https://m.media-amazon.com/images/M/MV5BNDJlYzAwNTYtNzhiNC00ZTcxLThjYWYtMzVkOGY5ZWJhODYwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,419,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/sMVh3WHY0n/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/sMVh3WHY0n/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 9 - Eliaria and the New Friends",
               "image": "https://m.media-amazon.com/images/M/MV5BNDJlYzAwNTYtNzhiNC00ZTcxLThjYWYtMzVkOGY5ZWJhODYwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,419,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/xlwUiWy2S/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/xlwUiWy2S/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 10 - Ryoma and the Flying Slime",
               "image": "https://m.media-amazon.com/images/M/MV5BNDJlYzAwNTYtNzhiNC00ZTcxLThjYWYtMzVkOGY5ZWJhODYwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,419,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/dIpI5TB9kg/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/dIpI5TB9kg/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 11 - Ryoma and the Busy Days",
               "image": "https://m.media-amazon.com/images/M/MV5BNDJlYzAwNTYtNzhiNC00ZTcxLThjYWYtMzVkOGY5ZWJhODYwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,419,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/7KWwL4YyLI/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/7KWwL4YyLI/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 12 - Ryoma and the Town of Gimul",
               "image": "https://m.media-amazon.com/images/M/MV5BNDJlYzAwNTYtNzhiNC00ZTcxLThjYWYtMzVkOGY5ZWJhODYwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,419,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/sAacH3P4Db/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/sAacH3P4Db/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             }
           ]
         }

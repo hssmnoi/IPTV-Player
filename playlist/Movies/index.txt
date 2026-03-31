@@ -3,7 +3,7 @@
     {
       "name": "Jurassic World Rebirth จูราสสิค เวิลด์: กำเนิดชีวิตใหม่",
       "image": "https://m.media-amazon.com/images/M/MV5BMDE1N2EzMjAtMDY1My00YWE5LWEyYjYtYmE3YjZjNzQwNDhmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-      "url": "/playlist/Movies/Jurassic-World-Rebirth.txt"
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Movies/Jurassic-World-Rebirth.txt"
     }
   ],
   "name": "Movies",

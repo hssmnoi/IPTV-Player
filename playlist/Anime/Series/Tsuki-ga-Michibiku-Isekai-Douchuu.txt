@@ -13,62 +13,62 @@
             {
               "name": "ตอน 1 - Failed... Hero",
               "image": "https://m.media-amazon.com/images/M/MV5BYjdhN2JmZDgtMjJmMy00ZTY3LTk0MzAtMDNlMWFiZmE4YzE0XkEyXkFqcGc@._V1_QL75_UY563_CR29,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/SQPSMScQRn/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/SQPSMScQRn/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 2 - Guardian of the Wilderness",
               "image": "https://m.media-amazon.com/images/M/MV5BYmZkMjE0MjctZmFhMC00YzE4LThmNjgtY2I2NGM1MzNlNWEwXkEyXkFqcGc@._V1_QL75_UY563_CR23,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/LqRKQpDvjO/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/LqRKQpDvjO/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 3 - Human Shock",
               "image": "https://m.media-amazon.com/images/M/MV5BODg5MjJlYzEtNjE4MS00NGQxLWE3YzItNDA4NDE5OTBlM2NjXkEyXkFqcGc@._V1_QL75_UY563_CR21,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/kUpQTP1Ot8/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/kUpQTP1Ot8/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 4 - Too Late",
               "image": "https://m.media-amazon.com/images/M/MV5BNzVmZTVhYzctZWVhOC00NWVlLThmZTQtZTU2N2M3YWM0MWE4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/zEXKt9F3J8/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/zEXKt9F3J8/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 5 - The Misumi Family",
               "image": "https://m.media-amazon.com/images/M/MV5BOGUxZjQ4ZTItOWMwZC00MzUxLWFhZjAtNzgwYjlmMDY4MmQxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/oNPK9evqoS/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/oNPK9evqoS/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 6 - The Forest Oni's Melancholy",
               "image": "https://m.media-amazon.com/images/M/MV5BNTI5ZGQxMzktNjFkYS00ODhmLWIxMjItOTBhYjIwMzA4MTQ0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/rrE867XjC/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/rrE867XjC/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 7 - Departure",
               "image": "https://m.media-amazon.com/images/M/MV5BMjFiYzA2NzktNTcwZC00OWNiLTlhNDItYWFhNjdiYWQxYzRlXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/tJ6xwnDA88/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/tJ6xwnDA88/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 8 - Demiplane, Fair and Impartial",
               "image": "https://m.media-amazon.com/images/M/MV5BNDhiZWY1ZjItMjM2ZC00YmRkLWEwNzgtMjM4ZTJiN2ZmMzlmXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/8Kjm2cc4kX/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/8Kjm2cc4kX/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 9 - Win or Lose in This World",
               "image": "https://m.media-amazon.com/images/M/MV5BNzE5ZDUwODUtYzk2MS00ZmE2LTgyODktMzc3ZDc3NzhiNTJmXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/NqMFSaCyFK/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/NqMFSaCyFK/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 10 - Hidden Ogre",
               "image": "https://m.media-amazon.com/images/M/MV5BNTJjNjMwM2UtMGRlMC00M2EzLWI3MzUtOWE0MjNjMTk4MzdmXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/RK8ygCYLMW/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/RK8ygCYLMW/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 11 - Goodbye",
               "image": "https://m.media-amazon.com/images/M/MV5BYmU5ZTExNzYtOGE4OS00ZmMwLWI1YWYtMDgyNWZlYzBmOGJkXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/ZqcCDI8CbN/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/ZqcCDI8CbN/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 12 - Guided by the Moon...",
               "image": "https://m.media-amazon.com/images/M/MV5BMzkyMzViZjYtNzJlNi00ZWIyLTliNDItYWUwMzIwZjdhMGU4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/LTHETZ7jrC/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/LTHETZ7jrC/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             }
           ]
         },
@@ -80,62 +80,62 @@
             {
               "name": "Ep. 1 - Failed... Hero",
               "image": "https://m.media-amazon.com/images/M/MV5BYjdhN2JmZDgtMjJmMy00ZTY3LTk0MzAtMDNlMWFiZmE4YzE0XkEyXkFqcGc@._V1_QL75_UY563_CR29,0,1000,563_.jpg",
-              "url": "https://indy.team-indy.club:8443/vid/tP6bT9b/video.mp4/playlist.m3u8"
+              "url": "https://indy.team-indy.club:8443/vid/tP6bT9b/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 2 - Guardian of the Wilderness",
               "image": "https://m.media-amazon.com/images/M/MV5BYmZkMjE0MjctZmFhMC00YzE4LThmNjgtY2I2NGM1MzNlNWEwXkEyXkFqcGc@._V1_QL75_UY563_CR23,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/t7yw4rGL/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/t7yw4rGL/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 3 - Human Shock",
               "image": "https://m.media-amazon.com/images/M/MV5BODg5MjJlYzEtNjE4MS00NGQxLWE3YzItNDA4NDE5OTBlM2NjXkEyXkFqcGc@._V1_QL75_UY563_CR21,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/CADuWj3M/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/CADuWj3M/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 4 - Too Late",
               "image": "https://m.media-amazon.com/images/M/MV5BNzVmZTVhYzctZWVhOC00NWVlLThmZTQtZTU2N2M3YWM0MWE4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/jTZXiOUr/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/jTZXiOUr/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 5 - The Misumi Family",
               "image": "https://m.media-amazon.com/images/M/MV5BOGUxZjQ4ZTItOWMwZC00MzUxLWFhZjAtNzgwYjlmMDY4MmQxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/N7kfuiRO/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/N7kfuiRO/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 6 - The Forest Oni's Melancholy",
               "image": "https://m.media-amazon.com/images/M/MV5BNTI5ZGQxMzktNjFkYS00ODhmLWIxMjItOTBhYjIwMzA4MTQ0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/I7m8wDyK/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/I7m8wDyK/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 7 - Departure",
               "image": "https://m.media-amazon.com/images/M/MV5BMjFiYzA2NzktNTcwZC00OWNiLTlhNDItYWFhNjdiYWQxYzRlXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/3Lpu1ntz/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/3Lpu1ntz/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 8 - Demiplane, Fair and Impartial",
               "image": "https://m.media-amazon.com/images/M/MV5BNDhiZWY1ZjItMjM2ZC00YmRkLWEwNzgtMjM4ZTJiN2ZmMzlmXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/0KKL23lS/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/0KKL23lS/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 9 - Win or Lose in This World",
               "image": "https://m.media-amazon.com/images/M/MV5BNzE5ZDUwODUtYzk2MS00ZmE2LTgyODktMzc3ZDc3NzhiNTJmXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/AMEHkBIe/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/AMEHkBIe/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 10 - Hidden Ogre",
               "image": "https://m.media-amazon.com/images/M/MV5BNTJjNjMwM2UtMGRlMC00M2EzLWI3MzUtOWE0MjNjMTk4MzdmXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/VCSZGhcR/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/VCSZGhcR/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 11 - Goodbye",
               "image": "https://m.media-amazon.com/images/M/MV5BYmU5ZTExNzYtOGE4OS00ZmMwLWI1YWYtMDgyNWZlYzBmOGJkXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/Y08bLfJ/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/Y08bLfJ/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 12 - Guided by the Moon...",
               "image": "https://m.media-amazon.com/images/M/MV5BMzkyMzViZjYtNzJlNi00ZWIyLTliNDItYWUwMzIwZjdhMGU4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/z7lEuoUC/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/z7lEuoUC/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             }
           ]
         }
@@ -153,127 +153,127 @@
             {
               "name": "ตอน 1 - What? Moon over the Ruined Castle?",
               "image": "https://m.media-amazon.com/images/M/MV5BNjZjZTdkNmYtMmQyNi00MTcxLTg5NDUtZmU1M2E3MDYwYzk0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/i4PoAtOp23/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/i4PoAtOp23/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 2 - The Time to Pick It Up Once More",
               "image": "https://m.media-amazon.com/images/M/MV5BZmRkOWI4ZDQtMDg1ZS00YTYwLTgyMjQtOGFiM2RlNjMxZWNiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/JUudAALAvJ/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/JUudAALAvJ/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 3 - Illusion Banquet",
               "image": "https://m.media-amazon.com/images/M/MV5BOTA1ZDFjNjctNTJhZC00MzRhLWI4YTgtYjg0MWZiZTUyN2VjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/2X96ysLB23/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/2X96ysLB23/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 4 - Hot Springs Dragon",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/Lb5BVfhij/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/Lb5BVfhij/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 5 - Wise, Rona, and Gritonia",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/zue6qqs1hm/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/zue6qqs1hm/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 6 - Seiryuuten",
               "image": "https://m.media-amazon.com/images/M/MV5BYjgzZmZiZjYtYzU2Yi00ZmU3LTliNTItYTEyYzQ0OGY0Njg4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/D8z0wzSYvb/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/D8z0wzSYvb/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 7 - Encounter and Reunion",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/L6sjGAXNS2/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/L6sjGAXNS2/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 8 - Princess, Dragon, and Human",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/liCmK8SCnX/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/liCmK8SCnX/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 9 - Dusk Street",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/wZgNzL5Sd0/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/wZgNzL5Sd0/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 10 - Chaotic Labyrinth",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/obgrFKDhA7/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/obgrFKDhA7/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 11 - Adventurers, Gather!",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/5FfVaI1sYV/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/5FfVaI1sYV/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 12 - All-Out War Eve",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/v6DtopVWJ/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/v6DtopVWJ/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 13 - New Journey",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/wNYE0LB8xB/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/wNYE0LB8xB/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 14 - Unfinished Business",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/qqnTcgMql/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/qqnTcgMql/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 15 - Echoes of the Past",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/bZXVBc86ZJ/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/bZXVBc86ZJ/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 16 - Shadow Tactics",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/NnE3xE5uw8/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/NnE3xE5uw8/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 17 - The Deal",
               "image": "https://m.media-amazon.com/images/M/MV5BYjg2NTkwMDAtYzA4MC00ZDllLTk3YzYtNzFhYzQ2ZWYyYmIwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/BrwVgjR2I5/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/BrwVgjR2I5/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 18 - In the Heart of the Storm",
               "image": "https://m.media-amazon.com/images/M/MV5BMTFlYjBmZjUtMTc5ZC00YjA1LTgzMWEtYTllNGM3YjM0ZDQxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/ZpW4iwF1d0/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/ZpW4iwF1d0/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 19 - Parallel Lines",
               "image": "https://m.media-amazon.com/images/M/MV5BMDM4OTA4ZTEtNTlmYi00NzMzLTk5ZWEtMmU1Mzk3M2Q2NDg2XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/I9wW1L2st9/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/I9wW1L2st9/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 20 - Beyond the Wasteland",
               "image": "https://m.media-amazon.com/images/M/MV5BNzZkOWRlYzktZWUxZi00NDI3LWFmOGYtZWFjN2FkMjIyYWM0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/Hh3wDHQeh6/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/Hh3wDHQeh6/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 21 - New Beginnings",
               "image": "https://m.media-amazon.com/images/M/MV5BY2ViY2U2NjAtNWViNi00NWRmLThjNDgtYmFhN2UxMDU2N2M4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/IEn4Az27Ji/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/IEn4Az27Ji/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 22 - Twilight",
               "image": "https://m.media-amazon.com/images/M/MV5BOTZlMjhiMmUtN2MyNi00OGRjLThlM2EtZmE2ZGZmODMzYWMyXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/jRD5k5Pjf/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/jRD5k5Pjf/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 23 - The Last Stand",
               "image": "https://m.media-amazon.com/images/M/MV5BMzFlNDZkYzYtN2E1Yy00MzkyLTlkMjYtOWNlMWRjN2RhYzFlXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/gaFxffOkO8/video.mp4/playlist.m3u8"
+              "url": "https://moji.abcdxzy.xyz:8443/vod/gaFxffOkO8/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 24 - Reconciliation",
               "image": "https://m.media-amazon.com/images/M/MV5BMmZjZmQyMzMtOTExNi00M2U0LThjMTItMTM3MTUzZWEyOWU5XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/4PUvubVKxA/video.mp4/playlist.m3u8"
+              "url": "https://moji.abcdxzy.xyz:8443/vod/4PUvubVKxA/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "ตอน 25 - Party Beneath the Moonlight",
               "image": "https://m.media-amazon.com/images/M/MV5BNTY0NWExMjktOTdlMy00ZTMzLWJjNWEtN2U4MmIzNWYyZWU2XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/gsC3T77UXb/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/gsC3T77UXb/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             }
           ]
         },
@@ -285,127 +285,127 @@
             {
               "name": "Ep. 1 - What? Moon over the Ruined Castle?",
               "image": "https://m.media-amazon.com/images/M/MV5BNjZjZTdkNmYtMmQyNi00MTcxLTg5NDUtZmU1M2E3MDYwYzk0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://indy.team-indy.club:8443/vid/DdlNUubN7k/video.mp4/playlist.m3u8"
+              "url": "https://indy.team-indy.club:8443/vid/DdlNUubN7k/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 2 - The Time to Pick It Up Once More",
               "image": "https://m.media-amazon.com/images/M/MV5BZmRkOWI4ZDQtMDg1ZS00YTYwLTgyMjQtOGFiM2RlNjMxZWNiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/6PC5iHf98/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/6PC5iHf98/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 3 - Illusion Banquet",
               "image": "https://m.media-amazon.com/images/M/MV5BOTA1ZDFjNjctNTJhZC00MzRhLWI4YTgtYjg0MWZiZTUyN2VjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/DwID6Dw92f/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/DwID6Dw92f/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 4 - Hot Springs Dragon",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/p7DlQtNF2G/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/p7DlQtNF2G/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 5 - Wise, Rona, and Gritonia",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/KNIaTYTfu8/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/KNIaTYTfu8/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 6 - Seiryuuten",
               "image": "https://m.media-amazon.com/images/M/MV5BYjgzZmZiZjYtYzU2Yi00ZmU3LTliNTItYTEyYzQ0OGY0Njg4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/eKvMuYaEnJ/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/eKvMuYaEnJ/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 7 - Encounter and Reunion",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/sbmEDGfDBL/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/sbmEDGfDBL/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 8 - Princess, Dragon, and Human",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/YPdO2giID9/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/YPdO2giID9/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 9 - Dusk Street",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/X93nWLV8o/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/X93nWLV8o/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 10 - Chaotic Labyrinth",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/J61Ruu8Ip/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/J61Ruu8Ip/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 11 - Adventurers, Gather!",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/g5XJs9kLy3/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/g5XJs9kLy3/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 12 - All-Out War Eve",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/VcNxbp98Rv/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/VcNxbp98Rv/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 13 - New Journey",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/Sd1YqmaGUg/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/Sd1YqmaGUg/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 14 - Unfinished Business",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/OSaSfAuAjA/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/OSaSfAuAjA/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 15 - Echoes of the Past",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/VgxsZqAf5F/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/VgxsZqAf5F/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 16 - Shadow Tactics",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFjZDJkOWYtOTgwYy00MTI4LWJlNDItZWI1MWY4ZmY1ZDllXkEyXkFqcGc@._V1_QL75_UX1000_CR0,469,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/zbtrwQ5QNT/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/zbtrwQ5QNT/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 17 - The Deal",
               "image": "https://m.media-amazon.com/images/M/MV5BYjg2NTkwMDAtYzA4MC00ZDllLTk3YzYtNzFhYzQ2ZWYyYmIwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/aa9ISXgdwB/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/aa9ISXgdwB/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 18 - In the Heart of the Storm",
               "image": "https://m.media-amazon.com/images/M/MV5BMTFlYjBmZjUtMTc5ZC00YjA1LTgzMWEtYTllNGM3YjM0ZDQxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/p1nxSEspPD/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/p1nxSEspPD/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 19 - Parallel Lines",
               "image": "https://m.media-amazon.com/images/M/MV5BMDM4OTA4ZTEtNTlmYi00NzMzLTk5ZWEtMmU1Mzk3M2Q2NDg2XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/TNR30VgiN7/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/TNR30VgiN7/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 20 - Beyond the Wasteland",
               "image": "https://m.media-amazon.com/images/M/MV5BNzZkOWRlYzktZWUxZi00NDI3LWFmOGYtZWFjN2FkMjIyYWM0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/n8jjCxnSlv/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/n8jjCxnSlv/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 21 - New Beginnings",
               "image": "https://m.media-amazon.com/images/M/MV5BY2ViY2U2NjAtNWViNi00NWRmLThjNDgtYmFhN2UxMDU2N2M4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/moMLQZXEiI/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/moMLQZXEiI/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 22 - Twilight",
               "image": "https://m.media-amazon.com/images/M/MV5BOTZlMjhiMmUtN2MyNi00OGRjLThlM2EtZmE2ZGZmODMzYWMyXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/88emjmqAo4/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/88emjmqAo4/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 23 - The Last Stand",
               "image": "https://m.media-amazon.com/images/M/MV5BMzFlNDZkYzYtN2E1Yy00MzkyLTlkMjYtOWNlMWRjN2RhYzFlXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/h5WiGHnLY/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/h5WiGHnLY/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 24 - Reconciliation",
               "image": "https://m.media-amazon.com/images/M/MV5BMmZjZmQyMzMtOTExNi00M2U0LThjMTItMTM3MTUzZWEyOWU5XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/LXHxRrLOV0/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/LXHxRrLOV0/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             },
             {
               "name": "Ep. 25 - Party Beneath the Moonlight",
               "image": "https://m.media-amazon.com/images/M/MV5BNTY0NWExMjktOTdlMy00ZTMzLWJjNWEtN2U4MmIzNWYyZWU2XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://hls.animeindy.com:8443/vid/gsC3T77UXb/video.mp4/playlist.m3u8"
+              "url": "https://hls.animeindy.com:8443/vid/gsC3T77UXb/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
             }
           ]
         }

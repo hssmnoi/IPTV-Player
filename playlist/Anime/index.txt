@@ -6,12 +6,12 @@
       "name": "The Series",
       "image": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/web/images/covers/cover-anime-series.png",
       "imageScale": "centerCrop",
-      "url": "/playlist/Anime/Series/index.txt"
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Series/index.txt"
     },
     {
       "name": "The Movies",
       "image": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/web/images/covers/cover-anime-movie.png",
-      "url": "/playlist/Anime/Movies/index.txt"
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/Movies/index.txt"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "url": "/playlist/main.txt",
+  "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/main.txt",
   "name": "BKL Play",
   "author": "Bank_",
   "image": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/web/images/android-chrome-192x192.png",
@@ -7,12 +7,12 @@
     {
       "name": "Anime",
       "image": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/web/images/covers/cover-anime.png",
-      "url": "/playlist/Anime/index.txt"
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Anime/index.txt"
     },
     {
       "name": "Movies",
       "image": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/web/images/covers/cover-movie.png",
-      "url": "/playlist/Movies/index.txt"
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/Movies/index.txt"
     }
   ]
 }
