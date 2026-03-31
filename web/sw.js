@@ -1,9 +1,9 @@
-const CACHE_NAME = "bkl-play-v3";
+const CACHE_NAME = "bkl-play";
 const APP_SHELL = [
   "./",
   "./index.html",
   "./css/style.css?v=3",
-  "./js/app.js?v=4",
+  "./js/app.js",
   "./images/logo/logo.png",
   "./images/logo/logo-dark.png",
   "./images/apple-touch-icon.png",

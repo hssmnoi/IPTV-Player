@@ -821,15 +821,35 @@ function playEpisode(index, inheritedReferer) {
   if (Hls.isSupported() && url.includes(".m3u8")) {
     hls = new Hls({
       xhrSetup: referer
-        ? (xhr) => { xhr.setRequestHeader("Referer", referer); }
+        ? (xhr) => {
+            try {
+              // Browsers forbid manually setting `Referer`; ignore when blocked.
+              xhr.setRequestHeader("Referer", referer);
+            } catch (_) {}
+          }
         : undefined,
     });
     hls.loadSource(url);
     hls.attachMedia(playerVideo);
-    hls.on(Hls.Events.MANIFEST_PARSED, () => playerVideo.play());
+    hls.on(Hls.Events.MANIFEST_PARSED, () => playerVideo.play().catch(err => { if (err.name !== "AbortError") console.error(err); }));
+    hls.on(Hls.Events.ERROR, (_event, data) => {
+      if (!data?.fatal) return;
+      if (data.type === Hls.ErrorTypes.NETWORK_ERROR) {
+        hls.startLoad();
+        return;
+      }
+      if (data.type === Hls.ErrorTypes.MEDIA_ERROR) {
+        hls.recoverMediaError();
+        return;
+      }
+      // Last fallback: try native media pipeline.
+      destroyHls();
+      playerVideo.src = url;
+      playerVideo.play().catch(() => {});
+    });
   } else {
     playerVideo.src = url;
-    playerVideo.play();
+    playerVideo.play().catch(err => { if (err.name !== "AbortError") console.error(err); });
   }
 
   playerVideo.onended = () => scheduleNext();
