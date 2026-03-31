@@ -1,9 +1,11 @@
 ﻿/* ===== Config ===== */
 const pathBeforeWeb = location.pathname.split("/web/")[0] || "";
 const SITE_BASE_PATH = pathBeforeWeb === "/" ? "" : pathBeforeWeb;
-const PLAYLIST_URL = `${SITE_BASE_PATH}https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/main.txt`;
 const RAW_GITHUB_BASE = "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/";
 const IS_LOCAL_DEV = location.hostname === "127.0.0.1" || location.hostname === "localhost";
+const PLAYLIST_URL = IS_LOCAL_DEV
+  ? `${SITE_BASE_PATH}/playlist/main.txt`
+  : `${RAW_GITHUB_BASE}playlist/main.txt`;
 
 const PAGE_SIZE = 15;
 const PAGINATION_ICON_PREV = `<i class="fi fi-br-angle-small-left" aria-hidden="true"></i>`;

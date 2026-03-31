@@ -13,73 +13,73 @@
             {
               "name": "ตอน 1 - คนที่อยู่ในโลกที่ต่างกัน",
               "image": "https://m.media-amazon.com/images/M/MV5BMGZkNDkwOGMtODgwYy00NzA3LWI2MjgtMDljNDUyOGQ0OWJmXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/S4WBkXDU/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/S4WBkXDU/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 2 - ถ้าไปตามสถานที่ที่บอก ก็ใช่เลยล่ะ",
               "image": "https://m.media-amazon.com/images/M/MV5BMzgzNjM5MTQtMmYyOS00ZjYyLWEwYTYtMjY2OGE2MWVjNmE1XkEyXkFqcGc@._V1_QL75_UX1000_CR0,287,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/0cJxzv1S/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/0cJxzv1S/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 3 - แล้วมาจูบกันไหม?",
               "image": "https://m.media-amazon.com/images/M/MV5BNzQzOWRmZWUtYjhkYy00MmJkLWI2NjktNDZmNmRkNDFkZmE2XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/0zxaILbJ/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/0zxaILbJ/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 4 - วันที่อยู่ด้วยกัน",
               "image": "https://m.media-amazon.com/images/M/MV5BMzE2MWFiMDMtNTE2Zi00OTA2LWE2N2MtNmQ1NDRhYzI1NGMxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/OexZxn7z/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/OexZxn7z/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 5 - แล้วความรักก็เกิดขึ้น",
               "image": "https://m.media-amazon.com/images/M/MV5BMGJjNDM5ODUtYTc2Zi00ZTA5LWFjZTUtYzhiNTkxN2RlNGMyXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/hKhZpFgb/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/hKhZpFgb/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 6 - เรื่องนี้มันเกินคาด",
               "image": "https://m.media-amazon.com/images/M/MV5BN2YwYTEwMTUtYTMyMy00MjVmLTg2NWMtZDY1NGEzMDk4YmQzXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/rlC4unbc/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/rlC4unbc/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 7 - หลังจากที่คอสเพลย์มาแล้ว",
               "image": "https://m.media-amazon.com/images/M/MV5BMzU2ODI4ODAtZWY3ZC00NTRlLThmOTUtMzE3MjllZDYyMDJmXkEyXkFqcGc@._V1_QL75_UY563_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/Igx3Q55C/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/Igx3Q55C/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 8 - มาจากพวกเกลียดเกมจีบสาว",
               "image": "https://m.media-amazon.com/images/M/MV5BYTVkMjRkMWEtZTdhNy00MjVkLWJiMjEtNWMyNWI4N2RiYTM0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/M5LcHvJA/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/M5LcHvJA/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 9 - ภาพถ่ายในตอนนั้น",
               "image": "https://m.media-amazon.com/images/M/MV5BNzdkNTRhNWUtMGQ1MC00ZTNjLThkYjUtMjA2YTI4OGVlNWRmXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/Te02FQe0/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/Te02FQe0/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 10 - คนที่ฉันเห็นในตอนนั้น",
               "image": "https://m.media-amazon.com/images/M/MV5BYzMyYmNhYjAtN2E5YS00M2Q3LWJhNzctZWNiMjMyYmVlNDZiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/j3duwplG/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/j3duwplG/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 11 - มารวมตัวกันสิ",
               "image": "https://m.media-amazon.com/images/M/MV5BOWUwNjU4YjUtYWFkMi00OTU4LWI4M2YtNTZjNDFiMTRhYzA0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,1,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/3ULBkYi6/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/3ULBkYi6/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 12 - หนุ่มเย็บผ้ากับสาวนักคอสเพลย์",
               "image": "https://m.media-amazon.com/images/M/MV5BOWE4OGFiOGUtZGU1OC00ZjFmLTk3ZjYtNDdhMjg0OWNkODBhXkEyXkFqcGc@._V1_QL75_UY563_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/hVxg6sQZ/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/hVxg6sQZ/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             }
           ]

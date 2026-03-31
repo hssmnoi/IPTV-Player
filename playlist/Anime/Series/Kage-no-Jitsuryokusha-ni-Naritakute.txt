@@ -13,121 +13,121 @@
             {
               "name": "ตอน 1 - The Hated Classmate",
               "image": "https://m.media-amazon.com/images/M/MV5BNGI2MTg3M2MtN2VjOC00ZjJlLTljNGYtZDdhM2NlOGRjOGExXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/pGWazV2Pef/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/pGWazV2Pef/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 2 - Shadow Garden Is Born",
               "image": "https://m.media-amazon.com/images/M/MV5BMWExOTYwNmItODk3NS00MWViLTk3NmQtNmRjZDkxMjBjMDI5XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/KzGGGHNWCl/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/KzGGGHNWCl/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 3 - Fencer Ordinaire",
               "image": "https://m.media-amazon.com/images/M/MV5BMzUzYzU3ZjgtYmFjOC00ZjJhLWFlYjctN2FmZjI3ZjFlZjQ4XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/8kepmrHQI/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/8kepmrHQI/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 4 - Sadism's Rewards",
               "image": "https://m.media-amazon.com/images/M/MV5BYzM5NGE5NGYtY2RhZC00MDQ2LWEzOWYtMmNhZTQ3MjBiYWEyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/URe1rE4c2/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/URe1rE4c2/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 5 - I Am...",
               "image": "https://m.media-amazon.com/images/M/MV5BZjRlOTVmZTUtODNhYi00NTdhLWFhYTItODZiMjZjYjA0YTY3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/9KOvDgobPH/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/9KOvDgobPH/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 6 - Pretenders",
               "image": "https://m.media-amazon.com/images/M/MV5BZDc3M2IyZDEtYmVhMi00YWM1LWI2YTEtNmRkNGJhZTcxNGQ5XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/LhBI77P9dX/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/LhBI77P9dX/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 7 - A Fencing Tournament of Intrigue and Bloodshed",
               "image": "https://m.media-amazon.com/images/M/MV5BZmJiMGYwYTQtYzFkZS00OWI4LThiMGItZGRiZTZmYmEwNjUyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/Byk4MNgmly/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/Byk4MNgmly/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 8 - Dark Knight Academy Under Attack",
               "image": "https://m.media-amazon.com/images/M/MV5BZjI4ODUzYzQtZGQyZS00MjI0LWJjM2EtZTA2NjU5N2EzMmQxXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/SeNgX27CYW/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/SeNgX27CYW/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 9 - The End of a Lie",
               "image": "https://m.media-amazon.com/images/M/MV5BOGJjZjk0NmUtYTdlMC00YzE3LWJkMDYtYjkzN2ZiYTYyYzA0XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/Lt87gLELbA/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/Lt87gLELbA/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 10 - The Sacred Land, City of Deception",
               "image": "https://m.media-amazon.com/images/M/MV5BODBjMTljYzctYWUxZi00YmFlLTkwZGQtNDc4Y2Q0OWUxOGFjXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/e6iT0h92rq/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/e6iT0h92rq/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 11 - The Goddess' Trial",
               "image": "https://m.media-amazon.com/images/M/MV5BODAxMzNmMDEtZmQ3NC00YWFmLWJhOTItZDg0NzU3NjcyNWJjXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/kfLNacpTaf/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/kfLNacpTaf/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 12 - The Truth Within the Memories",
               "image": "https://m.media-amazon.com/images/M/MV5BMjIxOWRkYTMtOWZkYy00YTgzLWEyMTMtNzE4NjZlOWM3YzNkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/a2HPSaeJbY/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/a2HPSaeJbY/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 13 - A Bloody Showdown as an Offering to Annihilation",
               "image": "https://m.media-amazon.com/images/M/MV5BM2FmMDdmYjgtYzA0MC00NDFiLWI5Y2EtNjViZDRkMjcwNGQ3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/GuxpQKYqkZ/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/GuxpQKYqkZ/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 14 - Your Life, Your Wish",
               "image": "https://m.media-amazon.com/images/M/MV5BODc4YmNlODEtM2FkYi00YjI5LWI2MTMtMjVjZTg3M2Y2NjAzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/YOzfL9uKGO/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/YOzfL9uKGO/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 15 - The Strongest Weakest Man",
               "image": "https://m.media-amazon.com/images/M/MV5BYTVmY2MwMTEtMzMxMC00OWM0LTgxMWEtMWZkOGM0MzViZTYzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/4Q5RZVSHVh/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/4Q5RZVSHVh/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 16 - Unseen Intentions",
               "image": "https://m.media-amazon.com/images/M/MV5BYmRiMmI5NzAtZmQ5ZS00ZTQ1LWI3YjQtOGNlMzI2OTcxYTdkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/rtjN9J0xU7/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/rtjN9J0xU7/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 17 - Moonlight That Pierces the Darkness",
               "image": "https://m.media-amazon.com/images/M/MV5BMjA0MDEwM2YtM2NmZC00NzJjLWJjM2MtZThkNzZmY2VmNzAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/6TrzVXmOFq/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/6TrzVXmOFq/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 18 - Betting on a Moment",
               "image": "https://m.media-amazon.com/images/M/MV5BOWE4N2YzNTMtODcyOC00NTQ2LWI5OTgtMzg3OWRmYjI1NzNkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/rPklLi0tJO/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/rPklLi0tJO/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 19 - Dancing Puppet",
               "image": "https://m.media-amazon.com/images/M/MV5BZWQzOTRhM2ItMWFhZi00OWJhLWIwZGUtN2E5ZTdlYzNhYTBkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/9HIMzGhoGP/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/9HIMzGhoGP/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 20 - Advent of the Demon",
               "image": "https://m.media-amazon.com/images/M/MV5BMzg0YTc4Y2EtY2ViZi00OGEyLWExZmYtMTNmMTBiMTFhYmI3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/TOS9klR4iI/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/TOS9klR4iI/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             }
           ]
@@ -146,73 +146,73 @@
             {
               "name": "ตอน 1 - The Lawless City",
               "image": "https://m.media-amazon.com/images/M/MV5BM2U4NzgxOTctMjMzZS00ZjQzLWFkYjUtZDI4YWRjOTZhZGMxXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/hAlicga2zm/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/hAlicga2zm/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 2 - The Haven",
               "image": "https://m.media-amazon.com/images/M/MV5BMjZhNjg4NDQtOGQ2YS00NmRmLTg4MjctYWMzNzIwNzYxOGYyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/zPUgPXi6th/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/zPUgPXi6th/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 3 - The Hour of Awakening",
               "image": "https://m.media-amazon.com/images/M/MV5BMTFjNjY5ZjMtNWQ1Ny00MTZkLTlmYzYtNWViYzY4ZGY0NjZhXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/TBGOdo4CSH/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/TBGOdo4CSH/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 4 - Mask of Falsehood",
               "image": "https://m.media-amazon.com/images/M/MV5BYTEzNmMyYTctZDYwZi00OWY4LTliNWItMTE5MzI3ZTI5ZjYwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/c4vMxFsHiI/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/c4vMxFsHiI/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 5 - He Who Pulls the Strings",
               "image": "https://m.media-amazon.com/images/M/MV5BNWIwMjMyMjUtNTdjNC00YTk4LWJiZmEtNjAyOTIxOGVhMzhjXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/eH8DYxENAn/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/eH8DYxENAn/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 6 - John Smith",
               "image": "https://m.media-amazon.com/images/M/MV5BZmY1NmY5YmItOWRiMi00YWY5LTkwMjMtZTZiZjE4ZDRlMTkxXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/2cRno68XV9/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/2cRno68XV9/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 7 - Something Precious",
               "image": "https://m.media-amazon.com/images/M/MV5BMjhmYjI1ZTYtN2I5Mi00ZWY4LWIwZmMtMTRmY2JlOGJmMzBiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/Q5su5GgFAc/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/Q5su5GgFAc/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 8 - The Dragon's Tears",
               "image": "https://m.media-amazon.com/images/M/MV5BODA1MmEyMzUtN2QxMi00NjZjLThjYTctZWVmYzRjNjA2ZmJjXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/GBd8swQFGl/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/GBd8swQFGl/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 9 - The Key",
               "image": "https://m.media-amazon.com/images/M/MV5BOTYxYjdiMDYtMmY3NS00YjdhLTk4YTEtMDIyNjQ2ZThlMjAxXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/f3jjIOq69/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/f3jjIOq69/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 10 - Caged Bird",
               "image": "https://m.media-amazon.com/images/M/MV5BNWI1YmY1YzMtMGYxYy00ZDY2LTk4MjUtMWE3NzM0YWIwZjIyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/CBUsrKD7jz/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/CBUsrKD7jz/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 11 - Determination",
               "image": "https://m.media-amazon.com/images/M/MV5BMTdjY2I1NmUtYThhYy00MmE5LWFlZGYtYTFkYWUxMjZlNDg3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/yVB5SSNoM/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/yVB5SSNoM/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 12 - Highest",
               "image": "https://m.media-amazon.com/images/M/MV5BODMxZmE0NjMtNGE0Ny00NmVjLTg2YWEtZjQyYjIyZGNhOGJmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/KCMue1bE3p/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/KCMue1bE3p/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             }
           ]

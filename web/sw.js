@@ -1,9 +1,9 @@
-const CACHE_NAME = "bkl-play-v2";
+const CACHE_NAME = "bkl-play-v3";
 const APP_SHELL = [
   "./",
   "./index.html",
   "./css/style.css?v=3",
-  "./js/app.js?v=3",
+  "./js/app.js?v=4",
   "./images/logo/logo.png",
   "./images/logo/logo-dark.png",
   "./images/apple-touch-icon.png",
@@ -16,7 +16,7 @@ const APP_SHELL = [
   "./images/covers/cover-anime-movie.png",
   "./images/covers/cover-movie.png",
   "./images/covers/cover-series.png",
-  "..https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/main.txt",
+  "../playlist/main.txt",
 ];
 
 self.addEventListener("install", (event) => {

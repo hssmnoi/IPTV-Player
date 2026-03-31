@@ -13,78 +13,78 @@
             {
               "name": "ตอน 1 - เรื่องเล็กๆ น้อยๆ",
               "image": "https://m.media-amazon.com/images/M/MV5BOGMyNWJjODctMGJkOS00NTg5LTlkYzQtNmZlNDM0YmZhYTFlXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/5YvGu7s/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/5YvGu7s/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 2 - คุณสวมหน้ามากกว่าหนึ่งหน้า",
               "image": "https://m.media-amazon.com/images/M/MV5BMWRiMTUwMjktODJjYS00YmI2LTkwN2ItNzNjNDE2NDUzNGRjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/fWhZQLl/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/fWhZQLl/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 3 - นั่นแหละถึงจะโอเค",
               "image": "https://m.media-amazon.com/images/M/MV5BZmZkMmVjZTQtODkxNC00Y2QxLThjNTEtZDhlOTc2YTkwODkzXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/Y2S6pX0/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/Y2S6pX0/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 4 - ทุกคนรักใครสักคน",
               "image": "https://m.media-amazon.com/images/M/MV5BNzM5N2Q3NzctMDIxNS00OGUwLThlODItMGMwMWZmZDk3YWY1XkEyXkFqcGc@._V1_QL75_UX1000_CR0,1,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/3v3Qnxix/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/3v3Qnxix/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 5 - พูดออกมาดังๆ ไม่ได้",
               "image": "https://m.media-amazon.com/images/M/MV5BMmZlZDAwMmItMGI4Yi00ZTY1LTg3MjYtOGE5MjcyNzY0YjY4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/bH0nlCWy/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/bH0nlCWy/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 6 - ฤดูร้อนนี้จะต้องร้อนระอุอย่างแน่นอน",
               "image": "https://m.media-amazon.com/images/M/MV5BNGMzNDUyMWMtMWYyMy00M2ViLTg3ODEtNjM3NGQzNDkzMzFmXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/0i5GLEe6/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/0i5GLEe6/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 7 - คุณอยู่ที่นี่ ฉันอยู่ที่นี่",
               "image": "https://m.media-amazon.com/images/M/MV5BYzhmZDU2ZTAtZDMwOS00ODUxLTlkM2UtOWI4MWRhYmQ1YzRlXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/vIUX1AQS/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/vIUX1AQS/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 8 - ความจริงที่ถูกหลอกลวงเปิดเผย",
               "image": "https://m.media-amazon.com/images/M/MV5BNjI2OGI4NjMtNWYwZi00Yjg2LTg3MDEtM2MwNTk1ODk2ZmU2XkEyXkFqcGc@._V1_QL75_UX1000_CR0,2,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/EqOIwyGy/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/EqOIwyGy/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 9 - ยากแต่ก็ไม่ใช่เป็นไปไม่ได้",
               "image": "https://m.media-amazon.com/images/M/MV5BMTAyYWYwMWUtYTA5Ni00MWZmLWIzNzAtMTZkMDliNzE0MzJhXkEyXkFqcGc@._V1_QL75_UX1000_CR0,31,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/WfDqRFcU/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/WfDqRFcU/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 10 - จนกว่าหิมะจะละลาย",
               "image": "https://m.media-amazon.com/images/M/MV5BY2IwNDBjM2UtZWYzMi00ZmJiLTgxNzgtZDg1NGJiOTNlMzJhXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/7pC1MbpS/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/7pC1MbpS/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 11 - มันอาจดูเหมือนความเกลียดชัง",
               "image": "https://m.media-amazon.com/images/M/MV5BNTdmM2FmZTgtMzJhNy00ODFkLWIyMjEtNmMyYzZmNDBkMTZjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/HIJDifjHKu/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/HIJDifjHKu/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "ตอน 12 - บัดนี้และตลอดไป",
               "image": "https://m.media-amazon.com/images/M/MV5BN2E4MWRlYmQtYWM4Yi00N2NiLWI5OTEtNzY5M2JlYTczOGU0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,2,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/cucR5Nof/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
+              "url": "https://moji.abcdxzy.xyz:8443/vod/cucR5Nof/video.mp4/playlist.m3u8"
             },
             {
               "name": "ตอน 13 - ฉันอยากจะมอบท้องฟ้าให้กับคุณ",
               "image": "https://m.media-amazon.com/images/M/MV5BNWFmNWY2YzItZmYyMy00ZmU4LWEzYzAtMGJlMjFkOTUxM2Q2XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/Macuo6aU/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/Macuo6aU/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             }
           ]
@@ -97,78 +97,78 @@
             {
               "name": "Ep. 1 - A Tiny Happenstance",
               "image": "https://m.media-amazon.com/images/M/MV5BOGMyNWJjODctMGJkOS00NTg5LTlkYzQtNmZlNDM0YmZhYTFlXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/TBCrLxlEV/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/TBCrLxlEV/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "Ep. 2 - You Wear More Than One Face",
               "image": "https://m.media-amazon.com/images/M/MV5BMWRiMTUwMjktODJjYS00YmI2LTkwN2ItNzNjNDE2NDUzNGRjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/hCqzEZknz0/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/hCqzEZknz0/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "Ep. 3 - That's Why It's Okay",
               "image": "https://m.media-amazon.com/images/M/MV5BZmZkMmVjZTQtODkxNC00Y2QxLThjNTEtZDhlOTc2YTkwODkzXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/Gs23urBWsH/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/Gs23urBWsH/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "Ep. 4 - Everybody Loves Somebody",
               "image": "https://m.media-amazon.com/images/M/MV5BNzM5N2Q3NzctMDIxNS00OGUwLThlODItMGMwMWZmZDk3YWY1XkEyXkFqcGc@._V1_QL75_UX1000_CR0,1,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/ONhqd4WNCR/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/ONhqd4WNCR/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "Ep. 5 - I Can't Say It Out Loud",
               "image": "https://m.media-amazon.com/images/M/MV5BMmZlZDAwMmItMGI4Yi00ZTY1LTg3MjYtOGE5MjcyNzY0YjY4XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/gBe8P9sExS/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/gBe8P9sExS/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "Ep. 6 - This Summer's Going to Be a Hot One",
               "image": "https://m.media-amazon.com/images/M/MV5BNGMzNDUyMWMtMWYyMy00M2ViLTg3ODEtNjM3NGQzNDkzMzFmXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/Mgj4cTrJxU/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/Mgj4cTrJxU/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "Ep. 7 - You're Here, I'm Here",
               "image": "https://m.media-amazon.com/images/M/MV5BYzhmZDU2ZTAtZDMwOS00ODUxLTlkM2UtOWI4MWRhYmQ1YzRlXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/rNTWkeEIRO/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/rNTWkeEIRO/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "Ep. 8 - The Truth Deception Reveals",
               "image": "https://m.media-amazon.com/images/M/MV5BNjI2OGI4NjMtNWYwZi00Yjg2LTg3MDEtM2MwNTk1ODk2ZmU2XkEyXkFqcGc@._V1_QL75_UX1000_CR0,2,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/stFRok0TLa/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/stFRok0TLa/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "Ep. 9 - It's Hard, but Not Impossible",
               "image": "https://m.media-amazon.com/images/M/MV5BMTAyYWYwMWUtYTA5Ni00MWZmLWIzNzAtMTZkMDliNzE0MzJhXkEyXkFqcGc@._V1_QL75_UX1000_CR0,31,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/QsUJgQho3s/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/QsUJgQho3s/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "Ep. 10 - Until the Snow Melts",
               "image": "https://m.media-amazon.com/images/M/MV5BY2IwNDBjM2UtZWYzMi00ZmJiLTgxNzgtZDg1NGJiOTNlMzJhXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/TYIKGqWb5W/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/TYIKGqWb5W/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "Ep. 11 - It May Seem Like Hate",
               "image": "https://m.media-amazon.com/images/M/MV5BNTdmM2FmZTgtMzJhNy00ODFkLWIyMjEtNmMyYzZmNDBkMTZjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/sXCtM4Rvs/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/sXCtM4Rvs/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             },
             {
               "name": "Ep. 12 - Hitherto, and Forevermore",
               "image": "https://m.media-amazon.com/images/M/MV5BN2E4MWRlYmQtYWM4Yi00N2NiLWI5OTEtNzY5M2JlYTczOGU0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,2,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/egzqe67XLQ/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8"
+              "url": "https://moji.abcdxzy.xyz:8443/vod/egzqe67XLQ/video.mp4/playlist.m3u8"
             },
             {
               "name": "Ep. 13 - I Would Gift You the Sky",
               "image": "https://m.media-amazon.com/images/M/MV5BNWFmNWY2YzItZmYyMy00ZmU4LWEzYzAtMGJlMjFkOTUxM2Q2XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/drqE76rfXB/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/drqE76rfXB/video.mp4/playlist.m3u8",
               "referer": "https://abcdxzy.xyz/"
             }
           ]

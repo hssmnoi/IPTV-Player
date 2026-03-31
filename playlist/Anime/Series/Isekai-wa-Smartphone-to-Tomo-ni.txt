@@ -13,73 +13,73 @@
             {
               "name": "ตอน 1 - Awakening, and Another World",
               "image": "https://m.media-amazon.com/images/M/MV5BY2Y5ZjVkYTctZjkyOS00YmUxLTg2YjktNmRkZmNlMTg4MzUxXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/4VhD4JGnJ0/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/4VhD4JGnJ0/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 2 - First Journey, and Samurai",
               "image": "https://m.media-amazon.com/images/M/MV5BMWFhNTcxOGUtMzUyOC00ODE0LWE0YjAtOTM4YmFhMzIwMTlkXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/ybSxpFRJCX/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/ybSxpFRJCX/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 3 - Shogi Board, and Underground Ruins",
               "image": "https://m.media-amazon.com/images/M/MV5BMDVlNDkxNjItMDViZC00MDIzLTk1NDktN2RlMzVkMDIwODZiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/HNIrbzvq0K/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/HNIrbzvq0K/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 4 - Engagement, and an Uninvited Guest",
               "image": "https://m.media-amazon.com/images/M/MV5BYTMxNDIzYzEtNjA2My00ZGM3LWI3NGEtNmVhODg0YmU3NDBmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/5C9EAoPlsr/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/5C9EAoPlsr/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 5 - Slime Castle, and New Functions",
               "image": "https://m.media-amazon.com/images/M/MV5BMGJiZjg3OWQtYzM1Yi00ODllLTg3OGQtMDAwNzQzNzdjYzU3XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/MyPgnyf3aq/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/MyPgnyf3aq/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 6 - Engaged, and Journey",
               "image": "https://m.media-amazon.com/images/M/MV5BODdhODA5YjAtYTBiYS00NDIzLTk2MjUtMDRhMzJhMjU2ZWQ0XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/o4GCwlVGan/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/o4GCwlVGan/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 7 - Everyday Life, and the Cerulean Prince",
               "image": "https://m.media-amazon.com/images/M/MV5BZGFmNTVjMzctODNiMy00MjZmLWFlYTMtM2Y3MzJiZDAwMjQ0XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/kS5RgcZ4en/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/kS5RgcZ4en/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 8 - Daily Life, and the Founding of a Nation",
               "image": "https://m.media-amazon.com/images/M/MV5BZDRkNGUxMzEtY2RhYi00ZDFjLTkxZjktMGEzZWEwOWUzNDYwXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/iJoRkdoYxt/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/iJoRkdoYxt/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 9 - Oedo, and the Mysterious Ghost",
               "image": "https://m.media-amazon.com/images/M/MV5BZTdlODdhZTEtYzYxNi00ZWFlLThhNzgtNGFmYTA0MDlhMTIxXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/x2MS9YIw5j/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/x2MS9YIw5j/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 10 - Sea of Trees, and the Prisoner",
               "image": "https://m.media-amazon.com/images/M/MV5BMDllYTg5ZTQtNDUyMS00NDU4LWIwYTQtZDcxMDQyMGQ1NzYxXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/uJScjKLCyh/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/uJScjKLCyh/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 11 - Music, and Papillon",
               "image": "https://m.media-amazon.com/images/M/MV5BM2M0MjcyOWUtZGY3NC00MzM1LWFjMmEtMTdmYTBkMzk3MmYyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/tmZzA434qN/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/tmZzA434qN/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 12 - Decision, and the Push Forward",
               "image": "https://m.media-amazon.com/images/M/MV5BMmM4NjYwZjctYzBlNi00MzFlLWJjYjItNTg0YjE4NzAwMjg0XkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/98OmKOzPoZ/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/98OmKOzPoZ/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             }
           ]
@@ -98,73 +98,73 @@
             {
               "name": "ตอน 1 - A Grand Alliance, and a Day Off",
               "image": "https://m.media-amazon.com/images/M/MV5BYTMxNDIzYzEtNjA2My00ZGM3LWI3NGEtNmVhODg0YmU3NDBmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/mugFE2xSgm/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/mugFE2xSgm/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 2 - Mock Battle, and Contact",
               "image": "https://m.media-amazon.com/images/M/MV5BYTMxNDIzYzEtNjA2My00ZGM3LWI3NGEtNmVhODg0YmU3NDBmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/osbqlFcd4n/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/osbqlFcd4n/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 3 - Sacred Tree, and the Super Maid",
               "image": "https://m.media-amazon.com/images/M/MV5BYTMxNDIzYzEtNjA2My00ZGM3LWI3NGEtNmVhODg0YmU3NDBmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/fmXv18ZAjf/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/fmXv18ZAjf/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 4 - Trouble, and the Blue Crown",
               "image": "https://m.media-amazon.com/images/M/MV5BYTMxNDIzYzEtNjA2My00ZGM3LWI3NGEtNmVhODg0YmU3NDBmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/1NDh3bQeQg/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/1NDh3bQeQg/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 5 - Sea, and the Snowfall Alliance",
               "image": "https://m.media-amazon.com/images/M/MV5BYTMxNDIzYzEtNjA2My00ZGM3LWI3NGEtNmVhODg0YmU3NDBmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/ehJf414Vap/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/ehJf414Vap/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 6 - Engagement, and the Dungeon",
               "image": "https://m.media-amazon.com/images/M/MV5BYTMxNDIzYzEtNjA2My00ZGM3LWI3NGEtNmVhODg0YmU3NDBmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/Ndxamnn9R2/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/Ndxamnn9R2/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 7 - Return, and Re-introduction",
               "image": "https://m.media-amazon.com/images/M/MV5BYTMxNDIzYzEtNjA2My00ZGM3LWI3NGEtNmVhODg0YmU3NDBmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/TrT8AlXka8/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/TrT8AlXka8/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 8 - Intelligent, and the Goddess of Love",
               "image": "https://m.media-amazon.com/images/M/MV5BYTMxNDIzYzEtNjA2My00ZGM3LWI3NGEtNmVhODg0YmU3NDBmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/SWnYZ5WLp6/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/SWnYZ5WLp6/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 9 - Lunatic, and the New Workshop Chief",
               "image": "https://m.media-amazon.com/images/M/MV5BYTMxNDIzYzEtNjA2My00ZGM3LWI3NGEtNmVhODg0YmU3NDBmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/DOOrdTirHl/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/DOOrdTirHl/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 10 - Advent, and the Phrase Ruler",
               "image": "https://m.media-amazon.com/images/M/MV5BYTMxNDIzYzEtNjA2My00ZGM3LWI3NGEtNmVhODg0YmU3NDBmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/zonY6Dd5yu/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/zonY6Dd5yu/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 11 - Alliance, and the Fighting Tournament",
               "image": "https://m.media-amazon.com/images/M/MV5BYTMxNDIzYzEtNjA2My00ZGM3LWI3NGEtNmVhODg0YmU3NDBmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/jwMoenKIwZ/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/jwMoenKIwZ/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             },
             {
               "name": "ตอน 12 - The Coup, and a Conclusion",
               "image": "https://m.media-amazon.com/images/M/MV5BYTMxNDIzYzEtNjA2My00ZGM3LWI3NGEtNmVhODg0YmU3NDBmXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://moji.abcdxzy.xyz:8443/vod/nCIvjqpb2Y/video.mp4https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist.m3u8",
+              "url": "https://moji.abcdxzy.xyz:8443/vod/nCIvjqpb2Y/video.mp4/playlist.m3u8",
               "referer": "https://anime-infy.com/"
             }
           ]
