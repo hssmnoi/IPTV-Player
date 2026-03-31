@@ -1,170 +1,170 @@
 {
-  "name": "Katainaka no Ossan, Kensei ni Naru [ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง]",
-  "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-  "groups": [
-    {
-      "name": "Season 1",
-      "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-      "groups": [
+    "name": "Katainaka no Ossan, Kensei ni Naru [ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง]",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+    "groups": [
         {
-          "name": "พากย์ไทย",
-          "info": "ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง",
-          "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-          "stations": [
-            {
-              "name": "ตอน 1",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/216911",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 2",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/217062",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 3",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/217247",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 4",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/217448",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 5",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/217636",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 6",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/217815",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 7",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/218012",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 8",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/218178",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 9",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/218357",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 10",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/218540",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 11",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/218715",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 12",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/218913",
-              "referer": "https://www.anime-seven.com/"
-            }
-          ]
-        },
-        {
-          "name": "ซับไทย",
-          "info": "ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง",
-          "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-          "stations": [
-            {
-              "name": "Ep. 1",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/216908",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 2",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/217059",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 3",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/217559",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 4",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/217442",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 5",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/217633",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 6",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/217818",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 7",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/218006",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 8",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/218174",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 9",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/218507",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 10",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/218537",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 11",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/218712",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 12",
-              "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/218910",
-              "referer": "https://www.anime-seven.com/"
-            }
-          ]
+            "name": "Season 1",
+            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง",
+                    "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - The Old Country Bumpkin Goes to the Capital",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/216911",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - The Old Country Bumpkin is Astounded by a Wizard",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/217062",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - The Old Country Bumpkin Weathers a Fierce Attack",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/217247",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - The Old Country Bumpkin Takes Flight With a Monster",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/217448",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - The Old Country Bumpkin Gets Enraged by the Bad Guys",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/217636",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - The Old Country Bumpkin Faces the Dead",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/217815",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - The Old Country Bumpkin Learns the Challenges of Parenting",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/218012",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - The Old Country Bumpkin Gets Struck by a Lightning-Fast Sword",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/218178",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - The Old Country Bumpkin Goes on His First Hunt in Ages",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/218357",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Episode #1.10",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/218540",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - The Old Country Bumpkin Throws Himself into a Deadly Fight",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/218715",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - The Old Country Bumpkin Gets Praised as a Master Swordsman",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/218913",
+                            "referer": "https://www.anime-seven.com/"
+                        }
+                    ]
+                },
+                {
+                    "name": "ซับไทย",
+                    "info": "ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง",
+                    "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "stations": [
+                        {
+                            "name": "Ep. 1 - The Old Country Bumpkin Goes to the Capital",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/216908",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 2 - The Old Country Bumpkin is Astounded by a Wizard",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/217059",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 3 - The Old Country Bumpkin Weathers a Fierce Attack",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/217559",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 4 - The Old Country Bumpkin Takes Flight With a Monster",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/217442",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 5 - The Old Country Bumpkin Gets Enraged by the Bad Guys",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/217633",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 6 - The Old Country Bumpkin Faces the Dead",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/217818",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 7 - The Old Country Bumpkin Learns the Challenges of Parenting",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/218006",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 8 - The Old Country Bumpkin Gets Struck by a Lightning-Fast Sword",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/218174",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 9 - The Old Country Bumpkin Goes on His First Hunt in Ages",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/218507",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 10 - Episode #1.10",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/218537",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 11 - The Old Country Bumpkin Throws Himself into a Deadly Fight",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/218712",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 12 - The Old Country Bumpkin Gets Praised as a Master Swordsman",
+                            "image": "https://m.media-amazon.com/images/M/MV5BYTcyNmFmNGEtNDEwZi00MWQ0LTk1NDktOWM0MTlmYjhiZDQzXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/218910",
+                            "referer": "https://www.anime-seven.com/"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

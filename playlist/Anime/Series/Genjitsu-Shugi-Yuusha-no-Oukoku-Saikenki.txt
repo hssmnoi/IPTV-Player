@@ -1,358 +1,358 @@
 {
-  "name": "Genjitsu Shugi Yuusha no Oukoku Saikenki [ยุทธศาสตร์กู้ชาติของราชามือใหม่]",
-  "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-  "groups": [
-    {
-      "name": "Season 1",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-      "groups": [
+    "name": "Genjitsu Shugi Yuusha no Oukoku Saikenki [ยุทธศาสตร์กู้ชาติของราชามือใหม่]",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+    "groups": [
         {
-          "name": "พากย์ไทย",
-          "info": "ยุทธศาสตร์กู้ชาติของราชามือใหม่",
-          "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-          "stations": [
-            {
-              "name": "ตอน 1",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/e3bc4e7f243ebc05d66a0568a3331966",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 2",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/35b50410da00df8ef6c41f0cb537a9a3",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 3",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/5e98d23afe19a774d1b2dcbefd5103eb",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 4",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/f5e536083a438cec5b64a4954abc17f1",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 5",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/2e5ac40b5a02c5a2c35fe028a266aa91",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 6",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/e074a2975740cdf3948cfc063892260e",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 7",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/06a9d51e04213572ef0720dd27a84792",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 8",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/ad185a320a9c8af2e25d53ef7cbacd4f",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 9",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/3f78fa1cdb0e2fda88c2a935950ffdf1",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 10",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/aba54c23d97bf1321a4275e21d615112",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 11",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/21e60123a3a0df92f391f66b1e51903a",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 12",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/1fb333bc34b8d1f1d1d434f90869367a",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 13",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/dbb240d23ce3d732b67bcfbae5956b18",
-              "referer": "https://037-anime.com/"
-            }
-          ]
+            "name": "Season 1",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "ยุทธศาสตร์กู้ชาติของราชามือใหม่",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - First Begin with a Hero",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/e3bc4e7f243ebc05d66a0568a3331966",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - If You Possess an Aptitude, We'll Make Use of It",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/35b50410da00df8ef6c41f0cb537a9a3",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - Let Not Me Be a Loyal Minister",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/5e98d23afe19a774d1b2dcbefd5103eb",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - The Forefinger Twitches",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/f5e536083a438cec5b64a4954abc17f1",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - Well Fed, Well Regarded",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/2e5ac40b5a02c5a2c35fe028a266aa91",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - The Wise Man Never Forsaketh an Advantage",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/e074a2975740cdf3948cfc063892260e",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - Thus Saith the Elder",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/06a9d51e04213572ef0720dd27a84792",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - The Forest in Labour",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/ad185a320a9c8af2e25d53ef7cbacd4f",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - Contrary to Wishes",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/3f78fa1cdb0e2fda88c2a935950ffdf1",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - No Place of Joy Hath a Soldier",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/aba54c23d97bf1321a4275e21d615112",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Sacrifice the Plum Tree to Preserve the Peach Tree",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/21e60123a3a0df92f391f66b1e51903a",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - When You Surround an Army, Leave an Outlet Free",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/1fb333bc34b8d1f1d1d434f90869367a",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 13 - To Fight and Conquer in All Our Battles Is Not Supreme Excellence",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/dbb240d23ce3d732b67bcfbae5956b18",
+                            "referer": "https://037-anime.com/"
+                        }
+                    ]
+                },
+                {
+                    "name": "ซับไทย",
+                    "info": "ยุทธศาสตร์กู้ชาติของราชามือใหม่",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "stations": [
+                        {
+                            "name": "Ep. 1 - First Begin with a Hero",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/175886",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 2 - If You Possess an Aptitude, We'll Make Use of It",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/176045",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 3 - Let Not Me Be a Loyal Minister",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/176218",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 4 - The Forefinger Twitches",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/176386",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 5 - Well Fed, Well Regarded",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/176608",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 6 - The Wise Man Never Forsaketh an Advantage",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/176866",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 7 - Thus Saith the Elder",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/177077",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 8 - The Forest in Labour",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/177331",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 9 - Contrary to Wishes",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/177521",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 10 - No Place of Joy Hath a Soldier",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/177729",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 11 - Sacrifice the Plum Tree to Preserve the Peach Tree",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/178064",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 12 - When You Surround an Army, Leave an Outlet Free",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/178238",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 13 - To Fight and Conquer in All Our Battles Is Not Supreme Excellence",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/178467",
+                            "referer": "https://www.anime-seven.com/"
+                        }
+                    ]
+                }
+            ]
         },
         {
-          "name": "ซับไทย",
-          "info": "ยุทธศาสตร์กู้ชาติของราชามือใหม่",
-          "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-          "stations": [
-            {
-              "name": "Ep. 1",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/175886",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 2",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/176045",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 3",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/176218",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 4",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/176386",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 5",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/176608",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 6",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/176866",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 7",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/177077",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 8",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/177331",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 9",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/177521",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 10",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/177729",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 11",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/178064",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 12",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/178238",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 13",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/178467",
-              "referer": "https://www.anime-seven.com/"
-            }
-          ]
+            "name": "Season 2",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "ยุทธศาสตร์กู้ชาติของราชามือใหม่",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - Amidonia in a Lion's Skin",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/a6292668b36ef412fa3c4102d1311a62",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - Becoming Good Friends Who Never Offend",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/a322852ce0df73e204b7e67cbbef0d0a",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - Tyranny Is More Terrible than Tigers",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/5faf461eff3099671ad63c6f3f094f7f",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - A Warrior Will Die for One Who Understands Him",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/da87cbc1b5b8501acf3b49eec1cc52c3",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - Seeing Snake Shadows in Every Cup",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/b0ba5c44aaf65f6ca34cf116e6d82ebf",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - Strike While the Iron Is Hot",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/6194a1ee187acd6606989f03769e8f7f",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - Aping the Frown of Beauty",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/5c3a3b139a11689e0bc55abd95e20e39",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - Using Shrimp As Bait to Catch Sea Bream, but Instead Catching a Shark",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/4f1927fff6e092185d6a6f4c8466e421",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - A Man without Learning Is Unwise; A Man without Wisdom Is a Fool",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/2adcfc3929e7c03fac3100d3ad51da26",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Gargling and Hand Washing Are the Basis of Disease Prevention",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/92b70a527191ca64ca2df1cc32142646",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Away from My Hometown for So Many Years",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/83a100ec3c2c30751156cea2d60aacbe",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - Know Your Enemy and Know Yourself, and Your Union Shall Not Be Endangered",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/937936029af671cf479fa893db91cbdd",
+                            "referer": "https://037-anime.com/"
+                        },
+                        {
+                            "name": "ตอน 13 - Ahead, I See No Ancestors; Behind, I Find No Followers",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://mycdn-hd.xyz/video/da0dba87d95286d836e37ca60ab1e734",
+                            "referer": "https://037-anime.com/"
+                        }
+                    ]
+                },
+                {
+                    "name": "ซับไทย",
+                    "info": "ยุทธศาสตร์กู้ชาติของราชามือใหม่",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "stations": [
+                        {
+                            "name": "Ep. 1 - Amidonia in a Lion's Skin",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/181414",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 2 - Becoming Good Friends Who Never Offend",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/181584",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 3 - Tyranny Is More Terrible than Tigers",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/181770",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 4 - A Warrior Will Die for One Who Understands Him",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/181935",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 5 - Seeing Snake Shadows in Every Cup",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/182118",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 6 - Strike While the Iron Is Hot",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/182323",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 7 - Aping the Frown of Beauty",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/182470",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 8 - Using Shrimp As Bait to Catch Sea Bream, but Instead Catching a Shark",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/182815",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 9 - A Man without Learning Is Unwise; A Man without Wisdom Is a Fool",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/182803",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 10 - Gargling and Hand Washing Are the Basis of Disease Prevention",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/182974",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 11 - Away from My Hometown for So Many Years",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/183158",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 12 - Know Your Enemy and Know Yourself, and Your Union Shall Not Be Endangered",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/183577",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 13 - Ahead, I See No Ancestors; Behind, I Find No Followers",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/183712",
+                            "referer": "https://www.anime-seven.com/"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    },
-    {
-      "name": "Season 2",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-      "groups": [
-        {
-          "name": "พากย์ไทย",
-          "info": "ยุทธศาสตร์กู้ชาติของราชามือใหม่",
-          "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-          "stations": [
-            {
-              "name": "ตอน 1",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/a6292668b36ef412fa3c4102d1311a62",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 2",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/a322852ce0df73e204b7e67cbbef0d0a",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 3",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/5faf461eff3099671ad63c6f3f094f7f",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 4",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/da87cbc1b5b8501acf3b49eec1cc52c3",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 5",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/b0ba5c44aaf65f6ca34cf116e6d82ebf",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 6",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/6194a1ee187acd6606989f03769e8f7f",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 7",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/5c3a3b139a11689e0bc55abd95e20e39",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 8",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/4f1927fff6e092185d6a6f4c8466e421",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 9",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/2adcfc3929e7c03fac3100d3ad51da26",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 10",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/92b70a527191ca64ca2df1cc32142646",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 11",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/83a100ec3c2c30751156cea2d60aacbe",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 12",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/937936029af671cf479fa893db91cbdd",
-              "referer": "https://037-anime.com/"
-            },
-            {
-              "name": "ตอน 13",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://mycdn-hd.xyz/video/da0dba87d95286d836e37ca60ab1e734",
-              "referer": "https://037-anime.com/"
-            }
-          ]
-        },
-        {
-          "name": "ซับไทย",
-          "info": "ยุทธศาสตร์กู้ชาติของราชามือใหม่",
-          "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-          "stations": [
-            {
-              "name": "Ep. 1",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/181414",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 2",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/181584",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 3",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/181770",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 4",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/181935",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 5",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/182118",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 6",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/182323",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 7",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/182470",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 8",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/182815",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 9",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/182803",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 10",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/182974",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 11",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/183158",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 12",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/183577",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 13",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDkxYzNhYTctNDA0Zi00MTI2LTk2NGQtY2Q3MjEyMjdmMWFiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/183712",
-              "referer": "https://www.anime-seven.com/"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+    ]
 }

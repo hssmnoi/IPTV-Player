@@ -1,594 +1,594 @@
 {
-  "name": "Kimi ni Todoke [ฝากใจไปถึงเธอ]",
-  "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-  "groups": [
-    {
-      "name": "Season 1",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-      "groups": [
+    "name": "Kimi ni Todoke [ฝากใจไปถึงเธอ]",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+    "groups": [
         {
-          "name": "พากย์ไทย",
-          "info": "ฝากใจไปถึงเธอ",
-          "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-          "stations": [
-            {
-              "name": "ตอน 1",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209785",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 2",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209788",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 3",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209791",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 4",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209794",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 5",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209797",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 6",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209800",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 7",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209803",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 8",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209806",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 9",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209809",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 10",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209812",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 11",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209815",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 12",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209818",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 13",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209821",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 14",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209824",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 15",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209827",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 16",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209830",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 17",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209833",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 18",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209836",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 19",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209839",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 20",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209842",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 21",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209845",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 22",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209848",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 23",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209851",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 24",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209854",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 25",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209857",
-              "referer": "https://www.anime-seven.com/"
-            }
-          ]
+            "name": "Season 1",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "ฝากใจไปถึงเธอ",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - Prologue",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209785",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - Seat Change",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209788",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - After School",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209791",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - Rumors",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209794",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - Determination",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209797",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - Friends",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209800",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - Saturday Evening",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209803",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - Free Practice",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209806",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - New Friend",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209809",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Working Together",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209812",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Special?",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209815",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - Romantic Feelings",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209818",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 13 - Love",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209821",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 14 - Kurumi",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209824",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 15 - A Rival",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209827",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 16 - Night Talk",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209830",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 17 - A Holiday",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209833",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 18 - Chizuru's Love",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209836",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 19 - A Dream",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209839",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 20 - Present",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209842",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 21 - First Snow",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209845",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 22 - Christmas",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209848",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 23 - The Two",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209851",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 24 - Birthday",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209854",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 25 - New Year",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209857",
+                            "referer": "https://www.anime-seven.com/"
+                        }
+                    ]
+                },
+                {
+                    "name": "ซับไทย",
+                    "info": "ฝากใจไปถึงเธอ",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "stations": [
+                        {
+                            "name": "Ep. 1 - Prologue",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209917",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 2 - Seat Change",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209920",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 3 - After School",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209923",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 4 - Rumors",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209926",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 5 - Determination",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209929",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 6 - Friends",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209932",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 7 - Saturday Evening",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209935",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 8 - Free Practice",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209938",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 9 - New Friend",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209941",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 10 - Working Together",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209944",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 11 - Special?",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209947",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 12 - Romantic Feelings",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209950",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 13 - Love",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209953",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 14 - Kurumi",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209956",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 15 - A Rival",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209959",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 16 - Night Talk",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209962",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 17 - A Holiday",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209965",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 18 - Chizuru's Love",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209968",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 19 - A Dream",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209971",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 20 - Present",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209974",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 21 - First Snow",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209977",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 22 - Christmas",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209980",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 23 - The Two",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209983",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 24 - Birthday",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209986",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 25 - New Year",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209989",
+                            "referer": "https://www.anime-seven.com/"
+                        }
+                    ]
+                }
+            ]
         },
         {
-          "name": "ซับไทย",
-          "info": "ฝากใจไปถึงเธอ",
-          "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-          "stations": [
-            {
-              "name": "Ep. 1",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209917",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 2",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209920",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 3",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209923",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 4",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209926",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 5",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209929",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 6",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209932",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 7",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209935",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 8",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209938",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 9",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209941",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 10",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209944",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 11",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209947",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 12",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209950",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 13",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209953",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 14",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209956",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 15",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209959",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 16",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209962",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 17",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209965",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 18",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209968",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 19",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209971",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 20",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209974",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 21",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209977",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 22",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209980",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 23",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209983",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 24",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209986",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 25",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209989",
-              "referer": "https://www.anime-seven.com/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Season 2",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-      "groups": [
-        {
-          "name": "พากย์ไทย",
-          "info": "ฝากใจไปถึงเธอ",
-          "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-          "stations": [
-            {
-              "name": "ตอน 0",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209860",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 1",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209863",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 2",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209866",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 3",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209869",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 4",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209872",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 5",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209875",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 6",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209878",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 7",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209881",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 8",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209884",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 9",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209887",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 10",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209890",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 11",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209893",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 12",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209896",
-              "referer": "https://www.anime-seven.com/"
-            }
-          ]
+            "name": "Season 2",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "ฝากใจไปถึงเธอ",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 0 - Unrequited Love",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209860",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 1 - Valentine",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209863",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - 2nd-Year Students",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209866",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - Forget About It",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209869",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - Misunderstanding",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209872",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - The Person That I Like",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209875",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - Affection and Annoyance",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209878",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - Just Give Up",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209881",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - Let It Reach",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209884",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - Confession",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209887",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - From Now On",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209890",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - After the Festival",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209893",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - The One I Care For",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209896",
+                            "referer": "https://www.anime-seven.com/"
+                        }
+                    ]
+                },
+                {
+                    "name": "ซับไทย",
+                    "info": "ฝากใจไปถึงเธอ",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "stations": [
+                        {
+                            "name": "Ep. 0 - Unrequited Love",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209992",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 1 - Valentine",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209995",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 2 - 2nd-Year Students",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209998",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 3 - Forget About It",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/210001",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 4 - Misunderstanding",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/210004",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 5 - The Person That I Like",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/210007",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 6 - Affection and Annoyance",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/210010",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 7 - Just Give Up",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/210013",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 8 - Let It Reach",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/210016",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 9 - Confession",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/210019",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 10 - From Now On",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/210022",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 11 - After the Festival",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/210025",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 12 - The One I Care For",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/210028",
+                            "referer": "https://www.anime-seven.com/"
+                        }
+                    ]
+                }
+            ]
         },
         {
-          "name": "ซับไทย",
-          "info": "ฝากใจไปถึงเธอ",
-          "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-          "stations": [
-            {
-              "name": "Ep. 0",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209992",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 1",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209995",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 2",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209998",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 3",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/210001",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 4",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/210004",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 5",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/210007",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 6",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/210010",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 7",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/210013",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 8",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/210016",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 9",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/210019",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 10",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/210022",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 11",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/210025",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 12",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/210028",
-              "referer": "https://www.anime-seven.com/"
-            }
-          ]
+            "name": "Season 3",
+            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "ฝากใจไปถึงเธอ",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 0",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209899",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 1 - There's No Way I Would Hate You",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209902",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - School Trip",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209905",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - Girlfriend and Boyfriend",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209908",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - Christmas Party",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209911",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - Happy Moment",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/209914",
+                            "referer": "https://www.anime-seven.com/"
+                        }
+                    ]
+                },
+                {
+                    "name": "ซับไทย",
+                    "info": "ฝากใจไปถึงเธอ",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "stations": [
+                        {
+                            "name": "Ep. 0",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/210031",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 1 - There's No Way I Would Hate You",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/210034",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 2 - School Trip",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/210037",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 3 - Girlfriend and Boyfriend",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/210040",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 4 - Christmas Party",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/210043",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 5 - Happy Moment",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/210046",
+                            "referer": "https://www.anime-seven.com/"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    },
-    {
-      "name": "Season 3",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-      "groups": [
-        {
-          "name": "พากย์ไทย",
-          "info": "ฝากใจไปถึงเธอ",
-          "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-          "stations": [
-            {
-              "name": "ตอน 0",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209899",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 1",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209902",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 2",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209905",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 3",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209908",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 4",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209911",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 5",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/209914",
-              "referer": "https://www.anime-seven.com/"
-            }
-          ]
-        },
-        {
-          "name": "ซับไทย",
-          "info": "ฝากใจไปถึงเธอ",
-          "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-          "stations": [
-            {
-              "name": "Ep. 0",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/210031",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 1",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/210034",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 2",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/210037",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 3",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/210040",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 4",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/210043",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 5",
-              "image": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/210046",
-              "referer": "https://www.anime-seven.com/"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+    ]
 }

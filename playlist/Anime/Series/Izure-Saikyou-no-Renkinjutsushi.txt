@@ -1,170 +1,170 @@
 {
-  "name": "Izure Saikyou no Renkinjutsushi? [นักเล่นแร่แปรธาตุที่ยิ่งใหญ่ที่สุดตลอดกาล]",
-  "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-  "groups": [
-    {
-      "name": "Season 1",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-      "groups": [
+    "name": "Izure Saikyou no Renkinjutsushi? [นักเล่นแร่แปรธาตุที่ยิ่งใหญ่ที่สุดตลอดกาล]",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+    "groups": [
         {
-          "name": "พากย์ไทย",
-          "info": "นักเล่นแร่แปรธาตุที่ยิ่งใหญ่ที่สุดตลอดกาล",
-          "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-          "stations": [
-            {
-              "name": "ตอน 1",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/226201",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 2",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/226204",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 3",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/226207",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 4",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/226210",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 5",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/226213",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 6",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/226216",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 7",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/226219",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 8",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/226222",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 9",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/226225",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 10",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/226228",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 11",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/226231",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "ตอน 12",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/226234",
-              "referer": "https://www.anime-seven.com/"
-            }
-          ]
-        },
-        {
-          "name": "ซับไทย",
-          "info": "นักเล่นแร่แปรธาตุที่ยิ่งใหญ่ที่สุดตลอดกาล",
-          "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-          "stations": [
-            {
-              "name": "Ep. 1",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/214826",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 2",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/214829",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 3",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/214832",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 4",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/215006",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 5",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/215267",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 6",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/215384",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 7",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/215598",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 8",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/215792",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 9",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/216246",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 10",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/216249",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 11",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/216499",
-              "referer": "https://www.anime-seven.com/"
-            },
-            {
-              "name": "Ep. 12",
-              "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
-              "url": "https://www.anime-seven.com/playery/216797",
-              "referer": "https://www.anime-seven.com/"
-            }
-          ]
+            "name": "Season 1",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "info": "นักเล่นแร่แปรธาตุที่ยิ่งใหญ่ที่สุดตลอดกาล",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - I Was Summoned By Accident",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/226201",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 2 - To a New Land",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/226204",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 3 - Contracts and Oaths",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/226207",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 4 - Takumi's Party's First Battle!",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/226210",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 5 - Shadow of Sidonia",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/226213",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 6 - A Drake Horse Appears",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/226216",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 7 - The Fox-Eared Girl of the Royal Capital",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/226219",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 8 - Let's Choose a Party Name!",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/226222",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 9 - Resolve",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/226225",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 10 - Takumi Takes On Pioneering!",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/226228",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 11 - Signs of Turmoil",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/226231",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "ตอน 12 - When Bonds Are Tested",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/226234",
+                            "referer": "https://www.anime-seven.com/"
+                        }
+                    ]
+                },
+                {
+                    "name": "ซับไทย",
+                    "info": "นักเล่นแร่แปรธาตุที่ยิ่งใหญ่ที่สุดตลอดกาล",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                    "stations": [
+                        {
+                            "name": "Ep. 1 - I Was Summoned By Accident",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/214826",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 2 - To a New Land",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/214829",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 3 - Contracts and Oaths",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/214832",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 4 - Takumi's Party's First Battle!",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/215006",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 5 - Shadow of Sidonia",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/215267",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 6 - A Drake Horse Appears",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/215384",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 7 - The Fox-Eared Girl of the Royal Capital",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/215598",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 8 - Let's Choose a Party Name!",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/215792",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 9 - Resolve",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/216246",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 10 - Takumi Takes On Pioneering!",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/216249",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 11 - Signs of Turmoil",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/216499",
+                            "referer": "https://www.anime-seven.com/"
+                        },
+                        {
+                            "name": "Ep. 12 - When Bonds Are Tested",
+                            "image": "https://m.media-amazon.com/images/M/MV5BMTU2ZWFhZTItYzIyZC00MGY4LWI3MzYtMTlhZDY2YmZiYTRiXkEyXkFqcGc@._V1_FMjpg_UX640_.jpg",
+                            "url": "https://www.anime-seven.com/playery/216797",
+                            "referer": "https://www.anime-seven.com/"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
