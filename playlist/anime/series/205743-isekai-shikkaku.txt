@@ -1,0 +1,90 @@
+{
+    "name": "No Longer Allowed in Another World [สูญสิ้นที่ต่างโลก]",
+    "image": "https://image.tmdb.org/t/p/original/bO39Vo712EVr7nxKi1X4xk4GxEm.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/bO39Vo712EVr7nxKi1X4xk4GxEm.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/bO39Vo712EVr7nxKi1X4xk4GxEm.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - I Must Commit Double-Suicide!",
+                            "image": "https://image.tmdb.org/t/p/original/en2S7f5HD25y0aBFg6pJtFPTnLR.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/huA0SjumkB/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 2 - Shall I Tell You How It Feels to Sleep in a Coffin?",
+                            "image": "https://image.tmdb.org/t/p/original/yEcfyVEz7FWZCsEiiCPCKzgWH8M.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/rIPoKpbbdk/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 3 - I'm Always Ready to Die",
+                            "image": "https://image.tmdb.org/t/p/original/4wl6xBoMjNayFzZXtfvuzA4xbhU.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/rfgXBqDGke/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 4 - Don't Kill Yourself",
+                            "image": "https://image.tmdb.org/t/p/original/uWE276MPFt6CTBbOxxqPrPPXwsB.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/MlYbJ8gmDx/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 5 - I Am Someone Who Wishes to Die, Not a Corpse That's Already Dead",
+                            "image": "https://image.tmdb.org/t/p/original/x0vx6jIOInBddfATBD9L5K5u0mJ.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/MyLMt8Ifm9/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 6 - Someone Who Wants to Be Eaten Has Come to the Castle",
+                            "image": "https://image.tmdb.org/t/p/original/iFIndEQv3BNCYUMBy2bgn0XuCth.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/3wV2Ji9iTC/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 7 - Will You Sentence Me to Death Again?",
+                            "image": "https://image.tmdb.org/t/p/original/c9t1A4UIKIeKD4tNjxUk84qvqKh.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/neo3M2syry/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 8 - This Hole Stinks of Immorality",
+                            "image": "https://image.tmdb.org/t/p/original/wMVPbrq4ok7Bx5MkCxHvk26U2vC.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/Nuz8ZOyLQI/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 9 - Turn Me Into a Lump of Ash",
+                            "image": "https://image.tmdb.org/t/p/original/iiistIVxMiHRRa2GxQqpTIRo398.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/hvTwk3Oe6v/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 10 - Reflect on Your Failure to Kill Me Properly",
+                            "image": "https://image.tmdb.org/t/p/original/1wRtQSTtwiR0NTc9FASnSYL7WSV.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/nFqZ7nWspH/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 11 - I Cannot Die Until I've Finished Writing Your Story",
+                            "image": "https://image.tmdb.org/t/p/original/cYTHaLxIQcReIFGCJSmsagoWD9N.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/yF45jN97Fk/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        },
+                        {
+                            "name": "ตอน 12 - Now I Really Want to Die",
+                            "image": "https://image.tmdb.org/t/p/original/af81N7EgzW6JVxxNdSIeJWICCfL.jpg",
+                            "url": "https://hls.animeindy.com:8443/vid/OjH5uTnxlX/video.mp4/playlist.m3u8",
+                            "referer": "https://indy-anime.net/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

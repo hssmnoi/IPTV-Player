@@ -1,0 +1,8 @@
+{
+  "name": "Series",
+  "image": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/web/images/covers/cover-series.png",
+  "imageScale": "centerCrop",
+  "groups": [
+
+  ]
+}

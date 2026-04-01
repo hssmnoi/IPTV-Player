@@ -13,6 +13,11 @@
       "name": "Movies",
       "image": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/web/images/covers/cover-movie.png",
       "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/movies/index.txt"
+    },
+    {
+      "name": "Series",
+      "image": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/web/images/covers/cover-series.png",
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/series/index.txt"
     }
   ]
 }

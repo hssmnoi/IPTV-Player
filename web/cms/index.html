@@ -1,0 +1,1333 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CMS — BKL Play</title>
+  <link rel="apple-touch-icon" sizes="180x180" href="../images/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="../images/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="../images/favicon-16x16.png" />
+  <link rel="manifest" href="../images/site.webmanifest" />
+  <link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-solid-rounded/css/uicons-solid-rounded.css">
+  <link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-solid-straight/css/uicons-solid-straight.css">
+  <link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css">
+  <style>
+    :root {
+      --bg:     #0d0d0d;
+      --bg2:    #161616;
+      --bg3:    #1e1e1e;
+      --bg4:    #242424;
+      --border: #272727;
+      --text:   #e0e0e0;
+      --text2:  #999;
+      --text3:  #555;
+      --accent: #e50914;
+      --blue:   #4a9eff;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { height: 100%; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      font-size: 14px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ── Header ─────────────────────────────────────── */
+    header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 13px 20px;
+      background: var(--bg2);
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+    header h1 { font-size: 17px; font-weight: 600; letter-spacing: .2px; }
+    header .dot { color: var(--accent); }
+    header .sub { color: var(--text3); font-size: 12px; margin-left: 4px; display: flex; align-items: center; gap: 5px; }
+    header .sub i { font-size: 14px; }
+
+    /* ── Tabs ────────────────────────────────────────── */
+    .tabs {
+      display: flex;
+      gap: 3px;
+      padding: 9px 18px;
+      background: var(--bg2);
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+    .tab-btn {
+      padding: 6px 15px;
+      background: transparent;
+      border: 1px solid transparent;
+      border-radius: 6px;
+      cursor: pointer;
+      color: var(--text2);
+      font-size: 13px;
+      transition: all .15s;
+    }
+    .tab-btn:hover  { background: var(--bg3); color: var(--text); }
+    .tab-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+    /* ── Pane ────────────────────────────────────────── */
+    .tab-pane { display: none; flex: 1; flex-direction: column; overflow: hidden; }
+    .tab-pane.active { display: flex; }
+
+    .pane-bar {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 11px 18px;
+      background: var(--bg2);
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+    .search-wrap { position: relative; }
+    .search-wrap svg {
+      position: absolute;
+      left: 9px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text3);
+      width: 14px; height: 14px;
+      pointer-events: none;
+    }
+    .search-wrap input {
+      width: 260px;
+      padding: 6px 10px 6px 30px;
+      background: var(--bg3);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--text);
+      font-size: 13px;
+      outline: none;
+      transition: border-color .15s;
+    }
+    .search-wrap input:focus { border-color: #3a3a3a; }
+    .search-wrap input::placeholder { color: var(--text3); }
+
+    .pane-stats {
+      margin-left: auto;
+      color: var(--text3);
+      font-size: 12px;
+      white-space: nowrap;
+    }
+
+    /* ── Table ───────────────────────────────────────── */
+    .table-scroll { flex: 1; overflow: auto; }
+    table { width: 100%; border-collapse: collapse; }
+
+    thead tr { position: sticky; top: 0; z-index: 2; }
+    thead th {
+      background: var(--bg2);
+      color: var(--text3);
+      padding: 8px 13px;
+      text-align: left;
+      font-weight: 600;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: .55px;
+      border-bottom: 1px solid var(--border);
+      white-space: nowrap;
+    }
+
+    tbody tr {
+      border-bottom: 1px solid #191919;
+      transition: background .1s;
+    }
+    tbody tr:hover    { background: var(--bg2); }
+    tbody tr.hidden   { display: none; }
+    tbody tr.grp-top td { border-top: 1px solid var(--border); }
+
+    td { padding: 6px 13px; vertical-align: middle; }
+
+    td.c-no   { color: var(--text3); font-size: 12px; width: 42px; text-align: right; padding-right: 8px; }
+    td.c-art  { width: 44px; padding: 3px 6px 3px 13px; }
+    td.c-title { max-width: 320px; }
+    td.c-szn  { color: var(--text2); white-space: nowrap; font-size: 13px; }
+    td.c-trk  { white-space: nowrap; }
+    td.c-ep   { text-align: center; width: 60px; color: var(--text2); font-size: 13px; }
+    td.c-tmdb a { color: var(--blue); text-decoration: none; font-size: 12px; font-variant-numeric: tabular-nums; }
+    td.c-tmdb a:hover { text-decoration: underline; }
+    td.c-slug {
+      color: var(--text3);
+      font-size: 11px;
+      font-family: 'Consolas', 'Courier New', monospace;
+      max-width: 200px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .art {
+      width: 32px;
+      height: 46px;
+      object-fit: cover;
+      border-radius: 3px;
+      background: var(--bg4);
+      display: block;
+    }
+    .art-ph {
+      width: 32px;
+      height: 46px;
+      background: var(--bg4);
+      border-radius: 3px;
+    }
+
+    .title-main { color: var(--text); font-weight: 500; line-height: 1.4; }
+    .title-en   { display: block; }
+    .title-th   { display: block; color: var(--text3); font-size: 12px; font-weight: 400; margin-top: 1px; }
+    .title-cont { color: var(--text3); font-size: 12px; padding-left: 8px; }
+
+    /* ── Update button (per-row) ────────────────────── */
+    .upd-btn {
+      background: none; border: none;
+      color: var(--text3); cursor: pointer;
+      padding: 0 3px; font-size: 11px;
+      opacity: 0; vertical-align: middle;
+      line-height: 1; transition: opacity .15s, color .15s;
+      position: relative; top: -1px;
+    }
+    td:hover .upd-btn { opacity: 1; }
+    .upd-btn:hover { color: #4a9eff; }
+
+    /* ── Batch button ────────────────────────────────── */
+    .btn-batch {
+      display: flex; align-items: center; gap: 6px;
+      padding: 6px 13px;
+      background: #1a2c4a; border: 1px solid #2a4a7a;
+      border-radius: 6px; color: #7ab0e8;
+      font-size: 13px; cursor: pointer;
+      transition: all .15s;
+      margin-left: 6px;
+    }
+    .btn-batch:hover { background: #223860; border-color: #3a6aaa; }
+    .btn-batch i { font-size: 13px; }
+
+    /* ── Copy button ─────────────────────────────────── */
+    .cp-btn {
+      background: none; border: none;
+      color: var(--text3); cursor: pointer;
+      padding: 0 3px; font-size: 11px;
+      opacity: 0; vertical-align: middle;
+      line-height: 1; transition: opacity .15s, color .15s;
+      position: relative; top: -1px;
+    }
+    td:hover .cp-btn,
+    .title-en:hover .cp-btn,
+    .title-th:hover .cp-btn { opacity: 1; }
+    .cp-btn:hover { color: var(--text2); }
+    .cp-btn.ok    { color: #6de06d; opacity: 1; }
+
+    .badge {
+      display: inline-block;
+      padding: 2px 7px;
+      border-radius: 10px;
+      font-size: 11px;
+      margin: 1px 2px 1px 0;
+    }
+    .badge-th  { background: #132d4a; color: #6ab0e0; }
+    .badge-sub { background: #2e1e0a; color: #d09050; }
+    .badge-ep  { color: var(--text3); font-size: 11px; }
+
+    /* ── Loading / Empty ─────────────────────────────── */
+    .loading, .empty, .err {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 60px 20px;
+      gap: 12px;
+      color: var(--text3);
+    }
+    .err { color: #e05050; }
+    .spinner {
+      width: 28px; height: 28px;
+      border: 2px solid var(--bg4);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin .7s linear infinite;
+    }
+    #tbl-anime-series {
+      padding: 20px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Add button ──────────────────────────────────── */
+    .btn-add {
+      display: flex; align-items: center; gap: 6px;
+      padding: 6px 13px;
+      background: var(--accent); color: #fff;
+      border: none; border-radius: 6px;
+      font-size: 13px; cursor: pointer;
+      transition: background .15s;
+    }
+    .btn-add:hover { background: #c0070f; }
+    .btn-add i { font-size: 13px; }
+
+    /* ── Modal ───────────────────────────────────────── */
+    .modal-overlay {
+      position: fixed; inset: 0;
+      background: rgba(0,0,0,.65);
+      z-index: 100;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .modal-overlay.hidden { display: none; }
+    .modal {
+      background: var(--bg2);
+      border: 1px solid #333;
+      border-radius: 10px;
+      width: 800px; max-width: 96vw;
+      display: flex; flex-direction: column;
+      max-height: 92vh;
+    }
+    .modal-hd {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 15px 18px;
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+    .modal-hd h2 { font-size: 15px; font-weight: 600; }
+    .modal-hd .modal-tab-hint { font-size: 12px; color: var(--text3); margin-left: 8px; }
+    .modal-close {
+      background: none; border: none; color: var(--text3);
+      cursor: pointer; font-size: 18px; padding: 2px 6px; line-height: 1;
+    }
+    .modal-close:hover { color: var(--text); }
+
+    .modal-body {
+      padding: 18px;
+      display: flex; flex-direction: column; gap: 13px;
+      overflow-y: auto;
+    }
+
+    .fm-row { display: flex; flex-direction: column; gap: 5px; }
+    .fm-row > label {
+      font-size: 11px; color: var(--text2);
+      font-weight: 600; text-transform: uppercase; letter-spacing: .5px;
+    }
+    .fm-row input[type=text],
+    .fm-row input[type=number],
+    .fm-row select {
+      padding: 7px 10px;
+      background: var(--bg3); border: 1px solid var(--border);
+      border-radius: 6px; color: var(--text);
+      font-size: 13px; outline: none;
+      transition: border-color .15s;
+    }
+    .fm-row input:focus, .fm-row select:focus { border-color: #444; }
+    .fm-row input::placeholder { color: var(--text3); }
+    .fm-row input[type=number] { width: 80px; }
+
+    .fm-radio-grp { display: flex; gap: 18px; }
+    .fm-radio-grp label {
+      display: flex; align-items: center; gap: 6px;
+      font-size: 13px; color: var(--text);
+      cursor: pointer; font-weight: 400;
+      text-transform: none; letter-spacing: 0;
+    }
+
+    .cmd-box {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 12px 14px;
+    }
+    .cmd-box-hd {
+      display: flex; align-items: center; justify-content: space-between;
+      margin-bottom: 8px;
+    }
+    .cmd-label { font-size: 11px; color: var(--text3); }
+    .cmd-dir   { font-size: 11px; color: var(--text3); font-family: monospace; }
+    .cmd-text {
+      font-family: 'Consolas', 'Courier New', monospace;
+      font-size: 12px; color: #9cdcfe;
+      word-break: break-all; white-space: pre-wrap; line-height: 1.6;
+      min-height: 20px;
+    }
+    .cmd-text.placeholder { color: var(--text3); font-style: italic; }
+
+    .modal-ft {
+      display: flex; align-items: center; justify-content: flex-end;
+      gap: 8px; padding: 12px 18px;
+      border-top: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+    /* ── Run button ──────────────────────────────────── */
+    .btn-run {
+      display: flex; align-items: center; gap: 7px;
+      padding: 8px 20px;
+      background: #1a5c1a; border: 1px solid #2a7a2a;
+      border-radius: 6px; color: #8de88d;
+      font-size: 13px; cursor: pointer;
+      transition: all .15s;
+    }
+    .btn-run:hover:not(:disabled) { background: #226622; border-color: #3a8a3a; }
+    .btn-run:disabled { opacity: .45; cursor: not-allowed; }
+    .btn-run i { font-size: 13px; }
+
+    /* ── Run log ─────────────────────────────────────── */
+    .run-log {
+      background: #0a0a0a;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      overflow: hidden;
+      max-height: 220px;
+      display: flex; flex-direction: column;
+    }
+    .run-log.hidden { display: none; }
+    .run-log-hd {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 6px 10px;
+      background: var(--bg3);
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+    .run-log-hd span { font-size: 11px; color: var(--text3); text-transform: uppercase; letter-spacing: .5px; }
+    .run-log-clear {
+      background: none; border: none; color: var(--text3);
+      font-size: 11px; cursor: pointer; padding: 0 2px;
+    }
+    .run-log-clear:hover { color: var(--text2); }
+    .run-log-body {
+      flex: 1; overflow-y: auto;
+      padding: 10px 12px;
+      font-family: 'Consolas', 'Courier New', monospace;
+      font-size: 12px; line-height: 1.6;
+      color: #ccc; white-space: pre-wrap; word-break: break-all;
+    }
+    .run-log-body .log-err  { color: #e07070; }
+    .run-log-body .log-done { color: #6de06d; font-weight: 600; }
+    .run-log-body .log-fail { color: #e07070; font-weight: 600; }
+    .run-log-body .log-head { color: #7ab0e8; font-weight: 600; }
+
+    @keyframes run-spin { to { transform: rotate(360deg); } }
+    .run-spin {
+      display: inline-block; width: 13px; height: 13px;
+      border: 2px solid rgba(141,232,141,.3);
+      border-top-color: #8de88d;
+      border-radius: 50%;
+      animation: run-spin .6s linear infinite;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1><span class="dot">▌</span> BKL Play</h1>
+  <span class="sub" id="data-source"></span>
+</header>
+
+<div class="tabs" id="tab-nav">
+  <button class="tab-btn active" data-tab="anime-series">Anime Series</button>
+  <button class="tab-btn"        data-tab="anime-movie">Anime Movie</button>
+  <button class="tab-btn"        data-tab="movie">Movie</button>
+  <button class="tab-btn"        data-tab="series">Series</button>
+</div>
+
+<!-- Anime Series -->
+<div id="anime-series" class="tab-pane active">
+  <div class="pane-bar">
+    <div class="search-wrap">
+      <svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M9 3.5a5.5 5.5 0 100 11 5.5 5.5 0 000-11zM2 9a7 7 0 1112.452 4.391l3.328 3.329a.75.75 0 11-1.06 1.06l-3.329-3.328A7 7 0 012 9z" clip-rule="evenodd"/></svg>
+      <input type="text" class="s-inp" data-tab="anime-series" placeholder="ค้นหาชื่อเรื่อง...">
+    </div>
+    <span class="pane-stats" id="stats-anime-series"></span>
+  </div>
+  <div class="table-scroll">
+    <div id="tbl-anime-series" class="loading"><div class="spinner"></div><span>Loading...</span></div>
+  </div>
+</div>
+
+<!-- Anime Movie -->
+<div id="anime-movie" class="tab-pane">
+  <div class="pane-bar">
+    <div class="search-wrap">
+      <svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M9 3.5a5.5 5.5 0 100 11 5.5 5.5 0 000-11zM2 9a7 7 0 1112.452 4.391l3.328 3.329a.75.75 0 11-1.06 1.06l-3.329-3.328A7 7 0 012 9z" clip-rule="evenodd"/></svg>
+      <input type="text" class="s-inp" data-tab="anime-movie" placeholder="ค้นหาชื่อเรื่อง...">
+    </div>
+    <span class="pane-stats" id="stats-anime-movie"></span>
+  </div>
+  <div class="table-scroll">
+    <div id="tbl-anime-movie" class="loading"><div class="spinner"></div><span>Loading...</span></div>
+  </div>
+</div>
+
+<!-- Movie -->
+<div id="movie" class="tab-pane">
+  <div class="pane-bar">
+    <div class="search-wrap">
+      <svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M9 3.5a5.5 5.5 0 100 11 5.5 5.5 0 000-11zM2 9a7 7 0 1112.452 4.391l3.328 3.329a.75.75 0 11-1.06 1.06l-3.329-3.328A7 7 0 012 9z" clip-rule="evenodd"/></svg>
+      <input type="text" class="s-inp" data-tab="movie" placeholder="ค้นหาชื่อเรื่อง...">
+    </div>
+    <span class="pane-stats" id="stats-movie"></span>
+  </div>
+  <div class="table-scroll">
+    <div id="tbl-movie" class="loading"><div class="spinner"></div><span>Loading...</span></div>
+  </div>
+</div>
+
+<!-- Series -->
+<div id="series" class="tab-pane">
+  <div class="pane-bar">
+    <div class="search-wrap">
+      <svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M9 3.5a5.5 5.5 0 100 11 5.5 5.5 0 000-11zM2 9a7 7 0 1112.452 4.391l3.328 3.329a.75.75 0 11-1.06 1.06l-3.329-3.328A7 7 0 012 9z" clip-rule="evenodd"/></svg>
+      <input type="text" class="s-inp" data-tab="series" placeholder="ค้นหาชื่อเรื่อง...">
+    </div>
+    <span class="pane-stats" id="stats-series"></span>
+  </div>
+  <div class="table-scroll">
+    <div id="tbl-series" class="loading"><div class="spinner"></div><span>Loading...</span></div>
+  </div>
+</div>
+
+<!-- Update Metadata Modal -->
+<div id="update-modal" class="modal-overlay hidden">
+  <div class="modal">
+    <div class="modal-hd">
+      <div style="display:flex;align-items:center">
+        <h2>Update Metadata</h2>
+        <span class="modal-tab-hint" id="um-hint"></span>
+      </div>
+      <button class="modal-close" id="um-close">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="fm-row">
+        <label>Script</label>
+        <select id="um-script"></select>
+      </div>
+      <div class="fm-row">
+        <label>Mode</label>
+        <div class="fm-radio-grp">
+          <label><input type="radio" name="um-mode" value="all" checked> all</label>
+          <label><input type="radio" name="um-mode" value="poster"> poster</label>
+          <label><input type="radio" name="um-mode" value="cover"> cover</label>
+          <label><input type="radio" name="um-mode" value="title"> title</label>
+        </div>
+      </div>
+      <div class="fm-row" id="um-season-row">
+        <label>Season <span style="color:var(--text3);font-weight:400;text-transform:none;letter-spacing:0">(ว่าง = ทุก season)</span></label>
+        <input type="number" id="um-season" min="1" placeholder="ว่าง = ทุก season" style="width:120px">
+      </div>
+      <div class="fm-row">
+        <label>Track</label>
+        <div class="fm-radio-grp">
+          <label><input type="radio" name="um-track" value="" checked> ทั้งหมด</label>
+          <label><input type="radio" name="um-track" value="th"> พากย์ไทย</label>
+          <label><input type="radio" name="um-track" value="subth"> ซับไทย</label>
+        </div>
+      </div>
+      <div class="cmd-box">
+        <div class="cmd-box-hd">
+          <span class="cmd-label">Command</span>
+          <span class="cmd-dir">📂 <code style="color:var(--text2)">tools/</code></span>
+        </div>
+        <div class="cmd-text placeholder" id="um-cmd">(กำลังโหลด...)</div>
+      </div>
+      <div class="run-log hidden" id="um-log">
+        <div class="run-log-hd">
+          <span>Output</span>
+          <button class="run-log-clear" id="um-log-clear">ล้าง</button>
+        </div>
+        <pre class="run-log-body" id="um-log-body"></pre>
+      </div>
+    </div>
+    <div class="modal-ft">
+      <button class="btn-run" id="um-run-btn"><i class="fi fi-sr-rotate-right"></i> Update</button>
+    </div>
+  </div>
+</div>
+
+<!-- Batch Update Modal -->
+<div id="batch-modal" class="modal-overlay hidden">
+  <div class="modal">
+    <div class="modal-hd">
+      <div style="display:flex;align-items:center">
+        <h2>Batch Update</h2>
+        <span class="modal-tab-hint" id="bm-hint"></span>
+      </div>
+      <button class="modal-close" id="bm-close">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="fm-row">
+        <label>Script</label>
+        <select id="bm-script"></select>
+      </div>
+      <div class="fm-row">
+        <label>Mode</label>
+        <div class="fm-radio-grp">
+          <label><input type="radio" name="bm-mode" value="all" checked> all</label>
+          <label><input type="radio" name="bm-mode" value="poster"> poster</label>
+          <label><input type="radio" name="bm-mode" value="cover"> cover</label>
+          <label><input type="radio" name="bm-mode" value="title"> title</label>
+        </div>
+      </div>
+      <div class="fm-row">
+        <label>Season <span style="color:var(--text3);font-weight:400;text-transform:none;letter-spacing:0">(ว่าง = ทุก season)</span></label>
+        <input type="number" id="bm-season" min="1" placeholder="ว่าง = ทุก season" style="width:120px">
+      </div>
+      <div class="fm-row">
+        <label>Track</label>
+        <div class="fm-radio-grp">
+          <label><input type="radio" name="bm-track" value="" checked> ทั้งหมด</label>
+          <label><input type="radio" name="bm-track" value="th"> พากย์ไทย</label>
+          <label><input type="radio" name="bm-track" value="subth"> ซับไทย</label>
+        </div>
+      </div>
+      <div class="run-log hidden" id="bm-log">
+        <div class="run-log-hd">
+          <span>Output</span>
+          <button class="run-log-clear" id="bm-log-clear">ล้าง</button>
+        </div>
+        <pre class="run-log-body" id="bm-log-body"></pre>
+      </div>
+    </div>
+    <div class="modal-ft">
+      <span style="color:var(--text3);font-size:12px;margin-right:auto" id="bm-count-label"></span>
+      <button class="btn-run" id="bm-run-btn"><i class="fi fi-sr-rotate-right"></i> Run All</button>
+    </div>
+  </div>
+</div>
+
+<!-- Add Modal -->
+<div id="add-modal" class="modal-overlay hidden">
+  <div class="modal">
+    <div class="modal-hd">
+      <div style="display:flex;align-items:center">
+        <h2>เพิ่มรายการใหม่</h2>
+        <span class="modal-tab-hint" id="modal-tab-hint"></span>
+      </div>
+      <button class="modal-close" id="fm-close" title="ปิด">✕</button>
+    </div>
+    <div class="modal-body">
+
+      <div class="fm-row">
+        <label>Script</label>
+        <select id="fm-script"></select>
+      </div>
+
+      <div class="fm-row">
+        <label>URL</label>
+        <input type="text" id="fm-url" placeholder="https://...">
+      </div>
+
+      <div class="fm-row">
+        <label>Track</label>
+        <div class="fm-radio-grp">
+          <label><input type="radio" name="fm-track" value="th" checked> พากย์ไทย</label>
+          <label><input type="radio" name="fm-track" value="subth"> ซับไทย</label>
+        </div>
+      </div>
+
+      <div class="fm-row" id="fm-season-row">
+        <label>Season</label>
+        <input type="number" id="fm-season" value="1" min="1">
+      </div>
+
+      <div class="fm-row">
+        <label>Filename <span style="color:var(--text3);font-weight:400;text-transform:none;letter-spacing:0">(ไม่ต้องมี .txt)</span></label>
+        <input type="text" id="fm-fname" list="fm-fname-list" placeholder="เช่น my-anime" autocomplete="off">
+        <datalist id="fm-fname-list"></datalist>
+      </div>
+
+      <div class="fm-row">
+        <label>TMDB ID <span style="color:var(--text3);font-weight:400;text-transform:none;letter-spacing:0">(ว่าง = auto)</span></label>
+        <input type="text" id="fm-tmdb" placeholder="">
+      </div>
+
+      <div class="cmd-box">
+        <div class="cmd-box-hd">
+          <span class="cmd-label">Command</span>
+          <span class="cmd-dir">📂 <code style="color:var(--text2)">tools/</code></span>
+        </div>
+        <div class="cmd-text placeholder" id="fm-cmd">(กรุณากรอก URL และ Filename)</div>
+      </div>
+
+      <div class="run-log hidden" id="fm-log">
+        <div class="run-log-hd">
+          <span>Output</span>
+          <button class="run-log-clear" id="fm-log-clear">ล้าง</button>
+        </div>
+        <pre class="run-log-body" id="fm-log-body"></pre>
+      </div>
+
+    </div>
+    <div class="modal-ft">
+      <button class="btn-run" id="fm-run-btn">
+        <i class="fi fi-sr-play"></i> Run
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+// ────────────────────────────────────────────────────────────────
+const RAW      = 'https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/';
+const IS_LOCAL = ['localhost', '127.0.0.1'].includes(location.hostname);
+
+// Show data source indicator in header
+document.getElementById('data-source').innerHTML = IS_LOCAL
+  ? '<i class="fi fi-ss-folder-tree"></i> Local'
+  : '<i class="fi fi-sr-cloud-code"></i> GitHub';
+
+/** Build URL for a playlist path (relative to repo root) */
+function resolveUrl(path) {
+  return IS_LOCAL ? '/' + path : RAW + path;
+}
+
+/** Convert a GitHub raw URL → local absolute path when running locally */
+function toLocal(url) {
+  if (!IS_LOCAL || !url) return url;
+  return url.startsWith(RAW) ? '/' + url.slice(RAW.length) : url;
+}
+
+const TABS = {
+  'anime-series': { index: 'playlist/anime/series/index.txt', kind: 'series', tmdbKind: 'tv' },
+  'anime-movie':  { index: 'playlist/anime/movies/index.txt', kind: 'movie',  tmdbKind: 'movie' },
+  'movie':        { index: 'playlist/movies/index.txt',       kind: 'movie',  tmdbKind: 'movie' },
+  'series':       { index: 'playlist/series/index.txt',       kind: 'series', tmdbKind: 'tv' },
+};
+
+const loaded = new Set();
+
+// ── Tab switching ────────────────────────────────────────────────
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const id = btn.dataset.tab;
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.tab-pane').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById(id).classList.add('active');
+    loadTab(id);
+  });
+});
+
+// ── Instant search ───────────────────────────────────────────────
+document.querySelectorAll('.s-inp').forEach(inp => {
+  inp.addEventListener('input', () => {
+    const tabId = inp.dataset.tab;
+    const q = inp.value.toLowerCase().trim();
+    const wrap = document.getElementById('tbl-' + tabId);
+    if (!wrap) return;
+
+    // Collect rows grouped by data-group
+    const map = {};
+    wrap.querySelectorAll('tbody tr[data-group]').forEach(row => {
+      const g = row.dataset.group;
+      if (!map[g]) map[g] = { title: row.dataset.title || '', rows: [] };
+      map[g].rows.push(row);
+    });
+
+    let shown = 0, total = 0;
+    Object.values(map).forEach(({ title, rows }) => {
+      total++;
+      const match = !q || title.includes(q);
+      rows.forEach(r => r.classList.toggle('hidden', !match));
+      if (match) shown++;
+    });
+
+    const stats = document.getElementById('stats-' + tabId);
+    if (stats) stats.textContent = q ? `${shown} / ${total} รายการ` : `${total} รายการ`;
+  });
+});
+
+// ── Helpers ──────────────────────────────────────────────────────
+function esc(s) {
+  return String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+/** Split "English Title [ชื่อไทย]" → { en, th } */
+function splitTitle(title) {
+  const m = title.match(/^(.*?)\s*\[([^\]]+)\]\s*$/);
+  if (m) return { en: m[1].trim(), th: m[2].trim() };
+  return { en: title, th: '' };
+}
+
+const CP = `<button class="cp-btn" title="Copy"><i class="fi fi-rr-copy-alt"></i></button>`;
+function cp(text) {
+  return `<button class="cp-btn" data-copy="${esc(text)}" title="Copy"><i class="fi fi-rr-copy-alt"></i></button>`;
+}
+
+/** Render title cell content (2-line if Thai part exists) */
+function titleHtml(title) {
+  const { en, th } = splitTitle(title);
+  return th
+    ? `<span class="title-main"><span class="title-en">${esc(en)}${cp(en)}</span><span class="title-th">${esc(th)}${cp(th)}</span></span>`
+    : `<span class="title-main"><span class="title-en">${esc(en)}${cp(en)}</span></span>`;
+}
+
+/** Render TMDB cell with copy button */
+function tmdbCell(tmdbId, tmdbKind) {
+  if (!tmdbId) return '<span style="color:var(--text3)">—</span>';
+  return `<a href="https://www.themoviedb.org/${tmdbKind}/${tmdbId}" target="_blank">${tmdbId}</a>${cp(tmdbId)}`;
+}
+
+/** Render slug cell with copy button */
+function slugCell(slug) {
+  if (!slug) return '';
+  return `${esc(slug)}${cp(slug)}`;
+}
+
+function parseFile(url) {
+  const name = decodeURIComponent(url.split('/').pop()).replace(/\.txt$/i, '');
+  const m = name.match(/^(\d+)-(.+)$/);
+  return m ? { tmdbId: m[1], slug: m[2] } : { tmdbId: '', slug: name };
+}
+
+function badge(name) {
+  const isSub = /ซับ|sub/i.test(name);
+  return `<span class="badge ${isSub ? 'badge-sub' : 'badge-th'}">${esc(name)}</span>`;
+}
+
+function artTag(src, first) {
+  if (!first) return '';
+  if (src) return `<img class="art" src="${esc(src)}" loading="lazy" onerror="this.style.display='none'">`;
+  return '<div class="art-ph"></div>';
+}
+
+async function getJSON(url) {
+  const r = await fetch(url);
+  if (!r.ok) throw new Error(`HTTP ${r.status} — ${url}`);
+  return r.json();
+}
+
+// ── Load tab data ────────────────────────────────────────────────
+async function loadTab(tabId) {
+  if (loaded.has(tabId)) return;
+  loaded.add(tabId);
+
+  const cfg   = TABS[tabId];
+  const wrap  = document.getElementById('tbl-' + tabId);
+  const stats = document.getElementById('stats-' + tabId);
+
+  try {
+    const index  = await getJSON(resolveUrl(cfg.index));
+    const groups = index.groups || [];
+
+    if (!groups.length) {
+      wrap.innerHTML = '<div class="empty"><span>ไม่มีข้อมูล</span></div>';
+      return;
+    }
+
+    // Fetch all playlist files in small batches
+    const items = [];
+    for (let i = 0; i < groups.length; i += 6) {
+      const batch = groups.slice(i, i + 6);
+      const settled = await Promise.allSettled(
+        batch.map(g => getJSON(toLocal(g.url)).then(pl => ({ g, pl })))
+      );
+      settled.forEach(s => { if (s.status === 'fulfilled') items.push(s.value); });
+    }
+
+    // Sort alphabetically by title
+    items.sort((a, b) => {
+      const ta = a.pl.name || a.g.name || '';
+      const tb = b.pl.name || b.g.name || '';
+      return ta.localeCompare(tb, 'th');
+    });
+
+    if (cfg.kind === 'series') renderSeries(wrap, stats, items, cfg.tmdbKind, tabId);
+    else                       renderMovies(wrap, stats, items, cfg.tmdbKind, tabId);
+
+  } catch (e) {
+    wrap.innerHTML = `<div class="err"><span>⚠ โหลดข้อมูลล้มเหลว: ${esc(e.message)}</span></div>`;
+    loaded.delete(tabId);
+  }
+}
+
+// ── Render series table ──────────────────────────────────────────
+function updBtn(slug, season, tabId, title) {
+  return `<button class="upd-btn" data-slug="${esc(slug)}" data-season="${season}" data-tab="${esc(tabId)}" data-title="${esc(title)}" title="Update Metadata"><i class="fi fi-sr-rotate-right"></i></button>`;
+}
+
+function renderSeries(wrap, stats, items, tmdbKind, tabId = '') {
+  let html = `<table>
+    <thead><tr>
+      <th class="c-no">No</th>
+      <th style="width:44px"></th>
+      <th>ชื่อเรื่อง</th>
+      <th>Season</th>
+      <th>Track</th>
+      <th class="c-ep">Ep.</th>
+      <th>TMDB ID</th>
+      <th>Playlist Name</th>
+    </tr></thead><tbody>`;
+
+  items.forEach(({ g, pl }, idx) => {
+    const title  = pl.name  || g.name  || '(ไม่มีชื่อ)';
+    const poster = pl.image || g.image || '';
+    const { tmdbId, slug } = parseFile(g.url);
+    const gid      = idx + 1;
+    const titleKey = title.toLowerCase();
+    const seasons  = pl.groups || [];
+
+    if (!seasons.length) {
+      // No season data
+      html += `<tr data-group="${gid}" data-title="${esc(titleKey)}" class="grp-top">
+        <td class="c-no">${gid}</td>
+        <td class="c-art">${artTag(poster, true)}</td>
+        <td class="c-title">${titleHtml(title)}</td>
+        <td class="c-szn" style="color:var(--text3)">—${updBtn(slug, 0, tabId, title)}</td>
+        <td class="c-trk" style="color:var(--text3)">—</td>
+        <td class="c-ep"  style="color:var(--text3)">—</td>
+        <td class="c-tmdb">${tmdbCell(tmdbId, tmdbKind)}</td>
+        <td class="c-slug">${slugCell(slug)}</td>
+      </tr>`;
+      return;
+    }
+
+    seasons.forEach((season, si) => {
+      const isFirst  = si === 0;
+      const tracks   = season.groups || [];
+      const trackBadges = tracks.map(t => {
+        const ep = t.stations?.length || 0;
+        return `${badge(t.name)}<span class="badge-ep">${ep}</span>`;
+      }).join(' ');
+      const maxEp = tracks.reduce((m, t) => Math.max(m, t.stations?.length || 0), 0);
+      const sznName = season.name || `Season ${si + 1}`;
+
+      html += `<tr data-group="${gid}" data-title="${esc(titleKey)}" class="${isFirst ? 'grp-top' : ''}">
+        <td class="c-no">${isFirst ? gid : ''}</td>
+        <td class="c-art">${artTag(poster, isFirst)}</td>
+        <td class="c-title">${isFirst
+          ? titleHtml(title)
+          : `<span class="title-cont">↳ ${esc(sznName)}</span>`}</td>
+        <td class="c-szn">${esc(sznName)}${updBtn(slug, si + 1, tabId, title)}</td>
+        <td class="c-trk">${trackBadges || '<span style="color:var(--text3)">—</span>'}</td>
+        <td class="c-ep">${maxEp || '<span style="color:var(--text3)">—</span>'}</td>
+        <td class="c-tmdb">${isFirst ? tmdbCell(tmdbId, tmdbKind) : ''}</td>
+        <td class="c-slug">${isFirst ? slugCell(slug) : ''}</td>
+      </tr>`;
+    });
+  });
+
+  html += '</tbody></table>';
+  wrap.innerHTML = html;
+  if (stats) stats.textContent = `${items.length} รายการ`;
+}
+
+// ── Render movies table ──────────────────────────────────────────
+function renderMovies(wrap, stats, items, tmdbKind, tabId = '') {
+  let html = `<table>
+    <thead><tr>
+      <th class="c-no">No</th>
+      <th style="width:44px"></th>
+      <th>ชื่อเรื่อง</th>
+      <th>Track</th>
+      <th>TMDB ID</th>
+      <th>Playlist Name</th>
+    </tr></thead><tbody>`;
+
+  items.forEach(({ g, pl }, idx) => {
+    const title    = pl.name  || g.name  || '(ไม่มีชื่อ)';
+    const poster   = pl.image || g.image || '';
+    const stations = pl.stations || [];
+    const { tmdbId, slug } = parseFile(g.url);
+    const gid      = idx + 1;
+    const tracks   = (stations.map(s => badge(s.name)).join(' ') || '<span style="color:var(--text3)">—</span>') + updBtn(slug, 0, tabId, title);
+
+    html += `<tr data-group="${gid}" data-title="${esc(title.toLowerCase())}">
+      <td class="c-no">${gid}</td>
+      <td class="c-art">${artTag(poster, true)}</td>
+      <td class="c-title">${titleHtml(title)}</td>
+      <td class="c-trk">${tracks}</td>
+      <td class="c-tmdb">${tmdbCell(tmdbId, tmdbKind)}</td>
+      <td class="c-slug">${slugCell(slug)}</td>
+    </tr>`;
+  });
+
+  html += '</tbody></table>';
+  wrap.innerHTML = html;
+  if (stats) stats.textContent = `${items.length} รายการ`;
+}
+
+// ── Copy buttons (event delegation) ─────────────────────────────
+document.addEventListener('click', e => {
+  const btn = e.target.closest('.cp-btn[data-copy]');
+  if (!btn) return;
+  e.stopPropagation();
+  navigator.clipboard.writeText(btn.dataset.copy).then(() => {
+    btn.classList.add('ok');
+    setTimeout(() => btn.classList.remove('ok'), 1400);
+  });
+});
+
+// ── Add Modal (local only) ───────────────────────────────────────
+const ADD_SCRIPTS = {
+  'anime-series': [
+    { id: 'fairyanime', label: 'fairyanime', file: 'fetch-fairyanime.js' },
+    { id: 'indy-anime', label: 'indy-anime', file: 'fetch-indy-anime.js' },
+  ],
+  'anime-movie': [
+    { id: 'fairyanime', label: 'fairyanime', file: 'fetch-fairyanime.js' },
+    { id: 'indy-anime', label: 'indy-anime', file: 'fetch-indy-anime.js' },
+  ],
+  'movie':  [],
+  'series': [],
+};
+
+const TAB_LABELS = {
+  'anime-series': 'Anime Series',
+  'anime-movie':  'Anime Movie',
+  'movie':        'Movie',
+  'series':       'Series',
+};
+
+let modalTab = 'anime-series';
+
+function buildAddButtons() {
+  if (!IS_LOCAL) return;
+  document.querySelectorAll('.tab-pane').forEach(pane => {
+    const bar = pane.querySelector('.pane-bar');
+    if (!bar) return;
+    // Batch update button
+    const batchBtn = document.createElement('button');
+    batchBtn.className = 'btn-batch';
+    batchBtn.innerHTML = '<i class="fi fi-sr-rotate-right"></i> Batch Update';
+    batchBtn.addEventListener('click', () => openBatchModal(pane.id));
+    bar.appendChild(batchBtn);
+    // Add new button
+    const addBtn = document.createElement('button');
+    addBtn.className = 'btn-add';
+    addBtn.innerHTML = '<i class="fi fi-sr-plus"></i> เพิ่ม';
+    addBtn.addEventListener('click', () => openAddModal(pane.id));
+    bar.appendChild(addBtn);
+  });
+}
+
+// Event delegation for per-row update buttons
+document.addEventListener('click', e => {
+  const btn = e.target.closest('.upd-btn[data-slug]');
+  if (!btn) return;
+  e.stopPropagation();
+  openUpdateModal(btn.dataset.slug, parseInt(btn.dataset.season) || 0, btn.dataset.tab, btn.dataset.title);
+});
+
+async function openAddModal(tabId) {
+  modalTab = tabId;
+  const scripts  = ADD_SCRIPTS[tabId] || [];
+  const isSeries = TABS[tabId].kind === 'series';
+
+  document.getElementById('modal-tab-hint').textContent = '— ' + (TAB_LABELS[tabId] || tabId);
+
+  // Script dropdown
+  const sel = document.getElementById('fm-script');
+  if (scripts.length) {
+    sel.innerHTML = scripts.map(s => `<option value="${s.id}">${s.label}</option>`).join('');
+    sel.closest('.fm-row').style.display = '';
+  } else {
+    sel.innerHTML = '';
+    sel.closest('.fm-row').style.display = 'none';
+  }
+
+  // Season visibility
+  document.getElementById('fm-season-row').style.display = isSeries ? '' : 'none';
+
+  // Reset fields
+  document.getElementById('fm-url').value    = '';
+  document.getElementById('fm-fname').value  = '';
+  document.getElementById('fm-tmdb').value   = '';
+  document.getElementById('fm-season').value = '1';
+  document.querySelector('input[name="fm-track"][value="th"]').checked = true;
+
+  // Hide log
+  document.getElementById('fm-log').classList.add('hidden');
+  document.getElementById('fm-log-body').textContent = '';
+
+  // Populate datalist from existing files
+  const datalist = document.getElementById('fm-fname-list');
+  datalist.innerHTML = '';
+  try {
+    const r = await fetch(`/api/playlist-files?tab=${tabId}`);
+    if (r.ok) {
+      const files = await r.json();
+      files.forEach(f => {
+        const opt = document.createElement('option');
+        opt.value = f.slug;
+        opt.label = f.tmdbId ? `${f.tmdbId}  ${f.slug}` : f.slug;
+        datalist.appendChild(opt);
+      });
+    }
+  } catch {}
+
+  updateCmd();
+  document.getElementById('add-modal').classList.remove('hidden');
+  setTimeout(() => document.getElementById('fm-url').focus(), 50);
+}
+
+function closeAddModal() {
+  document.getElementById('add-modal').classList.add('hidden');
+}
+
+/** Build { script, args, cmd } from current form values, or null if incomplete */
+function buildPayload() {
+  const scripts  = ADD_SCRIPTS[modalTab] || [];
+  const selVal   = document.getElementById('fm-script').value;
+  const script   = scripts.find(s => s.id === selVal) || scripts[0];
+  if (!script) return null;
+
+  const urlVal   = document.getElementById('fm-url').value.trim();
+  const fname    = document.getElementById('fm-fname').value.trim();
+  if (!urlVal || !fname) return null;
+
+  const track    = document.querySelector('input[name="fm-track"]:checked')?.value || 'th';
+  const season   = document.getElementById('fm-season').value.trim() || '1';
+  const tmdb     = document.getElementById('fm-tmdb').value.trim();
+  const isSeries = TABS[modalTab].kind === 'series';
+
+  const args = [urlVal, `--track=${track}`];
+  if (isSeries) args.push(`--season=${season}`);
+  args.push(`--output=${fname}.txt`);
+  if (tmdb) args.push(`--tmdb-id=${tmdb}`);
+
+  return { script: script.file, args, cmd: `node ${script.file} ${args.join(' ')}` };
+}
+
+function updateCmd() {
+  const cmdEl   = document.getElementById('fm-cmd');
+  const payload = buildPayload();
+  if (!payload) {
+    const hasScript = (ADD_SCRIPTS[modalTab] || []).length > 0;
+    cmdEl.textContent = hasScript ? '(กรุณากรอก URL และ Filename)' : '(ไม่มี script สำหรับประเภทนี้)';
+    cmdEl.className   = 'cmd-text placeholder';
+  } else {
+    cmdEl.textContent = payload.cmd;
+    cmdEl.className   = 'cmd-text';
+  }
+}
+
+// ── Shared stream runner ─────────────────────────────────────────
+async function runScript(script, args, bodyEl) {
+  const append = (text, cls) => {
+    const node = cls ? Object.assign(document.createElement('span'), { className: cls, textContent: text })
+                     : document.createTextNode(text);
+    bodyEl.appendChild(node);
+    bodyEl.scrollTop = bodyEl.scrollHeight;
+  };
+  let code = 1;
+  try {
+    const resp = await fetch('/api/run-fetch', {
+      method:  'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body:    JSON.stringify({ script, args }),
+    });
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const reader = resp.body.getReader();
+    const dec    = new TextDecoder();
+    let buf      = '';
+    while (true) {
+      const { done, value } = await reader.read();
+      if (done) break;
+      buf += dec.decode(value, { stream: true });
+      const parts = buf.split('\n\n');
+      buf = parts.pop();
+      for (const part of parts) {
+        const line = part.split('\n').find(l => l.startsWith('data: '));
+        if (!line) continue;
+        try {
+          const msg = JSON.parse(line.slice(6));
+          if      (msg.t === 'out')  append(msg.v);
+          else if (msg.t === 'err')  append(msg.v, 'log-err');
+          else if (msg.t === 'done') code = msg.code;
+        } catch {}
+      }
+    }
+  } catch (e) { append(`\nError: ${e.message}\n`, 'log-fail'); }
+  return code;
+}
+
+/** Run fetch script from Add modal */
+async function runFetch() {
+  const payload = buildPayload();
+  if (!payload) { alert('กรุณากรอก URL และ Filename'); return; }
+  const logEl  = document.getElementById('fm-log');
+  const bodyEl = document.getElementById('fm-log-body');
+  const runBtn = document.getElementById('fm-run-btn');
+  logEl.classList.remove('hidden');
+  bodyEl.textContent = '';
+  runBtn.disabled    = true;
+  runBtn.innerHTML   = '<span class="run-spin"></span> Running...';
+
+  const code = await runScript(payload.script, payload.args, bodyEl);
+  bodyEl.appendChild(Object.assign(document.createElement('span'), {
+    className: code === 0 ? 'log-done' : 'log-fail',
+    textContent: code === 0 ? '\n✓ เสร็จสิ้น\n' : `\n✗ ล้มเหลว (exit ${code})\n`,
+  }));
+  if (code === 0) { loaded.delete(modalTab); loadTab(modalTab); }
+  runBtn.disabled  = false;
+  runBtn.innerHTML = '<i class="fi fi-sr-play"></i> Run';
+}
+
+// ── Update Metadata Modal ────────────────────────────────────────
+let updateCtx = { slug: '', season: 0, tabId: '', title: '' };
+
+function buildUpdateCmd() {
+  const scripts   = ADD_SCRIPTS[updateCtx.tabId] || [];
+  const selVal    = document.getElementById('um-script').value;
+  const scriptObj = scripts.find(s => s.id === selVal) || scripts[0];
+  if (!scriptObj || !updateCtx.slug) return null;
+  const mode   = document.querySelector('input[name="um-mode"]:checked')?.value || 'all';
+  const season = document.getElementById('um-season').value.trim();
+  const track  = document.querySelector('input[name="um-track"]:checked')?.value || '';
+  const args   = [mode === 'all' ? '--update-meta' : `--update-meta=${mode}`];
+  if (season) args.push(`--season=${season}`);
+  if (track)  args.push(`--track=${track}`);
+  args.push(`--output=${updateCtx.slug}.txt`);
+  return { script: scriptObj.file, args, cmd: `node ${scriptObj.file} ${args.join(' ')}` };
+}
+
+function refreshUpdateCmd() {
+  const cmdEl = document.getElementById('um-cmd');
+  const p     = buildUpdateCmd();
+  cmdEl.textContent = p ? p.cmd : '—';
+  cmdEl.className   = p ? 'cmd-text' : 'cmd-text placeholder';
+}
+
+function openUpdateModal(slug, season, tabId, title) {
+  updateCtx = { slug, season, tabId, title };
+  const scripts  = ADD_SCRIPTS[tabId] || [];
+  const isSeries = TABS[tabId]?.kind === 'series';
+  document.getElementById('um-hint').textContent = title ? ` — ${splitTitle(title).en}` : '';
+  const sel = document.getElementById('um-script');
+  sel.innerHTML = scripts.length
+    ? scripts.map(s => `<option value="${s.id}">${s.label}</option>`).join('')
+    : '<option value="">—</option>';
+  document.getElementById('um-season-row').style.display = isSeries ? '' : 'none';
+  document.getElementById('um-season').value = season > 0 ? season : '';
+  document.querySelector('input[name="um-mode"][value="all"]').checked = true;
+  document.querySelector('input[name="um-track"][value=""]').checked   = true;
+  document.getElementById('um-log').classList.add('hidden');
+  document.getElementById('um-log-body').textContent = '';
+  refreshUpdateCmd();
+  document.getElementById('update-modal').classList.remove('hidden');
+}
+
+async function runUpdate() {
+  const payload = buildUpdateCmd();
+  if (!payload) return;
+  const logEl  = document.getElementById('um-log');
+  const bodyEl = document.getElementById('um-log-body');
+  const runBtn = document.getElementById('um-run-btn');
+  logEl.classList.remove('hidden');
+  bodyEl.textContent = '';
+  runBtn.disabled    = true;
+  runBtn.innerHTML   = '<span class="run-spin"></span> Running...';
+  const code = await runScript(payload.script, payload.args, bodyEl);
+  bodyEl.appendChild(Object.assign(document.createElement('span'), {
+    className: code === 0 ? 'log-done' : 'log-fail',
+    textContent: code === 0 ? '\n✓ เสร็จสิ้น\n' : `\n✗ ล้มเหลว (exit ${code})\n`,
+  }));
+  if (code === 0) { loaded.delete(updateCtx.tabId); loadTab(updateCtx.tabId); }
+  runBtn.disabled  = false;
+  runBtn.innerHTML = '<i class="fi fi-sr-rotate-right"></i> Update';
+}
+
+document.getElementById('um-run-btn').addEventListener('click', runUpdate);
+document.getElementById('um-close').addEventListener('click', () => document.getElementById('update-modal').classList.add('hidden'));
+document.getElementById('um-log-clear').addEventListener('click', () => { document.getElementById('um-log-body').textContent = ''; document.getElementById('um-log').classList.add('hidden'); });
+['um-script','um-season'].forEach(id => document.getElementById(id).addEventListener('input', refreshUpdateCmd));
+document.querySelectorAll('input[name="um-mode"],input[name="um-track"]').forEach(r => r.addEventListener('change', refreshUpdateCmd));
+document.getElementById('update-modal').addEventListener('click', e => { if (e.target === document.getElementById('update-modal')) document.getElementById('update-modal').classList.add('hidden'); });
+
+// ── Batch Update Modal ───────────────────────────────────────────
+let batchTab = '';
+
+async function openBatchModal(tabId) {
+  batchTab = tabId;
+  const scripts = ADD_SCRIPTS[tabId] || [];
+  document.getElementById('bm-hint').textContent = ` — ${TAB_LABELS[tabId] || tabId}`;
+  const sel = document.getElementById('bm-script');
+  sel.innerHTML = scripts.length
+    ? scripts.map(s => `<option value="${s.id}">${s.label}</option>`).join('')
+    : '<option value="">—</option>';
+  document.querySelector('input[name="bm-mode"][value="all"]').checked = true;
+  document.querySelector('input[name="bm-track"][value=""]').checked   = true;
+  document.getElementById('bm-season').value = '';
+  document.getElementById('bm-log').classList.add('hidden');
+  document.getElementById('bm-log-body').textContent = '';
+  const countEl = document.getElementById('bm-count-label');
+  countEl.textContent = '...';
+  try {
+    const r = await fetch(`/api/playlist-files?tab=${tabId}`);
+    const files = r.ok ? await r.json() : [];
+    countEl.textContent = `${files.length} ไฟล์`;
+  } catch { countEl.textContent = ''; }
+  document.getElementById('batch-modal').classList.remove('hidden');
+}
+
+async function runBatchUpdate() {
+  const scripts   = ADD_SCRIPTS[batchTab] || [];
+  const selVal    = document.getElementById('bm-script').value;
+  const scriptObj = scripts.find(s => s.id === selVal) || scripts[0];
+  if (!scriptObj) return;
+  const logEl  = document.getElementById('bm-log');
+  const bodyEl = document.getElementById('bm-log-body');
+  const runBtn = document.getElementById('bm-run-btn');
+  logEl.classList.remove('hidden');
+  bodyEl.textContent = '';
+  runBtn.disabled    = true;
+  runBtn.innerHTML   = '<span class="run-spin"></span> Running...';
+  const append = (text, cls) => {
+    bodyEl.appendChild(cls ? Object.assign(document.createElement('span'), { className: cls, textContent: text }) : document.createTextNode(text));
+    bodyEl.scrollTop = bodyEl.scrollHeight;
+  };
+  let files = [];
+  try { const r = await fetch(`/api/playlist-files?tab=${batchTab}`); files = r.ok ? await r.json() : []; } catch {}
+  if (!files.length) { append('ไม่พบไฟล์\n', 'log-fail'); runBtn.disabled = false; runBtn.innerHTML = '<i class="fi fi-sr-rotate-right"></i> Run All'; return; }
+
+  const mode   = document.querySelector('input[name="bm-mode"]:checked')?.value || 'all';
+  const season = document.getElementById('bm-season').value.trim();
+  const track  = document.querySelector('input[name="bm-track"]:checked')?.value || '';
+  let ok = 0, fail = 0;
+  for (let i = 0; i < files.length; i++) {
+    const f = files[i];
+    append(`\n[${i + 1}/${files.length}] ${f.slug}\n`, 'log-head');
+    const args = [mode === 'all' ? '--update-meta' : `--update-meta=${mode}`];
+    if (season) args.push(`--season=${season}`);
+    if (track)  args.push(`--track=${track}`);
+    args.push(`--output=${f.slug}.txt`);
+    const code = await runScript(scriptObj.file, args, bodyEl);
+    if (code === 0) ok++; else fail++;
+    append(code === 0 ? '✓\n' : `✗ (exit ${code})\n`, code === 0 ? 'log-done' : 'log-fail');
+  }
+  append(`\n━━━ ${ok} สำเร็จ${fail ? `, ${fail} ล้มเหลว` : ''} ━━━\n`, ok === files.length ? 'log-done' : 'log-fail');
+  if (ok > 0) { loaded.delete(batchTab); loadTab(batchTab); }
+  runBtn.disabled  = false;
+  runBtn.innerHTML = '<i class="fi fi-sr-rotate-right"></i> Run All';
+}
+
+document.getElementById('bm-run-btn').addEventListener('click', runBatchUpdate);
+document.getElementById('bm-close').addEventListener('click', () => document.getElementById('batch-modal').classList.add('hidden'));
+document.getElementById('bm-log-clear').addEventListener('click', () => { document.getElementById('bm-log-body').textContent = ''; document.getElementById('bm-log').classList.add('hidden'); });
+document.getElementById('batch-modal').addEventListener('click', e => { if (e.target === document.getElementById('batch-modal')) document.getElementById('batch-modal').classList.add('hidden'); });
+
+// Event listeners
+document.getElementById('fm-run-btn').addEventListener('click', runFetch);
+document.getElementById('fm-close').addEventListener('click', closeAddModal);
+document.getElementById('fm-log-clear').addEventListener('click', () => {
+  document.getElementById('fm-log-body').textContent = '';
+  document.getElementById('fm-log').classList.add('hidden');
+});
+document.getElementById('add-modal').addEventListener('click', e => {
+  if (e.target === document.getElementById('add-modal')) closeAddModal();
+});
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') closeAddModal();
+});
+['fm-script', 'fm-url', 'fm-fname', 'fm-tmdb', 'fm-season'].forEach(id => {
+  document.getElementById(id).addEventListener('input', updateCmd);
+});
+document.querySelectorAll('input[name="fm-track"]').forEach(r => {
+  r.addEventListener('change', updateCmd);
+});
+
+buildAddButtons();
+
+// ── Boot ─────────────────────────────────────────────────────────
+loadTab('anime-series');
+</script>
+</body>
+</html>

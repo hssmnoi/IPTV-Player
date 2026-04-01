@@ -1,5 +1,5 @@
 {
-  "name": "Black Clover: Sword Of The Wizard King แบล็คโคลเวอร์ ดาบแห่งจักรพรรดิเวทมนตร์",
+  "name": "Black Clover: Sword Of The Wizard King [แบล็คโคลเวอร์ ดาบแห่งจักรพรรดิเวทมนตร์]",
   "image": "https://m.media-amazon.com/images/M/MV5BOGIxZjZlZjUtODM0OC00NDJlLWI5ZjItNDg3MGJmODVmZWNhXkEyXkFqcGc@._V1_FMjpg_UY2222_.jpg",
   "stations": [
     {

@@ -204,6 +204,11 @@
       "image": "https://image.tmdb.org/t/p/original/A6mxBwvvv63JXZm3xXKv4SugE0L.jpg"
     },
     {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/anime/series/205743-isekai-shikkaku.txt",
+      "name": "No Longer Allowed in Another World [สูญสิ้นที่ต่างโลก]",
+      "image": "https://image.tmdb.org/t/p/original/bO39Vo712EVr7nxKi1X4xk4GxEm.jpg"
+    },
+    {
       "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/anime/series/129195-isekai-yakkyoku.txt",
       "name": "Parallel World Pharmacy [เภสัชกรเทพสองโลก]",
       "image": "https://image.tmdb.org/t/p/original/52PZhMEggFTd4YBsnpDZZLW44xQ.jpg"
