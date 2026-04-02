@@ -8,6 +8,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="../images/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="../images/favicon-16x16.png" />
   <link rel="manifest" href="../images/site.webmanifest" />
+  <link href="https://fonts.googleapis.com/css2?family=Anuphan:wght@100..700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-solid-rounded/css/uicons-solid-rounded.css">
   <link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-solid-straight/css/uicons-solid-straight.css">
   <link rel="stylesheet" href="https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css">
@@ -29,7 +30,7 @@
     body {
       background: var(--bg);
       color: var(--text);
-      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      font-family: 'Anuphan', 'Segoe UI', system-ui, -apple-system, sans-serif;
       font-size: 14px;
       display: flex;
       flex-direction: column;
@@ -68,6 +69,7 @@
       color: var(--text2);
       font-size: 13px;
       transition: all .15s;
+      font-family: 'Anuphan', 'Segoe UI', system-ui, -apple-system, sans-serif;
     }
     .tab-btn:hover  { background: var(--bg3); color: var(--text); }
     .tab-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
@@ -144,8 +146,8 @@
 
     td { padding: 6px 13px; vertical-align: middle; }
 
-    td.c-no   { color: var(--text3); font-size: 12px; width: 42px; text-align: right; padding-right: 8px; }
-    td.c-art  { width: 44px; padding: 3px 6px 3px 13px; }
+    td.c-no   { color: var(--text3); font-size: 12px; width: 42px; text-align: center; padding: 3px 6px; }
+    td.c-art  { width: 44px; padding: 3px 6px; }
     td.c-title { max-width: 320px; }
     td.c-szn  { color: var(--text2); white-space: nowrap; font-size: 13px; }
     td.c-trk  { white-space: nowrap; }
@@ -193,6 +195,18 @@
     td:hover .upd-btn { opacity: 1; }
     .upd-btn:hover { color: #4a9eff; }
 
+    .edit-title-btn {
+      display: inline-flex; align-items: center; gap: 5px;
+      background: none; border: 1px solid var(--border, #333);
+      color: var(--text2); cursor: pointer;
+      padding: 3px 8px; font-size: 11px; border-radius: 4px;
+      line-height: 1; transition: color .15s, border-color .15s;
+      white-space: nowrap;
+      font-family: 'Anuphan', 'Segoe UI', system-ui, -apple-system, sans-serif;
+    }
+    .edit-title-btn i { font-size: 8px; }
+    .edit-title-btn:hover { color: #f0a020; border-color: #f0a020; }
+
     /* ── Batch button ────────────────────────────────── */
     .btn-batch {
       display: flex; align-items: center; gap: 6px;
@@ -202,9 +216,10 @@
       font-size: 13px; cursor: pointer;
       transition: all .15s;
       margin-left: 6px;
+      font-family: 'Anuphan', 'Segoe UI', system-ui, -apple-system, sans-serif;
     }
     .btn-batch:hover { background: #223860; border-color: #3a6aaa; }
-    .btn-batch i { font-size: 13px; }
+    .btn-batch i { font-size: 11px; }
 
     /* ── Copy button ─────────────────────────────────── */
     .cp-btn {
@@ -263,9 +278,10 @@
       border: none; border-radius: 6px;
       font-size: 13px; cursor: pointer;
       transition: background .15s;
+      font-family: 'Anuphan', 'Segoe UI', system-ui, -apple-system, sans-serif;
     }
     .btn-add:hover { background: #c0070f; }
-    .btn-add i { font-size: 13px; }
+    .btn-add i { font-size: 11px; }
 
     /* ── Modal ───────────────────────────────────────── */
     .modal-overlay {
@@ -508,6 +524,10 @@
         <input type="number" id="um-season" min="1" placeholder="ว่าง = ทุก season" style="width:120px">
       </div>
       <div class="fm-row">
+        <label>TMDB ID <span style="color:var(--text3);font-weight:400;text-transform:none;letter-spacing:0">(ว่าง = auto)</span></label>
+        <input type="text" id="um-tmdb" placeholder="" style="width:120px">
+      </div>
+      <div class="fm-row">
         <label>Track</label>
         <div class="fm-radio-grp">
           <label><input type="radio" name="um-track" value="" checked> ทั้งหมด</label>
@@ -579,6 +599,30 @@
     <div class="modal-ft">
       <span style="color:var(--text3);font-size:12px;margin-right:auto" id="bm-count-label"></span>
       <button class="btn-run" id="bm-run-btn"><i class="fi fi-sr-rotate-right"></i> Run All</button>
+    </div>
+  </div>
+</div>
+
+<!-- Edit Title Modal -->
+<div id="edit-title-modal" class="modal-overlay hidden">
+  <div class="modal" style="max-width:500px">
+    <div class="modal-hd">
+      <h2>Edit Title</h2>
+      <button class="modal-close" id="et-close">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="fm-row">
+        <label>EN</label>
+        <input type="text" id="et-en" style="flex:1" placeholder="English title">
+      </div>
+      <div class="fm-row">
+        <label>TH</label>
+        <input type="text" id="et-th" style="flex:1" placeholder="ชื่อไทย">
+      </div>
+    </div>
+    <div class="modal-ft">
+      <span id="et-status" style="flex:1;font-size:12px;color:var(--text3)"></span>
+      <button class="btn-run" id="et-save-btn"><i class="fi fi-sr-disk"></i> Save</button>
     </div>
   </div>
 </div>
@@ -820,6 +864,26 @@ async function loadTab(tabId) {
       return ta.localeCompare(tb, 'th');
     });
 
+    // For movie tabs: load part files for main-file entries (to get track info)
+    if (cfg.kind !== 'series') {
+      const partFetches = [];
+      items.forEach(({ pl }) => {
+        if (Array.isArray(pl.groups) && pl.groups.length > 0
+            && pl.groups[0]?.url && !pl.groups[0]?.stations) {
+          pl.groups.forEach(group => {
+            if (group.url) {
+              partFetches.push(
+                getJSON(toLocal(group.url))
+                  .then(partPl => { group._partPl = partPl; })
+                  .catch(() => {})
+              );
+            }
+          });
+        }
+      });
+      if (partFetches.length) await Promise.all(partFetches);
+    }
+
     if (cfg.kind === 'series') renderSeries(wrap, stats, items, cfg.tmdbKind, tabId);
     else                       renderMovies(wrap, stats, items, cfg.tmdbKind, tabId);
 
@@ -830,8 +894,13 @@ async function loadTab(tabId) {
 }
 
 // ── Render series table ──────────────────────────────────────────
-function updBtn(slug, season, tabId, title) {
-  return `<button class="upd-btn" data-slug="${esc(slug)}" data-season="${season}" data-tab="${esc(tabId)}" data-title="${esc(title)}" title="Update Metadata"><i class="fi fi-sr-rotate-right"></i></button>`;
+function editTitleBtn(slug, tabId, title) {
+  if (!IS_LOCAL) return '';
+  return `<button class="edit-title-btn" data-slug="${esc(slug)}" data-tab="${esc(tabId)}" data-title="${esc(title)}"><i class="fi fi-rr-edit"></i> แก้ไข</button>`;
+}
+
+function updBtn(slug, season, tabId, title, partTmdbId = '') {
+  return `<button class="upd-btn" data-slug="${esc(slug)}" data-season="${season}" data-tab="${esc(tabId)}" data-title="${esc(title)}" data-part-tmdb="${esc(partTmdbId)}" title="Update Metadata"><i class="fi fi-sr-rotate-right"></i></button>`;
 }
 
 function renderSeries(wrap, stats, items, tmdbKind, tabId = '') {
@@ -903,27 +972,98 @@ function renderMovies(wrap, stats, items, tmdbKind, tabId = '') {
       <th class="c-no">No</th>
       <th style="width:44px"></th>
       <th>ชื่อเรื่อง</th>
+      <th>ภาค</th>
       <th>Track</th>
       <th>TMDB ID</th>
       <th>Playlist Name</th>
+      ${IS_LOCAL ? '<th style="width:32px"></th>' : ''}
     </tr></thead><tbody>`;
 
   items.forEach(({ g, pl }, idx) => {
-    const title    = pl.name  || g.name  || '(ไม่มีชื่อ)';
-    const poster   = pl.image || g.image || '';
-    const stations = pl.stations || [];
+    const title  = pl.name  || g.name  || '(ไม่มีชื่อ)';
+    const poster = pl.image || g.image || '';
     const { tmdbId, slug } = parseFile(g.url);
     const gid      = idx + 1;
-    const tracks   = (stations.map(s => badge(s.name)).join(' ') || '<span style="color:var(--text3)">—</span>') + updBtn(slug, 0, tabId, title);
+    const titleKey = title.toLowerCase();
 
-    html += `<tr data-group="${gid}" data-title="${esc(title.toLowerCase())}">
-      <td class="c-no">${gid}</td>
-      <td class="c-art">${artTag(poster, true)}</td>
-      <td class="c-title">${titleHtml(title)}</td>
-      <td class="c-trk">${tracks}</td>
-      <td class="c-tmdb">${tmdbCell(tmdbId, tmdbKind)}</td>
-      <td class="c-slug">${slugCell(slug)}</td>
-    </tr>`;
+    // New main-file format: groups with url (pointing to part files)
+    const isMainFile = Array.isArray(pl.groups) && pl.groups.length > 0 && pl.groups[0]?.url && !pl.groups[0]?.stations;
+    // Old groups-with-stations format
+    const hasInlineGroups = Array.isArray(pl.groups) && pl.groups.length > 0 && Array.isArray(pl.groups[0]?.stations);
+
+    const actCell = (isHeader) =>
+      IS_LOCAL ? `<td class="c-act">${isHeader ? editTitleBtn(slug, tabId, title) : ''}</td>` : '';
+
+    if (isMainFile) {
+      // Header row (title / art / no / slug only — no part data)
+      html += `<tr data-group="${gid}" data-title="${esc(titleKey)}" class="grp-top">
+        <td class="c-no">${gid}</td>
+        <td class="c-art">${artTag(poster, true)}</td>
+        <td class="c-title">${titleHtml(title)}</td>
+        <td class="c-szn"></td>
+        <td class="c-trk"></td>
+        <td class="c-tmdb"></td>
+        <td class="c-slug">${slugCell(slug)}</td>
+        ${actCell(true)}
+      </tr>`;
+
+      // One row per part
+      pl.groups.forEach((group, gi) => {
+        const badgeName   = group.badge || `ภาค ${gi + 1}`;
+        const partUrl     = group.url || '';
+        const partFile    = partUrl.split('/').pop().replace(/\.txt$/i, '');
+        const partTmdbId  = partFile.match(/^(\d+)-/)?.[1] || '';
+        const partSlug    = partFile.replace(/^\d+-/, '');
+        const partStations = group._partPl?.stations || [];
+        const trackBadges = partStations.map(s => badge(s.name)).join(' ')
+                          || '<span style="color:var(--text3)">—</span>';
+
+        html += `<tr data-group="${gid}" data-title="${esc(titleKey)}" class="">
+          <td class="c-no"></td>
+          <td class="c-art"></td>
+          <td class="c-title"><span class="title-cont">↳ ${esc(group.name || badgeName)}</span></td>
+          <td class="c-szn">${esc(badgeName)}${updBtn(partSlug, gi + 1, tabId, title, partTmdbId)}</td>
+          <td class="c-trk">${trackBadges}</td>
+          <td class="c-tmdb">${partTmdbId ? tmdbCell(partTmdbId, tmdbKind) : ''}</td>
+          <td class="c-slug"></td>
+          ${actCell(false)}
+        </tr>`;
+      });
+    } else if (hasInlineGroups) {
+      pl.groups.forEach((group, gi) => {
+        const isFirst  = gi === 0;
+        const partName = group.name || `ภาค ${gi + 1}`;
+        const trackBadges = (group.stations || []).map(s => badge(s.name)).join(' ') || '<span style="color:var(--text3)">—</span>';
+
+        html += `<tr data-group="${gid}" data-title="${esc(titleKey)}" class="${isFirst ? 'grp-top' : ''}">
+          <td class="c-no">${isFirst ? gid : ''}</td>
+          <td class="c-art">${artTag(poster, isFirst)}</td>
+          <td class="c-title">${isFirst
+            ? titleHtml(title)
+            : `<span class="title-cont">↳ ${esc(partName)}</span>`}</td>
+          <td class="c-szn">${esc(partName)}${updBtn(slug, gi + 1, tabId, title)}</td>
+          <td class="c-trk">${trackBadges}</td>
+          <td class="c-tmdb">${isFirst ? tmdbCell(tmdbId, tmdbKind) : ''}</td>
+          <td class="c-slug">${isFirst ? slugCell(slug) : ''}</td>
+          ${actCell(isFirst)}
+        </tr>`;
+      });
+    } else {
+      // Old flat format (backward compat): stations at root
+      const stations = pl.stations || [];
+      const trackBadges = stations.map(s => badge(s.name)).join(' ') || '<span style="color:var(--text3)">—</span>';
+
+      html += `<tr data-group="${gid}" data-title="${esc(titleKey)}" class="grp-top">
+        <td class="c-no">${gid}</td>
+        <td class="c-art">${artTag(poster, true)}</td>
+        <td class="c-title">${titleHtml(title)}</td>
+        <td class="c-szn" style="color:var(--text3)">—${updBtn(slug, 0, tabId, title)}</td>
+        <td class="c-trk">${trackBadges}</td>
+        <td class="c-tmdb">${tmdbCell(tmdbId, tmdbKind)}</td>
+        <td class="c-slug">${slugCell(slug)}</td>
+        ${actCell(true)}
+      </tr>`;
+    }
   });
 
   html += '</tbody></table>';
@@ -947,13 +1087,20 @@ const ADD_SCRIPTS = {
   'anime-series': [
     { id: 'fairyanime', label: 'fairyanime', file: 'fetch-fairyanime.js' },
     { id: 'indy-anime', label: 'indy-anime', file: 'fetch-indy-anime.js' },
+    { id: 'kurokamii',  label: 'kurokamii',  file: 'fetch-kurokamii.js'  },
   ],
   'anime-movie': [
     { id: 'fairyanime', label: 'fairyanime', file: 'fetch-fairyanime.js' },
     { id: 'indy-anime', label: 'indy-anime', file: 'fetch-indy-anime.js' },
+    { id: 'kurokamii',  label: 'kurokamii',  file: 'fetch-kurokamii.js'  },
   ],
-  'movie':  [],
-  'series': [],
+  'movie': [
+    { id: 'fairyanime', label: 'fairyanime', file: 'fetch-fairyanime.js' },
+    { id: 'indy-anime', label: 'indy-anime', file: 'fetch-indy-anime.js' },
+  ],
+  'series': [
+    { id: 'indy-anime', label: 'indy-anime', file: 'fetch-indy-anime.js' },
+  ],
 };
 
 const TAB_LABELS = {
@@ -974,7 +1121,7 @@ function buildAddButtons() {
     // Batch update button
     const batchBtn = document.createElement('button');
     batchBtn.className = 'btn-batch';
-    batchBtn.innerHTML = '<i class="fi fi-sr-rotate-right"></i> Batch Update';
+    batchBtn.innerHTML = '<i class="fi fi-sr-rotate-right"></i> อัพเดททั้งหมด';
     batchBtn.addEventListener('click', () => openBatchModal(pane.id));
     bar.appendChild(batchBtn);
     // Add new button
@@ -991,7 +1138,85 @@ document.addEventListener('click', e => {
   const btn = e.target.closest('.upd-btn[data-slug]');
   if (!btn) return;
   e.stopPropagation();
-  openUpdateModal(btn.dataset.slug, parseInt(btn.dataset.season) || 0, btn.dataset.tab, btn.dataset.title);
+  openUpdateModal(btn.dataset.slug, parseInt(btn.dataset.season) || 0, btn.dataset.tab, btn.dataset.title, btn.dataset.partTmdb || '');
+});
+
+// ── Edit Title Modal ─────────────────────────────────────────────
+let etCtx = {};
+
+document.addEventListener('click', e => {
+  const btn = e.target.closest('.edit-title-btn[data-slug]');
+  if (!btn) return;
+  e.stopPropagation();
+  openEditTitleModal(btn.dataset.slug, btn.dataset.tab, btn.dataset.title);
+});
+
+function openEditTitleModal(slug, tabId, title) {
+  etCtx = { slug, tabId, title };
+  const { en, th } = splitTitle(title);
+  document.getElementById('et-en').value = en;
+  document.getElementById('et-th').value = th;
+  document.getElementById('et-status').textContent = '';
+  document.getElementById('edit-title-modal').classList.remove('hidden');
+  document.getElementById('et-en').focus();
+}
+
+document.getElementById('et-close').addEventListener('click', () => {
+  document.getElementById('edit-title-modal').classList.add('hidden');
+});
+
+document.getElementById('edit-title-modal').addEventListener('click', e => {
+  if (e.target === e.currentTarget)
+    e.currentTarget.classList.add('hidden');
+});
+
+document.getElementById('et-save-btn').addEventListener('click', async () => {
+  const en = document.getElementById('et-en').value.trim();
+  const th = document.getElementById('et-th').value.trim();
+  const status = document.getElementById('et-status');
+
+  if (!en) { status.textContent = '⚠ กรุณากรอกชื่ออังกฤษ'; return; }
+
+  const newTitle = th ? `${en} [${th}]` : en;
+  const { slug, tabId } = etCtx;
+  const dir       = TABS[tabId].index.replace(/\/index\.txt$/, '');
+  const filePath  = `${dir}/${slug}.txt`;
+  const indexPath = TABS[tabId].index;
+
+  status.textContent = 'กำลังบันทึก...';
+  document.getElementById('et-save-btn').disabled = true;
+
+  try {
+    // 1. Update playlist file
+    const pl = await getJSON('/' + filePath);
+    pl.name = newTitle;
+    await fetch('/api/save-file', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ filePath, data: pl }),
+    }).then(r => { if (!r.ok) throw new Error(r.statusText); });
+
+    // 2. Update index file
+    const idx = await getJSON('/' + indexPath);
+    const grp = (idx.groups || []).find(g => g.url && g.url.split('/').pop() === `${slug}.txt`);
+    if (grp) grp.name = newTitle;
+    await fetch('/api/save-file', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ filePath: indexPath, data: idx }),
+    }).then(r => { if (!r.ok) throw new Error(r.statusText); });
+
+    status.textContent = '✓ บันทึกแล้ว';
+    setTimeout(() => {
+      document.getElementById('edit-title-modal').classList.add('hidden');
+      loaded.delete(tabId);
+      loadTab(tabId);
+    }, 800);
+  } catch (err) {
+    status.textContent = '⚠ Error: ' + err.message;
+  } finally {
+    document.getElementById('et-save-btn').disabled = false;
+  }
 });
 
 async function openAddModal(tabId) {
@@ -1011,8 +1236,9 @@ async function openAddModal(tabId) {
     sel.closest('.fm-row').style.display = 'none';
   }
 
-  // Season visibility
-  document.getElementById('fm-season-row').style.display = isSeries ? '' : 'none';
+  // Season / ภาค label & visibility (always show)
+  document.querySelector('#fm-season-row label').textContent = isSeries ? 'Season' : 'ภาค';
+  document.getElementById('fm-season-row').style.display = '';
 
   // Reset fields
   document.getElementById('fm-url').value    = '';
@@ -1067,8 +1293,7 @@ function buildPayload() {
   const tmdb     = document.getElementById('fm-tmdb').value.trim();
   const isSeries = TABS[modalTab].kind === 'series';
 
-  const args = [urlVal, `--track=${track}`];
-  if (isSeries) args.push(`--season=${season}`);
+  const args = [urlVal, `--track=${track}`, `--type=${modalTab}`, `--season=${season}`];
   args.push(`--output=${fname}.txt`);
   if (tmdb) args.push(`--tmdb-id=${tmdb}`);
 
@@ -1160,9 +1385,11 @@ function buildUpdateCmd() {
   const mode   = document.querySelector('input[name="um-mode"]:checked')?.value || 'all';
   const season = document.getElementById('um-season').value.trim();
   const track  = document.querySelector('input[name="um-track"]:checked')?.value || '';
+  const tmdb   = document.getElementById('um-tmdb').value.trim();
   const args   = [mode === 'all' ? '--update-meta' : `--update-meta=${mode}`];
   if (season) args.push(`--season=${season}`);
   if (track)  args.push(`--track=${track}`);
+  if (tmdb)   args.push(`--tmdb-id=${tmdb}`);
   args.push(`--output=${updateCtx.slug}.txt`);
   return { script: UPDATE_SCRIPT, args, cmd: `node ${UPDATE_SCRIPT} ${args.join(' ')}` };
 }
@@ -1174,12 +1401,13 @@ function refreshUpdateCmd() {
   cmdEl.className   = p ? 'cmd-text' : 'cmd-text placeholder';
 }
 
-function openUpdateModal(slug, season, tabId, title) {
+function openUpdateModal(slug, season, tabId, title, partTmdbId = '') {
   updateCtx = { slug, season, tabId, title };
   const isSeries = TABS[tabId]?.kind === 'series';
   document.getElementById('um-hint').textContent = title ? ` — ${splitTitle(title).en}` : '';
   document.getElementById('um-season-row').style.display = isSeries ? '' : 'none';
   document.getElementById('um-season').value = season > 0 ? season : '';
+  document.getElementById('um-tmdb').value = partTmdbId || '';
   document.querySelector('input[name="um-mode"][value="all"]').checked = true;
   document.querySelector('input[name="um-track"][value=""]').checked   = true;
   document.getElementById('um-log').classList.add('hidden');
@@ -1212,6 +1440,7 @@ document.getElementById('um-run-btn').addEventListener('click', runUpdate);
 document.getElementById('um-close').addEventListener('click', () => document.getElementById('update-modal').classList.add('hidden'));
 document.getElementById('um-log-clear').addEventListener('click', () => { document.getElementById('um-log-body').textContent = ''; document.getElementById('um-log').classList.add('hidden'); });
 document.getElementById('um-season').addEventListener('input', refreshUpdateCmd);
+document.getElementById('um-tmdb').addEventListener('input', refreshUpdateCmd);
 document.querySelectorAll('input[name="um-mode"],input[name="um-track"]').forEach(r => r.addEventListener('change', refreshUpdateCmd));
 document.getElementById('update-modal').addEventListener('click', e => { if (e.target === document.getElementById('update-modal')) document.getElementById('update-modal').classList.add('hidden'); });
 

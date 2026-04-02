@@ -5,7 +5,7 @@ cd /d "%~dp0"
 :MENU
 cls
 echo ==========================================
-echo   fetch-indy-anime.js
+echo   fetch-kurokamii.js
 echo ==========================================
 echo.
 echo  1. Fetch stream URLs
@@ -30,21 +30,19 @@ echo.
 echo  Type:
 echo    1 = anime-series (default)
 echo    2 = anime-movie
-echo    3 = movie
-echo    4 = series
 echo.
 set "TYPE_CHOICE=1"
 set /p TYPE_CHOICE=Select type [1]:
 if "%TYPE_CHOICE%"=="" set "TYPE_CHOICE=1"
-if "%TYPE_CHOICE%"=="1" (set "CTYPE=anime-series") else if "%TYPE_CHOICE%"=="2" (set "CTYPE=anime-movie") else if "%TYPE_CHOICE%"=="3" (set "CTYPE=movie") else if "%TYPE_CHOICE%"=="4" (set "CTYPE=series") else (set "CTYPE=anime-series")
+if "%TYPE_CHOICE%"=="1" (set "CTYPE=anime-series") else if "%TYPE_CHOICE%"=="2" (set "CTYPE=anime-movie") else (set "CTYPE=anime-series")
 echo.
 set "URL="
-set /p URL=indy-anime URL:
+set /p URL=kurokamii anime URL (e.g. https://kurokamii.com/anime/6423):
 if "%URL%"=="" goto FETCH
 
 echo.
 echo  Track:
-echo    1 = th    (dubbed)
+echo    1 = th    (dubbed) [default]
 echo    2 = subth (subbed)
 echo.
 set "TRACK_CHOICE=1"
@@ -68,7 +66,7 @@ set "TMDB_ID="
 set /p TMDB_ID=TMDB ID (leave blank = auto):
 
 echo.
-set "CMD=node fetch-indy-anime.js %URL% --track=%TRACK% --season=%SEASON% --output=%OUTPUT% --type=%CTYPE%"
+set "CMD=node fetch-kurokamii.js %URL% --track=%TRACK% --season=%SEASON% --output=%OUTPUT% --type=%CTYPE%"
 if not "%TMDB_ID%"=="" set "CMD=%CMD% --tmdb-id=%TMDB_ID%"
 
 echo  ^ %CMD%
@@ -116,7 +114,7 @@ if "%TRACK_CHOICE%"=="" set "TRACK_CHOICE=0"
 if "%TRACK_CHOICE%"=="1" (set "TRACK_OPT=--track=th") else if "%TRACK_CHOICE%"=="2" (set "TRACK_OPT=--track=subth") else (set "TRACK_OPT=")
 
 echo.
-set "CMD=node fetch-indy-anime.js"
+set "CMD=node fetch-kurokamii.js"
 if "%META_MODE%"=="all" (set "CMD=%CMD% --update-meta") else (set "CMD=%CMD% --update-meta=%META_MODE%")
 if not "%SEASON%"=="" set "CMD=%CMD% --season=%SEASON%"
 if not "%TRACK_OPT%"=="" set "CMD=%CMD% %TRACK_OPT%"

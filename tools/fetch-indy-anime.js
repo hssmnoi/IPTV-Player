@@ -81,6 +81,10 @@ const updateMetaMode = updateMetaArg?.includes("=") ? updateMetaArg.split("=")[1
 const tmdbIdArg = args.find((a) => a.startsWith("--tmdb-id="));
 const forceTmdbId = tmdbIdArg ? parseInt(tmdbIdArg.replace("--tmdb-id=", "")) || null : null;
 
+const typeArg     = (args.find((a) => a.startsWith("--type=")) || "").replace("--type=", "");
+const contentType = ['anime-series','anime-movie','movie','series'].includes(typeArg) ? typeArg : 'anime-series';
+const isMovie     = contentType === 'anime-movie' || contentType === 'movie';
+
 if (!seriesUrl && !updateMeta) {
   console.error("Usage: node fetch-indy-anime.js <url> [--track=th|subth] [--season=N] [--output=FILE]");
   console.error("       node fetch-indy-anime.js --update-meta[=poster|cover|title] [--season=N] [--track=th|subth] --output=FILE.txt");
@@ -88,9 +92,15 @@ if (!seriesUrl && !updateMeta) {
 }
 
 // ───── Config ─────
-const PLAYLIST_DIR = path.resolve(__dirname, "../playlist/anime/series");
-const INDEX_PATH = path.resolve(PLAYLIST_DIR, "index.txt");
-const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/anime/series/";
+const TYPE_CONFIG = {
+  'anime-series': { dir: '../playlist/anime/series', base: 'playlist/anime/series/'  },
+  'anime-movie':  { dir: '../playlist/anime/movies', base: 'playlist/anime/movies/'  },
+  'movie':        { dir: '../playlist/movies',       base: 'playlist/movies/'        },
+  'series':       { dir: '../playlist/series',       base: 'playlist/series/'        },
+};
+const PLAYLIST_DIR    = path.resolve(__dirname, TYPE_CONFIG[contentType].dir);
+const INDEX_PATH      = path.resolve(PLAYLIST_DIR, 'index.txt');
+const GITHUB_RAW_BASE = `https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/${TYPE_CONFIG[contentType].base}`;
 const REFERER = "https://indy-anime.net/";
 
 const HEADERS = {
@@ -262,6 +272,28 @@ async function getTmdbSeasonBilingual(tvId, apiKey, season = 1) {
   };
 }
 
+// ── TMDB Movie functions ───────────────────────────────────────────
+async function searchTmdbMovie(title, apiKey) {
+  const query = encodeURIComponent(cleanTitleForSearch(title));
+  const url   = `https://api.themoviedb.org/3/search/movie?query=${query}&language=en-US&api_key=${apiKey}`;
+  const res   = await fetch(url);
+  if (!res.ok) return null;
+  const data  = await res.json();
+  return data.results?.[0] || null;
+}
+
+async function getTmdbMovieDetail(movieId, apiKey, language = "en-US") {
+  const url = `https://api.themoviedb.org/3/movie/${movieId}?language=${language}&api_key=${apiKey}`;
+  const res = await fetch(url);
+  if (!res.ok) return null;
+  return res.json();
+}
+
+async function getTmdbMovieNameTh(movieId, apiKey) {
+  const data = await getTmdbMovieDetail(movieId, apiKey, "th-TH");
+  return data?.title || null;
+}
+
 async function getTmdbEpisodes(tvId, apiKey, season = 1, language = "en-US") {
   return (await getTmdbSeason(tvId, apiKey, season, language)).episodes;
 }
@@ -327,6 +359,75 @@ function buildOrMergePlaylist(outputPath, seriesTitle, posterUrl, seasonPosterUr
     image: posterUrl,
     groups: [{ name: newSeasonName, image: seasonPosterUrl, groups: [newTrack] }],
   };
+}
+
+// ── Build / update part file ({tmdbId}-{slug}.txt) ──────────────
+function buildPartFile(outputPath, season, posterUrl, trackName, streamUrl, streamReferer) {
+  const partName   = `ภาค ${season}`;
+  const newStation = {
+    name:  trackName,
+    image: posterUrl,
+    url:   streamUrl,
+    ...(streamReferer && { referer: streamReferer }),
+  };
+
+  let playlist;
+  if (fs.existsSync(outputPath)) {
+    try { playlist = JSON.parse(fs.readFileSync(outputPath, "utf-8")); }
+    catch { playlist = null; }
+  }
+
+  if (!playlist) {
+    return { name: partName, image: posterUrl, stations: [newStation] };
+  }
+
+  playlist.name  = partName;
+  playlist.image = posterUrl;
+  playlist.stations = (playlist.stations || []).filter(s => s.name !== trackName);
+  playlist.stations.push(newStation);
+  playlist.stations.sort((a, b) => {
+    if (a.name === "พากย์ไทย") return -1;
+    if (b.name === "พากย์ไทย") return 1;
+    return 0;
+  });
+  console.log(`\n🔀 Merge "${trackName}" เข้า ${partName}`);
+  return playlist;
+}
+
+// ── Upsert group entry in main file ({slug}.txt) ──────────────
+function upsertMainFile(mainPath, franchiseName, franchisePoster, partTitle, partPoster, partFileRawUrl, season) {
+  const badgeName = `ภาค ${season}`;
+
+  let main;
+  if (fs.existsSync(mainPath)) {
+    try { main = JSON.parse(fs.readFileSync(mainPath, "utf-8")); }
+    catch { main = null; }
+  }
+
+  if (!main) {
+    main = { name: franchiseName, image: franchisePoster, groups: [] };
+  }
+  // Don't overwrite existing root name/image
+
+  main.groups = main.groups || [];
+  const existing = main.groups.find(g => g.url === partFileRawUrl);
+  if (existing) {
+    existing.name  = partTitle;
+    existing.image = partPoster;
+    existing.badge = badgeName;
+    console.log(`\n🔀 อัปเดต group "${badgeName}" ใน main file`);
+  } else {
+    main.groups.push({ name: partTitle, image: partPoster, url: partFileRawUrl, badge: badgeName });
+    console.log(`\n➕ เพิ่ม group "${badgeName}" เข้า main file`);
+  }
+
+  main.groups.sort((a, b) => {
+    const na = parseInt(a.badge?.match(/\d+/)?.[0]) || 0;
+    const nb = parseInt(b.badge?.match(/\d+/)?.[0]) || 0;
+    return na - nb;
+  });
+
+  return main;
 }
 
 // ───── Step 5: Update index.txt ─────
@@ -403,8 +504,54 @@ async function runUpdateMeta() {
 
   const playlist = JSON.parse(fs.readFileSync(outputPath, "utf-8"));
   const rawTitle = playlist.name || "";
+  const isMovieStructure = Array.isArray(playlist.stations);
 
   let tmdbResult;
+  if (isMovieStructure) {
+    // ── Movie update-meta ──────────────────────────────────────
+    if (forceTmdbId) {
+      console.log(`\n🎬 ใช้ TMDB ID ที่ระบุ: ${forceTmdbId}`);
+      tmdbResult = await getTmdbMovieDetail(forceTmdbId, tmdbKey, "en-US");
+      if (!tmdbResult) { console.error(`❌ ไม่พบ TMDB ID: ${forceTmdbId}`); process.exit(1); }
+    } else {
+      console.log(`\n🎬 กำลัง search TMDB (movie) สำหรับ: "${rawTitle}"`);
+      tmdbResult = await searchTmdbMovie(rawTitle, tmdbKey);
+      if (!tmdbResult) { console.error("❌ ไม่พบใน TMDB"); process.exit(1); }
+    }
+    const tmdbPoster = `https://image.tmdb.org/t/p/original${tmdbResult.poster_path}`;
+    const tmdbEnName = tmdbResult.title || rawTitle;
+    const tmdbThName = await getTmdbMovieNameTh(tmdbResult.id, tmdbKey);
+    const tmdbName   = formatSeriesTitle(tmdbEnName, tmdbThName);
+    console.log(`✅ พบ: "${tmdbName}" (ID: ${tmdbResult.id})`);
+    if (doPoster) {
+      // Part file: update image only, keep name as "ภาค N"
+      playlist.image = tmdbPoster;
+      (playlist.stations || []).forEach(s => { s.image = tmdbPoster; });
+    }
+
+    // Sync back to main file group entry
+    const mainSlug   = resolvedOutput.replace(/^\d+-/, "");
+    const mainPath   = path.resolve(PLAYLIST_DIR, mainSlug);
+    if (fs.existsSync(mainPath)) {
+      try {
+        const main = JSON.parse(fs.readFileSync(mainPath, "utf-8"));
+        const partRawUrl = `${GITHUB_RAW_BASE}${resolvedOutput}`;
+        const grp = (main.groups || []).find(g => g.url === partRawUrl);
+        if (grp) {
+          if (doPoster) { grp.name = tmdbName; grp.image = tmdbPoster; }
+          fs.writeFileSync(mainPath, JSON.stringify(main, null, 4), "utf-8");
+          console.log(`✅ อัปเดต main file group: ${mainSlug}`);
+        }
+      } catch { /* ignore if main file missing/corrupt */ }
+    }
+    fs.writeFileSync(outputPath, JSON.stringify(playlist, null, 4), "utf-8");
+    console.log(`\n📁 อัปเดตไฟล์: ${outputPath}`);
+    updateIndex(tmdbName, tmdbPoster, resolvedOutput, { upsert: true });
+    console.log("🎉 เสร็จสิ้น!");
+    return;
+  }
+
+  // ── Series update-meta ──────────────────────────────────────
   if (forceTmdbId) {
     console.log(`\n🎬 ใช้ TMDB ID ที่ระบุ: ${forceTmdbId}`);
     tmdbResult = await getTmdbShow(forceTmdbId, tmdbKey, "en-US");
@@ -507,41 +654,64 @@ async function main() {
 
     if (tmdbKey) {
       let tmdbResult;
-      if (forceTmdbId) {
-        console.log(`\n🎬 ใช้ TMDB ID ที่ระบุ: ${forceTmdbId}`);
-        tmdbResult = await getTmdbShow(forceTmdbId, tmdbKey, "en-US");
-      } else {
-        console.log("\n🎬 กำลัง search TMDB...");
-        tmdbResult = await searchTmdb(rawTitle, tmdbKey);
-      }
-
-      if (tmdbResult) {
-        const tmdbEnName = tmdbResult.name || rawTitle;
-        const tmdbThName = await getTmdbShowNameTh(tmdbResult.id, tmdbKey);
-        const tmdbName = formatSeriesTitle(tmdbEnName, tmdbThName);
-        const tmdbPoster = tmdbResult.poster_path
-          ? `https://image.tmdb.org/t/p/original${tmdbResult.poster_path}`
-          : rawPoster;
-        console.log(`✅ พบใน TMDB: "${tmdbName}" (ID: ${tmdbResult.id})`);
-        tmdbShow = tmdbResult;
-        seriesTitle = tmdbName;
-        posterUrl = tmdbPoster;
-        seasonPosterUrl = tmdbPoster; // default to show-level, override below if season poster exists
-
-        if (isDubbedTrack) {
-          const biData = await getTmdbSeasonBilingual(tmdbResult.id, tmdbKey, seasonNum || 1);
-          tmdbEpisodes = biData.thEpisodes;
-          if (biData.poster) seasonPosterUrl = biData.poster;
-          console.log(`✅ ดึงข้อมูล ${tmdbEpisodes.length} ตอน (Season ${seasonNum || 1}, th-TH w/ EN fallback) จาก TMDB`);
+      if (isMovie) {
+        if (forceTmdbId) {
+          console.log(`\n🎬 ใช้ TMDB ID ที่ระบุ: ${forceTmdbId}`);
+          tmdbResult = await getTmdbMovieDetail(forceTmdbId, tmdbKey, "en-US");
         } else {
-          const seasonData = await getTmdbSeason(tmdbResult.id, tmdbKey, seasonNum || 1, "en-US");
-          tmdbEpisodes = seasonData.episodes;
-          if (seasonData.poster) seasonPosterUrl = seasonData.poster;
-          console.log(`✅ ดึงข้อมูล ${tmdbEpisodes.length} ตอน (Season ${seasonNum || 1}, en-US) จาก TMDB`);
+          console.log("\n🎬 กำลัง search TMDB (movie)...");
+          tmdbResult = await searchTmdbMovie(rawTitle, tmdbKey);
         }
-        console.log(`✅ poster: show-level=${posterUrl !== rawPoster} season-specific=${seasonPosterUrl !== posterUrl}`);
+        if (tmdbResult) {
+          const tmdbEnName = tmdbResult.title || rawTitle;
+          const tmdbThName = await getTmdbMovieNameTh(tmdbResult.id, tmdbKey);
+          const tmdbName   = formatSeriesTitle(tmdbEnName, tmdbThName);
+          const tmdbPoster = tmdbResult.poster_path
+            ? `https://image.tmdb.org/t/p/original${tmdbResult.poster_path}`
+            : rawPoster;
+          console.log(`✅ พบใน TMDB: "${tmdbName}" (ID: ${tmdbResult.id})`);
+          tmdbShow    = tmdbResult;
+          seriesTitle = tmdbName;
+          posterUrl   = tmdbPoster;
+        } else {
+          console.warn("⚠️  ไม่พบใน TMDB ใช้ข้อมูลจาก indy-anime แทน");
+        }
       } else {
-        console.warn("⚠️  ไม่พบใน TMDB ใช้ข้อมูลจาก indy-anime แทน");
+        if (forceTmdbId) {
+          console.log(`\n🎬 ใช้ TMDB ID ที่ระบุ: ${forceTmdbId}`);
+          tmdbResult = await getTmdbShow(forceTmdbId, tmdbKey, "en-US");
+        } else {
+          console.log("\n🎬 กำลัง search TMDB...");
+          tmdbResult = await searchTmdb(rawTitle, tmdbKey);
+        }
+        if (tmdbResult) {
+          const tmdbEnName = tmdbResult.name || rawTitle;
+          const tmdbThName = await getTmdbShowNameTh(tmdbResult.id, tmdbKey);
+          const tmdbName   = formatSeriesTitle(tmdbEnName, tmdbThName);
+          const tmdbPoster = tmdbResult.poster_path
+            ? `https://image.tmdb.org/t/p/original${tmdbResult.poster_path}`
+            : rawPoster;
+          console.log(`✅ พบใน TMDB: "${tmdbName}" (ID: ${tmdbResult.id})`);
+          tmdbShow        = tmdbResult;
+          seriesTitle     = tmdbName;
+          posterUrl       = tmdbPoster;
+          seasonPosterUrl = tmdbPoster;
+
+          if (isDubbedTrack) {
+            const biData = await getTmdbSeasonBilingual(tmdbResult.id, tmdbKey, seasonNum || 1);
+            tmdbEpisodes    = biData.thEpisodes;
+            if (biData.poster) seasonPosterUrl = biData.poster;
+            console.log(`✅ ดึงข้อมูล ${tmdbEpisodes.length} ตอน (Season ${seasonNum || 1}, th-TH w/ EN fallback) จาก TMDB`);
+          } else {
+            const seasonData = await getTmdbSeason(tmdbResult.id, tmdbKey, seasonNum || 1, "en-US");
+            tmdbEpisodes    = seasonData.episodes;
+            if (seasonData.poster) seasonPosterUrl = seasonData.poster;
+            console.log(`✅ ดึงข้อมูล ${tmdbEpisodes.length} ตอน (Season ${seasonNum || 1}, en-US) จาก TMDB`);
+          }
+          console.log(`✅ poster: show-level=${posterUrl !== rawPoster} season-specific=${seasonPosterUrl !== posterUrl}`);
+        } else {
+          console.warn("⚠️  ไม่พบใน TMDB ใช้ข้อมูลจาก indy-anime แทน");
+        }
       }
     }
 
@@ -588,15 +758,35 @@ async function main() {
     const outputFile = resolvedIdPrefix ? `${resolvedIdPrefix}-${slugFile}` : slugFile;
     const outputPath = path.resolve(PLAYLIST_DIR, outputFile);
 
-    const playlist = buildOrMergePlaylist(outputPath, seriesTitle, posterUrl, seasonPosterUrl, stations, trackName);
-    fs.writeFileSync(outputPath, JSON.stringify(playlist, null, 4), "utf-8");
-    console.log(`\n📁 บันทึกไฟล์: ${outputPath}`);
+    if (isMovie) {
+      const s = stations[0];
+      if (!s) { console.error("❌ ไม่พบ stream URL"); process.exit(1); }
 
-    updateIndex(seriesTitle, posterUrl, outputFile);
+      const partSeason   = seasonNum || 1;
+      // Part file: {tmdbId}-{slug}.txt
+      const partPlaylist = buildPartFile(outputPath, partSeason, posterUrl, trackName, s.url, s.referer);
+      fs.writeFileSync(outputPath, JSON.stringify(partPlaylist, null, 4), "utf-8");
+      console.log(`\n📁 บันทึก part file: ${outputPath}`);
+
+      // Main file: {slug}.txt (no tmdbId prefix)
+      const mainFile    = slugFile;
+      const mainPath    = path.resolve(PLAYLIST_DIR, mainFile);
+      const partRawUrl  = `${GITHUB_RAW_BASE}${outputFile}`;
+      const mainPlaylist = upsertMainFile(mainPath, seriesTitle, posterUrl, seriesTitle, posterUrl, partRawUrl, partSeason);
+      fs.writeFileSync(mainPath, JSON.stringify(mainPlaylist, null, 4), "utf-8");
+      console.log(`📁 บันทึก main file: ${mainPath}`);
+
+      updateIndex(seriesTitle, posterUrl, mainFile);
+    } else {
+      const playlist = buildOrMergePlaylist(outputPath, seriesTitle, posterUrl, seasonPosterUrl, stations, trackName);
+      fs.writeFileSync(outputPath, JSON.stringify(playlist, null, 4), "utf-8");
+      console.log(`\n📁 บันทึกไฟล์: ${outputPath}`);
+      updateIndex(seriesTitle, posterUrl, outputFile);
+    }
 
     console.log("\n🎉 เสร็จสิ้น!");
-    console.log(`   ไฟล์: playlist/anime/series/${outputFile}`);
-    console.log(`   จำนวนตอน: ${stations.length}`);
+    console.log(`   ไฟล์: ${TYPE_CONFIG[contentType].base}${outputFile}`);
+    console.log(`   ${isMovie ? 'ประเภท: Movie' : `จำนวนตอน: ${stations.length}`}`);
   } catch (err) {
     console.error(`\n❌ Error: ${err.message}`);
     process.exit(1);

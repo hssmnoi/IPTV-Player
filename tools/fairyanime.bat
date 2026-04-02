@@ -27,6 +27,17 @@ echo ==========================================
 echo   Fetch Stream URLs
 echo ==========================================
 echo.
+echo  Type:
+echo    1 = anime-series (default)
+echo    2 = anime-movie
+echo    3 = movie
+echo    4 = series
+echo.
+set "TYPE_CHOICE=1"
+set /p TYPE_CHOICE=Select type [1]:
+if "%TYPE_CHOICE%"=="" set "TYPE_CHOICE=1"
+if "%TYPE_CHOICE%"=="1" (set "CTYPE=anime-series") else if "%TYPE_CHOICE%"=="2" (set "CTYPE=anime-movie") else if "%TYPE_CHOICE%"=="3" (set "CTYPE=movie") else if "%TYPE_CHOICE%"=="4" (set "CTYPE=series") else (set "CTYPE=anime-series")
+echo.
 set "URL="
 set /p URL=fairyanime first episode URL (e.g. https://fairyanime.net/watch/ID.html):
 if "%URL%"=="" goto FETCH
@@ -57,7 +68,7 @@ set "TMDB_ID="
 set /p TMDB_ID=TMDB ID (leave blank = auto):
 
 echo.
-set "CMD=node fetch-fairyanime.js %URL% --track=%TRACK% --season=%SEASON% --output=%OUTPUT%"
+set "CMD=node fetch-fairyanime.js %URL% --track=%TRACK% --season=%SEASON% --output=%OUTPUT% --type=%CTYPE%"
 if not "%TMDB_ID%"=="" set "CMD=%CMD% --tmdb-id=%TMDB_ID%"
 
 echo  ^ %CMD%

@@ -2,7 +2,7 @@
 const pathBeforeWeb = location.pathname.split("/web/")[0] || "";
 const SITE_BASE_PATH = pathBeforeWeb === "/" ? "" : pathBeforeWeb;
 const RAW_GITHUB_BASE = "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/";
-const IS_LOCAL_DEV = location.hostname === "127.0.0.1" || location.hostname === "localhost" || location.hostname === "192.168.1.187";
+const IS_LOCAL_DEV = location.hostname === "127.0.0.1" || location.hostname === "localhost" || location.hostname === "192.168.1.101";
 const PLAYLIST_URL = IS_LOCAL_DEV
   ? `${SITE_BASE_PATH}/playlist/main.txt`
   : `${RAW_GITHUB_BASE}playlist/main.txt`;
@@ -657,9 +657,15 @@ function renderGroups(groups, sectionTitle, parentNode) {
   currentGroups = groups;
   currentGroupTitle = sectionTitle;
   currentGroupParent = parentNode;
+  const extractNum = (name) => { const m = String(name || "").match(/\d+/); return m ? parseInt(m[0]) : null; };
+  const allNumeric = groups.every(g => extractNum(g?.name || g?.info) !== null);
   const sortedGroups = [...groups].sort((a, b) => {
     const nameA = String(a?.name || a?.info || "").toLowerCase();
     const nameB = String(b?.name || b?.info || "").toLowerCase();
+    if (allNumeric) {
+      const diff = extractNum(nameA) - extractNum(nameB);
+      return currentSortOrder === "za" ? -diff : diff;
+    }
     return currentSortOrder === "za" ? nameB.localeCompare(nameA) : nameA.localeCompare(nameB);
   });
 
@@ -704,6 +710,7 @@ function renderGroups(groups, sectionTitle, parentNode) {
       image: group.image,
       sub: group.author && group.author !== "Bank_" ? group.author : null,
       landscape: false,
+      badge: group.badge || null,
     });
 
     card.addEventListener("click", () => {
@@ -831,7 +838,7 @@ function renderStations(stations, referer, sectionTitle) {
 }
 
 /* ===== Make Card element ===== */
-function makeCard({ name, image, sub, landscape }) {
+function makeCard({ name, image, sub, landscape, badge }) {
   const card = document.createElement("div");
   card.className = "card";
   card.title = name || "";
@@ -858,12 +865,25 @@ function makeCard({ name, image, sub, landscape }) {
     thumb.textContent = landscape ? "▶" : "🎬";
   }
 
+  if (badge) {
+    const badgeEl = document.createElement("div");
+    badgeEl.className = "card-badge";
+    badgeEl.textContent = badge;
+    thumb.style.position = "relative";
+    const wrapper = document.createElement("div");
+    wrapper.className = "card-thumb-wrap";
+    wrapper.appendChild(thumb);
+    wrapper.appendChild(badgeEl);
+    card.appendChild(wrapper);
+  } else {
+    card.appendChild(thumb);
+  }
+
   const info = document.createElement("div");
   info.className = "card-info";
   const title = splitCardTitle(name);
   info.innerHTML = `<div class="card-name"><div class="card-name-main">${esc(title.main)}</div>${title.th ? `<div class="card-name-th">${esc(title.th)}</div>` : ""}</div>${sub ? `<div class="card-sub">${esc(sub)}</div>` : ""}`;
 
-  card.appendChild(thumb);
   card.appendChild(info);
   return card;
 }

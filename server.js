@@ -28,6 +28,7 @@ const MIME = {
 const ALLOWED_SCRIPTS = new Set([
   'fetch-fairyanime.js',
   'fetch-indy-anime.js',
+  'fetch-kurokamii.js',
 ]);
 
 const PLAYLIST_DIRS = {
@@ -58,7 +59,7 @@ const server = http.createServer(async (req, res) => {
   cors(res);
   if (req.method === 'OPTIONS') { res.writeHead(204); res.end(); return; }
 
-  const parsed   = url.parse(req.url, true);
+  const parsed   = new URL(req.url, `http://localhost:${PORT}`);
   const pathname = decodeURIComponent(parsed.pathname);
 
   // ── POST /api/run-fetch ────────────────────────────────────────
@@ -107,9 +108,48 @@ const server = http.createServer(async (req, res) => {
     return;
   }
 
+  // ── POST /api/save-file ───────────────────────────────────────
+  if (req.method === 'POST' && pathname === '/api/save-file') {
+    let body;
+    try {
+      body = JSON.parse(await readBody(req));
+    } catch {
+      res.writeHead(400, { 'Content-Type': 'text/plain' });
+      res.end('Bad JSON');
+      return;
+    }
+
+    const { filePath, data } = body;
+
+    // Only allow writes inside playlist/
+    if (typeof filePath !== 'string' || !/^playlist\//.test(filePath)) {
+      res.writeHead(403, { 'Content-Type': 'text/plain' });
+      res.end('Forbidden');
+      return;
+    }
+
+    const fullPath = path.join(ROOT, filePath);
+    if (!fullPath.startsWith(ROOT + path.sep)) {
+      res.writeHead(403, { 'Content-Type': 'text/plain' });
+      res.end('Forbidden');
+      return;
+    }
+
+    fs.writeFile(fullPath, JSON.stringify(data, null, 4), err => {
+      if (err) {
+        res.writeHead(500, { 'Content-Type': 'text/plain' });
+        res.end(err.message);
+        return;
+      }
+      res.writeHead(200, { 'Content-Type': 'application/json' });
+      res.end('{"ok":true}');
+    });
+    return;
+  }
+
   // ── GET /api/playlist-files?tab=... ───────────────────────────
   if (req.method === 'GET' && pathname === '/api/playlist-files') {
-    const tabKey = parsed.query.tab || '';
+    const tabKey = parsed.searchParams.get('tab') || '';
     const dir    = PLAYLIST_DIRS[tabKey];
     if (!dir) {
       res.writeHead(200, { 'Content-Type': 'application/json' });
