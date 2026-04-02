@@ -1,0 +1,90 @@
+{
+    "name": "Ameku M.D.: Doctor Detective [บันทึกประวัติคดีคุณหมออาเมคุ]",
+    "image": "https://image.tmdb.org/t/p/original/ukyIdEgqRKfovtFm9NzUfrIdm8y.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/LqPCdOvkBpGSJGh4x5KS7Z5jsW.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/LqPCdOvkBpGSJGh4x5KS7Z5jsW.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - เลือดสีน้ำเงินกับเขี้ยวมังกร",
+                            "image": "https://image.tmdb.org/t/p/original/izz9rUGaGpwE8qlaSw2ZxiRdf9k.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2F9QHkKDE0%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2F9QHkKDE0",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 2 - Blue Blood Cells and Dragon Fangs",
+                            "image": "https://image.tmdb.org/t/p/original/lAr0KiCM7LilGtRiTk2h7atTaW4.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FBCXuC8Cb%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FBCXuC8Cb",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 3 - Into the Spell of Shimmering Light",
+                            "image": "https://image.tmdb.org/t/p/original/q0cPaE88blKje9RDrDQ2U7LIHVP.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2Fbu4hJrZq%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2Fbu4hJrZq",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 4 - Spontaneous Human Combustion",
+                            "image": "https://image.tmdb.org/t/p/original/kuXpss63ahW1RRrNQipoFl657yQ.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2Fi0q78hVf%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2Fi0q78hVf",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 5 - Crimson Curse of the Sorcerer",
+                            "image": "https://image.tmdb.org/t/p/original/8wqaaydbS1TTAsKgj1952H1lIC5.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FKs6mS8YR%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FKs6mS8YR",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 6 - Fierce Blazing Finale",
+                            "image": "https://image.tmdb.org/t/p/original/8eBHP0VUZzRUN9l7VxYay7zxffC.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2F4WvebdIe%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2F4WvebdIe",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 7 - Prescribed Poison",
+                            "image": "https://image.tmdb.org/t/p/original/sbGmqY44gaIzV9B26rU9JDctZxm.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2F7W8PYIT0%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2F7W8PYIT0",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 8 - The Night When the Angels Danced (1)",
+                            "image": "https://image.tmdb.org/t/p/original/eFB9tArP4qHrV5O6hYxIxF84DN3.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2F0XNdbg9V%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2F0XNdbg9V",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 9 - The Night When the Angels Danced (2)",
+                            "image": "https://image.tmdb.org/t/p/original/ltyGT2cZlQn6BRiM2hMRcvH5i3D.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2Fs6jyERfI%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2Fs6jyERfI",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 10 - Drowning in a Dry Room (1)",
+                            "image": "https://image.tmdb.org/t/p/original/s73fUJOQ91wP9P5IOH5bZfz3l0m.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2Fd9bMTG4q%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2Fd9bMTG4q",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 11 - Drowning in a Dry Room (2)",
+                            "image": "https://image.tmdb.org/t/p/original/3b0Uy3bBW6vgiaFnZskPqJElQNL.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2F7JluEgcT%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2F7JluEgcT",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 12 - Drowning in a Dry Room (3)",
+                            "image": "https://image.tmdb.org/t/p/original/7ImJEKxyLGsboO5fiwp724VVJqc.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FuQ1juA2N%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FuQ1juA2N",
+                            "referer": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

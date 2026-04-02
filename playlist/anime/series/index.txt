@@ -44,6 +44,11 @@
       "image": "https://image.tmdb.org/t/p/original/og42meOPOiq37wUSfQV0lqb1U0Q.jpg"
     },
     {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/anime/series/250994-ameku-takao-no-suiri-karte.txt",
+      "name": "Ameku M.D.: Doctor Detective [บันทึกประวัติคดีคุณหมออาเมคุ]",
+      "image": "https://image.tmdb.org/t/p/original/ukyIdEgqRKfovtFm9NzUfrIdm8y.jpg"
+    },
+    {
       "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/anime/series/42942-angel-beats.txt",
       "name": "Angel Beats! [แองเจิลบีทส์! แผนพิชิตนางฟ้า]",
       "image": "https://image.tmdb.org/t/p/original/wz1PuXrg5ERQvyXKex3cGDie2hj.jpg"
@@ -62,6 +67,11 @@
       "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/anime/series/113256-shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita.txt",
       "name": "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside [ผมโดนกลุ่มผู้กล้าขับไสเลยต้องไปสโลว์ไลฟ์ที่ชายแดน]",
       "image": "https://image.tmdb.org/t/p/original/hk5qqvJLRBDaPYBc8lKkSYQrR1c.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/anime/series/225168-bartender.txt",
+      "name": "BARTENDER Glass of God [แก้วแห่งเทพเจ้า]",
+      "image": "https://image.tmdb.org/t/p/original/aefIsbDvm2kDkZGEllkYWoMONrl.jpg"
     },
     {
       "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/anime/series/213331-boushoku-no-berserk.txt",
@@ -437,6 +447,11 @@
       "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/anime/series/103254-hanyou-no-yashahime.txt",
       "name": "Yashahime: Princess Half-Demon [ยาฉะฮิเมะ เจ้าหญิงครึ่งอสูร]",
       "image": "https://image.tmdb.org/t/p/original/78l5gFTXyLp9KE4uSWJgSRb9RGj.jpg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/anime/series/242143-kimi-wa-meido-sama.txt",
+      "name": "You are Ms. Servant [เมดสาวนักฆ่า]",
+      "image": "https://image.tmdb.org/t/p/original/eyFOI6GkIN9JI1qaGLpEkrRlXdc.jpg"
     }
   ]
 }

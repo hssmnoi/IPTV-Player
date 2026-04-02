@@ -1,0 +1,84 @@
+{
+    "name": "BARTENDER Glass of God [แก้วแห่งเทพเจ้า]",
+    "image": "https://image.tmdb.org/t/p/original/aefIsbDvm2kDkZGEllkYWoMONrl.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/22nPbhKSzEu4KdiKwDpU1EXYAEy.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/22nPbhKSzEu4KdiKwDpU1EXYAEy.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - A Gentle Perch",
+                            "image": "https://image.tmdb.org/t/p/original/dzBjBDKgalScwUYpdHJ69HtLjQk.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FU6FUP3JG%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FU6FUP3JG",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 2 - Old Pal / One for the Road",
+                            "image": "https://image.tmdb.org/t/p/original/rkhTfeZ1Ekajtg4ewNUL5jJ1XQZ.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FQFr3sJ9D%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FQFr3sJ9D",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 3 - The Perfect Taste",
+                            "image": "https://image.tmdb.org/t/p/original/upmRxmcRV960xos6nBHYqYmbyQf.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FoOh3zSjV%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FoOh3zSjV",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 4 - A Bar's Secret Ingredient / The Face of a Martini",
+                            "image": "https://image.tmdb.org/t/p/original/dz4Ftx6ncI96Dunj9syKuSRrPZO.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FlAAgMZXT%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FlAAgMZXT",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 5 - The First Drop",
+                            "image": "https://image.tmdb.org/t/p/original/aOwAS6am3RChRyYZgrZWRAnlbJA.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FJAZpfqjg%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FJAZpfqjg",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 6 - The True Face",
+                            "image": "https://image.tmdb.org/t/p/original/fxApDVdwtYGN2FmwCPi4z59r8Hc.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2Fb5ZUMI5O%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2Fb5ZUMI5O",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 7 - A Bartender's Resolve",
+                            "image": "https://image.tmdb.org/t/p/original/7vlckoRND9zE2m66uJzfVVEz8vL.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2F4Ta56eCm%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2F4Ta56eCm",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 8 - A Challenge",
+                            "image": "https://image.tmdb.org/t/p/original/5SUlnBcGKFAgTXbn2conRHL2D7N.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FtAmhqX0G%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FtAmhqX0G",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 9 - North Wind",
+                            "image": "https://image.tmdb.org/t/p/original/hHDeVXvyhVuNHsTnQaQXWLGMe94.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FXpejQwRn%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FXpejQwRn",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 10 - A Thorn in the Heart",
+                            "image": "https://image.tmdb.org/t/p/original/A1lIKqQRHqirGiExYJvzgsQKsyK.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FsnCpBEdC%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FsnCpBEdC",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 11 - Bar Kaze / A Heartfelt Recipe",
+                            "image": "https://image.tmdb.org/t/p/original/hEQN6bxYIiu2Ly7PmnpntsxQqyD.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2Fnf87i40t%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2Fnf87i40t",
+                            "referer": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

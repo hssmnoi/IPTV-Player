@@ -1,0 +1,90 @@
+{
+    "name": "You are Ms. Servant [เมดสาวนักฆ่า]",
+    "image": "https://image.tmdb.org/t/p/original/eyFOI6GkIN9JI1qaGLpEkrRlXdc.jpg",
+    "groups": [
+        {
+            "name": "Season 1",
+            "image": "https://image.tmdb.org/t/p/original/dUItoYCvdK8MPeyasH84H936Jy3.jpg",
+            "groups": [
+                {
+                    "name": "พากย์ไทย",
+                    "image": "https://image.tmdb.org/t/p/original/dUItoYCvdK8MPeyasH84H936Jy3.jpg",
+                    "stations": [
+                        {
+                            "name": "ตอน 1 - My Fateful Encounter With You.",
+                            "image": "https://image.tmdb.org/t/p/original/1z1psT1QfRyTFnF01He8mB7PRJK.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FrOg3zsu2%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FrOg3zsu2",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 2 - You Want to Know.",
+                            "image": "https://image.tmdb.org/t/p/original/rbOxBDalSOU9jRYDAvb387K9UBw.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FLGFiaVEK%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FLGFiaVEK",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 3 - You Are Ms. Yuki.",
+                            "image": "https://image.tmdb.org/t/p/original/hTdGzmzLHCLEGDrpC8WJcDqi7xG.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FHaVukwF2%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FHaVukwF2",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 4 - You Won't Miss Out.",
+                            "image": "https://image.tmdb.org/t/p/original/4JovlqhzpQnmBw7OagqPNkXEYoH.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2Fl6Ftlbl8%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2Fl6Ftlbl8",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 5 - What You Want to Protect.",
+                            "image": "https://image.tmdb.org/t/p/original/7CBrjgt18eYDjzZU6APBhvnZ50G.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FP5WDe04n%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FP5WDe04n",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 6 - You're Lonelier Than I Thought.",
+                            "image": "https://image.tmdb.org/t/p/original/faSFL14lRbDzO03m3eJDXrPnHyQ.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FRSn3uera%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FRSn3uera",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 7 - You've Finally Figured It Out.",
+                            "image": "https://image.tmdb.org/t/p/original/aUfWVb2sFmZHDO60VDjnVqJdlDu.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2Fy0btU8tn%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2Fy0btU8tn",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 8 - The Autumn With You and the Sauce.",
+                            "image": "https://image.tmdb.org/t/p/original/tJpkcNj4WzOdQA8BaEqTkj8CMWN.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FLUi83uE3%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FLUi83uE3",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 9 - You and the Cultural Stage.",
+                            "image": "https://image.tmdb.org/t/p/original/mqgRdFguD9S7bM7ukwOxOdxNUMP.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2F7HoGITCQ%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2F7HoGITCQ",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 10 - You and the Forbidden Fruit.",
+                            "image": "https://image.tmdb.org/t/p/original/yMVIfVPHH21lwkDjJg4AszktKt.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FOPEdoYMh%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FOPEdoYMh",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 11 - Your Prayers Are Gods' Prayers.",
+                            "image": "https://image.tmdb.org/t/p/original/3WZoU2MP03ZflkTfFDU44oELlWk.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FwPZnjRCJ%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FwPZnjRCJ",
+                            "referer": ""
+                        },
+                        {
+                            "name": "ตอน 12 - The Joyous Tidings You All Bring.",
+                            "image": "https://image.tmdb.org/t/p/original/4NIpuEk4iyWrriWYQCfpsURkBPW.jpg",
+                            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FiSVElATT%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FiSVElATT",
+                            "referer": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
