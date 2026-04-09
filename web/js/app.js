@@ -1077,9 +1077,26 @@ function playEpisode(index, inheritedReferer) {
   resetProgress();
   hidePlayerNotice();
 
-  setupVideoSource(url, referer);
+  // ถ้ากำลัง AirPlay/Cast อยู่ ต้องข้าม HLS.js → ใช้ native source ต่อเนื่อง
+  // เพื่อไม่ให้ blob: URL (MSE) ไป kill cast session — ไม่งั้นจอทีวีจะกระพริบ
+  // แล้วภาพหาย (เพราะ cast receiver serialize blob ข้ามเครือข่ายไม่ได้)
+  setupVideoSource(url, referer, { forceNative: isCurrentlyCasting() });
 
   playerVideo.onended = () => scheduleNext();
+}
+
+/** true ถ้า video element กำลัง cast อยู่ (Safari AirPlay หรือ W3C Remote Playback) */
+function isCurrentlyCasting() {
+  // Safari / WebKit AirPlay
+  if ("webkitCurrentPlaybackTargetIsWireless" in playerVideo) {
+    if (playerVideo.webkitCurrentPlaybackTargetIsWireless) return true;
+  }
+  // Chrome / W3C Remote Playback API
+  if (playerVideo.remote && typeof playerVideo.remote.state === "string") {
+    const s = playerVideo.remote.state;
+    if (s === "connected" || s === "connecting") return true;
+  }
+  return false;
 }
 
 /**
@@ -1094,8 +1111,6 @@ function playEpisode(index, inheritedReferer) {
  *   autoplay     — true = เรียก play() หลัง source พร้อม (default true)
  */
 function setupVideoSource(url, referer, { forceNative = false, startTime = 0, autoplay = true } = {}) {
-  destroyHls();
-
   const isHlsUrl = /\.m3u8($|\?)/i.test(String(url || ""));
   const isDirectMediaUrl = /\.(mp4|webm|ogg|mov|m4v|avi|mp3|aac|wav)($|\?)/i.test(String(url || ""));
   const hasHlsRuntime = typeof Hls !== "undefined";
@@ -1112,6 +1127,8 @@ function setupVideoSource(url, referer, { forceNative = false, startTime = 0, au
   const shouldTryHls = !forceNative && hlsJsSupported && (isHlsUrl || !isDirectMediaUrl);
 
   if (shouldTryHls) {
+    // HLS.js path: ต้อง destroy instance เดิมก่อนสร้างใหม่ เพื่อไม่ให้ attach ซ้อน
+    destroyHls();
     let networkRetries = 0;
     let mediaRetries = 0;
     hls = new Hls({
@@ -1186,7 +1203,14 @@ function setupVideoSource(url, referer, { forceNative = false, startTime = 0, au
         console.warn("HLS.js is loaded but Media Source Extensions are not supported in this browser.");
       }
     }
+    // Native path: ตั้ง src ใหม่ก่อน แล้วค่อย destroy HLS.js
+    // เหตุผล: ถ้า destroy ก่อน hls.destroy() จะ clear blob URL → video.src ว่างชั่วคราว
+    // → ตัด AirPlay session (ทำให้จอทีวีกระพริบและหายไป). การตั้ง src ใหม่ก่อน
+    // ทำให้ video element transition จาก blob URL เก่าไป native URL ตรงๆ โดย
+    // cast receiver รับ source ใหม่ได้ต่อเนื่อง (hls.destroy() หลังจากนั้นจะไม่แตะ
+    // src เพราะเช็คว่า media.src !== internal mediaSrc แล้ว จึงข้ามไป)
     playerVideo.src = url;
+    destroyHls();
     const onReady = () => {
       if (startTime > 0) {
         try { playerVideo.currentTime = startTime; } catch (_) {}
