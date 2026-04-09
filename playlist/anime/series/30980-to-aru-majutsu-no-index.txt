@@ -9,151 +9,150 @@
                 {
                     "name": "พากย์ไทย",
                     "image": "https://image.tmdb.org/t/p/original/4TvhWtBEphk9sBJraEz8D4kJqhl.jpg",
-                    "referer": "https://fairyanime.net/watch/POukcmK86w.html",
                     "stations": [
                         {
                             "name": "ตอน 1 - เมืองแห่งการศึกษา",
+                            "image": "https://image.tmdb.org/t/p/original/o0wBri3WibVRP7g19RMQIK1rzP4.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FpvJdFGAZ%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FpvJdFGAZ",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/o0wBri3WibVRP7g19RMQIK1rzP4.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 2 - ล่าสังหารจอมราชันแม่มด อินโนเซนต์อุส",
+                            "image": "https://image.tmdb.org/t/p/original/nx0q8KYWbnzwuUd3tWdaZghX1K4.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FO97L22id%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FO97L22id",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/nx0q8KYWbnzwuUd3tWdaZghX1K4.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 3 - เนสเซสซาริอุส",
+                            "image": "https://image.tmdb.org/t/p/original/lUKK39Bu0jKowauz6e5jGtTvUyL.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FT1BOnR6j%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FT1BOnR6j",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/lUKK39Bu0jKowauz6e5jGtTvUyL.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 4 - ความทรงจำที่สมบูรณ์",
+                            "image": "https://image.tmdb.org/t/p/original/d1tAAUxID3OCNZxavHcKOWntm6e.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2F4YDjPYDa%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2F4YDjPYDa",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/d1tAAUxID3OCNZxavHcKOWntm6e.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 5 - เส้นตายตอนเที่ยงคืน",
+                            "image": "https://image.tmdb.org/t/p/original/eUtafduLCMt6J7GHmZtycCFcLO0.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FsFiPTTk4%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FsFiPTTk4",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/eUtafduLCMt6J7GHmZtycCFcLO0.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 6 - อิมเมจินเบรกเกอร์",
+                            "image": "https://image.tmdb.org/t/p/original/rTntgpZLWN27gUgwyLHCHz9A4Tu.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FWgsePInk%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FWgsePInk",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/rTntgpZLWN27gUgwyLHCHz9A4Tu.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 7 - รงเรียนกวดวิชา มิซาว่า",
+                            "image": "https://image.tmdb.org/t/p/original/6u6FMNTrfShaiUA3VaLFoPQZlJb.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FLx2ssrRj%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FLx2ssrRj",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/6u6FMNTrfShaiUA3VaLFoPQZlJb.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 8 - อาร์ส แมกนา ดินแดนแห่งทองคำ",
+                            "image": "https://image.tmdb.org/t/p/original/qnIjFO485ittRG9d0Mii9pEr8vB.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FACpnwOBv%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FACpnwOBv",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/qnIjFO485ittRG9d0Mii9pEr8vB.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 9 - นักฆ่าผีดูดเลือด",
+                            "image": "https://image.tmdb.org/t/p/original/jQS56lYn5YfbD7saGOVeCwqZ1H9.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FN6S1kyQs%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FN6S1kyQs",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/jQS56lYn5YfbD7saGOVeCwqZ1H9.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 10 - มิซากะ มิโคโตะ",
+                            "image": "https://image.tmdb.org/t/p/original/dMNucmnhzu6lqxrvDItJbC6f77X.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FqBl42vow%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FqBl42vow",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/dMNucmnhzu6lqxrvDItJbC6f77X.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 11 - ซิสเตอร์",
+                            "image": "https://image.tmdb.org/t/p/original/sMuHIEEyuaiVl9Pbb1RCsF4mSy.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FiNvLnzNz%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FiNvLnzNz",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/sMuHIEEyuaiVl9Pbb1RCsF4mSy.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 12 - เลเวล 6 ความสามารถที่แท้จริง",
+                            "image": "https://image.tmdb.org/t/p/original/6NXdRxn5EdDJRoLSzZXKc1xy4Vh.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FuXVTGjSH%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FuXVTGjSH",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/6NXdRxn5EdDJRoLSzZXKc1xy4Vh.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 13 - แอคเซราเลเตอร์",
+                            "image": "https://image.tmdb.org/t/p/original/6CYy8oLbbV7RUekz0OyypRzTFKD.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2F6E88FBgu%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2F6E88FBgu",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/6CYy8oLbbV7RUekz0OyypRzTFKD.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 14 - แข็งแกร่งที่สุด ปะทะ อ่อนแอที่สุด",
+                            "image": "https://image.tmdb.org/t/p/original/ysElcJRLrO2Mi2Qmz6oQMeed6ra.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FDNhsLBMm%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FDNhsLBMm",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/ysElcJRLrO2Mi2Qmz6oQMeed6ra.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 15 - แองเจิลฟอล เทพธิดาตกสวรรค์",
+                            "image": "https://image.tmdb.org/t/p/original/2rhD5HtQY5UoSNvmgUsTyipD4t8.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2F2eaMZ9LO%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2F2eaMZ9LO",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/2rhD5HtQY5UoSNvmgUsTyipD4t8.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 16 - คุณพ่อคามิโจ โทยะ",
+                            "image": "https://image.tmdb.org/t/p/original/czgbqOd83Z1KOIaZseAaPyiSMvQ.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2F14tlLTME%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2F14tlLTME",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/czgbqOd83Z1KOIaZseAaPyiSMvQ.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 17 - พลังแห่งเทพเจ้า อัครเทวทูต",
+                            "image": "https://image.tmdb.org/t/p/original/ckmPRnfPkZnl343bG0mJjlm68On.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FYLxUVhJx%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FYLxUVhJx",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/ckmPRnfPkZnl343bG0mJjlm68On.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 18 - ของเลียนแบบ ของปลอม",
+                            "image": "https://image.tmdb.org/t/p/original/dWcXv33dZTAjw3Po9aDPLPXPeEu.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2Fz1flXpD3%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2Fz1flXpD3",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/dWcXv33dZTAjw3Po9aDPLPXPeEu.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 19 - ลาสต์ออร์เดอร์ งานสุดท้าย",
+                            "image": "https://image.tmdb.org/t/p/original/vugEQs6Dse3zikBRNEsrpNR4dMu.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FWPb37ZO4%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FWPb37ZO4",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/vugEQs6Dse3zikBRNEsrpNR4dMu.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 20 - โค้ดไวรัส สัญญาณสุดท้าย",
+                            "image": "https://image.tmdb.org/t/p/original/wKtKHKPyr7pP9w3YPWbw9AvTIO4.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FRHbKeU8h%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FRHbKeU8h",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/wKtKHKPyr7pP9w3YPWbw9AvTIO4.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 21 - เคาน์เตอร์สต๊อป ความจริงที่ไม่ชัดเจน",
+                            "image": "https://image.tmdb.org/t/p/original/5QAddSMPYGJmPJ66irRYsBLD0ox.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2F7gIP52bQ%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2F7gIP52bQ",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/5QAddSMPYGJmPJ66irRYsBLD0ox.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 22 - โกเลม รูปปั้นหิน",
+                            "image": "https://image.tmdb.org/t/p/original/syWfkN1JsnbZ3xcooQLTq2FaNEG.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FFO17Q4DS%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FFO17Q4DS",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/syWfkN1JsnbZ3xcooQLTq2FaNEG.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 23 - เพื่อน คาซาคิริ เฮียวกะ",
+                            "image": "https://image.tmdb.org/t/p/original/m7V4Fa3N3FsjWuwovARn1E2OYHN.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FgJgdw7sT%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FgJgdw7sT",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/m7V4Fa3N3FsjWuwovARn1E2OYHN.jpg"
+                            "referer": ""
                         },
                         {
                             "name": "ตอน 24 - เขตการศึกษาจินตภาพ สถาบันวิจัยธาตุทั้งห้า",
+                            "image": "https://image.tmdb.org/t/p/original/t2jjrKq8P4HBPxBjoY1l8Cs2ckh.jpg",
                             "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FSl5u2ff2%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FSl5u2ff2",
-                            "referer": "",
-                            "image": "https://image.tmdb.org/t/p/original/t2jjrKq8P4HBPxBjoY1l8Cs2ckh.jpg"
+                            "referer": ""
                         }
                     ]
                 },

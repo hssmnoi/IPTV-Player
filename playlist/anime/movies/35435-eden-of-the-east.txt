@@ -5,7 +5,8 @@
         {
             "name": "พากย์ไทย",
             "image": "https://image.tmdb.org/t/p/original/sxCScvnhm0BmEWmye4Z81wopfBo.jpg",
-            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FAB6TdZuN%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FAB6TdZuN"
+            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Ffiles.akuma-player.xyz%2Fview%2F9f54ee6a-f5cb-500f-ac3e-2c588550e07f&referer=https%3A%2F%2Fakuma-player.xyz%2F",
+            "referer": "https://kurokamii.com/anime/394"
         }
     ]
 }

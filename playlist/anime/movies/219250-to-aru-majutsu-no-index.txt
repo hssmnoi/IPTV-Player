@@ -5,14 +5,8 @@
         {
             "name": "พากย์ไทย",
             "image": "https://image.tmdb.org/t/p/original/vYfuVYLjVCgf09QdJIognRmGH6Z.jpg",
-            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2F8fGOj1QB%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2F8fGOj1QB",
-            "referer": "https://fairyanime.net/watch/353or67kAu.html"
-        },
-        {
-            "name": "ซับไทย",
-            "image": "https://image.tmdb.org/t/p/original/vYfuVYLjVCgf09QdJIognRmGH6Z.jpg",
-            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2FAy3G8zSi%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2FAy3G8zSi",
-            "referer": "https://fairyanime.net/watch/T1Zq7ywEvu.html"
+            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Ffiles.akuma-player.xyz%2Fview%2F81b3f54e-c364-5eac-91e0-c8d73e82a2fc&referer=https%3A%2F%2Fakuma-player.xyz%2F",
+            "referer": "https://kurokamii.com/anime/424"
         }
     ]
 }

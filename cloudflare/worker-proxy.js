@@ -25,7 +25,6 @@ export default {
       return new Response("Missing ?url=", { status: 400 });
     }
 
-    // CORS preflight
     if (request.method === "OPTIONS") {
       return new Response(null, {
         headers: {
@@ -44,21 +43,23 @@ export default {
       try { headers["Origin"] = new URL(referer).origin; } catch (_) {}
     }
 
-    let resp = await fetch(targetUrl, { headers, redirect: "follow" });
+    const resp = await fetch(targetUrl, { headers, redirect: "follow" });
     const contentType = resp.headers.get("content-type") || "";
-    const isHls = contentType.includes("mpegurl")
-               || contentType.includes("text/plain")
-               || /\.(m3u8|txt)($|\?)/.test(targetUrl)
-               || /file2|quality2/.test(targetUrl);
+
+    const buffer = await resp.arrayBuffer();
+    const bytes  = new Uint8Array(buffer);
+
+    const peek  = new TextDecoder().decode(bytes.slice(0, 16)).trimStart();
+    const isHls = peek.startsWith("#EXTM3U") || peek.startsWith("#EXT-X-");
 
     const workerOrigin = new URL(request.url).origin;
 
     if (isHls) {
-      let body = await resp.text();
+      let body = new TextDecoder("utf-8").decode(buffer);
       const targetParsed = new URL(targetUrl);
-      const baseOrigin   = targetParsed.origin; // e.g. https://files.akuma-player.xyz
+      const baseOrigin   = targetParsed.origin;
+      const baseDir      = targetUrl.substring(0, targetUrl.lastIndexOf("/") + 1);
 
-      // rewrite line-by-line (รองรับ absolute / protocol-relative / relative path)
       body = body.split("\n").map(line => {
         const t = line.trim();
         if (!t || t.startsWith("#")) return line;
@@ -67,7 +68,7 @@ export default {
         if (/^https?:\/\//.test(t))  abs = t;
         else if (t.startsWith("//")) abs = "https:" + t;
         else if (t.startsWith("/"))  abs = baseOrigin + t;
-        else return line;
+        else                         abs = baseDir + t;
 
         const enc = encodeURIComponent(abs);
         const ref = encodeURIComponent(referer);
@@ -83,14 +84,14 @@ export default {
       });
     }
 
-    // binary pass-through (TS segments)
-    return new Response(resp.body, {
+    return new Response(buffer, {
       status: resp.status,
       headers: {
-        "Content-Type": contentType,
+        "Content-Type": contentType || "application/octet-stream",
         "Access-Control-Allow-Origin": "*",
         "Cache-Control": "no-cache",
       },
     });
   },
 };
+

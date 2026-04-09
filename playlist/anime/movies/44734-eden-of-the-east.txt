@@ -1,11 +1,12 @@
 {
-    "name": "ภาค 1",
+    "name": "ภาค 2",
     "image": "https://image.tmdb.org/t/p/original/aH7cEbHQTsosx6H5bgpueQHOB8I.jpg",
     "stations": [
         {
             "name": "พากย์ไทย",
             "image": "https://image.tmdb.org/t/p/original/aH7cEbHQTsosx6H5bgpueQHOB8I.jpg",
-            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Fanime.tonytonychopper.net%2Ffile2%2Fp56R0tBD%2F&referer=https%3A%2F%2Fanime.tonytonychopper.net%2Fv2%2Fp56R0tBD"
+            "url": "https://shy-haze-2452.natajrak-p.workers.dev/?url=https%3A%2F%2Ffiles.akuma-player.xyz%2Fview%2F55d88a00-1b97-507a-a5bb-ca71c2ced5dc&referer=https%3A%2F%2Fakuma-player.xyz%2F",
+            "referer": "https://kurokamii.com/anime/395"
         }
     ]
 }

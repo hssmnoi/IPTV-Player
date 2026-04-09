@@ -26,19 +26,18 @@
  *   # อัปเดต metadata
  *   node fetch-fairyanime.js --update-meta --output=FILENAME.txt
  *
- * ─── Stream Extraction Chain (updated 2026-04) ───────────────────────────
- *   1. GET fairyanime.net/watch/{PAGE_ID}.html → extract PAGE_ID,
+ * ─── Stream Extraction Chain ─────────────────────────────────────────────
+ *   1. GET fairyanime.net/watch/{PAGE_ID}.html → extract VIDEO_ID (= PAGE_ID),
  *      episode title from <title>, "next" link (ตอนถัดไป)
- *   2. GET fairyanime.net/base/{PAGE_ID}/ with Referer: fairyanime.net/
- *      → JS containing playback/v/{PLAYBACK_ID}/ (= same ID as playback/f/)
- *   3. GET streaming.tonytonychopper.com/assets/js/base.js?v={PLAYBACK_ID}&w=2
- *      → JS containing mp4 URLs (cdend.com / googles.video)
- *   4. HEAD-check each mp4 URL (also try cdend.com swap) → first 200/206 wins
- *   5. Stream URL = https://cdend.com/{base64}/{fileId}.mp4
- *      Referer = https://streaming.tonytonychopper.com/
- *
- *   NOTE: Old chain used anime.tonytonychopper.net/file2/{INNER_ID}/ (m3u8)
- *         That endpoint now returns empty — replaced by mp4 via base.js above.
+ *   2. GET fairyanime.net/base/{VIDEO_ID}/ with Referer: fairyanime.net/
+ *      → JS containing playback/v/{PLAYBACK_ID}/
+ *   3. GET streaming.tonytonychopper.com/playback/v/{PLAYBACK_ID}/
+ *      with Referer: fairyanime.net/watch/{PAGE_ID}.html
+ *      → HTML with <iframe src="https://anime.tonytonychopper.net/v2/{INNER_ID}"
+ *   4. Stream URL = https://anime.tonytonychopper.net/file2/{INNER_ID}/  (m3u8)
+ *      Referer   = https://anime.tonytonychopper.net/v2/{INNER_ID}
+ *      (v2 page โหลด stream ด้วย JS จึงไม่ fetch HTML — ประกอบ URL จาก INNER_ID โดยตรง)
+ *   5. Wrap ผ่าน CF Worker proxy (HLS_PROXY_URL) เพื่อ bypass CORS
  */
 
 const cheerio = require("cheerio");
@@ -194,47 +193,26 @@ async function fetchEpisodePage(url) {
 async function fetchPlaybackId(pageId) {
   const url = `${FAIRY_BASE}/base/${pageId}/`;
   const js = await fetchText(url, { Referer: FAIRY_BASE + "/" });
-  // Try playback/f/ first (primary player), fall back to playback/v/
+  // Match playback/f/ (primary) or playback/v/ (secondary) — same ID
   const m = js.match(/playback\/[fv]\/([A-Za-z0-9_-]+)/);
   if (!m) throw new Error(`ไม่พบ PLAYBACK_ID จาก base endpoint (pageId=${pageId})`);
   return m[1];
 }
 
-// Step 3: fetch base.js → mp4 URLs (new method, replaces file2/ chain)
-async function fetchMp4Url(playbackId, pageId) {
-  const baseJsUrl = `https://streaming.tonytonychopper.com/assets/js/base.js?v=${playbackId}&w=2`;
+// Step 3: fetch streaming page → INNER_ID
+async function fetchInnerId(playbackId, pageId) {
+  const url = `https://streaming.tonytonychopper.com/playback/v/${playbackId}/`;
   const referer = `${FAIRY_BASE}/watch/${pageId}.html`;
-  const js = await fetchText(baseJsUrl, { Referer: referer });
-
-  const mp4Urls = [...new Set((js.match(/https?:\/\/\S+?\.mp4/g) || []))];
-  if (!mp4Urls.length) throw new Error(`ไม่พบ mp4 URLs จาก base.js (playbackId=${playbackId})`);
-
-  // Try each URL; also try swapping domain to cdend.com (JWPlayer fallback behavior)
-  const FALLBACK_CDN = "https://cdend.com";
-  const candidates = [];
-  for (const u of mp4Urls) {
-    candidates.push(u);
-    if (!u.startsWith(FALLBACK_CDN)) {
-      // e.g. https://googles.video/BASE64/file.mp4 → https://cdend.com/BASE64/file.mp4
-      const swapped = u.replace(/^https?:\/\/[^/]+/, FALLBACK_CDN);
-      candidates.push(swapped);
-    }
-  }
-
-  for (const url of candidates) {
-    try {
-      const res = await fetch(url, { method: "HEAD", headers: HEADERS, signal: AbortSignal.timeout(5000) });
-      if (res.ok || res.status === 206) {
-        console.log(`    ✅ stream URL: ${url}`);
-        return { streamUrl: url, streamReferer: "https://streaming.tonytonychopper.com/" };
-      }
-    } catch (_) {}
-  }
-
-  // Fallback: return first URL even if HEAD failed (player will try at runtime)
-  console.warn(`    ⚠️  ไม่มี URL ที่ผ่าน HEAD check, ใช้ตัวแรก: ${candidates[0]}`);
-  return { streamUrl: candidates[0], streamReferer: "https://streaming.tonytonychopper.com/" };
+  const html = await fetchText(url, { Referer: referer });
+  const m = html.match(/anime\.tonytonychopper\.net\/v2\/([A-Za-z0-9_-]+)/);
+  if (!m) throw new Error(`ไม่พบ INNER_ID จาก streaming page (playbackId=${playbackId})`);
+  return m[1];
 }
+
+// Step 4: ประกอบ stream URL ตรงๆ
+// stream URL = anime.tonytonychopper.net/file2/{INNER_ID}/  (m3u8, ต้องผ่าน CF proxy)
+// referer   = anime.tonytonychopper.net/v2/{INNER_ID}
+// (v2 page โหลด stream ด้วย JS จึงไม่ parse HTML — ใช้ pattern ที่รู้อยู่แล้ว)
 
 // Full chain: episode page URL → { streamUrl, referer }
 async function getStreamInfo(epUrl) {
@@ -242,7 +220,12 @@ async function getStreamInfo(epUrl) {
   if (!pageId) throw new Error(`ไม่สามารถ extract PAGE_ID จาก ${epUrl}`);
 
   const playbackId = await fetchPlaybackId(pageId);
-  return await fetchMp4Url(playbackId, pageId);
+  const innerId = await fetchInnerId(playbackId, pageId);
+
+  return {
+    streamUrl: `https://anime.tonytonychopper.net/file2/${innerId}/`,
+    streamReferer: `https://anime.tonytonychopper.net/v2/${innerId}`,
+  };
 }
 
 // ───── Crawl all episodes ─────
@@ -398,8 +381,8 @@ async function getTmdbMovieNameTh(movieId, apiKey) {
 }
 
 // ───── Build / merge playlist JSON ─────
-function buildOrMergePlaylist(outputPath, seriesTitle, posterUrl, seasonPosterUrl, stations, trackName, trackReferer = null) {
-  const newTrack = { name: trackName, image: seasonPosterUrl, ...(trackReferer && { referer: trackReferer }), stations };
+function buildOrMergePlaylist(outputPath, seriesTitle, posterUrl, seasonPosterUrl, stations, trackName) {
+  const newTrack = { name: trackName, image: seasonPosterUrl, stations };
 
   if (fs.existsSync(outputPath)) {
     let existing;
@@ -452,13 +435,13 @@ function buildOrMergePlaylist(outputPath, seriesTitle, posterUrl, seasonPosterUr
 }
 
 // ── Build / update part file ({tmdbId}-{slug}.txt) ──────────────
-function buildPartFile(outputPath, season, posterUrl, trackName, streamUrl, streamReferer, sourceUrl = null) {
+function buildPartFile(outputPath, season, posterUrl, trackName, streamUrl, streamReferer) {
   const partName   = `ภาค ${season}`;
   const newStation = {
     name:  trackName,
     image: posterUrl,
     url:   streamUrl,
-    ...(sourceUrl    && { referer: sourceUrl }),
+    ...(streamReferer && { referer: streamReferer }),
   };
 
   let playlist;
@@ -866,7 +849,7 @@ async function main() {
 
       const partSeason   = seasonNum || 1;
       // Part file: {tmdbId}-{slug}.txt
-      const partPlaylist = buildPartFile(outputPath, partSeason, posterUrl, trackName, s.url, s.referer, firstEpUrl);
+      const partPlaylist = buildPartFile(outputPath, partSeason, posterUrl, trackName, s.url, s.referer);
       fs.writeFileSync(outputPath, JSON.stringify(partPlaylist, null, 4), "utf-8");
       console.log(`\n📁 บันทึก part file: ${outputPath}`);
 
@@ -880,7 +863,7 @@ async function main() {
 
       updateIndex(seriesTitle, posterUrl, mainFile);
     } else {
-      const playlist = buildOrMergePlaylist(outputPath, seriesTitle, posterUrl, seasonPosterUrl, stations, trackName, firstEpUrl);
+      const playlist = buildOrMergePlaylist(outputPath, seriesTitle, posterUrl, seasonPosterUrl, stations, trackName);
       fs.writeFileSync(outputPath, JSON.stringify(playlist, null, 4), "utf-8");
       console.log(`\n📁 บันทึกไฟล์: ${outputPath}`);
       updateIndex(seriesTitle, posterUrl, outputFile);

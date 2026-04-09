@@ -1081,11 +1081,16 @@ function playEpisode(index, inheritedReferer) {
   const isHlsUrl = /\.m3u8($|\?)/i.test(String(url || ""));
   const isDirectMediaUrl = /\.(mp4|webm|ogg|mov|m4v|avi|mp3|aac|wav)($|\?)/i.test(String(url || ""));
   const hasHlsRuntime = typeof Hls !== "undefined";
-  // Safari รองรับ HLS native → ใช้ video.src โดยตรง (เพื่อให้ AirPlay ทำงาน)
-  // Chrome/Firefox ไม่รองรับ HLS native → ใช้ HLS.js
-  const canPlayHlsNatively = playerVideo.canPlayType("application/vnd.apple.mpegurl") !== ""
-                           || playerVideo.canPlayType("audio/mpegurl") !== "";
-  const shouldTryHls = hasHlsRuntime && Hls.isSupported() && !canPlayHlsNatively && (isHlsUrl || !isDirectMediaUrl);
+  let hlsJsSupported = false;
+  if (hasHlsRuntime) {
+    try { hlsJsSupported = Hls.isSupported(); } catch (_) { hlsJsSupported = false; }
+  }
+  // ใช้ Hls.isSupported() เป็น gate หลักแทน canPlayType
+  // เหตุผล: Chrome 146+ บน desktop เริ่ม return "maybe" สำหรับ application/vnd.apple.mpegurl
+  // ทั้งที่จริงๆ เล่น HLS native ไม่ได้ → canPlayType ไม่น่าเชื่อถืออีกต่อไป
+  // HLS.js ทำงานได้ดีในทุก browser ที่มี MSE (Chrome, Firefox, Edge, Safari desktop)
+  // จะ fallback ไป native ก็ต่อเมื่อ HLS.js จริงๆ ไม่ทำงาน (เช่น iOS Safari ที่ไม่มี MSE)
+  const shouldTryHls = hlsJsSupported && (isHlsUrl || !isDirectMediaUrl);
 
   if (shouldTryHls) {
     let networkRetries = 0;
@@ -1102,34 +1107,51 @@ function playEpisode(index, inheritedReferer) {
     hls.loadSource(url);
     hls.attachMedia(playerVideo);
     hls.on(Hls.Events.MANIFEST_PARSED, () => playerVideo.play().catch(err => {
-      if (err.name !== "AbortError") console.error(err);
+      if (err.name !== "AbortError") console.error("[player] play() rejected:", err);
       if (err.name === "NotSupportedError") {
-        showPlayerNotice("เล่นวิดีโอไม่ได้: รูปแบบสตรีมไม่รองรับ (NotSupportedError)");
+        showPlayerNotice("เล่นวิดีโอไม่ได้: codec ของสตรีมไม่รองรับ (play/NotSupportedError)");
       }
     }));
     hls.on(Hls.Events.ERROR, (_event, data) => {
+      // Log every error, fatal or not, for diagnostics
+      console.warn("[HLS error]", {
+        fatal: data?.fatal,
+        type: data?.type,
+        details: data?.details,
+        reason: data?.reason,
+        url: data?.url || data?.frag?.url || data?.context?.url,
+        responseCode: data?.response?.code,
+        responseText: data?.response?.text,
+        err: data?.err?.message || data?.err,
+      });
       if (!data?.fatal) return;
+
+      const details = String(data?.details || "");
+      const statusCode = Number(data?.response?.code || 0);
+      const errLine = statusCode ? `HTTP ${statusCode}` : (data?.err?.message || data?.reason || "network/codec");
+
       if (data.type === Hls.ErrorTypes.NETWORK_ERROR) {
-        if (networkRetries < 1) {
+        if (networkRetries < 1 && details !== "manifestLoadError") {
           networkRetries += 1;
           hls.startLoad();
           return;
         }
-        const statusCode = Number(data?.response?.code || 0);
-        if (statusCode >= 400) showPlayerNotice(`โหลดวิดีโอไม่สำเร็จ (HTTP ${statusCode})`);
+        destroyHls();
+        showPlayerNotice(`โหลดสตรีมไม่สำเร็จ: ${details} (${errLine})`, 10000);
+        return;
       }
-      if (data.type === Hls.ErrorTypes.MEDIA_ERROR && mediaRetries < 1) {
-        mediaRetries += 1;
-        hls.recoverMediaError();
+      if (data.type === Hls.ErrorTypes.MEDIA_ERROR) {
+        if (mediaRetries < 1) {
+          mediaRetries += 1;
+          try { hls.recoverMediaError(); } catch (_) {}
+          return;
+        }
+        destroyHls();
+        showPlayerNotice(`เล่นสตรีมไม่สำเร็จ (Media): ${details}`, 10000);
         return;
       }
       destroyHls();
-      playerVideo.src = url;
-      playerVideo.play().catch((err) => {
-        if (err?.name === "NotSupportedError") {
-          showPlayerNotice("เล่นวิดีโอไม่ได้: รูปแบบสตรีมไม่รองรับ (NotSupportedError)");
-        }
-      });
+      showPlayerNotice(`เล่นสตรีมไม่สำเร็จ: ${data?.type || "UNKNOWN"} / ${details}`, 10000);
     });
   } else {
     if (isHlsUrl && !hasHlsRuntime) {
@@ -1212,7 +1234,7 @@ function handlePlayerKeyboardShortcuts(e) {
 
 /* ===== Player Controls ===== */
 function togglePlayPause() {
-  if (playerVideo.paused) playerVideo.play();
+  if (playerVideo.paused) playerVideo.play().catch(() => {});
   else playerVideo.pause();
 }
 
