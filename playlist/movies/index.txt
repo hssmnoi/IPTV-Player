@@ -1,5 +1,5 @@
 {
   "name": "Movies",
-  "url": "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/playlist/movies/index.txt",
+  "url": "https://raw.githubusercontent.com/hssmnoi/IPTV-Player/main/playlist/movies/index.txt",
   "groups": []
 }
