@@ -1,7 +1,7 @@
 ﻿/* ===== Config ===== */
 const pathBeforeWeb = location.pathname.split("/web/")[0] || "";
 const SITE_BASE_PATH = pathBeforeWeb === "/" ? "" : pathBeforeWeb;
-const RAW_GITHUB_BASE = "https://raw.githubusercontent.com/natajrak/IPTV-Player/refs/heads/main/";
+const RAW_GITHUB_BASE = "https://raw.githubusercontent.com/hssmnoi/IPTV-Player/main/";
 const IS_LOCAL_DEV = location.hostname === "127.0.0.1" || location.hostname === "localhost" || location.hostname === "192.168.1.101";
 const PLAYLIST_URL = IS_LOCAL_DEV
   ? `${SITE_BASE_PATH}/playlist/main.txt`
