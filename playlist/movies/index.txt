@@ -1,5 +1,17 @@
 {
   "name": "Movies",
   "url": "https://raw.githubusercontent.com/hssmnoi/IPTV-Player/main/playlist/movies/index.txt",
-  "groups": []
+  "groups": [
+    {
+      "name": "The Series",
+      "image": "https://raw.githubusercontent.com/hssmnoi/IPTV-Player/main/web/images/covers/cover-anime-series.png",
+      "imageScale": "centerCrop",
+      "url": "https://raw.githubusercontent.com/hssmnoi/IPTV-Player/main/playlist/anime/series/index.txt"
+    },
+    {
+      "name": "The Movies",
+      "image": "https://raw.githubusercontent.com/hssmnoi/IPTV-Player/main/web/images/covers/cover-anime-movie.png",
+      "url": "https://raw.githubusercontent.com/hssmnoi/IPTV-Player/main/playlist/anime/movies/index.txt"
+    }
+  ]
 }
